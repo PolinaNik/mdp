@@ -5,10 +5,9 @@ import transliterate
 import datetime
 import modules
 import xlwt
-import copy
 
 # Opening existing XML file with points
-with open('Points.xml', 'r') as file:
+with open('Points.xml', 'r', encoding='utf-8') as file:
     data = file.read()
 
 # Start parsing of XML file
@@ -20,24 +19,56 @@ names = []
 for mappoint in root.findall('MapPoint'):
     version = mappoint.get('Version')
     code = mappoint.find('Code').text
-    code_lat = mappoint.find('CodeLat').text
-    name = mappoint.find('Name').text
-    nameLat = mappoint.find('NameLat').text
-    magnetic = mappoint.find('MagneticDeclination').text
+    try:
+        code_lat = mappoint.find('CodeLat').text
+    except:
+        code_lat = None
+    try:
+        name = mappoint.find('Name').text
+    except:
+        name = None
+    try:
+        nameLat = mappoint.find('NameLat').text
+    except:
+        nameLat = None
+    try:
+        magnetic = mappoint.find('MagneticDeclination').text
+    except:
+        magnetic = None
     type = mappoint.find('Type').text
     lat = mappoint.find('Latitude').text
     lon = mappoint.find('Longitude').text
-    airport_type = mappoint.find('AirportType').text
-    AirportUsageType = mappoint.find('AirportUsageType').text
-    AirportOwnerType = mappoint.find('AirportOwnerType').text
-    class_ = mappoint.find('Class').text
-    CallLetter = mappoint.find("CallLetter").text
+    try:
+        airport_type = mappoint.find('AirportType').text
+    except:
+        airport_type = None
+    try:
+        AirportUsageType = mappoint.find('AirportUsageType').text
+    except:
+        AirportUsageType = None
+    try:
+        AirportOwnerType = mappoint.find('AirportOwnerType').text
+    except:
+        AirportOwnerType = None
+    try:
+        class_ = mappoint.find('Class').text
+    except:
+        class_ = None
+    try:
+        CallLetter = mappoint.find("CallLetter").text
+    except:
+        CallLetter = None
+    try:
+        Id = mappoint.find("Id").text
+    except:
+        Id = None
+    ObjectId = mappoint.find("ObjectId").text
     lst = [version, code, code_lat, name, nameLat, magnetic, type, lat, lon, airport_type, AirportUsageType,
-           AirportOwnerType, class_, CallLetter]
+           AirportOwnerType, class_, CallLetter, Id, ObjectId]
     names.append(lst)
 
 # Opening ARINC file
-text = open('/home/polina/PycharmProjects/MULTI_ARINC/ARINC and dump/GKOVD_DV2108Bv15.txt', 'r',
+text = open('C:/Users/Полина/Desktop/MULTI_ARINC/Файлы для парсинга/GKOVD_DV2108Bv15.txt', 'r',
             encoding='utf-8').readlines()
 
 # finding all points
@@ -71,7 +102,7 @@ filtred_inside_points = [item for item in inside_points if item[0] in names_tras
 rad_points = list(modules.radians(filtred_inside_points))
 
 # transform coordinates for xls file
-xls_point = list(modules.gradus(filtred_inside_points))
+# xls_point = list(modules.gradus(filtred_inside_points))
 
 # getting names of mdp_points from XML file
 mdp_points = [item[1] for item in names]
@@ -95,44 +126,42 @@ for x in common_points_arinc:
             y[7] = x[1]
             y[8] = x[2]
 
-
-common_points_params_sorted =  sorted(common_points_params, key=lambda x: transliterate.translit(x[1], 'ru'))
-
+common_points_params_sorted = sorted(common_points_params, key=lambda x: transliterate.translit(x[1], 'ru'))
 
 # New points from arinc file included in routes
 new_arinc_points = [item for item in rad_points if
                     transliterate.translit(item[0], 'ru') not in common_points and len(item[0]) == 5]
 
 # New points from arinc for XLS file
-xls_new_arinc_points = [item for item in xls_point if
-                    transliterate.translit(item[0], 'ru') not in common_points and len(item[0]) == 5]
+# xls_new_arinc_points = [item for item in xls_point if
+#                    transliterate.translit(item[0], 'ru') not in common_points and len(item[0]) == 5]
 
-xls_arinc_transformed = [modules.insert_arinc(item) for item in xls_new_arinc_points]
+# xls_arinc_transformed = [modules.insert_arinc(item) for item in xls_new_arinc_points]
 
 # Airdromes, GeoPoints, Landing and other types we should save
 other_points = [item for item in names if item[1] not in common_points and item[6] != "POD"
                 and item[6] != "PDZ"]
 
-
 first = [('Type', 'Code', 'CodeLat', 'Name', 'NameLat', 'Coord', 'MagDecl'
           , 'Elevation', 'H', 'Habs', 'Comment')]
 
-
 final_old = common_points_params + other_points
-xls_old_transformed = [modules.insert_old(item) for item in final_old]
 
-xls_all = first+ xls_arinc_transformed + xls_old_transformed
+
+# xls_old_transformed = [modules.insert_old(item) for item in final_old]
+#
+# xls_all = first+ xls_arinc_transformed + xls_old_transformed
 
 # filling excel table
-
-filename = xlwt.Workbook()
-sheet = filename.add_sheet('New_points')
-
-for i, l in enumerate(xls_all):
-    for j, col in enumerate(l):
-        sheet.write(i, j, col)
-
-filename.save('new_points.xls')
+#
+# filename = xlwt.Workbook()
+# sheet = filename.add_sheet('New_points')
+#
+# for i, l in enumerate(xls_all):
+#     for j, col in enumerate(l):
+#         sheet.write(i, j, col)
+#
+# filename.save('new_points.xls')
 
 class FillXML:
 
@@ -214,11 +243,10 @@ class FillXML:
         return self.data_list
 
 
-#  lst = [version, code, code_lat, name, nameLat, magnetic, type, lat, lon, airport_type, AirportUsageType,
-#            AirportOwnerType, class_, CallLetter]
 class FamiliarNames:
 
     def __init__(self, lst, num):
+        self.lst = lst
         version = lst[0]
         code = lst[1]
         code_lat = transliterate.translit(lst[1], 'ru', reversed=True) if lst[2] is None else lst[2]
@@ -233,6 +261,8 @@ class FamiliarNames:
         AirportOwnerType = "NotDefined" if lst[11] is None else lst[11]
         class_ = "Unknown" if lst[12] is None else lst[12]
         CallLetter = "" if lst[13] is None else lst[13]
+        self.data0 = '<?xml version="1.0" encoding="utf-16"?>\n'
+        self.data1 = '<ArrayOfMapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">\n'
         self.data2 = '\t<MapPoint Version="%s" IsDeleted="false">\n' % version
         self.data3 = '\t\t<ObjectId>%s</ObjectId>\n' % num
         self.data4 = '\t\t<Id>%s</Id>\n' % num
@@ -290,6 +320,22 @@ class FamiliarNames:
         self.data56 = '\t\t<Runways />\n'
         self.data57 = '\t</MapPoint>\n'
 
+    def change_ID(self):
+        self.id = self.lst[14]
+        self.ObjectId = self.lst[15]
+        self.data3 = '\t\t<ObjectId>%s</ObjectId>\n' % self.ObjectId
+        self.data4 = '\t\t<Id>%s</Id>\n' % self.id
+        self.data_list = [self.data0, self.data1, self.data2, self.data3, self.data4, self.data5, self.data6,
+                          self.data7, self.data8, self.data9, self.data10, self.data11, self.data12, self.data13,
+                          self.data14, self.data15, self.data16, self.data17, self.data18, self.data19, self.data20,
+                          self.data21, self.data22, self.data23, self.data24, self.data25, self.data26, self.data27,
+                          self.data28, self.data29, self.data30, self.data31, self.data32, self.data33, self.data34,
+                          self.data35, self.data36, self.data37, self.data38, self.data39, self.data40, self.data41,
+                          self.data41, self.data42, self.data43, self.data44, self.data45, self.data46, self.data47,
+                          self.data48, self.data49, self.data50, self.data51, self.data52, self.data53, self.data54,
+                          self.data55, self.data56, self.data57]
+        return self.data_list
+
     def make_list(self):
         self.data_list = [self.data2, self.data3, self.data4, self.data5, self.data6,
                           self.data7, self.data8, self.data9, self.data10, self.data11, self.data12, self.data13,
@@ -302,6 +348,7 @@ class FamiliarNames:
                           self.data55, self.data56, self.data57]
         return self.data_list
 
+
 result_new = []
 for num, item in enumerate(new_arinc_points):
     real_num = num + 1
@@ -311,19 +358,35 @@ for num, item in enumerate(new_arinc_points):
 
 length = len(result_new)
 
-result_old = []
+result_old = {}
+count = length
 for num, item in enumerate(final_old):
     real_num = num + length
-    point = FamiliarNames(item, real_num)
-    point_xml = point.make_list()
-    result_old.append(point_xml)
+    if item[14] is not None:
+        point = FamiliarNames(item, real_num)
+        point_xml = point.change_ID()
+        new_value = {point.id: point_xml}
+        result_old.update(new_value)
+    else:
+        point = FamiliarNames(item, real_num)
+        point_xml = point.make_list()
+        new_value = {real_num: point_xml}
+        result_old.update(new_value)
 
-result = result_old + result_new
 
-with open('result.xml', 'w') as output:
+result = result_new
+
+with open('result.xml', 'w', encoding='utf-8') as output:
     output.write('\ufeff<?xml version="1.0" encoding="utf-16"?>\n')
-    output.write('<ArrayOfMapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">\n')
+    output.write(
+        '<ArrayOfMapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">\n')
     for point in result:
         for item in point:
             output.write(item)
     output.write('</ArrayOfMapPoint>')
+
+# TODO: доделать запрос INSERT дял БД
+# query = []
+#
+# for key, value in result_old.items():
+#     string = f'({key}, )'
