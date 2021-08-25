@@ -4,7 +4,7 @@
 		<ObjectId>1</ObjectId>
 		<Id>1</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АГЛОН</Code>
 		<CodeLat>AGLON</CodeLat>
 		<Name>АГЛОН</Name>
@@ -12,8 +12,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.140277777777776</Latitude>
 		<Longitude>152.37944444444446</Longitude>
@@ -49,8 +49,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -61,7 +61,7 @@
 		<ObjectId>2</ObjectId>
 		<Id>2</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АКЕМА</Code>
 		<CodeLat>AKEMA</CodeLat>
 		<Name>АКЕМА</Name>
@@ -69,8 +69,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>60.56722222222223</Latitude>
 		<Longitude>134.5888888888889</Longitude>
@@ -106,8 +106,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -118,7 +118,7 @@
 		<ObjectId>3</ObjectId>
 		<Id>3</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АКИМО</Code>
 		<CodeLat>AKIMO</CodeLat>
 		<Name>АКИМО</Name>
@@ -126,8 +126,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.27361111111111</Latitude>
 		<Longitude>158.82222222222222</Longitude>
@@ -163,8 +163,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -175,7 +175,7 @@
 		<ObjectId>4</ObjectId>
 		<Id>4</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АЛАКТ</Code>
 		<CodeLat>ALAKT</CodeLat>
 		<Name>АЛАКТ</Name>
@@ -183,8 +183,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.026666666666664</Latitude>
 		<Longitude>158.72694444444446</Longitude>
@@ -220,8 +220,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -232,7 +232,7 @@
 		<ObjectId>5</ObjectId>
 		<Id>5</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АЛСЕН</Code>
 		<CodeLat>ALSEN</CodeLat>
 		<Name>АЛСЕН</Name>
@@ -240,8 +240,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>60.11</Latitude>
 		<Longitude>164.45083333333332</Longitude>
@@ -277,8 +277,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -289,7 +289,7 @@
 		<ObjectId>6</ObjectId>
 		<Id>6</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АМГАА</Code>
 		<CodeLat>AMGAA</CodeLat>
 		<Name>АМГАА</Name>
@@ -297,8 +297,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>60.92333333333333</Latitude>
 		<Longitude>132.125</Longitude>
@@ -334,8 +334,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -346,7 +346,7 @@
 		<ObjectId>7</ObjectId>
 		<Id>7</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АМСИС</Code>
 		<CodeLat>AMSIS</CodeLat>
 		<Name>АМСИС</Name>
@@ -354,8 +354,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>52.618611111111115</Latitude>
 		<Longitude>158.83055555555555</Longitude>
@@ -391,8 +391,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -403,7 +403,7 @@
 		<ObjectId>8</ObjectId>
 		<Id>8</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АНАПК</Code>
 		<CodeLat>ANAPK</CodeLat>
 		<Name>АНАПК</Name>
@@ -411,8 +411,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>60.038333333333334</Latitude>
 		<Longitude>163.98555555555555</Longitude>
@@ -448,8 +448,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -460,7 +460,7 @@
 		<ObjectId>9</ObjectId>
 		<Id>9</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АНГАИ</Code>
 		<CodeLat>ANGAI</CodeLat>
 		<Name>АНГАИ</Name>
@@ -468,8 +468,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.05833333333333</Latitude>
 		<Longitude>158.97194444444446</Longitude>
@@ -505,8 +505,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -517,7 +517,7 @@
 		<ObjectId>10</ObjectId>
 		<Id>10</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АРАКО</Code>
 		<CodeLat>ARAKO</CodeLat>
 		<Name>АРАКО</Name>
@@ -525,8 +525,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.9225</Latitude>
 		<Longitude>141.60666666666665</Longitude>
@@ -562,8 +562,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -574,7 +574,7 @@
 		<ObjectId>11</ObjectId>
 		<Id>11</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АРГАС</Code>
 		<CodeLat>ARGAS</CodeLat>
 		<Name>АРГАС</Name>
@@ -582,8 +582,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>65.08999999999999</Latitude>
 		<Longitude>143.06666666666666</Longitude>
@@ -619,8 +619,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -631,7 +631,7 @@
 		<ObjectId>12</ObjectId>
 		<Id>12</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АСАНА</Code>
 		<CodeLat>ASANA</CodeLat>
 		<Name>АСАНА</Name>
@@ -639,8 +639,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.955000000000005</Latitude>
 		<Longitude>149.17083333333332</Longitude>
@@ -676,8 +676,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -688,7 +688,7 @@
 		<ObjectId>13</ObjectId>
 		<Id>13</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>АТЛАО</Code>
 		<CodeLat>ATLAO</CodeLat>
 		<Name>АТЛАО</Name>
@@ -696,8 +696,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>55.61333333333334</Latitude>
 		<Longitude>159.6336111111111</Longitude>
@@ -733,8 +733,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -745,7 +745,7 @@
 		<ObjectId>14</ObjectId>
 		<Id>14</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БАКИР</Code>
 		<CodeLat>BAKIR</CodeLat>
 		<Name>БАКИР</Name>
@@ -753,8 +753,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.245</Latitude>
 		<Longitude>159.61027777777778</Longitude>
@@ -790,8 +790,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -802,7 +802,7 @@
 		<ObjectId>15</ObjectId>
 		<Id>15</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БАКОК</Code>
 		<CodeLat>BAKOK</CodeLat>
 		<Name>БАКОК</Name>
@@ -810,8 +810,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.154444444444444</Latitude>
 		<Longitude>124.42472222222223</Longitude>
@@ -847,8 +847,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -859,7 +859,7 @@
 		<ObjectId>16</ObjectId>
 		<Id>16</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БАНАИ</Code>
 		<CodeLat>BANAI</CodeLat>
 		<Name>БАНАИ</Name>
@@ -867,8 +867,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>52.916666666666664</Latitude>
 		<Longitude>157.24027777777778</Longitude>
@@ -904,8 +904,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -916,7 +916,7 @@
 		<ObjectId>17</ObjectId>
 		<Id>17</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БАРУМ</Code>
 		<CodeLat>BARUM</CodeLat>
 		<Name>БАРУМ</Name>
@@ -924,8 +924,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.76277777777778</Latitude>
 		<Longitude>125.82472222222222</Longitude>
@@ -961,8 +961,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -973,7 +973,7 @@
 		<ObjectId>18</ObjectId>
 		<Id>18</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БАТЕР</Code>
 		<CodeLat>BATER</CodeLat>
 		<Name>БАТЕР</Name>
@@ -981,8 +981,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>61.38861111111111</Latitude>
 		<Longitude>128.98944444444444</Longitude>
@@ -1018,8 +1018,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1030,7 +1030,7 @@
 		<ObjectId>19</ObjectId>
 		<Id>19</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БЕКЛЕ</Code>
 		<CodeLat>BEKLE</CodeLat>
 		<Name>БЕКЛЕ</Name>
@@ -1038,8 +1038,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.183611111111105</Latitude>
 		<Longitude>131.88333333333333</Longitude>
@@ -1075,8 +1075,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1087,7 +1087,7 @@
 		<ObjectId>20</ObjectId>
 		<Id>20</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БЕЛАУ</Code>
 		<CodeLat>BELAU</CodeLat>
 		<Name>БЕЛАУ</Name>
@@ -1095,8 +1095,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.79833333333333</Latitude>
 		<Longitude>163.39555555555555</Longitude>
@@ -1132,8 +1132,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1144,7 +1144,7 @@
 		<ObjectId>21</ObjectId>
 		<Id>21</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БЕРТС</Code>
 		<CodeLat>BERTS</CodeLat>
 		<Name>БЕРТС</Name>
@@ -1152,8 +1152,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.90833333333333</Latitude>
 		<Longitude>162.04555555555555</Longitude>
@@ -1189,8 +1189,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1201,7 +1201,7 @@
 		<ObjectId>22</ObjectId>
 		<Id>22</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БИНАМ</Code>
 		<CodeLat>BINAM</CodeLat>
 		<Name>БИНАМ</Name>
@@ -1209,8 +1209,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.27305555555555</Latitude>
 		<Longitude>124.90555555555557</Longitude>
@@ -1246,8 +1246,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1258,7 +1258,7 @@
 		<ObjectId>23</ObjectId>
 		<Id>23</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БОБЕН</Code>
 		<CodeLat>BOBEN</CodeLat>
 		<Name>БОБЕН</Name>
@@ -1266,8 +1266,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>65.50027777777778</Latitude>
 		<Longitude>150.6361111111111</Longitude>
@@ -1303,8 +1303,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1315,7 +1315,7 @@
 		<ObjectId>24</ObjectId>
 		<Id>24</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БОЛИК</Code>
 		<CodeLat>BOLIK</CodeLat>
 		<Name>БОЛИК</Name>
@@ -1323,8 +1323,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>60.19277777777778</Latitude>
 		<Longitude>134.125</Longitude>
@@ -1360,8 +1360,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1372,7 +1372,7 @@
 		<ObjectId>25</ObjectId>
 		<Id>25</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БРУНС</Code>
 		<CodeLat>BRUNS</CodeLat>
 		<Name>БРУНС</Name>
@@ -1380,8 +1380,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.115</Latitude>
 		<Longitude>139.15</Longitude>
@@ -1417,8 +1417,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1429,7 +1429,7 @@
 		<ObjectId>26</ObjectId>
 		<Id>26</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>БУРУС</Code>
 		<CodeLat>BURUS</CodeLat>
 		<Name>БУРУС</Name>
@@ -1437,8 +1437,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.41666666666667</Latitude>
 		<Longitude>144.69</Longitude>
@@ -1474,8 +1474,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1486,7 +1486,7 @@
 		<ObjectId>27</ObjectId>
 		<Id>27</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ДАБОЛ</Code>
 		<CodeLat>DABOL</CodeLat>
 		<Name>ДАБОЛ</Name>
@@ -1494,8 +1494,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.51833333333333</Latitude>
 		<Longitude>162.27222222222224</Longitude>
@@ -1531,8 +1531,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1543,7 +1543,7 @@
 		<ObjectId>28</ObjectId>
 		<Id>28</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ДАЛЕК</Code>
 		<CodeLat>DALEK</CodeLat>
 		<Name>ДАЛЕК</Name>
@@ -1551,8 +1551,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>65.65666666666667</Latitude>
 		<Longitude>147.97666666666666</Longitude>
@@ -1588,8 +1588,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1600,7 +1600,7 @@
 		<ObjectId>29</ObjectId>
 		<Id>29</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ДАНАС</Code>
 		<CodeLat>DANAS</CodeLat>
 		<Name>ДАНАС</Name>
@@ -1608,8 +1608,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.57833333333333</Latitude>
 		<Longitude>136.49166666666665</Longitude>
@@ -1645,8 +1645,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1657,7 +1657,7 @@
 		<ObjectId>30</ObjectId>
 		<Id>30</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ДБАРИ</Code>
 		<CodeLat>DBARI</CodeLat>
 		<Name>ДБАРИ</Name>
@@ -1665,8 +1665,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.20333333333333</Latitude>
 		<Longitude>135.86333333333332</Longitude>
@@ -1702,8 +1702,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1714,7 +1714,7 @@
 		<ObjectId>31</ObjectId>
 		<Id>31</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ДЕКАК</Code>
 		<CodeLat>DEKAK</CodeLat>
 		<Name>ДЕКАК</Name>
@@ -1722,8 +1722,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.0575</Latitude>
 		<Longitude>148.15694444444446</Longitude>
@@ -1759,8 +1759,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1771,7 +1771,7 @@
 		<ObjectId>32</ObjectId>
 		<Id>32</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ДЕНЕД</Code>
 		<CodeLat>DENED</CodeLat>
 		<Name>ДЕНЕД</Name>
@@ -1779,8 +1779,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>52.29416666666666</Latitude>
 		<Longitude>159.04749999999999</Longitude>
@@ -1816,8 +1816,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1828,7 +1828,7 @@
 		<ObjectId>33</ObjectId>
 		<Id>33</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ДОГОР</Code>
 		<CodeLat>DOGOR</CodeLat>
 		<Name>ДОГОР</Name>
@@ -1836,8 +1836,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.086666666666666</Latitude>
 		<Longitude>157.82861111111112</Longitude>
@@ -1873,8 +1873,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1885,7 +1885,7 @@
 		<ObjectId>34</ObjectId>
 		<Id>34</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ДОМИР</Code>
 		<CodeLat>DOMIR</CodeLat>
 		<Name>ДОМИР</Name>
@@ -1893,8 +1893,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>61.9</Latitude>
 		<Longitude>129.52</Longitude>
@@ -1930,8 +1930,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1942,7 +1942,7 @@
 		<ObjectId>35</ObjectId>
 		<Id>35</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ДРОНИ</Code>
 		<CodeLat>DRONI</CodeLat>
 		<Name>ДРОНИ</Name>
@@ -1950,8 +1950,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.22638888888889</Latitude>
 		<Longitude>124.94333333333334</Longitude>
@@ -1987,8 +1987,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1999,7 +1999,7 @@
 		<ObjectId>36</ObjectId>
 		<Id>36</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ДУКУК</Code>
 		<CodeLat>DUKUK</CodeLat>
 		<Name>ДУКУК</Name>
@@ -2007,8 +2007,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.48166666666667</Latitude>
 		<Longitude>157.5102777777778</Longitude>
@@ -2044,8 +2044,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2056,7 +2056,7 @@
 		<ObjectId>37</ObjectId>
 		<Id>37</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ДУКУН</Code>
 		<CodeLat>DUKUN</CodeLat>
 		<Name>ДУКУН</Name>
@@ -2064,8 +2064,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.84666666666667</Latitude>
 		<Longitude>152.25666666666666</Longitude>
@@ -2101,8 +2101,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2113,7 +2113,7 @@
 		<ObjectId>38</ObjectId>
 		<Id>38</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ДУЛНИ</Code>
 		<CodeLat>DULNI</CodeLat>
 		<Name>ДУЛНИ</Name>
@@ -2121,8 +2121,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.184999999999995</Latitude>
 		<Longitude>157.62194444444447</Longitude>
@@ -2158,8 +2158,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2170,7 +2170,7 @@
 		<ObjectId>39</ObjectId>
 		<Id>39</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ЕРКАМ</Code>
 		<CodeLat>ERKAM</CodeLat>
 		<Name>ЕРКАМ</Name>
@@ -2178,8 +2178,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.925</Latitude>
 		<Longitude>137.36388888888888</Longitude>
@@ -2215,8 +2215,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2227,7 +2227,7 @@
 		<ObjectId>40</ObjectId>
 		<Id>40</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ЕССОН</Code>
 		<CodeLat>ESSON</CodeLat>
 		<Name>ЕССОН</Name>
@@ -2235,8 +2235,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>55.934999999999995</Latitude>
 		<Longitude>158.71027777777778</Longitude>
@@ -2272,8 +2272,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2284,7 +2284,7 @@
 		<ObjectId>41</ObjectId>
 		<Id>41</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ГАЛАС</Code>
 		<CodeLat>GALAS</CodeLat>
 		<Name>ГАЛАС</Name>
@@ -2292,8 +2292,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.35166666666667</Latitude>
 		<Longitude>129.98166666666665</Longitude>
@@ -2329,8 +2329,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2341,7 +2341,7 @@
 		<ObjectId>42</ObjectId>
 		<Id>42</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ГАЛУН</Code>
 		<CodeLat>GALUN</CodeLat>
 		<Name>ГАЛУН</Name>
@@ -2349,8 +2349,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.27</Latitude>
 		<Longitude>142.14499999999998</Longitude>
@@ -2386,8 +2386,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2398,7 +2398,7 @@
 		<ObjectId>43</ObjectId>
 		<Id>43</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ГЕКАР</Code>
 		<CodeLat>GEKAR</CodeLat>
 		<Name>ГЕКАР</Name>
@@ -2406,8 +2406,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>60.07666666666667</Latitude>
 		<Longitude>165.15583333333333</Longitude>
@@ -2443,8 +2443,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2455,7 +2455,7 @@
 		<ObjectId>44</ObjectId>
 		<Id>44</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ГЕЛАК</Code>
 		<CodeLat>GELAK</CodeLat>
 		<Name>ГЕЛАК</Name>
@@ -2463,8 +2463,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.16166666666668</Latitude>
 		<Longitude>141.91</Longitude>
@@ -2500,8 +2500,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2512,7 +2512,7 @@
 		<ObjectId>45</ObjectId>
 		<Id>45</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ГИРОД</Code>
 		<CodeLat>GIROD</CodeLat>
 		<Name>ГИРОД</Name>
@@ -2520,8 +2520,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.223333333333336</Latitude>
 		<Longitude>163.06555555555556</Longitude>
@@ -2557,8 +2557,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2569,7 +2569,7 @@
 		<ObjectId>46</ObjectId>
 		<Id>46</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ИДСЕК</Code>
 		<CodeLat>IDSEK</CodeLat>
 		<Name>ИДСЕК</Name>
@@ -2577,8 +2577,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.97666666666667</Latitude>
 		<Longitude>127.07333333333332</Longitude>
@@ -2614,8 +2614,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2626,7 +2626,7 @@
 		<ObjectId>47</ObjectId>
 		<Id>47</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ИГАНА</Code>
 		<CodeLat>IGANA</CodeLat>
 		<Name>ИГАНА</Name>
@@ -2634,8 +2634,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.64833333333333</Latitude>
 		<Longitude>146.2336111111111</Longitude>
@@ -2671,8 +2671,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2683,7 +2683,7 @@
 		<ObjectId>48</ObjectId>
 		<Id>48</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ИГРОК</Code>
 		<CodeLat>IGROK</CodeLat>
 		<Name>ИГРОК</Name>
@@ -2691,8 +2691,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.38333333333333</Latitude>
 		<Longitude>158.93861111111113</Longitude>
@@ -2728,8 +2728,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2740,7 +2740,7 @@
 		<ObjectId>49</ObjectId>
 		<Id>49</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ИКАСК</Code>
 		<CodeLat>IKASK</CodeLat>
 		<Name>ИКАСК</Name>
@@ -2748,8 +2748,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.568333333333335</Latitude>
 		<Longitude>162.30555555555557</Longitude>
@@ -2785,8 +2785,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2797,7 +2797,7 @@
 		<ObjectId>50</ObjectId>
 		<Id>50</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ИМИКО</Code>
 		<CodeLat>IMIKO</CodeLat>
 		<Name>ИМИКО</Name>
@@ -2805,8 +2805,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.24166666666667</Latitude>
 		<Longitude>143.17166666666665</Longitude>
@@ -2842,8 +2842,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2854,7 +2854,7 @@
 		<ObjectId>51</ObjectId>
 		<Id>51</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ИМКАЛ</Code>
 		<CodeLat>IMKAL</CodeLat>
 		<Name>ИМКАЛ</Name>
@@ -2862,8 +2862,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.45</Latitude>
 		<Longitude>124.95</Longitude>
@@ -2899,8 +2899,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2911,7 +2911,7 @@
 		<ObjectId>52</ObjectId>
 		<Id>52</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ИРЕЛЕ</Code>
 		<CodeLat>IRELE</CodeLat>
 		<Name>ИРЕЛЕ</Name>
@@ -2919,8 +2919,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.1375</Latitude>
 		<Longitude>157.42638888888888</Longitude>
@@ -2956,8 +2956,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2968,7 +2968,7 @@
 		<ObjectId>53</ObjectId>
 		<Id>53</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ИРОНИ</Code>
 		<CodeLat>IRONI</CodeLat>
 		<Name>ИРОНИ</Name>
@@ -2976,8 +2976,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.78527777777778</Latitude>
 		<Longitude>156.2836111111111</Longitude>
@@ -3013,8 +3013,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3025,7 +3025,7 @@
 		<ObjectId>54</ObjectId>
 		<Id>54</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ИСАТА</Code>
 		<CodeLat>ISATA</CodeLat>
 		<Name>ИСАТА</Name>
@@ -3033,8 +3033,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>55.606944444444444</Latitude>
 		<Longitude>155.60861111111112</Longitude>
@@ -3070,8 +3070,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3082,7 +3082,7 @@
 		<ObjectId>55</ObjectId>
 		<Id>55</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ИТИКУ</Code>
 		<CodeLat>ITIKU</CodeLat>
 		<Name>ИТИКУ</Name>
@@ -3090,8 +3090,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.38333333333333</Latitude>
 		<Longitude>133.53333333333333</Longitude>
@@ -3127,8 +3127,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3139,7 +3139,7 @@
 		<ObjectId>56</ObjectId>
 		<Id>56</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КАГИЛ</Code>
 		<CodeLat>KAGIL</CodeLat>
 		<Name>КАГИЛ</Name>
@@ -3147,8 +3147,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.485</Latitude>
 		<Longitude>159.87861111111113</Longitude>
@@ -3184,8 +3184,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3196,7 +3196,7 @@
 		<ObjectId>57</ObjectId>
 		<Id>57</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КАМАИ</Code>
 		<CodeLat>KAMAI</CodeLat>
 		<Name>КАМАИ</Name>
@@ -3204,8 +3204,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.28333333333333</Latitude>
 		<Longitude>161.48722222222221</Longitude>
@@ -3241,8 +3241,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3253,7 +3253,7 @@
 		<ObjectId>58</ObjectId>
 		<Id>58</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КАМАТ</Code>
 		<CodeLat>KAMAT</CodeLat>
 		<Name>КАМАТ</Name>
@@ -3261,8 +3261,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.23833333333334</Latitude>
 		<Longitude>162.54055555555556</Longitude>
@@ -3298,8 +3298,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3310,7 +3310,7 @@
 		<ObjectId>59</ObjectId>
 		<Id>59</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КАНКУ</Code>
 		<CodeLat>KANKU</CodeLat>
 		<Name>КАНКУ</Name>
@@ -3318,8 +3318,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.63</Latitude>
 		<Longitude>126.10499999999999</Longitude>
@@ -3355,8 +3355,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3367,7 +3367,7 @@
 		<ObjectId>60</ObjectId>
 		<Id>60</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КАРТА</Code>
 		<CodeLat>KARTA</CodeLat>
 		<Name>КАРТА</Name>
@@ -3375,8 +3375,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.65</Latitude>
 		<Longitude>163.33722222222224</Longitude>
@@ -3412,8 +3412,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3424,7 +3424,7 @@
 		<ObjectId>61</ObjectId>
 		<Id>61</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КАСБИ</Code>
 		<CodeLat>KASBI</CodeLat>
 		<Name>КАСБИ</Name>
@@ -3432,8 +3432,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.81333333333333</Latitude>
 		<Longitude>162.71555555555554</Longitude>
@@ -3469,8 +3469,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3481,7 +3481,7 @@
 		<ObjectId>62</ObjectId>
 		<Id>62</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КАТНИ</Code>
 		<CodeLat>KATNI</CodeLat>
 		<Name>КАТНИ</Name>
@@ -3489,8 +3489,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.73027777777778</Latitude>
 		<Longitude>159.66055555555556</Longitude>
@@ -3526,8 +3526,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3538,7 +3538,7 @@
 		<ObjectId>63</ObjectId>
 		<Id>63</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КЕБЛИ</Code>
 		<CodeLat>KEBLI</CodeLat>
 		<Name>КЕБЛИ</Name>
@@ -3546,8 +3546,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.019999999999996</Latitude>
 		<Longitude>145.94</Longitude>
@@ -3583,8 +3583,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3595,7 +3595,7 @@
 		<ObjectId>64</ObjectId>
 		<Id>64</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КЕБУМ</Code>
 		<CodeLat>KEBUM</CodeLat>
 		<Name>КЕБУМ</Name>
@@ -3603,8 +3603,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.43</Latitude>
 		<Longitude>140.59666666666666</Longitude>
@@ -3640,8 +3640,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3652,7 +3652,7 @@
 		<ObjectId>65</ObjectId>
 		<Id>65</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КЕДУД</Code>
 		<CodeLat>KEDUD</CodeLat>
 		<Name>КЕДУД</Name>
@@ -3660,8 +3660,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>46.64861111111111</Latitude>
 		<Longitude>142.32638888888889</Longitude>
@@ -3697,8 +3697,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3709,7 +3709,7 @@
 		<ObjectId>66</ObjectId>
 		<Id>66</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КЕГОН</Code>
 		<CodeLat>KEGON</CodeLat>
 		<Name>КЕГОН</Name>
@@ -3717,8 +3717,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>54.75</Latitude>
 		<Longitude>162.16361111111112</Longitude>
@@ -3754,8 +3754,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3766,7 +3766,7 @@
 		<ObjectId>67</ObjectId>
 		<Id>67</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КЕЛКЕ</Code>
 		<CodeLat>KELKE</CodeLat>
 		<Name>КЕЛКЕ</Name>
@@ -3774,8 +3774,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>43.25805555555556</Latitude>
 		<Longitude>132.2802777777778</Longitude>
@@ -3811,8 +3811,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3823,7 +3823,7 @@
 		<ObjectId>68</ObjectId>
 		<Id>68</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КЕЛОЛ</Code>
 		<CodeLat>KELOL</CodeLat>
 		<Name>КЕЛОЛ</Name>
@@ -3831,8 +3831,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>52.80583333333333</Latitude>
 		<Longitude>158.70388888888888</Longitude>
@@ -3868,8 +3868,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3880,7 +3880,7 @@
 		<ObjectId>69</ObjectId>
 		<Id>69</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КИСУМ</Code>
 		<CodeLat>KISUM</CodeLat>
 		<Name>КИСУМ</Name>
@@ -3888,8 +3888,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.080000000000005</Latitude>
 		<Longitude>163.25055555555556</Longitude>
@@ -3925,8 +3925,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3937,7 +3937,7 @@
 		<ObjectId>70</ObjectId>
 		<Id>70</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КНИРА</Code>
 		<CodeLat>KNIRA</CodeLat>
 		<Name>КНИРА</Name>
@@ -3945,8 +3945,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.343333333333334</Latitude>
 		<Longitude>160.3052777777778</Longitude>
@@ -3982,8 +3982,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3994,7 +3994,7 @@
 		<ObjectId>71</ObjectId>
 		<Id>71</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КОКЛО</Code>
 		<CodeLat>KOKLO</CodeLat>
 		<Name>КОКЛО</Name>
@@ -4002,8 +4002,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>54.485</Latitude>
 		<Longitude>161.71527777777777</Longitude>
@@ -4039,8 +4039,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4051,7 +4051,7 @@
 		<ObjectId>72</ObjectId>
 		<Id>72</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КОМНА</Code>
 		<CodeLat>KOMNA</CodeLat>
 		<Name>КОМНА</Name>
@@ -4059,8 +4059,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.955000000000005</Latitude>
 		<Longitude>141.89333333333332</Longitude>
@@ -4096,8 +4096,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4108,7 +4108,7 @@
 		<ObjectId>73</ObjectId>
 		<Id>73</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КОПСА</Code>
 		<CodeLat>KOPSA</CodeLat>
 		<Name>КОПСА</Name>
@@ -4116,8 +4116,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.16</Latitude>
 		<Longitude>147.98</Longitude>
@@ -4153,8 +4153,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4165,7 +4165,7 @@
 		<ObjectId>74</ObjectId>
 		<Id>74</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КОРИС</Code>
 		<CodeLat>KORIS</CodeLat>
 		<Name>КОРИС</Name>
@@ -4173,8 +4173,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.085</Latitude>
 		<Longitude>159.87694444444446</Longitude>
@@ -4210,8 +4210,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4222,7 +4222,7 @@
 		<ObjectId>75</ObjectId>
 		<Id>75</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КОРКА</Code>
 		<CodeLat>KORKA</CodeLat>
 		<Name>КОРКА</Name>
@@ -4230,8 +4230,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.25388888888889</Latitude>
 		<Longitude>158.14249999999998</Longitude>
@@ -4267,8 +4267,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4279,7 +4279,7 @@
 		<ObjectId>76</ObjectId>
 		<Id>76</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КОСТР</Code>
 		<CodeLat>KOSTR</CodeLat>
 		<Name>КОСТР</Name>
@@ -4287,8 +4287,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.10666666666667</Latitude>
 		<Longitude>159.03861111111112</Longitude>
@@ -4324,8 +4324,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4336,7 +4336,7 @@
 		<ObjectId>77</ObjectId>
 		<Id>77</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КРАБА</Code>
 		<CodeLat>KRABA</CodeLat>
 		<Name>КРАБА</Name>
@@ -4344,8 +4344,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>61.69138888888889</Latitude>
 		<Longitude>129.3163888888889</Longitude>
@@ -4381,8 +4381,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4393,7 +4393,7 @@
 		<ObjectId>78</ObjectId>
 		<Id>78</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КРАНС</Code>
 		<CodeLat>KRANS</CodeLat>
 		<Name>КРАНС</Name>
@@ -4401,8 +4401,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>55.86833333333333</Latitude>
 		<Longitude>159.58694444444444</Longitude>
@@ -4438,8 +4438,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4450,7 +4450,7 @@
 		<ObjectId>79</ObjectId>
 		<Id>79</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КРИМО</Code>
 		<CodeLat>KRIMO</CodeLat>
 		<Name>КРИМО</Name>
@@ -4458,8 +4458,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.005</Latitude>
 		<Longitude>158.81194444444446</Longitude>
@@ -4495,8 +4495,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4507,7 +4507,7 @@
 		<ObjectId>80</ObjectId>
 		<Id>80</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КРИНГ</Code>
 		<CodeLat>KRING</CodeLat>
 		<Name>КРИНГ</Name>
@@ -4515,8 +4515,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>54.49166666666667</Latitude>
 		<Longitude>160.65194444444444</Longitude>
@@ -4552,8 +4552,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4564,7 +4564,7 @@
 		<ObjectId>81</ObjectId>
 		<Id>81</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КРОНК</Code>
 		<CodeLat>KRONK</CodeLat>
 		<Name>КРОНК</Name>
@@ -4572,8 +4572,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>54.56333333333333</Latitude>
 		<Longitude>161.16694444444443</Longitude>
@@ -4609,8 +4609,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4621,7 +4621,7 @@
 		<ObjectId>82</ObjectId>
 		<Id>82</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КРУГО</Code>
 		<CodeLat>KRUGO</CodeLat>
 		<Name>КРУГО</Name>
@@ -4629,8 +4629,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>55.025277777777774</Latitude>
 		<Longitude>155.5952777777778</Longitude>
@@ -4666,8 +4666,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4678,7 +4678,7 @@
 		<ObjectId>83</ObjectId>
 		<Id>83</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КУБАК</Code>
 		<CodeLat>KUBAK</CodeLat>
 		<Name>КУБАК</Name>
@@ -4686,8 +4686,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.80305555555556</Latitude>
 		<Longitude>143.32694444444445</Longitude>
@@ -4723,8 +4723,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4735,7 +4735,7 @@
 		<ObjectId>84</ObjectId>
 		<Id>84</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КУКОС</Code>
 		<CodeLat>KUKOS</CodeLat>
 		<Name>КУКОС</Name>
@@ -4743,8 +4743,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>61.63166666666667</Latitude>
 		<Longitude>135.40166666666667</Longitude>
@@ -4780,8 +4780,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4792,7 +4792,7 @@
 		<ObjectId>85</ObjectId>
 		<Id>85</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КУРАК</Code>
 		<CodeLat>KURAK</CodeLat>
 		<Name>КУРАК</Name>
@@ -4800,8 +4800,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.78388888888889</Latitude>
 		<Longitude>136.85166666666666</Longitude>
@@ -4837,8 +4837,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4849,7 +4849,7 @@
 		<ObjectId>86</ObjectId>
 		<Id>86</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КУТАН</Code>
 		<CodeLat>KUTAN</CodeLat>
 		<Name>КУТАН</Name>
@@ -4857,8 +4857,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.026666666666664</Latitude>
 		<Longitude>131.79</Longitude>
@@ -4894,8 +4894,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4906,7 +4906,7 @@
 		<ObjectId>87</ObjectId>
 		<Id>87</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>КУТКА</Code>
 		<CodeLat>KUTKA</CodeLat>
 		<Name>КУТКА</Name>
@@ -4914,8 +4914,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>54.09527777777778</Latitude>
 		<Longitude>157.88972222222222</Longitude>
@@ -4951,8 +4951,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4963,7 +4963,7 @@
 		<ObjectId>88</ObjectId>
 		<Id>88</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ЛАНОД</Code>
 		<CodeLat>LANOD</CodeLat>
 		<Name>ЛАНОД</Name>
@@ -4971,8 +4971,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.5</Latitude>
 		<Longitude>143.72694444444446</Longitude>
@@ -5008,8 +5008,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5020,7 +5020,7 @@
 		<ObjectId>89</ObjectId>
 		<Id>89</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ЛАОТА</Code>
 		<CodeLat>LAOTA</CodeLat>
 		<Name>ЛАОТА</Name>
@@ -5028,8 +5028,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>55.05305555555555</Latitude>
 		<Longitude>158.97361111111113</Longitude>
@@ -5065,8 +5065,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5077,7 +5077,7 @@
 		<ObjectId>90</ObjectId>
 		<Id>90</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ЛЕКИР</Code>
 		<CodeLat>LEKIR</CodeLat>
 		<Name>ЛЕКИР</Name>
@@ -5085,8 +5085,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.818333333333335</Latitude>
 		<Longitude>145.59</Longitude>
@@ -5122,8 +5122,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5134,7 +5134,7 @@
 		<ObjectId>91</ObjectId>
 		<Id>91</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ЛЕНГО</Code>
 		<CodeLat>LENGO</CodeLat>
 		<Name>ЛЕНГО</Name>
@@ -5142,8 +5142,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.251666666666665</Latitude>
 		<Longitude>158.02861111111113</Longitude>
@@ -5179,8 +5179,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5191,7 +5191,7 @@
 		<ObjectId>92</ObjectId>
 		<Id>92</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ЛОКТУ</Code>
 		<CodeLat>LOKTU</CodeLat>
 		<Name>ЛОКТУ</Name>
@@ -5199,8 +5199,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.581944444444446</Latitude>
 		<Longitude>157.5822222222222</Longitude>
@@ -5236,8 +5236,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5248,7 +5248,7 @@
 		<ObjectId>93</ObjectId>
 		<Id>93</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ЛОЛИК</Code>
 		<CodeLat>LOLIK</CodeLat>
 		<Name>ЛОЛИК</Name>
@@ -5256,8 +5256,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.61527777777778</Latitude>
 		<Longitude>143.72055555555556</Longitude>
@@ -5293,8 +5293,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5305,7 +5305,7 @@
 		<ObjectId>94</ObjectId>
 		<Id>94</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ЛОПАК</Code>
 		<CodeLat>LOPAK</CodeLat>
 		<Name>ЛОПАК</Name>
@@ -5313,8 +5313,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>50.86666666666667</Latitude>
 		<Longitude>156.66166666666666</Longitude>
@@ -5350,8 +5350,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5362,7 +5362,7 @@
 		<ObjectId>95</ObjectId>
 		<Id>95</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ЛУКАК</Code>
 		<CodeLat>LUKAK</CodeLat>
 		<Name>ЛУКАК</Name>
@@ -5370,8 +5370,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.650277777777774</Latitude>
 		<Longitude>157.48222222222222</Longitude>
@@ -5407,8 +5407,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5419,7 +5419,7 @@
 		<ObjectId>96</ObjectId>
 		<Id>96</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ЛУНСО</Code>
 		<CodeLat>LUNSO</CodeLat>
 		<Name>ЛУНСО</Name>
@@ -5427,8 +5427,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.794999999999995</Latitude>
 		<Longitude>157.5602777777778</Longitude>
@@ -5464,8 +5464,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5476,7 +5476,7 @@
 		<ObjectId>97</ObjectId>
 		<Id>97</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МАГАН</Code>
 		<CodeLat>MAGAN</CodeLat>
 		<Name>МАГАН</Name>
@@ -5484,8 +5484,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.10805555555556</Latitude>
 		<Longitude>129.56416666666667</Longitude>
@@ -5521,8 +5521,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5533,7 +5533,7 @@
 		<ObjectId>98</ObjectId>
 		<Id>98</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МАКРО</Code>
 		<CodeLat>MAKRO</CodeLat>
 		<Name>МАКРО</Name>
@@ -5541,8 +5541,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.894999999999996</Latitude>
 		<Longitude>162.8538888888889</Longitude>
@@ -5578,8 +5578,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5590,7 +5590,7 @@
 		<ObjectId>99</ObjectId>
 		<Id>99</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МАЛИТ</Code>
 		<CodeLat>MALIT</CodeLat>
 		<Name>МАЛИТ</Name>
@@ -5598,8 +5598,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.656666666666666</Latitude>
 		<Longitude>163.29722222222222</Longitude>
@@ -5635,8 +5635,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5647,7 +5647,7 @@
 		<ObjectId>100</ObjectId>
 		<Id>100</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МАЛРИ</Code>
 		<CodeLat>MALRI</CodeLat>
 		<Name>МАЛРИ</Name>
@@ -5655,8 +5655,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>55.12833333333333</Latitude>
 		<Longitude>161.8536111111111</Longitude>
@@ -5692,8 +5692,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5704,7 +5704,7 @@
 		<ObjectId>101</ObjectId>
 		<Id>101</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МЕДОН</Code>
 		<CodeLat>MEDON</CodeLat>
 		<Name>МЕДОН</Name>
@@ -5712,8 +5712,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.3875</Latitude>
 		<Longitude>142.6161111111111</Longitude>
@@ -5749,8 +5749,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5761,7 +5761,7 @@
 		<ObjectId>102</ObjectId>
 		<Id>102</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МЕРТО</Code>
 		<CodeLat>MERTO</CodeLat>
 		<Name>МЕРТО</Name>
@@ -5769,8 +5769,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.06666666666667</Latitude>
 		<Longitude>158.58861111111113</Longitude>
@@ -5806,8 +5806,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5818,7 +5818,7 @@
 		<ObjectId>103</ObjectId>
 		<Id>103</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МИЛВО</Code>
 		<CodeLat>MILVO</CodeLat>
 		<Name>МИЛВО</Name>
@@ -5826,8 +5826,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>54.68138888888889</Latitude>
 		<Longitude>158.55027777777778</Longitude>
@@ -5863,8 +5863,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5875,7 +5875,7 @@
 		<ObjectId>104</ObjectId>
 		<Id>104</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МИСКИ</Code>
 		<CodeLat>MISKI</CodeLat>
 		<Name>МИСКИ</Name>
@@ -5883,8 +5883,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>54.531666666666666</Latitude>
 		<Longitude>158.37916666666666</Longitude>
@@ -5920,8 +5920,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5932,7 +5932,7 @@
 		<ObjectId>105</ObjectId>
 		<Id>105</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МОЛОБ</Code>
 		<CodeLat>MOLOB</CodeLat>
 		<Name>МОЛОБ</Name>
@@ -5940,8 +5940,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.309999999999995</Latitude>
 		<Longitude>160.80027777777778</Longitude>
@@ -5977,8 +5977,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5989,7 +5989,7 @@
 		<ObjectId>106</ObjectId>
 		<Id>106</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МОЛОН</Code>
 		<CodeLat>MOLON</CodeLat>
 		<Name>МОЛОН</Name>
@@ -5997,8 +5997,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.76638888888889</Latitude>
 		<Longitude>124.9961111111111</Longitude>
@@ -6034,8 +6034,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6046,7 +6046,7 @@
 		<ObjectId>107</ObjectId>
 		<Id>107</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МОРУИ</Code>
 		<CodeLat>MORUI</CodeLat>
 		<Name>МОРУИ</Name>
@@ -6054,8 +6054,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.61027777777778</Latitude>
 		<Longitude>156.03527777777776</Longitude>
@@ -6091,8 +6091,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6103,7 +6103,7 @@
 		<ObjectId>108</ObjectId>
 		<Id>108</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МУКАС</Code>
 		<CodeLat>MUKAS</CodeLat>
 		<Name>МУКАС</Name>
@@ -6111,8 +6111,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.26166666666666</Latitude>
 		<Longitude>162.04222222222222</Longitude>
@@ -6148,8 +6148,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6160,7 +6160,7 @@
 		<ObjectId>109</ObjectId>
 		<Id>109</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МУЛБА</Code>
 		<CodeLat>MULBA</CodeLat>
 		<Name>МУЛБА</Name>
@@ -6168,8 +6168,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.18222222222222</Latitude>
 		<Longitude>125.35194444444444</Longitude>
@@ -6205,8 +6205,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6217,7 +6217,7 @@
 		<ObjectId>110</ObjectId>
 		<Id>110</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МУРЛИ</Code>
 		<CodeLat>MURLI</CodeLat>
 		<Name>МУРЛИ</Name>
@@ -6225,8 +6225,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.07055555555556</Latitude>
 		<Longitude>127.37083333333332</Longitude>
@@ -6262,8 +6262,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6274,7 +6274,7 @@
 		<ObjectId>111</ObjectId>
 		<Id>111</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>МУСИР</Code>
 		<CodeLat>MUSIR</CodeLat>
 		<Name>МУСИР</Name>
@@ -6282,8 +6282,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.3125</Latitude>
 		<Longitude>142.82</Longitude>
@@ -6319,8 +6319,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6331,7 +6331,7 @@
 		<ObjectId>112</ObjectId>
 		<Id>112</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>НАРУН</Code>
 		<CodeLat>NARUN</CodeLat>
 		<Name>НАРУН</Name>
@@ -6339,8 +6339,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.47666666666667</Latitude>
 		<Longitude>142.80666666666667</Longitude>
@@ -6376,8 +6376,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6388,7 +6388,7 @@
 		<ObjectId>113</ObjectId>
 		<Id>113</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>НЕЛЕМ</Code>
 		<CodeLat>NELEM</CodeLat>
 		<Name>НЕЛЕМ</Name>
@@ -6396,8 +6396,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>65.50527777777778</Latitude>
 		<Longitude>151.09083333333334</Longitude>
@@ -6433,8 +6433,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6445,7 +6445,7 @@
 		<ObjectId>114</ObjectId>
 		<Id>114</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>НЕМТА</Code>
 		<CodeLat>NEMTA</CodeLat>
 		<Name>НЕМТА</Name>
@@ -6453,8 +6453,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.681666666666665</Latitude>
 		<Longitude>155.98527777777775</Longitude>
@@ -6490,8 +6490,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6502,7 +6502,7 @@
 		<ObjectId>115</ObjectId>
 		<Id>115</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>НЕРПА</Code>
 		<CodeLat>NERPA</CodeLat>
 		<Name>НЕРПА</Name>
@@ -6510,8 +6510,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.54888888888888</Latitude>
 		<Longitude>143.1052777777778</Longitude>
@@ -6547,8 +6547,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6559,7 +6559,7 @@
 		<ObjectId>116</ObjectId>
 		<Id>116</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>НИИГР</Code>
 		<CodeLat>NIIGR</CodeLat>
 		<Name>НИИГР</Name>
@@ -6567,8 +6567,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.733333333333334</Latitude>
 		<Longitude>162.49888888888887</Longitude>
@@ -6604,8 +6604,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6616,7 +6616,7 @@
 		<ObjectId>117</ObjectId>
 		<Id>117</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>НОМИС</Code>
 		<CodeLat>NOMIS</CodeLat>
 		<Name>НОМИС</Name>
@@ -6624,8 +6624,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.13</Latitude>
 		<Longitude>160.8138888888889</Longitude>
@@ -6661,8 +6661,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6673,7 +6673,7 @@
 		<ObjectId>118</ObjectId>
 		<Id>118</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>НОРИН</Code>
 		<CodeLat>NORIN</CodeLat>
 		<Name>НОРИН</Name>
@@ -6681,8 +6681,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.830000000000005</Latitude>
 		<Longitude>155.98194444444445</Longitude>
@@ -6718,8 +6718,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6730,7 +6730,7 @@
 		<ObjectId>119</ObjectId>
 		<Id>119</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>НОССА</Code>
 		<CodeLat>NOSSA</CodeLat>
 		<Name>НОССА</Name>
@@ -6738,8 +6738,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.742222222222225</Latitude>
 		<Longitude>150.2097222222222</Longitude>
@@ -6775,8 +6775,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6787,7 +6787,7 @@
 		<ObjectId>120</ObjectId>
 		<Id>120</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>НУКАР</Code>
 		<CodeLat>NUKAR</CodeLat>
 		<Name>НУКАР</Name>
@@ -6795,8 +6795,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.74722222222222</Latitude>
 		<Longitude>127.1211111111111</Longitude>
@@ -6832,8 +6832,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6844,7 +6844,7 @@
 		<ObjectId>121</ObjectId>
 		<Id>121</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ОБАЛО</Code>
 		<CodeLat>OBALO</CodeLat>
 		<Name>ОБАЛО</Name>
@@ -6852,8 +6852,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.184999999999995</Latitude>
 		<Longitude>162.76055555555556</Longitude>
@@ -6889,8 +6889,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6901,7 +6901,7 @@
 		<ObjectId>122</ObjectId>
 		<Id>122</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ОБАТИ</Code>
 		<CodeLat>OBATI</CodeLat>
 		<Name>ОБАТИ</Name>
@@ -6909,8 +6909,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>46.75388888888889</Latitude>
 		<Longitude>142.71416666666664</Longitude>
@@ -6946,8 +6946,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6958,7 +6958,7 @@
 		<ObjectId>123</ObjectId>
 		<Id>123</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ОДИСА</Code>
 		<CodeLat>ODISA</CodeLat>
 		<Name>ОДИСА</Name>
@@ -6966,8 +6966,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.86</Latitude>
 		<Longitude>151.48083333333332</Longitude>
@@ -7003,8 +7003,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7015,7 +7015,7 @@
 		<ObjectId>124</ObjectId>
 		<Id>124</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ОКЛОН</Code>
 		<CodeLat>OKLON</CodeLat>
 		<Name>ОКЛОН</Name>
@@ -7023,8 +7023,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>55.94</Latitude>
 		<Longitude>162.05055555555558</Longitude>
@@ -7060,8 +7060,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7072,7 +7072,7 @@
 		<ObjectId>125</ObjectId>
 		<Id>125</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ОПАЛЕ</Code>
 		<CodeLat>OPALE</CodeLat>
 		<Name>ОПАЛЕ</Name>
@@ -7080,8 +7080,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>52.01833333333333</Latitude>
 		<Longitude>156.47666666666666</Longitude>
@@ -7117,8 +7117,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7129,7 +7129,7 @@
 		<ObjectId>126</ObjectId>
 		<Id>126</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ОПАСТ</Code>
 		<CodeLat>OPAST</CodeLat>
 		<Name>ОПАСТ</Name>
@@ -7137,8 +7137,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>52.68666666666666</Latitude>
 		<Longitude>158.6136111111111</Longitude>
@@ -7174,8 +7174,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7186,7 +7186,7 @@
 		<ObjectId>127</ObjectId>
 		<Id>127</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ОРМИН</Code>
 		<CodeLat>ORMIN</CodeLat>
 		<Name>ОРМИН</Name>
@@ -7194,8 +7194,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.717777777777776</Latitude>
 		<Longitude>136.28916666666666</Longitude>
@@ -7231,8 +7231,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7243,7 +7243,7 @@
 		<ObjectId>128</ObjectId>
 		<Id>128</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ОСРИР</Code>
 		<CodeLat>OSRIR</CodeLat>
 		<Name>ОСРИР</Name>
@@ -7251,8 +7251,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.34666666666667</Latitude>
 		<Longitude>162.77722222222224</Longitude>
@@ -7288,8 +7288,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7300,7 +7300,7 @@
 		<ObjectId>129</ObjectId>
 		<Id>129</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ОСТЕМ</Code>
 		<CodeLat>OSTEM</CodeLat>
 		<Name>ОСТЕМ</Name>
@@ -7308,8 +7308,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.01833333333333</Latitude>
 		<Longitude>162.0988888888889</Longitude>
@@ -7345,8 +7345,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7357,7 +7357,7 @@
 		<ObjectId>130</ObjectId>
 		<Id>130</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ОЗЕРН</Code>
 		<CodeLat>OZERN</CodeLat>
 		<Name>ОЗЕРН</Name>
@@ -7365,8 +7365,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>51.49916666666667</Latitude>
 		<Longitude>156.54361111111112</Longitude>
@@ -7402,8 +7402,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7414,7 +7414,7 @@
 		<ObjectId>131</ObjectId>
 		<Id>131</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ПАНКА</Code>
 		<CodeLat>PANKA</CodeLat>
 		<Name>ПАНКА</Name>
@@ -7422,8 +7422,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.751666666666665</Latitude>
 		<Longitude>159.68194444444444</Longitude>
@@ -7459,8 +7459,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7471,7 +7471,7 @@
 		<ObjectId>132</ObjectId>
 		<Id>132</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ПАПАА</Code>
 		<CodeLat>PAPAA</CodeLat>
 		<Name>ПАПАА</Name>
@@ -7479,8 +7479,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.43666666666666</Latitude>
 		<Longitude>163.31055555555557</Longitude>
@@ -7516,8 +7516,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7528,7 +7528,7 @@
 		<ObjectId>133</ObjectId>
 		<Id>133</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ПЕПАН</Code>
 		<CodeLat>PEPAN</CodeLat>
 		<Name>ПЕПАН</Name>
@@ -7536,8 +7536,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.081944444444446</Latitude>
 		<Longitude>159.89055555555555</Longitude>
@@ -7573,8 +7573,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7585,7 +7585,7 @@
 		<ObjectId>134</ObjectId>
 		<Id>134</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ПЕРНУ</Code>
 		<CodeLat>PERNU</CodeLat>
 		<Name>ПЕРНУ</Name>
@@ -7593,8 +7593,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.20888888888889</Latitude>
 		<Longitude>139.47166666666666</Longitude>
@@ -7630,8 +7630,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7642,7 +7642,7 @@
 		<ObjectId>135</ObjectId>
 		<Id>135</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ПЕСУМ</Code>
 		<CodeLat>PESUM</CodeLat>
 		<Name>ПЕСУМ</Name>
@@ -7650,8 +7650,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>46.545833333333334</Latitude>
 		<Longitude>142.90833333333333</Longitude>
@@ -7687,8 +7687,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7699,7 +7699,7 @@
 		<ObjectId>136</ObjectId>
 		<Id>136</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ПЕТИН</Code>
 		<CodeLat>PETIN</CodeLat>
 		<Name>ПЕТИН</Name>
@@ -7707,8 +7707,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.169999999999995</Latitude>
 		<Longitude>158.4536111111111</Longitude>
@@ -7744,8 +7744,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7756,7 +7756,7 @@
 		<ObjectId>137</ObjectId>
 		<Id>137</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ПИРКО</Code>
 		<CodeLat>PIRKO</CodeLat>
 		<Name>ПИРКО</Name>
@@ -7764,8 +7764,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>51.94499999999999</Latitude>
 		<Longitude>158.30027777777778</Longitude>
@@ -7801,8 +7801,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7813,7 +7813,7 @@
 		<ObjectId>138</ObjectId>
 		<Id>138</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ПИРНУ</Code>
 		<CodeLat>PIRNU</CodeLat>
 		<Name>ПИРНУ</Name>
@@ -7821,8 +7821,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.56527777777777</Latitude>
 		<Longitude>158.9738888888889</Longitude>
@@ -7858,8 +7858,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7870,7 +7870,7 @@
 		<ObjectId>139</ObjectId>
 		<Id>139</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ПОКРО</Code>
 		<CodeLat>POKRO</CodeLat>
 		<Name>ПОКРО</Name>
@@ -7878,8 +7878,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>61.53805555555555</Latitude>
 		<Longitude>129.1688888888889</Longitude>
@@ -7915,8 +7915,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7927,7 +7927,7 @@
 		<ObjectId>140</ObjectId>
 		<Id>140</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ПОНОТ</Code>
 		<CodeLat>PONOT</CodeLat>
 		<Name>ПОНОТ</Name>
@@ -7935,8 +7935,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.2</Latitude>
 		<Longitude>157.45027777777776</Longitude>
@@ -7972,8 +7972,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7984,7 +7984,7 @@
 		<ObjectId>141</ObjectId>
 		<Id>141</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ПОНРО</Code>
 		<CodeLat>PONRO</CodeLat>
 		<Name>ПОНРО</Name>
@@ -7992,8 +7992,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>52.306666666666665</Latitude>
 		<Longitude>158.5686111111111</Longitude>
@@ -8029,8 +8029,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8041,7 +8041,7 @@
 		<ObjectId>142</ObjectId>
 		<Id>142</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ПОСЕН</Code>
 		<CodeLat>POSEN</CodeLat>
 		<Name>ПОСЕН</Name>
@@ -8049,8 +8049,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.17166666666667</Latitude>
 		<Longitude>138.32166666666666</Longitude>
@@ -8086,8 +8086,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8098,7 +8098,7 @@
 		<ObjectId>143</ObjectId>
 		<Id>143</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>РАНГА</Code>
 		<CodeLat>RANGA</CodeLat>
 		<Name>РАНГА</Name>
@@ -8106,8 +8106,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.35722222222223</Latitude>
 		<Longitude>129.65861111111113</Longitude>
@@ -8143,8 +8143,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8155,7 +8155,7 @@
 		<ObjectId>144</ObjectId>
 		<Id>144</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>РЕНКА</Code>
 		<CodeLat>RENKA</CodeLat>
 		<Name>РЕНКА</Name>
@@ -8163,8 +8163,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>65.63166666666666</Latitude>
 		<Longitude>148.7433333333333</Longitude>
@@ -8200,8 +8200,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8212,7 +8212,7 @@
 		<ObjectId>145</ObjectId>
 		<Id>145</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>РИНОТ</Code>
 		<CodeLat>RINOT</CodeLat>
 		<Name>РИНОТ</Name>
@@ -8220,8 +8220,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>52.36805555555556</Latitude>
 		<Longitude>158.9983333333333</Longitude>
@@ -8257,8 +8257,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8269,7 +8269,7 @@
 		<ObjectId>146</ObjectId>
 		<Id>146</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>РИТНИ</Code>
 		<CodeLat>RITNI</CodeLat>
 		<Name>РИТНИ</Name>
@@ -8277,8 +8277,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.10027777777778</Latitude>
 		<Longitude>156.73694444444442</Longitude>
@@ -8314,8 +8314,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8326,7 +8326,7 @@
 		<ObjectId>147</ObjectId>
 		<Id>147</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>РУКИР</Code>
 		<CodeLat>RUKIR</CodeLat>
 		<Name>РУКИР</Name>
@@ -8334,8 +8334,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.211666666666666</Latitude>
 		<Longitude>162.19055555555556</Longitude>
@@ -8371,8 +8371,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8383,7 +8383,7 @@
 		<ObjectId>148</ObjectId>
 		<Id>148</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>РУРКИ</Code>
 		<CodeLat>RURKI</CodeLat>
 		<Name>РУРКИ</Name>
@@ -8391,8 +8391,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>54.651944444444446</Latitude>
 		<Longitude>155.79361111111112</Longitude>
@@ -8428,8 +8428,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8440,7 +8440,7 @@
 		<ObjectId>149</ObjectId>
 		<Id>149</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>САДАГ</Code>
 		<CodeLat>SADAG</CodeLat>
 		<Name>САДАГ</Name>
@@ -8448,8 +8448,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.6</Latitude>
 		<Longitude>135.4</Longitude>
@@ -8485,8 +8485,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8497,7 +8497,7 @@
 		<ObjectId>150</ObjectId>
 		<Id>150</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>САДУК</Code>
 		<CodeLat>SADUK</CodeLat>
 		<Name>САДУК</Name>
@@ -8505,8 +8505,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.73111111111111</Latitude>
 		<Longitude>121.44583333333334</Longitude>
@@ -8542,8 +8542,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8554,7 +8554,7 @@
 		<ObjectId>151</ObjectId>
 		<Id>151</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>САИЛА</Code>
 		<CodeLat>SAILA</CodeLat>
 		<Name>САИЛА</Name>
@@ -8562,8 +8562,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.080000000000005</Latitude>
 		<Longitude>161.98722222222221</Longitude>
@@ -8599,8 +8599,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8611,7 +8611,7 @@
 		<ObjectId>152</ObjectId>
 		<Id>152</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>САЛОР</Code>
 		<CodeLat>SALOR</CodeLat>
 		<Name>САЛОР</Name>
@@ -8619,8 +8619,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.073055555555555</Latitude>
 		<Longitude>145.34222222222223</Longitude>
@@ -8656,8 +8656,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8668,7 +8668,7 @@
 		<ObjectId>153</ObjectId>
 		<Id>153</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>САЛУК</Code>
 		<CodeLat>SALUK</CodeLat>
 		<Name>САЛУК</Name>
@@ -8676,8 +8676,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.28999999999999</Latitude>
 		<Longitude>142.82166666666666</Longitude>
@@ -8713,8 +8713,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8725,7 +8725,7 @@
 		<ObjectId>154</ObjectId>
 		<Id>154</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>САРКО</Code>
 		<CodeLat>SARKO</CodeLat>
 		<Name>САРКО</Name>
@@ -8733,8 +8733,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>51.06166666666666</Latitude>
 		<Longitude>156.375</Longitude>
@@ -8770,8 +8770,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8782,7 +8782,7 @@
 		<ObjectId>155</ObjectId>
 		<Id>155</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>САСИР</Code>
 		<CodeLat>SASIR</CodeLat>
 		<Name>САСИР</Name>
@@ -8790,8 +8790,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>65.16666666666667</Latitude>
 		<Longitude>147.08333333333334</Longitude>
@@ -8827,8 +8827,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8839,7 +8839,7 @@
 		<ObjectId>156</ObjectId>
 		<Id>156</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>САТИМ</Code>
 		<CodeLat>SATIM</CodeLat>
 		<Name>САТИМ</Name>
@@ -8847,8 +8847,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.38333333333333</Latitude>
 		<Longitude>124.90333333333334</Longitude>
@@ -8884,8 +8884,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8896,7 +8896,7 @@
 		<ObjectId>157</ObjectId>
 		<Id>157</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>САТУК</Code>
 		<CodeLat>SATUK</CodeLat>
 		<Name>САТУК</Name>
@@ -8904,8 +8904,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.02777777777778</Latitude>
 		<Longitude>129.21527777777777</Longitude>
@@ -8941,8 +8941,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8953,7 +8953,7 @@
 		<ObjectId>158</ObjectId>
 		<Id>158</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>САУНА</Code>
 		<CodeLat>SAUNA</CodeLat>
 		<Name>САУНА</Name>
@@ -8961,8 +8961,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>52.973333333333336</Latitude>
 		<Longitude>158.83194444444445</Longitude>
@@ -8998,8 +8998,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9010,7 +9010,7 @@
 		<ObjectId>159</ObjectId>
 		<Id>159</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СЕКЛИ</Code>
 		<CodeLat>SEKLI</CodeLat>
 		<Name>СЕКЛИ</Name>
@@ -9018,8 +9018,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.82333333333334</Latitude>
 		<Longitude>127.95</Longitude>
@@ -9055,8 +9055,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9067,7 +9067,7 @@
 		<ObjectId>160</ObjectId>
 		<Id>160</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СЕКУР</Code>
 		<CodeLat>SEKUR</CodeLat>
 		<Name>СЕКУР</Name>
@@ -9075,8 +9075,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>50.708333333333336</Latitude>
 		<Longitude>156.13333333333333</Longitude>
@@ -9112,8 +9112,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9124,7 +9124,7 @@
 		<ObjectId>161</ObjectId>
 		<Id>161</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СЕНКУ</Code>
 		<CodeLat>SENKU</CodeLat>
 		<Name>СЕНКУ</Name>
@@ -9132,8 +9132,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.72361111111111</Latitude>
 		<Longitude>158.29722222222222</Longitude>
@@ -9169,8 +9169,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9181,7 +9181,7 @@
 		<ObjectId>162</ObjectId>
 		<Id>162</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СЕРАН</Code>
 		<CodeLat>SERAN</CodeLat>
 		<Name>СЕРАН</Name>
@@ -9189,8 +9189,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>66.18388888888889</Latitude>
 		<Longitude>143.3311111111111</Longitude>
@@ -9226,8 +9226,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9238,7 +9238,7 @@
 		<ObjectId>163</ObjectId>
 		<Id>163</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СЕТУР</Code>
 		<CodeLat>SETUR</CodeLat>
 		<Name>СЕТУР</Name>
@@ -9246,8 +9246,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.382777777777775</Latitude>
 		<Longitude>126.15444444444445</Longitude>
@@ -9283,8 +9283,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9295,7 +9295,7 @@
 		<ObjectId>164</ObjectId>
 		<Id>164</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СИБУН</Code>
 		<CodeLat>SIBUN</CodeLat>
 		<Name>СИБУН</Name>
@@ -9303,8 +9303,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.86666666666666</Latitude>
 		<Longitude>146.36166666666665</Longitude>
@@ -9340,8 +9340,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9352,7 +9352,7 @@
 		<ObjectId>165</ObjectId>
 		<Id>165</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СИПВА</Code>
 		<CodeLat>SIPVA</CodeLat>
 		<Name>СИПВА</Name>
@@ -9360,8 +9360,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>53.10666666666667</Latitude>
 		<Longitude>160.0336111111111</Longitude>
@@ -9397,8 +9397,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9409,7 +9409,7 @@
 		<ObjectId>166</ObjectId>
 		<Id>166</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СИТМИ</Code>
 		<CodeLat>SITMI</CodeLat>
 		<Name>СИТМИ</Name>
@@ -9417,8 +9417,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>51.285</Latitude>
 		<Longitude>156.53</Longitude>
@@ -9454,8 +9454,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9466,7 +9466,7 @@
 		<ObjectId>167</ObjectId>
 		<Id>167</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СОБВО</Code>
 		<CodeLat>SOBVO</CodeLat>
 		<Name>СОБВО</Name>
@@ -9474,8 +9474,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>54.30694444444444</Latitude>
 		<Longitude>155.97416666666666</Longitude>
@@ -9511,8 +9511,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9523,7 +9523,7 @@
 		<ObjectId>168</ObjectId>
 		<Id>168</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СОУРИ</Code>
 		<CodeLat>SOURI</CodeLat>
 		<Name>СОУРИ</Name>
@@ -9531,8 +9531,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>54.3</Latitude>
 		<Longitude>160.28527777777776</Longitude>
@@ -9568,8 +9568,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9580,7 +9580,7 @@
 		<ObjectId>169</ObjectId>
 		<Id>169</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СРОМА</Code>
 		<CodeLat>SROMA</CodeLat>
 		<Name>СРОМА</Name>
@@ -9588,8 +9588,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.676944444444445</Latitude>
 		<Longitude>125.40583333333333</Longitude>
@@ -9625,8 +9625,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9637,7 +9637,7 @@
 		<ObjectId>170</ObjectId>
 		<Id>170</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СТОБУ</Code>
 		<CodeLat>STOBU</CodeLat>
 		<Name>СТОБУ</Name>
@@ -9645,8 +9645,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.65</Latitude>
 		<Longitude>162.65222222222224</Longitude>
@@ -9682,8 +9682,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9694,7 +9694,7 @@
 		<ObjectId>171</ObjectId>
 		<Id>171</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СТОРЕ</Code>
 		<CodeLat>STORE</CodeLat>
 		<Name>СТОРЕ</Name>
@@ -9702,8 +9702,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>55.42166666666667</Latitude>
 		<Longitude>161.73527777777775</Longitude>
@@ -9739,8 +9739,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9751,7 +9751,7 @@
 		<ObjectId>172</ObjectId>
 		<Id>172</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СУЕРО</Code>
 		<CodeLat>SUERO</CodeLat>
 		<Name>СУЕРО</Name>
@@ -9759,8 +9759,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>54.831388888888895</Latitude>
 		<Longitude>158.72055555555556</Longitude>
@@ -9796,8 +9796,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9808,7 +9808,7 @@
 		<ObjectId>173</ObjectId>
 		<Id>173</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СУМАЛ</Code>
 		<CodeLat>SUMAL</CodeLat>
 		<Name>СУМАЛ</Name>
@@ -9816,8 +9816,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.80027777777777</Latitude>
 		<Longitude>148.18555555555557</Longitude>
@@ -9853,8 +9853,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9865,7 +9865,7 @@
 		<ObjectId>174</ObjectId>
 		<Id>174</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СУМАН</Code>
 		<CodeLat>SUMAN</CodeLat>
 		<Name>СУМАН</Name>
@@ -9873,8 +9873,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.52833333333333</Latitude>
 		<Longitude>128.88666666666666</Longitude>
@@ -9910,8 +9910,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9922,7 +9922,7 @@
 		<ObjectId>175</ObjectId>
 		<Id>175</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СУМКО</Code>
 		<CodeLat>SUMKO</CodeLat>
 		<Name>СУМКО</Name>
@@ -9930,8 +9930,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.88</Latitude>
 		<Longitude>163.70888888888888</Longitude>
@@ -9967,8 +9967,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9979,7 +9979,7 @@
 		<ObjectId>176</ObjectId>
 		<Id>176</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>СУПНО</Code>
 		<CodeLat>SUPNO</CodeLat>
 		<Name>СУПНО</Name>
@@ -9987,8 +9987,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>54.086666666666666</Latitude>
 		<Longitude>159.97027777777777</Longitude>
@@ -10024,8 +10024,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10036,7 +10036,7 @@
 		<ObjectId>177</ObjectId>
 		<Id>177</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТАГДА</Code>
 		<CodeLat>TAGDA</CodeLat>
 		<Name>ТАГДА</Name>
@@ -10044,8 +10044,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.75</Latitude>
 		<Longitude>130.65</Longitude>
@@ -10081,8 +10081,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10093,7 +10093,7 @@
 		<ObjectId>178</ObjectId>
 		<Id>178</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТАЛПУ</Code>
 		<CodeLat>TALPU</CodeLat>
 		<Name>ТАЛПУ</Name>
@@ -10101,8 +10101,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.45</Latitude>
 		<Longitude>121.6</Longitude>
@@ -10138,8 +10138,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10150,7 +10150,7 @@
 		<ObjectId>179</ObjectId>
 		<Id>179</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТЕРУТ</Code>
 		<CodeLat>TERUT</CodeLat>
 		<Name>ТЕРУТ</Name>
@@ -10158,8 +10158,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.24833333333333</Latitude>
 		<Longitude>142.07999999999998</Longitude>
@@ -10195,8 +10195,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10207,7 +10207,7 @@
 		<ObjectId>180</ObjectId>
 		<Id>180</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТИГБИ</Code>
 		<CodeLat>TIGBI</CodeLat>
 		<Name>ТИГБИ</Name>
@@ -10215,8 +10215,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.78361111111111</Latitude>
 		<Longitude>158.73555555555555</Longitude>
@@ -10252,8 +10252,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10264,7 +10264,7 @@
 		<ObjectId>181</ObjectId>
 		<Id>181</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТИКОЛ</Code>
 		<CodeLat>TIKOL</CodeLat>
 		<Name>ТИКОЛ</Name>
@@ -10272,8 +10272,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.84666666666666</Latitude>
 		<Longitude>143.34333333333333</Longitude>
@@ -10309,8 +10309,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10321,7 +10321,7 @@
 		<ObjectId>182</ObjectId>
 		<Id>182</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТИЛАМ</Code>
 		<CodeLat>TILAM</CodeLat>
 		<Name>ТИЛАМ</Name>
@@ -10329,8 +10329,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.49</Latitude>
 		<Longitude>163.18722222222223</Longitude>
@@ -10366,8 +10366,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10378,7 +10378,7 @@
 		<ObjectId>183</ObjectId>
 		<Id>183</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТИРГО</Code>
 		<CodeLat>TIRGO</CodeLat>
 		<Name>ТИРГО</Name>
@@ -10386,8 +10386,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.245</Latitude>
 		<Longitude>142.73</Longitude>
@@ -10423,8 +10423,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10435,7 +10435,7 @@
 		<ObjectId>184</ObjectId>
 		<Id>184</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТИРОН</Code>
 		<CodeLat>TIRON</CodeLat>
 		<Name>ТИРОН</Name>
@@ -10443,8 +10443,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>65.7</Latitude>
 		<Longitude>143.41666666666666</Longitude>
@@ -10480,8 +10480,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10492,7 +10492,7 @@
 		<ObjectId>185</ObjectId>
 		<Id>185</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТОБАР</Code>
 		<CodeLat>TOBAR</CodeLat>
 		<Name>ТОБАР</Name>
@@ -10500,8 +10500,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.36333333333334</Latitude>
 		<Longitude>130.53333333333333</Longitude>
@@ -10537,8 +10537,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10549,7 +10549,7 @@
 		<ObjectId>186</ObjectId>
 		<Id>186</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТОКОР</Code>
 		<CodeLat>TOKOR</CodeLat>
 		<Name>ТОКОР</Name>
@@ -10557,8 +10557,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>62.506388888888885</Latitude>
 		<Longitude>134.56083333333333</Longitude>
@@ -10594,8 +10594,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10606,7 +10606,7 @@
 		<ObjectId>187</ObjectId>
 		<Id>187</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТОММО</Code>
 		<CodeLat>TOMMO</CodeLat>
 		<Name>ТОММО</Name>
@@ -10614,8 +10614,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.93833333333333</Latitude>
 		<Longitude>126.28999999999999</Longitude>
@@ -10651,8 +10651,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10663,7 +10663,7 @@
 		<ObjectId>188</ObjectId>
 		<Id>188</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТОМСО</Code>
 		<CodeLat>TOMSO</CodeLat>
 		<Name>ТОМСО</Name>
@@ -10671,8 +10671,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>63.665</Latitude>
 		<Longitude>142.24499999999998</Longitude>
@@ -10708,8 +10708,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10720,7 +10720,7 @@
 		<ObjectId>189</ObjectId>
 		<Id>189</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТОРАР</Code>
 		<CodeLat>TORAR</CodeLat>
 		<Name>ТОРАР</Name>
@@ -10728,8 +10728,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>51.65833333333333</Latitude>
 		<Longitude>156.52333333333334</Longitude>
@@ -10765,8 +10765,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10777,7 +10777,7 @@
 		<ObjectId>190</ObjectId>
 		<Id>190</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТУБЕЛ</Code>
 		<CodeLat>TUBEL</CodeLat>
 		<Name>ТУБЕЛ</Name>
@@ -10785,8 +10785,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>65.37138888888889</Latitude>
 		<Longitude>143.16805555555555</Longitude>
@@ -10822,8 +10822,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10834,7 +10834,7 @@
 		<ObjectId>191</ObjectId>
 		<Id>191</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>ТУПОН</Code>
 		<CodeLat>TUPON</CodeLat>
 		<Name>ТУПОН</Name>
@@ -10842,8 +10842,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.03666666666666</Latitude>
 		<Longitude>162.8688888888889</Longitude>
@@ -10879,8 +10879,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10891,7 +10891,7 @@
 		<ObjectId>192</ObjectId>
 		<Id>192</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>УБАНУ</Code>
 		<CodeLat>UBANU</CodeLat>
 		<Name>УБАНУ</Name>
@@ -10899,8 +10899,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.50527777777778</Latitude>
 		<Longitude>151.7588888888889</Longitude>
@@ -10936,8 +10936,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10948,7 +10948,7 @@
 		<ObjectId>193</ObjectId>
 		<Id>193</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>УГАКА</Code>
 		<CodeLat>UGAKA</CodeLat>
 		<Name>УГАКА</Name>
@@ -10956,8 +10956,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.14194444444444</Latitude>
 		<Longitude>158.7552777777778</Longitude>
@@ -10993,8 +10993,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11005,7 +11005,7 @@
 		<ObjectId>194</ObjectId>
 		<Id>194</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>УГЕНА</Code>
 		<CodeLat>UGENA</CodeLat>
 		<Name>УГЕНА</Name>
@@ -11013,8 +11013,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>65.71666666666667</Latitude>
 		<Longitude>150.23888888888888</Longitude>
@@ -11050,8 +11050,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11062,7 +11062,7 @@
 		<ObjectId>195</ObjectId>
 		<Id>195</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>УМПОЛ</Code>
 		<CodeLat>UMPOL</CodeLat>
 		<Name>УМПОЛ</Name>
@@ -11070,8 +11070,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.500277777777775</Latitude>
 		<Longitude>159.16222222222223</Longitude>
@@ -11107,8 +11107,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11119,7 +11119,7 @@
 		<ObjectId>196</ObjectId>
 		<Id>196</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>УНЕРА</Code>
 		<CodeLat>UNERA</CodeLat>
 		<Name>УНЕРА</Name>
@@ -11127,8 +11127,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>64.6</Latitude>
 		<Longitude>143.25</Longitude>
@@ -11164,8 +11164,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11176,7 +11176,7 @@
 		<ObjectId>197</ObjectId>
 		<Id>197</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>УСМИЛ</Code>
 		<CodeLat>USMIL</CodeLat>
 		<Name>УСМИЛ</Name>
@@ -11184,8 +11184,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>59.63</Latitude>
 		<Longitude>133.09</Longitude>
@@ -11221,8 +11221,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11233,7 +11233,7 @@
 		<ObjectId>198</ObjectId>
 		<Id>198</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>УСТКА</Code>
 		<CodeLat>USTKA</CodeLat>
 		<Name>УСТКА</Name>
@@ -11241,8 +11241,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>56.23861111111111</Latitude>
 		<Longitude>162.69</Longitude>
@@ -11278,8 +11278,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11290,7 +11290,7 @@
 		<ObjectId>199</ObjectId>
 		<Id>199</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>УТАУД</Code>
 		<CodeLat>UTAUD</CodeLat>
 		<Name>УТАУД</Name>
@@ -11298,8 +11298,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>51.49333333333333</Latitude>
 		<Longitude>157.7133333333333</Longitude>
@@ -11335,8 +11335,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11347,7 +11347,7 @@
 		<ObjectId>200</ObjectId>
 		<Id>200</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>УТИИЛ</Code>
 		<CodeLat>UTIIL</CodeLat>
 		<Name>УТИИЛ</Name>
@@ -11355,8 +11355,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>58.01361111111111</Latitude>
 		<Longitude>158.2122222222222</Longitude>
@@ -11392,8 +11392,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11404,7 +11404,7 @@
 		<ObjectId>201</ObjectId>
 		<Id>201</Id>
 		<LocalChange>true</LocalChange>
-		<LastUpdate>2021-08-24T16:56:00</LastUpdate>
+		<LastUpdate>2021-08-25T11:57:32Z</LastUpdate>
 		<Code>УТЛОК</Code>
 		<CodeLat>UTLOK</CodeLat>
 		<Name>УТЛОК</Name>
@@ -11412,8 +11412,8 @@
 		<Names />
 		<NamesXml />
 		<Comment />
-		<BeginDate>0001-01-01T00:00:00</BeginDate>
-		<EndDate>0001-01-01T00:00:00</EndDate>
+		<BeginDate>0001-01-01T00:00:00Z</BeginDate>
+		<EndDate>0001-01-01T00:00:00Z</EndDate>
 		<ShowOnChart>true</ShowOnChart>
 		<Latitude>57.51361111111111</Latitude>
 		<Longitude>157.20194444444442</Longitude>
@@ -11449,8 +11449,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-24T16:56:00Z</Begin>
-			<End>2021-08-24T16:56:00Z</End>
+			<Begin>2021-08-25T11:57:32Z</Begin>
+			<End>2021-08-25T11:57:32Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />

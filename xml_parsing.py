@@ -68,7 +68,7 @@ for mappoint in root.findall('MapPoint'):
     names.append(lst)
 
 # Opening ARINC file
-text = open('C:/Users/Полина/Desktop/MULTI_ARINC/Файлы для парсинга/GKOVD_DV2108Bv15.txt', 'r',
+text = open('GKOVD_DV2108Bv15.txt', 'r',
             encoding='utf-8').readlines()
 
 # finding all points
@@ -177,7 +177,7 @@ class FillXML:
         self.data3 = '\t\t<ObjectId>%s</ObjectId>\n' % self.object_id
         self.data4 = '\t\t<Id>%s</Id>\n' % self.id
         self.data5 = '\t\t<LocalChange>true</LocalChange>\n'
-        self.data6 = '\t\t<LastUpdate>%s</LastUpdate>\n' % datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+        self.data6 = '\t\t<LastUpdate>%s</LastUpdate>\n' % datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
         self.data7 = '\t\t<Code>%s</Code>\n' % transliterate.translit(self.name, 'ru')
         self.data8 = '\t\t<CodeLat>%s</CodeLat>\n' % self.name
         self.data9 = '\t\t<Name>%s</Name>\n' % transliterate.translit(self.name, 'ru')
@@ -185,8 +185,8 @@ class FillXML:
         self.data11 = '\t\t<Names />\n'
         self.data12 = '\t\t<NamesXml />\n'
         self.data13 = '\t\t<Comment />\n'
-        self.data14 = '\t\t<BeginDate>0001-01-01T00:00:00</BeginDate>\n'
-        self.data15 = '\t\t<EndDate>0001-01-01T00:00:00</EndDate>\n'
+        self.data14 = '\t\t<BeginDate>0001-01-01T00:00:00Z</BeginDate>\n'
+        self.data15 = '\t\t<EndDate>0001-01-01T00:00:00Z</EndDate>\n'
         self.data16 = '\t\t<ShowOnChart>true</ShowOnChart>\n'
         self.data17 = '\t\t<Latitude>%s</Latitude>\n' % self.lat
         self.data18 = '\t\t<Longitude>%s</Longitude>\n' % self.lon
@@ -249,11 +249,18 @@ class FamiliarNames:
         self.lst = lst
         version = lst[0]
         code = lst[1]
-        code_lat = transliterate.translit(lst[1], 'ru', reversed=True) if lst[2] is None else lst[2]
+        code_lat = transliterate.translit(lst[1], 'ru', reversed=True) if lst[2] is None and len(lst[1]) <= 5 else ""
         name = lst[1] if lst[3] is None else lst[3]
-        name_lat = transliterate.translit(lst[1], 'ru', reversed=True) if lst[4] is None else lst[4]
+        name_lat = transliterate.translit(lst[1], 'ru', reversed=True) if lst[4] is None and len(lst[1]) <= 5 else ""
         magnetic = 0 if lst[5] is None else lst[5]
         type = "" if lst[6] is None else lst[6]
+        if "ь" in code or "Ь" in code:
+            code_lat = ""
+            name_lat = ""
+        if len(code) == 4 and "Ь" in code:
+            code_lat = transliterate.translit(lst[1], 'ru', reversed=True)
+            code_lat = code_lat.replace("'", "X")
+            name_lat = code_lat
         lat = lst[7]
         lon = lst[8]
         airport_type = "Airport" if lst[9] is None else lst[9]
@@ -267,16 +274,16 @@ class FamiliarNames:
         self.data3 = '\t\t<ObjectId>%s</ObjectId>\n' % num
         self.data4 = '\t\t<Id>%s</Id>\n' % num
         self.data5 = '\t\t<LocalChange>true</LocalChange>\n'
-        self.data6 = '\t\t<LastUpdate>%s</LastUpdate>\n' % datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
+        self.data6 = '\t\t<LastUpdate>%s</LastUpdate>\n' % datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
         self.data7 = '\t\t<Code>%s</Code>\n' % code
-        self.data8 = '\t\t<CodeLat>%s</CodeLat>\n' % code_lat
+        self.data8 = '\t\t<CodeLat>%s</CodeLat>\n' % code_lat if code_lat != "" else '\t\t<CodeLat> />\n'
         self.data9 = '\t\t<Name>%s</Name>\n' % name
-        self.data10 = '\t\t<NameLat>%s</NameLat>\n' % name_lat
+        self.data10 = '\t\t<NameLat>%s</NameLat>\n' % name_lat if name_lat != "" else '\t\t<NameLat />\n'
         self.data11 = '\t\t<Names />\n'
         self.data12 = '\t\t<NamesXml />\n'
         self.data13 = '\t\t<Comment />\n'
-        self.data14 = '\t\t<BeginDate>0001-01-01T00:00:00</BeginDate>\n'
-        self.data15 = '\t\t<EndDate>0001-01-01T00:00:00</EndDate>\n'
+        self.data14 = '\t\t<BeginDate>0001-01-01T00:00:00Z</BeginDate>\n'
+        self.data15 = '\t\t<EndDate>0001-01-01T00:00:00Z</EndDate>\n'
         self.data16 = '\t\t<ShowOnChart>true</ShowOnChart>\n'
         self.data17 = '\t\t<Latitude>%s</Latitude>\n' % lat
         self.data18 = '\t\t<Longitude>%s</Longitude>\n' % lon
@@ -322,7 +329,7 @@ class FamiliarNames:
 
     def change_ID(self):
         self.id = self.lst[14]
-        self.ObjectId = self.lst[15]
+        self.ObjectId = self.lst[15] if self.lst[15] != '0' else ""
         self.data3 = '\t\t<ObjectId>%s</ObjectId>\n' % self.ObjectId
         self.data4 = '\t\t<Id>%s</Id>\n' % self.id
         self.data_list = [self.data0, self.data1, self.data2, self.data3, self.data4, self.data5, self.data6,
@@ -338,6 +345,18 @@ class FamiliarNames:
 
     def make_list(self):
         self.data_list = [self.data2, self.data3, self.data4, self.data5, self.data6,
+                          self.data7, self.data8, self.data9, self.data10, self.data11, self.data12, self.data13,
+                          self.data14, self.data15, self.data16, self.data17, self.data18, self.data19, self.data20,
+                          self.data21, self.data22, self.data23, self.data24, self.data25, self.data26, self.data27,
+                          self.data28, self.data29, self.data30, self.data31, self.data32, self.data33, self.data34,
+                          self.data35, self.data36, self.data37, self.data38, self.data39, self.data40, self.data41,
+                          self.data41, self.data42, self.data43, self.data44, self.data45, self.data46, self.data47,
+                          self.data48, self.data49, self.data50, self.data51, self.data52, self.data53, self.data54,
+                          self.data55, self.data56, self.data57]
+        return self.data_list
+
+    def simple_list(self):
+        self.data_list = [self.data0, self.data1, self.data2, self.data3, self.data4, self.data5, self.data6,
                           self.data7, self.data8, self.data9, self.data10, self.data11, self.data12, self.data13,
                           self.data14, self.data15, self.data16, self.data17, self.data18, self.data19, self.data20,
                           self.data21, self.data22, self.data23, self.data24, self.data25, self.data26, self.data27,
@@ -369,10 +388,9 @@ for num, item in enumerate(final_old):
         result_old.update(new_value)
     else:
         point = FamiliarNames(item, real_num)
-        point_xml = point.make_list()
+        point_xml = point.simple_list()
         new_value = {real_num: point_xml}
         result_old.update(new_value)
-
 
 result = result_new
 
@@ -385,8 +403,20 @@ with open('result.xml', 'w', encoding='utf-8') as output:
             output.write(item)
     output.write('</ArrayOfMapPoint>')
 
-# TODO: доделать запрос INSERT дял БД
-# query = []
-#
-# for key, value in result_old.items():
-#     string = f'({key}, )'
+begin_query = "INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`, `isdeleted`, `version`, `arm_name`) VALUES "
+lst_values = []
+
+for key, value in result_old.items():
+    with open('draft.xml', 'w', encoding='utf-8') as draft:
+        for item in value:
+            draft.write(item)
+    with open('draft.xml', 'r', encoding='utf-8') as draft_read:
+        xml = draft_read.read()
+    new_value = """(%s, 'MapPoint', '0', 'admin', '%s', '0', '1', 'second') """ % (key, xml)
+    lst_values.append(new_value)
+
+body_query = ',\n'.join(lst_values)
+full_query = begin_query + body_query + ';'
+
+with open('query_old.sql', 'w', encoding='utf-8') as sql:
+    sql.write(full_query)
