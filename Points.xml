@@ -38951,11 +38951,10 @@
 		<Id>85067</Id>
 		<LastUpdate>2020-03-01T21:35:46</LastUpdate>
 		<Code>БАНОТ</Code>
-		<CodeLat>BANOT</CodeLat>
-		<Name>БАНОТ</Name>
+		AirportUsageType<Name>БАНОТ</Name>
 		<NameLat>BANOT</NameLat>
 		<Latitude>59.676944444444445</Latitude>
-		<Longitude>149.14694444444444</Longitude>
+		<LongitudAirportUsageTypee>149.14694444444444</LongitudAirportUsageTypee>
 		<MagneticDeclination>0</MagneticDeclination>
 		<Type>POD</Type>
 		<AirportType>Airport</AirportType>
