@@ -63,8 +63,12 @@ for mappoint in root.findall('MapPoint'):
     except:
         Id = None
     ObjectId = mappoint.find("ObjectId").text
+    try:
+        IsInAirway = mappoint.find("IsInAirway").text
+    except:
+        IsInAirway = None
     lst = [version, code, code_lat, name, nameLat, magnetic, type, lat, lon, airport_type, AirportUsageType,
-           AirportOwnerType, class_, CallLetter, Id, ObjectId]
+           AirportOwnerType, class_, CallLetter, Id, ObjectId, IsInAirway]
     names.append(lst)
 
 # Opening ARINC file
@@ -176,7 +180,7 @@ class FillXML:
         self.data2 = '\t<MapPoint Version="3" IsDeleted="false">\n'
         self.data3 = '\t\t<ObjectId>%s</ObjectId>\n' % self.object_id
         self.data4 = '\t\t<Id>%s</Id>\n' % self.id
-        self.data5 = '\t\t<LocalChange>true</LocalChange>\n'
+        self.data5 = '\t\t<LocalChange>false</LocalChange>\n'
         self.data6 = '\t\t<LastUpdate>%s</LastUpdate>\n' % datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
         self.data7 = '\t\t<Code>%s</Code>\n' % transliterate.translit(self.name, 'ru')
         self.data8 = '\t\t<CodeLat>%s</CodeLat>\n' % self.name
@@ -243,6 +247,10 @@ class FillXML:
         return self.data_list
 
 
+#lst = [version, code, code_lat, name, nameLat, magnetic, type, lat, lon, airport_type, AirportUsageType,
+#           AirportOwnerType, class_, CallLetter, Id, ObjectId, IsInAirway]
+
+
 class FamiliarNames:
 
     def __init__(self, lst, num):
@@ -268,11 +276,12 @@ class FamiliarNames:
         AirportOwnerType = "NotDefined" if lst[11] is None else lst[11]
         class_ = "Unknown" if lst[12] is None else lst[12]
         CallLetter = "" if lst[13] is None else lst[13]
+        IsInAirway = 'false' if lst[16] is None or lst[16] == 'false' else 'true'
         self.data0 = '<?xml version="1.0" encoding="utf-16"?>\n'
         self.data2 = """<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0" IsDeleted="false">\n"""
         self.data3 = '\t<ObjectId>%s</ObjectId>\n' % num
         self.data4 = '\t<Id>%s</Id>\n' % num
-        self.data5 = '\t<LocalChange>true</LocalChange>\n'
+        self.data5 = '\t<LocalChange>false</LocalChange>\n'
         self.data6 = '\t<LastUpdate>%s</LastUpdate>\n' % datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
         self.data7 = '\t<Code>%s</Code>\n' % code
         self.data8 = '\t<CodeLat>%s</CodeLat>\n' % code_lat if code_lat != "" else '\t\t<CodeLat> />\n'
@@ -295,12 +304,12 @@ class FamiliarNames:
         self.data25 = '\t<IsInOut>false</IsInOut>\n'
         self.data26 = '\t<IsInOutCIS>false</IsInOutCIS>\n'
         self.data27 = '\t<IsGateWay>false</IsGateWay>\n'
-        self.data28 = '\t<IsTransferPoint>false</IsTransferPoint>\n'
+        self.data28 = '\t<IsTransferPoint>%s</IsTransferPoint>\n' % 'true' if type == 'POD' else 'false'
         self.data29 = '\t<IsTransferPoint_ACP>false</IsTransferPoint_ACP>\n'
         self.data30 = '\t<IsInARZ>false</IsInARZ>\n'
         self.data31 = '\t<IsOutARZ>false</IsOutARZ>\n'
         self.data32 = '\t<IsInRA>false</IsInRA>\n'
-        self.data33 = '\t<IsInAirway>false</IsInAirway>\n'
+        self.data33 = '\t<IsInAirway>%s</IsInAirway>\n' % IsInAirway
         self.data34 = '\t<IsMvl>true</IsMvl>\n'
         self.data35 = '\t<CorridorNumber />\n'
         self.data36 = '\t<Height>0</Height>\n'
@@ -310,15 +319,15 @@ class FamiliarNames:
         self.data40 = '\t<AirportOwnerType>%s</AirportOwnerType>\n' % AirportOwnerType
         self.data41 = '\t<Class>%s</Class>\n' % class_
         self.data42 = '\t<AftnAddr />\n'
-        self.data43 = '\t<CallLetter>%s</CallLetter>\n' % CallLetter
+        self.data43 = '\t<CallLetter>%s</CallLetter>\n' % CallLetter if CallLetter != "" else '\t<CallLetter >/\n'
         self.data44 = '\t<WorkingTimeRange IsCancelled="false" minlevel="M/M=0/FL=0/FWD" maxlevel="M/M=16100/FL=528/FWD">\n'
         self.data45 = '\t\t<ObjectId>0</ObjectId>\n'
         self.data46 = '\t\t<Id>0</Id>\n'
         self.data47 = '\t\t<IntervalOfClosing>false</IntervalOfClosing>\n'
         self.data48 = '\t\t<Reserv>false</Reserv>\n'
         self.data49 = '\t\t<Kind>Always</Kind>\n'
-        self.data50 = '\t\t<Begin>%s</Begin>\n' % datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
-        self.data51 = '\t\t<End>%s</End>\n' % datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
+        self.data50 = '\t\t<Begin>2020-12-03T00:00:00Z</Begin>\n'
+        self.data51 = '\t\t<End>2021-01-03T00:00:00Z</End>\n'
         self.data52 = '\t\t<TimeSpanRanges />\n'
         self.data53 = '\t\t<Comment />\n'
         self.data54 = '\t\t<Sources />\n'
@@ -388,7 +397,7 @@ for num, item in enumerate(final_old):
     else:
         point = FamiliarNames(item, real_num)
         point_xml = point.simple_list()
-        new_value = {real_num: point_xml}
+        new_value = {real_num: [point_xml, 1 if item[0] is None else int(item[0])+1]}
         result_old.update(new_value)
 
 result = result_new
@@ -407,11 +416,11 @@ lst_values = []
 
 for key, value in result_old.items():
     with open('draft.xml', 'w', encoding='utf-8') as draft:
-        for item in value:
+        for item in value[0]:
             draft.write(item)
     with open('draft.xml', 'r', encoding='utf-8') as draft_read:
         xml = draft_read.read()
-    new_value = """(%s, 'MapPoint', '0', 'admin', '%s', '0', '1', 'second') """ % (key, xml)
+    new_value = """(%s, 'MapPoint', '0', 'admin', '%s', '0', '%s', 'second') """ % (key, xml, str(value))
     lst_values.append(new_value)
 
 body_query = ',\n'.join(lst_values)
