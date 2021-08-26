@@ -420,7 +420,7 @@ for key, value in result_old.items():
             draft.write(item)
     with open('draft.xml', 'r', encoding='utf-8') as draft_read:
         xml = draft_read.read()
-    new_value = """(%s, 'MapPoint', '0', 'admin', '%s', '0', '%s', 'second') """ % (key, xml, str(value))
+    new_value = """(%s, 'MapPoint', '0', 'admin', '%s', '0', '%s', 'second') """ % (key, xml, str(value[1]))
     lst_values.append(new_value)
 
 body_query = ',\n'.join(lst_values)
