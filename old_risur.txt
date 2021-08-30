@@ -1,40 +1,33 @@
 '<?xml version="1.0" encoding="utf-16"?>
-<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="22" IsDeleted="false">
+<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="23" IsDeleted="false">
 	<ObjectId>6022</ObjectId>
 	<Id>81993</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2019-06-30T21:10:34</LastUpdate>
+	<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
 	<Code>СЛОМА</Code>
 	<CodeLat>SLOMA</CodeLat>
 	<Name>Уст.р.Масловка</Name>
-	<NameLat />
+	<NameLat>SLOMA</NameLat>
 	<Names />
 	<NamesXml />
 	<Comment />
 	<BeginDate>0001-01-01T00:00:00</BeginDate>
 	<EndDate>0001-01-01T00:00:00</EndDate>
 	<ShowOnChart>true</ShowOnChart>
-	<Latitude>53.095277777777781</Latitude>
-	<Longitude>140.19138888888889</Longitude>
+	<Latitude>53.09527777777778</Latitude>
+	<Longitude>140.1913888888889</Longitude>
 	<Elevation>0</Elevation>
 	<MagneticDeclination>-13</MagneticDeclination>
 	<Frequencies />
 	<Type>POD</Type>
-	<SignalCode />
 	<IsACP>false</IsACP>
 	<IsInOut>false</IsInOut>
 	<IsInOutCIS>false</IsInOutCIS>
 	<IsGateWay>false</IsGateWay>
 	<IsTransferPoint>false</IsTransferPoint>
 	<IsTransferPoint_ACP>false</IsTransferPoint_ACP>
-	<IsInARZ>false</IsInARZ>
-	<IsOutARZ>false</IsOutARZ>
-	<IsInRA>false</IsInRA>
 	<IsInAirway>false</IsInAirway>
 	<IsMvl>true</IsMvl>
-	<CorridorNumber />
-	<Height>0</Height>
-	<HeightAbs>0</HeightAbs>
 	<AirportType>Airport</AirportType>
 	<AirportUsageType>NotDefined</AirportUsageType>
 	<AirportOwnerType>NotDefined</AirportOwnerType>
