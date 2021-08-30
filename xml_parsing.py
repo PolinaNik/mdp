@@ -16,94 +16,53 @@ root = ET.fromstring(data)
 # Key values in XML file: version, code, codelat, name , namelat, lon, lat, magnetic declination, type
 names = []
 
+def try_except(xml, word):
+    try:
+        parameter = xml.find(word).text
+    except:
+        parameter = None
+    return parameter
+
+def try_false(xml, word):
+    try:
+        parameter = xml.find(word).text
+    except:
+        parameter = "false"
+    return parameter
+
+
+
 for mappoint in root.findall('MapPoint'):
     version = mappoint.get('Version')
     code = mappoint.find('Code').text
-    try:
-        code_lat = mappoint.find('CodeLat').text
-    except:
-        code_lat = None
-    try:
-        name = mappoint.find('Name').text
-    except:
-        name = None
-    try:
-        nameLat = mappoint.find('NameLat').text
-    except:
-        nameLat = None
-    try:
-        magnetic = mappoint.find('MagneticDeclination').text
-    except:
-        magnetic = None
-    type_ = mappoint.find('Type').text
-    lat = mappoint.find('Latitude').text
-    lon = mappoint.find('Longitude').text
-    try:
-        airport_type = mappoint.find('AirportType').text
-    except:
-        airport_type = None
-    try:
-        AirportUsageType = mappoint.find('AirportUsageType').text
-    except:
-        AirportUsageType = None
-    try:
-        AirportOwnerType = mappoint.find('AirportOwnerType').text
-    except:
-        AirportOwnerType = None
-    try:
-        class_ = mappoint.find('Class').text
-    except:
-        class_ = None
-    try:
-        CallLetter = mappoint.find("CallLetter").text
-    except:
-        CallLetter = None
-    try:
-        Id = mappoint.find("Id").text
-    except:
-        Id = None
-    ObjectId = mappoint.find("ObjectId").text
-    try:
-        IsTransferPoint_ACP = mappoint.find("IsTransferPoint_ACP").text
-    except:
-        IsTransferPoint_ACP = False
-    try:
-        IsACP = mappoint.find("IsACP").text
-    except:
-        IsACP = False
-    try:
-        IsInOut = mappoint.find("IsInOut").text
-    except:
-        IsInOut = False
-    try:
-        IsInOutCIS = mappoint.find("IsInOutCIS").text
-    except:
-        IsInOutCIS = False
-    try:
-        IsGateWay = mappoint.find("IsGateWay").text
-    except:
-        IsGateWay = False
-    try:
-        IsTransferPoint = mappoint.find("IsTransferPoint").text
-    except:
-        IsTransferPoint = False
-    try:
-        IsTransferPoint_ACP = mappoint.find("IsTransferPoint_ACP").text
-    except:
-        IsTransferPoint_ACP = False
-    try:
-        IsInAirway = mappoint.find("IsInAirway").text
-    except:
-        IsInAirway = False
-    try:
-        IsMvl = mappoint.find("IsMvl").text
-    except:
-        IsMvl = False
-
-    lst = [version, code, code_lat, name, nameLat, magnetic, type_, lat, lon, airport_type, AirportUsageType,
+    code_lat = try_except(mappoint, 'CodeLat')
+    name = try_except(mappoint, 'Name')
+    nameLat = try_except(mappoint, 'NameLat')
+    magnetic = try_except(mappoint, 'MagneticDeclination')
+    type_ = try_except(mappoint, 'Type')
+    lat = try_except(mappoint, 'Latitude')
+    lon = try_except(mappoint, 'Longitude')
+    airport_type = try_except(mappoint, 'AirportType')
+    AirportUsageType = try_except(mappoint, 'AirportUsageType')
+    AirportOwnerType = try_except(mappoint, 'AirportOwnerType')
+    class_ = try_except(mappoint, 'Class')
+    CallLetter = try_except(mappoint, 'CallLetter')
+    Id = try_except(mappoint, 'Id')
+    ObjectId = try_except(mappoint, 'ObjectId')
+    IsACP = try_false(mappoint, 'IsACP')
+    IsInOut = try_false(mappoint, 'IsInOut')
+    IsInOutCIS = try_false(mappoint, 'IsInOutCIS')
+    IsGateWay = try_false(mappoint, 'IsGateWay')
+    IsTransferPoint = try_false(mappoint, 'IsTransferPoint')
+    IsTransferPoint_ACP = try_false(mappoint, 'IsTransferPoint_ACP')
+    IsInAirway = try_false(mappoint, 'IsInAirway')
+    IsMvl = try_false(mappoint, 'IsMvl')
+    LocalChange = try_false(mappoint, 'LocalChange')
+    if lat and lon != None:
+        lst = [version, code, code_lat, name, nameLat, magnetic, type_, lat, lon, airport_type, AirportUsageType,
            AirportOwnerType, class_, CallLetter, Id, ObjectId, IsACP, IsInOut,
-           IsInOutCIS, IsGateWay, IsTransferPoint, IsTransferPoint_ACP, IsInAirway, IsMvl]
-    names.append(lst)
+           IsInOutCIS, IsGateWay, IsTransferPoint, IsTransferPoint_ACP, IsInAirway, IsMvl, LocalChange]
+        names.append(lst)
 
 # Opening ARINC file
 text = open('GKOVD_DV2108Bv15.txt', 'r',
@@ -309,42 +268,43 @@ class FamiliarNames:
         IsTransferPoint_ACP = lst[21]
         IsInAirway = lst[22]
         IsMvl = lst[23]
+        LocalChange = lst[24]
         self.data0 = '<?xml version="1.0" encoding="utf-16"?>\n'
-        self.data2 = """<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0" IsDeleted="false">\n"""
-        self.data3 = '\t<ObjectId>%s</ObjectId>\n' % num
-        self.data4 = '\t<Id>%s</Id>\n' % num
-        self.data5 = '\t<LocalChange>false</LocalChange>\n'
-        self.data6 = '\t<LastUpdate>%s</LastUpdate>\n' % datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
-        self.data7 = '\t<Code>%s</Code>\n' % code
-        self.data8 = '\t<CodeLat>%s</CodeLat>\n' % code_lat if code_lat != "" else '\t\t<CodeLat> />\n'
-        self.data9 = '\t<Name>%s</Name>\n' % name
-        self.data10 = '\t<NameLat>%s</NameLat>\n' % name_lat if name_lat != "" else '\t\t<NameLat />\n'
+        self.data2 = f"""<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="{version}" IsDeleted="false">\n"""
+        self.data3 = f'\t<ObjectId>{num}</ObjectId>\n'
+        self.data4 = f'\t<Id>{num}</Id>\n'
+        self.data5 = f'\t<LocalChange>{LocalChange}</LocalChange>\n'
+        self.data6 = f'\t<LastUpdate>{datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")}</LastUpdate>\n'
+        self.data7 = f'\t<Code>{code}</Code>\n'
+        self.data8 = f'\t<CodeLat>{code_lat}</CodeLat>\n' if code_lat != "" else '\t\t<CodeLat> />\n'
+        self.data9 = f'\t<Name>{name}</Name>\n'
+        self.data10 = f'\t<NameLat>{name_lat}</NameLat>\n' if name_lat != "" else '\t\t<NameLat />\n'
         self.data11 = '\t<Names />\n'
         self.data12 = '\t<NamesXml />\n'
         self.data13 = '\t<Comment />\n'
         self.data14 = '\t<BeginDate>0001-01-01T00:00:00</BeginDate>\n'
         self.data15 = '\t<EndDate>0001-01-01T00:00:00</EndDate>\n'
         self.data16 = '\t<ShowOnChart>true</ShowOnChart>\n'
-        self.data17 = '\t<Latitude>%s</Latitude>\n' % lat
-        self.data18 = '\t<Longitude>%s</Longitude>\n' % lon
+        self.data17 = f'\t<Latitude>{lat}</Latitude>\n'
+        self.data18 = f'\t<Longitude>{lon}</Longitude>\n'
         self.data19 = '\t<Elevation>0</Elevation>\n'
-        self.data20 = '\t<MagneticDeclination>%s</MagneticDeclination>\n' % magnetic
+        self.data20 = f'\t<MagneticDeclination>{magnetic}</MagneticDeclination>\n'
         self.data21 = '\t<Frequencies />\n'
-        self.data22 = '\t<Type>%s</Type>\n' % type_
-        self.data24 = '\t<IsACP>%s</IsACP>\n' % IsACP
-        self.data25 = '\t<IsInOut>%s</IsInOut>\n' % IsInOut
-        self.data26 = '\t<IsInOutCIS>%s</IsInOutCIS>\n' %IsInOutCIS
-        self.data27 = '\t<IsGateWay>%s</IsGateWay>\n' %IsGateWay
-        self.data28 = '\t<IsTransferPoint>%s</IsTransferPoint>\n' % IsTransferPoint
-        self.data29 = '\t<IsTransferPoint_ACP>%s</IsTransferPoint_ACP>\n' % IsTransferPoint_ACP
-        self.data33 = '\t<IsInAirway>%s</IsInAirway>\n' % IsInAirway
-        self.data34 = '\t<IsMvl>%s</IsMvl>\n' % IsMvl
-        self.data38 = '\t<AirportType>%s</AirportType>\n' % airport_type
-        self.data39 = '\t<AirportUsageType>%s</AirportUsageType>\n' % AirportUsageType
-        self.data40 = '\t<AirportOwnerType>%s</AirportOwnerType>\n' % AirportOwnerType
-        self.data41 = '\t<Class>%s</Class>\n' % class_
+        self.data22 = f'\t<Type>{type_}</Type>\n'
+        self.data24 = f'\t<IsACP>{IsACP}</IsACP>\n'
+        self.data25 = f'\t<IsInOut>{IsInOut}</IsInOut>\n'
+        self.data26 = f'\t<IsInOutCIS>{IsInOutCIS}</IsInOutCIS>\n'
+        self.data27 = f'\t<IsGateWay>{IsGateWay}</IsGateWay>\n'
+        self.data28 = f'\t<IsTransferPoint>{IsTransferPoint}</IsTransferPoint>\n'
+        self.data29 = f'\t<IsTransferPoint_ACP>{IsTransferPoint_ACP}</IsTransferPoint_ACP>\n'
+        self.data33 = f'\t<IsInAirway>{IsInAirway}</IsInAirway>\n'
+        self.data34 = f'\t<IsMvl>{IsMvl}</IsMvl>\n'
+        self.data38 = f'\t<AirportType>{airport_type}</AirportType>\n'
+        self.data39 = f'\t<AirportUsageType>{AirportUsageType}</AirportUsageType>\n'
+        self.data40 = f'\t<AirportOwnerType>{AirportOwnerType}</AirportOwnerType>\n'
+        self.data41 = f'\t<Class>{class_}</Class>\n'
         self.data42 = '\t<AftnAddr />\n'
-        self.data43 = '\t<CallLetter>%s</CallLetter>\n' % CallLetter if CallLetter != "" else '\t<CallLetter >/\n'
+        self.data43 = f'\t<CallLetter>{CallLetter}</CallLetter>\n' if CallLetter != "" else '\t<CallLetter />\n'
         self.data44 = '\t<WorkingTimeRange IsCancelled="false" minlevel="M/M=0/FL=0/FWD" maxlevel="M/M=16100/FL=528/FWD">\n'
         self.data45 = '\t\t<ObjectId>0</ObjectId>\n'
         self.data46 = '\t\t<Id>0</Id>\n'
@@ -363,27 +323,17 @@ class FamiliarNames:
     def change_ID(self):
         self.id = self.lst[14]
         self.ObjectId = self.lst[15] if self.lst[15] != '0' else ""
-        self.data3 = '\t<ObjectId>%s</ObjectId>\n' % self.ObjectId
-        self.data4 = '\t<Id>%s</Id>\n' % self.id
+        self.data3 = f'\t<ObjectId>{ObjectId}</ObjectId>\n'
+        self.data4 = f'\t<Id>{Id}</Id>\n'
         self.data_list = [self.data0, self.data2, self.data3, self.data4, self.data5, self.data6,
                           self.data7, self.data8, self.data9, self.data10, self.data11, self.data12,
                           self.data13,self.data14, self.data15, self.data16, self.data17, self.data18,
-                          self.data19, self.data20, self.data21, self.data22, self.data24, self.data25
+                          self.data19, self.data20, self.data21, self.data22, self.data24, self.data25,
                           self.data26, self.data27, self.data28, self.data29, self.data33, self.data34,
                           self.data38, self.data39, self.data40, self.data41, self.data42, self.data43,
                           self.data44, self.data45, self.data46, self.data47, self.data48, self.data49,
                           self.data50, self.data51, self.data52, self.data53, self.data54, self.data55,
                           self.data56, self.data57]
-        return self.data_list
-
-    def make_list(self):
-        self.data_list = [self.data2, self.data3, self.data4, self.data5, self.data6,self.data7, self.data8,
-                          self.data9, self.data10, self.data11, self.data12, self.data13,self.data14, self.data15,
-                          self.data16, self.data17, self.data18, self.data19, self.data20, self.data21, self.data22,
-                          self.data24, self.data25, self.data26, self.data27, self.data28, self.data29, self.data33,
-                          self.data34, self.data38, self.data39, self.data40, self.data41, self.data42, self.data43,
-                          self.data44, self.data45, self.data46, self.data47, self.data48, self.data49, self.data50,
-                          self.data51, self.data52, self.data53, self.data54, self.data55, self.data56, self.data57]
         return self.data_list
 
     def simple_list(self):

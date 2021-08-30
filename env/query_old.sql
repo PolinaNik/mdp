@@ -16912,7 +16912,7 @@ false	<IsTransferPoint_ACP>false</IsTransferPoint_ACP>
 	<AirportOwnerType>NotDefined</AirportOwnerType>
 	<Class>Unknown</Class>
 	<AftnAddr />
-	<CallLetter >/
+	<CallLetter />
 	<WorkingTimeRange IsCancelled="false" minlevel="M/M=0/FL=0/FWD" maxlevel="M/M=16100/FL=528/FWD">
 		<ObjectId>0</ObjectId>
 		<Id>0</Id>
