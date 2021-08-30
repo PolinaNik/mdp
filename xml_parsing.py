@@ -5,6 +5,57 @@ import transliterate
 import datetime
 import modules
 import xlwt
+import re
+
+
+with open('guides.sql', 'r', encoding='utf-8') as file:
+    sql = file.readlines()
+
+insert_list = []
+
+pat = re.compile(r'(INSERT).+')
+for x in sql:
+    s = pat.search(x)
+    if s:
+        insert_list.append(s.group())
+
+values_list = []
+pat2 = re.compile(r'(?<=\().*?(?=\))')
+for x in insert_list:
+    res = pat2.findall(x)
+    values_list += res
+
+MapPoint_list = []
+pat3 = re.compile(r"\d+,'MapPoint'")
+for x in values_list:
+    s = pat3.search(x)
+    if s:
+        MapPoint_list.append(x)
+
+pat_pod = re.compile(r'<Type>POD')
+pat_pdz = re.compile(r'<Type>PDZ')
+
+POD_PDZ = []
+for x in MapPoint_list:
+    s1 = pat_pod.search(x)
+    s2 = pat_pdz.search(x)
+    if s1 or s2:
+        POD_PDZ.append(x)
+
+pat_name = re.compile(r'(?<=\<Code>).{5}(?=\<)')
+names_five = []
+for x in POD_PDZ:
+    s = pat_name.search(x)
+    if s:
+        names_five.append(x)
+
+delete_id = []
+pat_id = re.compile(r'\d+')
+for x in names_five:
+    s = pat_id.findall(x)
+    delete_id.append(s[0])
+
+
 
 # Opening existing XML file with points
 with open('Points.xml', 'r', encoding='utf-8') as file:
@@ -237,7 +288,6 @@ class FamiliarNames:
     def __init__(self, lst, num):
         self.lst = lst
         version = lst[0] if lst[0] is not None else '0'
-        version = str(int(version)+1)
         code = lst[1]
         code_lat = transliterate.translit(lst[1], 'ru', reversed=True)
         name = lst[1] if lst[3] is None else lst[3]
@@ -272,7 +322,7 @@ class FamiliarNames:
         self.data3 = f'\t<ObjectId>{num}</ObjectId>\n'
         self.data4 = f'\t<Id>{num}</Id>\n'
         self.data5 = f'\t<LocalChange>{LocalChange}</LocalChange>\n'
-        self.data6 = f'\t<LastUpdate>{datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")}</LastUpdate>\n'
+        self.data6 = f'\t<LastUpdate>{datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")}</LastUpdate>\n'
         self.data7 = f'\t<Code>{code}</Code>\n'
         self.data8 = f'\t<CodeLat>{code_lat}</CodeLat>\n' if code_lat != "" else '\t\t<CodeLat> />\n'
         self.data9 = f'\t<Name>{name}</Name>\n'
@@ -320,7 +370,7 @@ class FamiliarNames:
 
     def change_ID(self):
         self.id = self.lst[14]
-        self.ObjectId = self.lst[15] if self.lst[15] != '0' else ""
+        self.ObjectId = self.lst[15]
         self.data3 = f'\t<ObjectId>{self.ObjectId}</ObjectId>\n'
         self.data4 = f'\t<Id>{self.id}</Id>\n'
         self.data_list = [self.data0, self.data2, self.data3, self.data4, self.data5, self.data6,
@@ -359,7 +409,7 @@ result_old = {}
 count = length
 for num, item in enumerate(final_old):
     real_num = num + length
-    if item[14] and item[15] is not None:
+    if item[14] in delete_id:
         point = FamiliarNames(item, real_num)
         point_xml = point.change_ID()
         new_value = {point.id: [point_xml, 1 if item[0] is None else int(item[0]) + 1]}
@@ -399,3 +449,9 @@ full_query = begin_query + body_query + ';'
 
 with open('query_old.sql', 'w', encoding='cp1251') as sql:
     sql.write(full_query)
+
+
+res = ',\n'.join(delete_id)
+del_query = f"DELETE FROM tbl_guides WHERE guides_id IN ({res});"
+with open('delete_query.sql', 'w', encoding='cp1251') as sql:
+    sql.write(del_query)

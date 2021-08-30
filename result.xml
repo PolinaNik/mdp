@@ -4,7 +4,7 @@
 		<ObjectId>1</ObjectId>
 		<Id>1</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АБЕДИ</Code>
 		<CodeLat>ABEDI</CodeLat>
 		<Name>АБЕДИ</Name>
@@ -41,8 +41,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -53,7 +53,7 @@
 		<ObjectId>2</ObjectId>
 		<Id>2</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АДЛЕМ</Code>
 		<CodeLat>ADLEM</CodeLat>
 		<Name>АДЛЕМ</Name>
@@ -90,8 +90,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -102,7 +102,7 @@
 		<ObjectId>3</ObjectId>
 		<Id>3</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АГЛОН</Code>
 		<CodeLat>AGLON</CodeLat>
 		<Name>АГЛОН</Name>
@@ -139,8 +139,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -151,7 +151,7 @@
 		<ObjectId>4</ObjectId>
 		<Id>4</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АГОСУ</Code>
 		<CodeLat>AGOSU</CodeLat>
 		<Name>АГОСУ</Name>
@@ -188,8 +188,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -200,7 +200,7 @@
 		<ObjectId>5</ObjectId>
 		<Id>5</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АКЕМА</Code>
 		<CodeLat>AKEMA</CodeLat>
 		<Name>АКЕМА</Name>
@@ -237,8 +237,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -249,7 +249,7 @@
 		<ObjectId>6</ObjectId>
 		<Id>6</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АКИМО</Code>
 		<CodeLat>AKIMO</CodeLat>
 		<Name>АКИМО</Name>
@@ -286,8 +286,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -298,7 +298,7 @@
 		<ObjectId>7</ObjectId>
 		<Id>7</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АЛАКТ</Code>
 		<CodeLat>ALAKT</CodeLat>
 		<Name>АЛАКТ</Name>
@@ -335,8 +335,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -347,7 +347,7 @@
 		<ObjectId>8</ObjectId>
 		<Id>8</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АЛСЕН</Code>
 		<CodeLat>ALSEN</CodeLat>
 		<Name>АЛСЕН</Name>
@@ -384,8 +384,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -396,7 +396,7 @@
 		<ObjectId>9</ObjectId>
 		<Id>9</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АМГАА</Code>
 		<CodeLat>AMGAA</CodeLat>
 		<Name>АМГАА</Name>
@@ -433,8 +433,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -445,7 +445,7 @@
 		<ObjectId>10</ObjectId>
 		<Id>10</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АМСИС</Code>
 		<CodeLat>AMSIS</CodeLat>
 		<Name>АМСИС</Name>
@@ -482,8 +482,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -494,7 +494,7 @@
 		<ObjectId>11</ObjectId>
 		<Id>11</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АНАПК</Code>
 		<CodeLat>ANAPK</CodeLat>
 		<Name>АНАПК</Name>
@@ -531,8 +531,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -543,7 +543,7 @@
 		<ObjectId>12</ObjectId>
 		<Id>12</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АНГАИ</Code>
 		<CodeLat>ANGAI</CodeLat>
 		<Name>АНГАИ</Name>
@@ -580,8 +580,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -592,7 +592,7 @@
 		<ObjectId>13</ObjectId>
 		<Id>13</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АПТИК</Code>
 		<CodeLat>APTIK</CodeLat>
 		<Name>АПТИК</Name>
@@ -629,8 +629,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -641,7 +641,7 @@
 		<ObjectId>14</ObjectId>
 		<Id>14</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АРАКО</Code>
 		<CodeLat>ARAKO</CodeLat>
 		<Name>АРАКО</Name>
@@ -678,8 +678,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -690,7 +690,7 @@
 		<ObjectId>15</ObjectId>
 		<Id>15</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АРГАС</Code>
 		<CodeLat>ARGAS</CodeLat>
 		<Name>АРГАС</Name>
@@ -727,8 +727,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -739,7 +739,7 @@
 		<ObjectId>16</ObjectId>
 		<Id>16</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АСАНА</Code>
 		<CodeLat>ASANA</CodeLat>
 		<Name>АСАНА</Name>
@@ -776,8 +776,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -788,7 +788,7 @@
 		<ObjectId>17</ObjectId>
 		<Id>17</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АТЛАО</Code>
 		<CodeLat>ATLAO</CodeLat>
 		<Name>АТЛАО</Name>
@@ -825,8 +825,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -837,7 +837,7 @@
 		<ObjectId>18</ObjectId>
 		<Id>18</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АТНАД</Code>
 		<CodeLat>ATNAD</CodeLat>
 		<Name>АТНАД</Name>
@@ -874,8 +874,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -886,7 +886,7 @@
 		<ObjectId>19</ObjectId>
 		<Id>19</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БАБСО</Code>
 		<CodeLat>BABSO</CodeLat>
 		<Name>БАБСО</Name>
@@ -923,8 +923,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -935,7 +935,7 @@
 		<ObjectId>20</ObjectId>
 		<Id>20</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БАГМО</Code>
 		<CodeLat>BAGMO</CodeLat>
 		<Name>БАГМО</Name>
@@ -972,8 +972,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -984,7 +984,7 @@
 		<ObjectId>21</ObjectId>
 		<Id>21</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БАГОП</Code>
 		<CodeLat>BAGOP</CodeLat>
 		<Name>БАГОП</Name>
@@ -1021,8 +1021,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1033,7 +1033,7 @@
 		<ObjectId>22</ObjectId>
 		<Id>22</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БАКИР</Code>
 		<CodeLat>BAKIR</CodeLat>
 		<Name>БАКИР</Name>
@@ -1070,8 +1070,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1082,7 +1082,7 @@
 		<ObjectId>23</ObjectId>
 		<Id>23</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БАКОК</Code>
 		<CodeLat>BAKOK</CodeLat>
 		<Name>БАКОК</Name>
@@ -1119,8 +1119,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1131,7 +1131,7 @@
 		<ObjectId>24</ObjectId>
 		<Id>24</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БАНАИ</Code>
 		<CodeLat>BANAI</CodeLat>
 		<Name>БАНАИ</Name>
@@ -1168,8 +1168,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1180,7 +1180,7 @@
 		<ObjectId>25</ObjectId>
 		<Id>25</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БАНИБ</Code>
 		<CodeLat>BANIB</CodeLat>
 		<Name>БАНИБ</Name>
@@ -1217,8 +1217,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1229,7 +1229,7 @@
 		<ObjectId>26</ObjectId>
 		<Id>26</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БАНОТ</Code>
 		<CodeLat>BANOT</CodeLat>
 		<Name>БАНОТ</Name>
@@ -1266,8 +1266,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1278,7 +1278,7 @@
 		<ObjectId>27</ObjectId>
 		<Id>27</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БАРУМ</Code>
 		<CodeLat>BARUM</CodeLat>
 		<Name>БАРУМ</Name>
@@ -1315,8 +1315,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1327,7 +1327,7 @@
 		<ObjectId>28</ObjectId>
 		<Id>28</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БАТЕР</Code>
 		<CodeLat>BATER</CodeLat>
 		<Name>БАТЕР</Name>
@@ -1364,8 +1364,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1376,7 +1376,7 @@
 		<ObjectId>29</ObjectId>
 		<Id>29</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БЕКЛЕ</Code>
 		<CodeLat>BEKLE</CodeLat>
 		<Name>БЕКЛЕ</Name>
@@ -1413,8 +1413,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1425,7 +1425,7 @@
 		<ObjectId>30</ObjectId>
 		<Id>30</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БЕЛАУ</Code>
 		<CodeLat>BELAU</CodeLat>
 		<Name>БЕЛАУ</Name>
@@ -1462,8 +1462,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1474,7 +1474,7 @@
 		<ObjectId>31</ObjectId>
 		<Id>31</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БЕМПО</Code>
 		<CodeLat>BEMPO</CodeLat>
 		<Name>БЕМПО</Name>
@@ -1511,8 +1511,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1523,7 +1523,7 @@
 		<ObjectId>32</ObjectId>
 		<Id>32</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БЕНУД</Code>
 		<CodeLat>BENUD</CodeLat>
 		<Name>БЕНУД</Name>
@@ -1560,8 +1560,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1572,7 +1572,7 @@
 		<ObjectId>33</ObjectId>
 		<Id>33</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БЕРТС</Code>
 		<CodeLat>BERTS</CodeLat>
 		<Name>БЕРТС</Name>
@@ -1609,8 +1609,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1621,7 +1621,7 @@
 		<ObjectId>34</ObjectId>
 		<Id>34</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БЕТУБ</Code>
 		<CodeLat>BETUB</CodeLat>
 		<Name>БЕТУБ</Name>
@@ -1658,8 +1658,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1670,7 +1670,7 @@
 		<ObjectId>35</ObjectId>
 		<Id>35</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БИНАМ</Code>
 		<CodeLat>BINAM</CodeLat>
 		<Name>БИНАМ</Name>
@@ -1707,8 +1707,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1719,7 +1719,7 @@
 		<ObjectId>36</ObjectId>
 		<Id>36</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БИТКИ</Code>
 		<CodeLat>BITKI</CodeLat>
 		<Name>БИТКИ</Name>
@@ -1756,8 +1756,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1768,7 +1768,7 @@
 		<ObjectId>37</ObjectId>
 		<Id>37</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БОБЕН</Code>
 		<CodeLat>BOBEN</CodeLat>
 		<Name>БОБЕН</Name>
@@ -1805,8 +1805,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1817,7 +1817,7 @@
 		<ObjectId>38</ObjectId>
 		<Id>38</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БОЛИК</Code>
 		<CodeLat>BOLIK</CodeLat>
 		<Name>БОЛИК</Name>
@@ -1854,8 +1854,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1866,7 +1866,7 @@
 		<ObjectId>39</ObjectId>
 		<Id>39</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БРУНС</Code>
 		<CodeLat>BRUNS</CodeLat>
 		<Name>БРУНС</Name>
@@ -1903,8 +1903,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1915,7 +1915,7 @@
 		<ObjectId>40</ObjectId>
 		<Id>40</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БУМАТ</Code>
 		<CodeLat>BUMAT</CodeLat>
 		<Name>БУМАТ</Name>
@@ -1952,8 +1952,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -1964,7 +1964,7 @@
 		<ObjectId>41</ObjectId>
 		<Id>41</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БУПАК</Code>
 		<CodeLat>BUPAK</CodeLat>
 		<Name>БУПАК</Name>
@@ -2001,8 +2001,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2013,7 +2013,7 @@
 		<ObjectId>42</ObjectId>
 		<Id>42</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>БУРУС</Code>
 		<CodeLat>BURUS</CodeLat>
 		<Name>БУРУС</Name>
@@ -2050,8 +2050,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2062,7 +2062,7 @@
 		<ObjectId>43</ObjectId>
 		<Id>43</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДАБОЛ</Code>
 		<CodeLat>DABOL</CodeLat>
 		<Name>ДАБОЛ</Name>
@@ -2099,8 +2099,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2111,7 +2111,7 @@
 		<ObjectId>44</ObjectId>
 		<Id>44</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДАЛЕК</Code>
 		<CodeLat>DALEK</CodeLat>
 		<Name>ДАЛЕК</Name>
@@ -2148,8 +2148,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2160,7 +2160,7 @@
 		<ObjectId>45</ObjectId>
 		<Id>45</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДАНАС</Code>
 		<CodeLat>DANAS</CodeLat>
 		<Name>ДАНАС</Name>
@@ -2197,8 +2197,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2209,7 +2209,7 @@
 		<ObjectId>46</ObjectId>
 		<Id>46</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДБАРИ</Code>
 		<CodeLat>DBARI</CodeLat>
 		<Name>ДБАРИ</Name>
@@ -2246,8 +2246,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2258,7 +2258,7 @@
 		<ObjectId>47</ObjectId>
 		<Id>47</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДЕКАК</Code>
 		<CodeLat>DEKAK</CodeLat>
 		<Name>ДЕКАК</Name>
@@ -2295,8 +2295,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2307,7 +2307,7 @@
 		<ObjectId>48</ObjectId>
 		<Id>48</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДЕНЕД</Code>
 		<CodeLat>DENED</CodeLat>
 		<Name>ДЕНЕД</Name>
@@ -2344,8 +2344,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2356,7 +2356,7 @@
 		<ObjectId>49</ObjectId>
 		<Id>49</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДЕНОД</Code>
 		<CodeLat>DENOD</CodeLat>
 		<Name>ДЕНОД</Name>
@@ -2393,8 +2393,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2405,7 +2405,7 @@
 		<ObjectId>50</ObjectId>
 		<Id>50</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДЕПУМ</Code>
 		<CodeLat>DEPUM</CodeLat>
 		<Name>ДЕПУМ</Name>
@@ -2442,8 +2442,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2454,7 +2454,7 @@
 		<ObjectId>51</ObjectId>
 		<Id>51</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДЕРУД</Code>
 		<CodeLat>DERUD</CodeLat>
 		<Name>ДЕРУД</Name>
@@ -2491,8 +2491,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2503,7 +2503,7 @@
 		<ObjectId>52</ObjectId>
 		<Id>52</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДЕТОП</Code>
 		<CodeLat>DETOP</CodeLat>
 		<Name>ДЕТОП</Name>
@@ -2540,8 +2540,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2552,7 +2552,7 @@
 		<ObjectId>53</ObjectId>
 		<Id>53</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДИРКИ</Code>
 		<CodeLat>DIRKI</CodeLat>
 		<Name>ДИРКИ</Name>
@@ -2589,8 +2589,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2601,7 +2601,7 @@
 		<ObjectId>54</ObjectId>
 		<Id>54</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДИСПУ</Code>
 		<CodeLat>DISPU</CodeLat>
 		<Name>ДИСПУ</Name>
@@ -2638,8 +2638,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2650,7 +2650,7 @@
 		<ObjectId>55</ObjectId>
 		<Id>55</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДОГОР</Code>
 		<CodeLat>DOGOR</CodeLat>
 		<Name>ДОГОР</Name>
@@ -2687,8 +2687,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2699,7 +2699,7 @@
 		<ObjectId>56</ObjectId>
 		<Id>56</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДОМИР</Code>
 		<CodeLat>DOMIR</CodeLat>
 		<Name>ДОМИР</Name>
@@ -2736,8 +2736,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2748,7 +2748,7 @@
 		<ObjectId>57</ObjectId>
 		<Id>57</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДОМУД</Code>
 		<CodeLat>DOMUD</CodeLat>
 		<Name>ДОМУД</Name>
@@ -2785,8 +2785,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2797,7 +2797,7 @@
 		<ObjectId>58</ObjectId>
 		<Id>58</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДОСИБ</Code>
 		<CodeLat>DOSIB</CodeLat>
 		<Name>ДОСИБ</Name>
@@ -2834,8 +2834,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2846,7 +2846,7 @@
 		<ObjectId>59</ObjectId>
 		<Id>59</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДОСОТ</Code>
 		<CodeLat>DOSOT</CodeLat>
 		<Name>ДОСОТ</Name>
@@ -2883,8 +2883,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2895,7 +2895,7 @@
 		<ObjectId>60</ObjectId>
 		<Id>60</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДРОНИ</Code>
 		<CodeLat>DRONI</CodeLat>
 		<Name>ДРОНИ</Name>
@@ -2932,8 +2932,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2944,7 +2944,7 @@
 		<ObjectId>61</ObjectId>
 		<Id>61</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДУКУК</Code>
 		<CodeLat>DUKUK</CodeLat>
 		<Name>ДУКУК</Name>
@@ -2981,8 +2981,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -2993,7 +2993,7 @@
 		<ObjectId>62</ObjectId>
 		<Id>62</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДУКУН</Code>
 		<CodeLat>DUKUN</CodeLat>
 		<Name>ДУКУН</Name>
@@ -3030,8 +3030,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3042,7 +3042,7 @@
 		<ObjectId>63</ObjectId>
 		<Id>63</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ДУЛНИ</Code>
 		<CodeLat>DULNI</CodeLat>
 		<Name>ДУЛНИ</Name>
@@ -3079,8 +3079,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3091,7 +3091,7 @@
 		<ObjectId>64</ObjectId>
 		<Id>64</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЕРКАМ</Code>
 		<CodeLat>ERKAM</CodeLat>
 		<Name>ЕРКАМ</Name>
@@ -3128,8 +3128,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3140,7 +3140,7 @@
 		<ObjectId>65</ObjectId>
 		<Id>65</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЕССОН</Code>
 		<CodeLat>ESSON</CodeLat>
 		<Name>ЕССОН</Name>
@@ -3177,8 +3177,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3189,7 +3189,7 @@
 		<ObjectId>66</ObjectId>
 		<Id>66</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЕТУСИ</Code>
 		<CodeLat>ETUSI</CodeLat>
 		<Name>ЕТУСИ</Name>
@@ -3226,8 +3226,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3238,7 +3238,7 @@
 		<ObjectId>67</ObjectId>
 		<Id>67</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГАЛАС</Code>
 		<CodeLat>GALAS</CodeLat>
 		<Name>ГАЛАС</Name>
@@ -3275,8 +3275,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3287,7 +3287,7 @@
 		<ObjectId>68</ObjectId>
 		<Id>68</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГАЛНК</Code>
 		<CodeLat>GALNK</CodeLat>
 		<Name>ГАЛНК</Name>
@@ -3324,8 +3324,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3336,7 +3336,7 @@
 		<ObjectId>69</ObjectId>
 		<Id>69</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГАЛУН</Code>
 		<CodeLat>GALUN</CodeLat>
 		<Name>ГАЛУН</Name>
@@ -3373,8 +3373,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3385,7 +3385,7 @@
 		<ObjectId>70</ObjectId>
 		<Id>70</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГЕКАР</Code>
 		<CodeLat>GEKAR</CodeLat>
 		<Name>ГЕКАР</Name>
@@ -3422,8 +3422,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3434,7 +3434,7 @@
 		<ObjectId>71</ObjectId>
 		<Id>71</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГЕЛАК</Code>
 		<CodeLat>GELAK</CodeLat>
 		<Name>ГЕЛАК</Name>
@@ -3471,8 +3471,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3483,7 +3483,7 @@
 		<ObjectId>72</ObjectId>
 		<Id>72</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГИМИН</Code>
 		<CodeLat>GIMIN</CodeLat>
 		<Name>ГИМИН</Name>
@@ -3520,8 +3520,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3532,7 +3532,7 @@
 		<ObjectId>73</ObjectId>
 		<Id>73</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГИМОМ</Code>
 		<CodeLat>GIMOM</CodeLat>
 		<Name>ГИМОМ</Name>
@@ -3569,8 +3569,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3581,7 +3581,7 @@
 		<ObjectId>74</ObjectId>
 		<Id>74</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГИРОД</Code>
 		<CodeLat>GIROD</CodeLat>
 		<Name>ГИРОД</Name>
@@ -3618,8 +3618,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3630,7 +3630,7 @@
 		<ObjectId>75</ObjectId>
 		<Id>75</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГИТАР</Code>
 		<CodeLat>GITAR</CodeLat>
 		<Name>ГИТАР</Name>
@@ -3667,8 +3667,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3679,7 +3679,7 @@
 		<ObjectId>76</ObjectId>
 		<Id>76</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГОГНА</Code>
 		<CodeLat>GOGNA</CodeLat>
 		<Name>ГОГНА</Name>
@@ -3716,8 +3716,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3728,7 +3728,7 @@
 		<ObjectId>77</ObjectId>
 		<Id>77</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГОЛАБ</Code>
 		<CodeLat>GOLAB</CodeLat>
 		<Name>ГОЛАБ</Name>
@@ -3765,8 +3765,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3777,7 +3777,7 @@
 		<ObjectId>78</ObjectId>
 		<Id>78</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГОПТИ</Code>
 		<CodeLat>GOPTI</CodeLat>
 		<Name>ГОПТИ</Name>
@@ -3814,8 +3814,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3826,7 +3826,7 @@
 		<ObjectId>79</ObjectId>
 		<Id>79</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИДАМУ</Code>
 		<CodeLat>IDAMU</CodeLat>
 		<Name>ИДАМУ</Name>
@@ -3863,8 +3863,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3875,7 +3875,7 @@
 		<ObjectId>80</ObjectId>
 		<Id>80</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИДЛАТ</Code>
 		<CodeLat>IDLAT</CodeLat>
 		<Name>ИДЛАТ</Name>
@@ -3912,8 +3912,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3924,7 +3924,7 @@
 		<ObjectId>81</ObjectId>
 		<Id>81</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИДНАК</Code>
 		<CodeLat>IDNAK</CodeLat>
 		<Name>ИДНАК</Name>
@@ -3961,8 +3961,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -3973,7 +3973,7 @@
 		<ObjectId>82</ObjectId>
 		<Id>82</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИДСЕК</Code>
 		<CodeLat>IDSEK</CodeLat>
 		<Name>ИДСЕК</Name>
@@ -4010,8 +4010,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4022,7 +4022,7 @@
 		<ObjectId>83</ObjectId>
 		<Id>83</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИГАНА</Code>
 		<CodeLat>IGANA</CodeLat>
 		<Name>ИГАНА</Name>
@@ -4059,8 +4059,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4071,7 +4071,7 @@
 		<ObjectId>84</ObjectId>
 		<Id>84</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИГРОК</Code>
 		<CodeLat>IGROK</CodeLat>
 		<Name>ИГРОК</Name>
@@ -4108,8 +4108,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4120,7 +4120,7 @@
 		<ObjectId>85</ObjectId>
 		<Id>85</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИКАСК</Code>
 		<CodeLat>IKASK</CodeLat>
 		<Name>ИКАСК</Name>
@@ -4157,8 +4157,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4169,7 +4169,7 @@
 		<ObjectId>86</ObjectId>
 		<Id>86</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИМИКО</Code>
 		<CodeLat>IMIKO</CodeLat>
 		<Name>ИМИКО</Name>
@@ -4206,8 +4206,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4218,7 +4218,7 @@
 		<ObjectId>87</ObjectId>
 		<Id>87</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИМКАЛ</Code>
 		<CodeLat>IMKAL</CodeLat>
 		<Name>ИМКАЛ</Name>
@@ -4255,8 +4255,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4267,7 +4267,7 @@
 		<ObjectId>88</ObjectId>
 		<Id>88</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИНКАГ</Code>
 		<CodeLat>INKAG</CodeLat>
 		<Name>ИНКАГ</Name>
@@ -4304,8 +4304,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4316,7 +4316,7 @@
 		<ObjectId>89</ObjectId>
 		<Id>89</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИРЕЛЕ</Code>
 		<CodeLat>IRELE</CodeLat>
 		<Name>ИРЕЛЕ</Name>
@@ -4353,8 +4353,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4365,7 +4365,7 @@
 		<ObjectId>90</ObjectId>
 		<Id>90</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИРОНИ</Code>
 		<CodeLat>IRONI</CodeLat>
 		<Name>ИРОНИ</Name>
@@ -4402,8 +4402,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4414,7 +4414,7 @@
 		<ObjectId>91</ObjectId>
 		<Id>91</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИСАТА</Code>
 		<CodeLat>ISATA</CodeLat>
 		<Name>ИСАТА</Name>
@@ -4451,8 +4451,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4463,7 +4463,7 @@
 		<ObjectId>92</ObjectId>
 		<Id>92</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ИТИКУ</Code>
 		<CodeLat>ITIKU</CodeLat>
 		<Name>ИТИКУ</Name>
@@ -4500,8 +4500,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4512,7 +4512,7 @@
 		<ObjectId>93</ObjectId>
 		<Id>93</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КАГИЛ</Code>
 		<CodeLat>KAGIL</CodeLat>
 		<Name>КАГИЛ</Name>
@@ -4549,8 +4549,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4561,7 +4561,7 @@
 		<ObjectId>94</ObjectId>
 		<Id>94</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КАМАИ</Code>
 		<CodeLat>KAMAI</CodeLat>
 		<Name>КАМАИ</Name>
@@ -4598,8 +4598,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4610,7 +4610,7 @@
 		<ObjectId>95</ObjectId>
 		<Id>95</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КАМАТ</Code>
 		<CodeLat>KAMAT</CodeLat>
 		<Name>КАМАТ</Name>
@@ -4647,8 +4647,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4659,7 +4659,7 @@
 		<ObjectId>96</ObjectId>
 		<Id>96</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КАМЕН</Code>
 		<CodeLat>KAMEN</CodeLat>
 		<Name>КАМЕН</Name>
@@ -4696,8 +4696,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4708,7 +4708,7 @@
 		<ObjectId>97</ObjectId>
 		<Id>97</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КАНКУ</Code>
 		<CodeLat>KANKU</CodeLat>
 		<Name>КАНКУ</Name>
@@ -4745,8 +4745,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4757,7 +4757,7 @@
 		<ObjectId>98</ObjectId>
 		<Id>98</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КАРТА</Code>
 		<CodeLat>KARTA</CodeLat>
 		<Name>КАРТА</Name>
@@ -4794,8 +4794,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4806,7 +4806,7 @@
 		<ObjectId>99</ObjectId>
 		<Id>99</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КАСБИ</Code>
 		<CodeLat>KASBI</CodeLat>
 		<Name>КАСБИ</Name>
@@ -4843,8 +4843,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4855,7 +4855,7 @@
 		<ObjectId>100</ObjectId>
 		<Id>100</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КАТНИ</Code>
 		<CodeLat>KATNI</CodeLat>
 		<Name>КАТНИ</Name>
@@ -4892,8 +4892,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4904,7 +4904,7 @@
 		<ObjectId>101</ObjectId>
 		<Id>101</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КЕБЛИ</Code>
 		<CodeLat>KEBLI</CodeLat>
 		<Name>КЕБЛИ</Name>
@@ -4941,8 +4941,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -4953,7 +4953,7 @@
 		<ObjectId>102</ObjectId>
 		<Id>102</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КЕБУМ</Code>
 		<CodeLat>KEBUM</CodeLat>
 		<Name>КЕБУМ</Name>
@@ -4990,8 +4990,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5002,7 +5002,7 @@
 		<ObjectId>103</ObjectId>
 		<Id>103</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КЕДУД</Code>
 		<CodeLat>KEDUD</CodeLat>
 		<Name>КЕДУД</Name>
@@ -5039,8 +5039,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5051,7 +5051,7 @@
 		<ObjectId>104</ObjectId>
 		<Id>104</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КЕГОН</Code>
 		<CodeLat>KEGON</CodeLat>
 		<Name>КЕГОН</Name>
@@ -5088,8 +5088,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5100,7 +5100,7 @@
 		<ObjectId>105</ObjectId>
 		<Id>105</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КЕЛКЕ</Code>
 		<CodeLat>KELKE</CodeLat>
 		<Name>КЕЛКЕ</Name>
@@ -5137,8 +5137,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5149,7 +5149,7 @@
 		<ObjectId>106</ObjectId>
 		<Id>106</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КЕЛОЛ</Code>
 		<CodeLat>KELOL</CodeLat>
 		<Name>КЕЛОЛ</Name>
@@ -5186,8 +5186,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5198,7 +5198,7 @@
 		<ObjectId>107</ObjectId>
 		<Id>107</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КИСУМ</Code>
 		<CodeLat>KISUM</CodeLat>
 		<Name>КИСУМ</Name>
@@ -5235,8 +5235,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5247,7 +5247,7 @@
 		<ObjectId>108</ObjectId>
 		<Id>108</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КНИРА</Code>
 		<CodeLat>KNIRA</CodeLat>
 		<Name>КНИРА</Name>
@@ -5284,8 +5284,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5296,7 +5296,7 @@
 		<ObjectId>109</ObjectId>
 		<Id>109</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КОКЛО</Code>
 		<CodeLat>KOKLO</CodeLat>
 		<Name>КОКЛО</Name>
@@ -5333,8 +5333,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5345,7 +5345,7 @@
 		<ObjectId>110</ObjectId>
 		<Id>110</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КОМНА</Code>
 		<CodeLat>KOMNA</CodeLat>
 		<Name>КОМНА</Name>
@@ -5382,8 +5382,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5394,7 +5394,7 @@
 		<ObjectId>111</ObjectId>
 		<Id>111</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КОПСА</Code>
 		<CodeLat>KOPSA</CodeLat>
 		<Name>КОПСА</Name>
@@ -5431,8 +5431,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5443,7 +5443,7 @@
 		<ObjectId>112</ObjectId>
 		<Id>112</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КОРИС</Code>
 		<CodeLat>KORIS</CodeLat>
 		<Name>КОРИС</Name>
@@ -5480,8 +5480,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5492,7 +5492,7 @@
 		<ObjectId>113</ObjectId>
 		<Id>113</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КОРКА</Code>
 		<CodeLat>KORKA</CodeLat>
 		<Name>КОРКА</Name>
@@ -5529,8 +5529,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5541,7 +5541,7 @@
 		<ObjectId>114</ObjectId>
 		<Id>114</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КОСТР</Code>
 		<CodeLat>KOSTR</CodeLat>
 		<Name>КОСТР</Name>
@@ -5578,8 +5578,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5590,7 +5590,7 @@
 		<ObjectId>115</ObjectId>
 		<Id>115</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КРАБА</Code>
 		<CodeLat>KRABA</CodeLat>
 		<Name>КРАБА</Name>
@@ -5627,8 +5627,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5639,7 +5639,7 @@
 		<ObjectId>116</ObjectId>
 		<Id>116</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КРАНС</Code>
 		<CodeLat>KRANS</CodeLat>
 		<Name>КРАНС</Name>
@@ -5676,8 +5676,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5688,7 +5688,7 @@
 		<ObjectId>117</ObjectId>
 		<Id>117</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КРИМО</Code>
 		<CodeLat>KRIMO</CodeLat>
 		<Name>КРИМО</Name>
@@ -5725,8 +5725,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5737,7 +5737,7 @@
 		<ObjectId>118</ObjectId>
 		<Id>118</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КРИНГ</Code>
 		<CodeLat>KRING</CodeLat>
 		<Name>КРИНГ</Name>
@@ -5774,8 +5774,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5786,7 +5786,7 @@
 		<ObjectId>119</ObjectId>
 		<Id>119</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КРОНК</Code>
 		<CodeLat>KRONK</CodeLat>
 		<Name>КРОНК</Name>
@@ -5823,8 +5823,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5835,7 +5835,7 @@
 		<ObjectId>120</ObjectId>
 		<Id>120</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КРУГО</Code>
 		<CodeLat>KRUGO</CodeLat>
 		<Name>КРУГО</Name>
@@ -5872,8 +5872,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5884,7 +5884,7 @@
 		<ObjectId>121</ObjectId>
 		<Id>121</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КУБАК</Code>
 		<CodeLat>KUBAK</CodeLat>
 		<Name>КУБАК</Name>
@@ -5921,8 +5921,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5933,7 +5933,7 @@
 		<ObjectId>122</ObjectId>
 		<Id>122</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КУКОС</Code>
 		<CodeLat>KUKOS</CodeLat>
 		<Name>КУКОС</Name>
@@ -5970,8 +5970,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -5982,7 +5982,7 @@
 		<ObjectId>123</ObjectId>
 		<Id>123</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КУРАК</Code>
 		<CodeLat>KURAK</CodeLat>
 		<Name>КУРАК</Name>
@@ -6019,8 +6019,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6031,7 +6031,7 @@
 		<ObjectId>124</ObjectId>
 		<Id>124</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КУТАН</Code>
 		<CodeLat>KUTAN</CodeLat>
 		<Name>КУТАН</Name>
@@ -6068,8 +6068,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6080,7 +6080,7 @@
 		<ObjectId>125</ObjectId>
 		<Id>125</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>КУТКА</Code>
 		<CodeLat>KUTKA</CodeLat>
 		<Name>КУТКА</Name>
@@ -6117,8 +6117,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6129,7 +6129,7 @@
 		<ObjectId>126</ObjectId>
 		<Id>126</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛАНОД</Code>
 		<CodeLat>LANOD</CodeLat>
 		<Name>ЛАНОД</Name>
@@ -6166,8 +6166,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6178,7 +6178,7 @@
 		<ObjectId>127</ObjectId>
 		<Id>127</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛАОТА</Code>
 		<CodeLat>LAOTA</CodeLat>
 		<Name>ЛАОТА</Name>
@@ -6215,8 +6215,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6227,7 +6227,7 @@
 		<ObjectId>128</ObjectId>
 		<Id>128</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛАПРУ</Code>
 		<CodeLat>LAPRU</CodeLat>
 		<Name>ЛАПРУ</Name>
@@ -6264,8 +6264,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6276,7 +6276,7 @@
 		<ObjectId>129</ObjectId>
 		<Id>129</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛЕКИР</Code>
 		<CodeLat>LEKIR</CodeLat>
 		<Name>ЛЕКИР</Name>
@@ -6313,8 +6313,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6325,7 +6325,7 @@
 		<ObjectId>130</ObjectId>
 		<Id>130</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛЕНГО</Code>
 		<CodeLat>LENGO</CodeLat>
 		<Name>ЛЕНГО</Name>
@@ -6362,8 +6362,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6374,7 +6374,7 @@
 		<ObjectId>131</ObjectId>
 		<Id>131</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛИКМУ</Code>
 		<CodeLat>LIKMU</CodeLat>
 		<Name>ЛИКМУ</Name>
@@ -6411,8 +6411,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6423,7 +6423,7 @@
 		<ObjectId>132</ObjectId>
 		<Id>132</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛОБЛУ</Code>
 		<CodeLat>LOBLU</CodeLat>
 		<Name>ЛОБЛУ</Name>
@@ -6460,8 +6460,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6472,7 +6472,7 @@
 		<ObjectId>133</ObjectId>
 		<Id>133</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛОКТУ</Code>
 		<CodeLat>LOKTU</CodeLat>
 		<Name>ЛОКТУ</Name>
@@ -6509,8 +6509,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6521,7 +6521,7 @@
 		<ObjectId>134</ObjectId>
 		<Id>134</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛОЛИК</Code>
 		<CodeLat>LOLIK</CodeLat>
 		<Name>ЛОЛИК</Name>
@@ -6558,8 +6558,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6570,7 +6570,7 @@
 		<ObjectId>135</ObjectId>
 		<Id>135</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛОПАК</Code>
 		<CodeLat>LOPAK</CodeLat>
 		<Name>ЛОПАК</Name>
@@ -6607,8 +6607,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6619,7 +6619,7 @@
 		<ObjectId>136</ObjectId>
 		<Id>136</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛУКАК</Code>
 		<CodeLat>LUKAK</CodeLat>
 		<Name>ЛУКАК</Name>
@@ -6656,8 +6656,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6668,7 +6668,7 @@
 		<ObjectId>137</ObjectId>
 		<Id>137</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛУНИЛ</Code>
 		<CodeLat>LUNIL</CodeLat>
 		<Name>ЛУНИЛ</Name>
@@ -6705,8 +6705,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6717,7 +6717,7 @@
 		<ObjectId>138</ObjectId>
 		<Id>138</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЛУНСО</Code>
 		<CodeLat>LUNSO</CodeLat>
 		<Name>ЛУНСО</Name>
@@ -6754,8 +6754,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6766,7 +6766,7 @@
 		<ObjectId>139</ObjectId>
 		<Id>139</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МАГАН</Code>
 		<CodeLat>MAGAN</CodeLat>
 		<Name>МАГАН</Name>
@@ -6803,8 +6803,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6815,7 +6815,7 @@
 		<ObjectId>140</ObjectId>
 		<Id>140</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МАКРО</Code>
 		<CodeLat>MAKRO</CodeLat>
 		<Name>МАКРО</Name>
@@ -6852,8 +6852,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6864,7 +6864,7 @@
 		<ObjectId>141</ObjectId>
 		<Id>141</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МАЛИТ</Code>
 		<CodeLat>MALIT</CodeLat>
 		<Name>МАЛИТ</Name>
@@ -6901,8 +6901,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6913,7 +6913,7 @@
 		<ObjectId>142</ObjectId>
 		<Id>142</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МАЛРИ</Code>
 		<CodeLat>MALRI</CodeLat>
 		<Name>МАЛРИ</Name>
@@ -6950,8 +6950,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -6962,7 +6962,7 @@
 		<ObjectId>143</ObjectId>
 		<Id>143</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МАНУБ</Code>
 		<CodeLat>MANUB</CodeLat>
 		<Name>МАНУБ</Name>
@@ -6999,8 +6999,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7011,7 +7011,7 @@
 		<ObjectId>144</ObjectId>
 		<Id>144</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МАРПА</Code>
 		<CodeLat>MARPA</CodeLat>
 		<Name>МАРПА</Name>
@@ -7048,8 +7048,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7060,7 +7060,7 @@
 		<ObjectId>145</ObjectId>
 		<Id>145</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МАТИМ</Code>
 		<CodeLat>MATIM</CodeLat>
 		<Name>МАТИМ</Name>
@@ -7097,8 +7097,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7109,7 +7109,7 @@
 		<ObjectId>146</ObjectId>
 		<Id>146</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МЕДОН</Code>
 		<CodeLat>MEDON</CodeLat>
 		<Name>МЕДОН</Name>
@@ -7146,8 +7146,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7158,7 +7158,7 @@
 		<ObjectId>147</ObjectId>
 		<Id>147</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МЕНКА</Code>
 		<CodeLat>MENKA</CodeLat>
 		<Name>МЕНКА</Name>
@@ -7195,8 +7195,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7207,7 +7207,7 @@
 		<ObjectId>148</ObjectId>
 		<Id>148</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МЕРТО</Code>
 		<CodeLat>MERTO</CodeLat>
 		<Name>МЕРТО</Name>
@@ -7244,8 +7244,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7256,7 +7256,7 @@
 		<ObjectId>149</ObjectId>
 		<Id>149</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МИГРО</Code>
 		<CodeLat>MIGRO</CodeLat>
 		<Name>МИГРО</Name>
@@ -7293,8 +7293,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7305,7 +7305,7 @@
 		<ObjectId>150</ObjectId>
 		<Id>150</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МИЛВО</Code>
 		<CodeLat>MILVO</CodeLat>
 		<Name>МИЛВО</Name>
@@ -7342,8 +7342,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7354,7 +7354,7 @@
 		<ObjectId>151</ObjectId>
 		<Id>151</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МИСКИ</Code>
 		<CodeLat>MISKI</CodeLat>
 		<Name>МИСКИ</Name>
@@ -7391,8 +7391,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7403,7 +7403,7 @@
 		<ObjectId>152</ObjectId>
 		<Id>152</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МОЛОБ</Code>
 		<CodeLat>MOLOB</CodeLat>
 		<Name>МОЛОБ</Name>
@@ -7440,8 +7440,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7452,7 +7452,7 @@
 		<ObjectId>153</ObjectId>
 		<Id>153</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МОЛОН</Code>
 		<CodeLat>MOLON</CodeLat>
 		<Name>МОЛОН</Name>
@@ -7489,8 +7489,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7501,7 +7501,7 @@
 		<ObjectId>154</ObjectId>
 		<Id>154</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МОРУИ</Code>
 		<CodeLat>MORUI</CodeLat>
 		<Name>МОРУИ</Name>
@@ -7538,8 +7538,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7550,7 +7550,7 @@
 		<ObjectId>155</ObjectId>
 		<Id>155</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МУКАС</Code>
 		<CodeLat>MUKAS</CodeLat>
 		<Name>МУКАС</Name>
@@ -7587,8 +7587,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7599,7 +7599,7 @@
 		<ObjectId>156</ObjectId>
 		<Id>156</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МУЛБА</Code>
 		<CodeLat>MULBA</CodeLat>
 		<Name>МУЛБА</Name>
@@ -7636,8 +7636,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7648,7 +7648,7 @@
 		<ObjectId>157</ObjectId>
 		<Id>157</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МУРЛИ</Code>
 		<CodeLat>MURLI</CodeLat>
 		<Name>МУРЛИ</Name>
@@ -7685,8 +7685,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7697,7 +7697,7 @@
 		<ObjectId>158</ObjectId>
 		<Id>158</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МУСИР</Code>
 		<CodeLat>MUSIR</CodeLat>
 		<Name>МУСИР</Name>
@@ -7734,8 +7734,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7746,7 +7746,7 @@
 		<ObjectId>159</ObjectId>
 		<Id>159</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НАРУН</Code>
 		<CodeLat>NARUN</CodeLat>
 		<Name>НАРУН</Name>
@@ -7783,8 +7783,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7795,7 +7795,7 @@
 		<ObjectId>160</ObjectId>
 		<Id>160</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НЕДОТ</Code>
 		<CodeLat>NEDOT</CodeLat>
 		<Name>НЕДОТ</Name>
@@ -7832,8 +7832,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7844,7 +7844,7 @@
 		<ObjectId>161</ObjectId>
 		<Id>161</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НЕКБА</Code>
 		<CodeLat>NEKBA</CodeLat>
 		<Name>НЕКБА</Name>
@@ -7881,8 +7881,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7893,7 +7893,7 @@
 		<ObjectId>162</ObjectId>
 		<Id>162</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НЕЛЕМ</Code>
 		<CodeLat>NELEM</CodeLat>
 		<Name>НЕЛЕМ</Name>
@@ -7930,8 +7930,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7942,7 +7942,7 @@
 		<ObjectId>163</ObjectId>
 		<Id>163</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НЕЛЕТ</Code>
 		<CodeLat>NELET</CodeLat>
 		<Name>НЕЛЕТ</Name>
@@ -7979,8 +7979,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -7991,7 +7991,7 @@
 		<ObjectId>164</ObjectId>
 		<Id>164</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НЕМТА</Code>
 		<CodeLat>NEMTA</CodeLat>
 		<Name>НЕМТА</Name>
@@ -8028,8 +8028,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8040,7 +8040,7 @@
 		<ObjectId>165</ObjectId>
 		<Id>165</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НЕРБУ</Code>
 		<CodeLat>NERBU</CodeLat>
 		<Name>НЕРБУ</Name>
@@ -8077,8 +8077,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8089,7 +8089,7 @@
 		<ObjectId>166</ObjectId>
 		<Id>166</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НЕРПА</Code>
 		<CodeLat>NERPA</CodeLat>
 		<Name>НЕРПА</Name>
@@ -8126,8 +8126,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8138,7 +8138,7 @@
 		<ObjectId>167</ObjectId>
 		<Id>167</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НИИГР</Code>
 		<CodeLat>NIIGR</CodeLat>
 		<Name>НИИГР</Name>
@@ -8175,8 +8175,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8187,7 +8187,7 @@
 		<ObjectId>168</ObjectId>
 		<Id>168</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НИРОР</Code>
 		<CodeLat>NIROR</CodeLat>
 		<Name>НИРОР</Name>
@@ -8224,8 +8224,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8236,7 +8236,7 @@
 		<ObjectId>169</ObjectId>
 		<Id>169</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НИСОБ</Code>
 		<CodeLat>NISOB</CodeLat>
 		<Name>НИСОБ</Name>
@@ -8273,8 +8273,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8285,7 +8285,7 @@
 		<ObjectId>170</ObjectId>
 		<Id>170</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НОМИС</Code>
 		<CodeLat>NOMIS</CodeLat>
 		<Name>НОМИС</Name>
@@ -8322,8 +8322,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8334,7 +8334,7 @@
 		<ObjectId>171</ObjectId>
 		<Id>171</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НОРИН</Code>
 		<CodeLat>NORIN</CodeLat>
 		<Name>НОРИН</Name>
@@ -8371,8 +8371,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8383,7 +8383,7 @@
 		<ObjectId>172</ObjectId>
 		<Id>172</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НОССА</Code>
 		<CodeLat>NOSSA</CodeLat>
 		<Name>НОССА</Name>
@@ -8420,8 +8420,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8432,7 +8432,7 @@
 		<ObjectId>173</ObjectId>
 		<Id>173</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>НУКАР</Code>
 		<CodeLat>NUKAR</CodeLat>
 		<Name>НУКАР</Name>
@@ -8469,8 +8469,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8481,7 +8481,7 @@
 		<ObjectId>174</ObjectId>
 		<Id>174</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОБАЛО</Code>
 		<CodeLat>OBALO</CodeLat>
 		<Name>ОБАЛО</Name>
@@ -8518,8 +8518,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8530,7 +8530,7 @@
 		<ObjectId>175</ObjectId>
 		<Id>175</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОБАСО</Code>
 		<CodeLat>OBASO</CodeLat>
 		<Name>ОБАСО</Name>
@@ -8567,8 +8567,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8579,7 +8579,7 @@
 		<ObjectId>176</ObjectId>
 		<Id>176</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОБАТИ</Code>
 		<CodeLat>OBATI</CodeLat>
 		<Name>ОБАТИ</Name>
@@ -8616,8 +8616,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8628,7 +8628,7 @@
 		<ObjectId>177</ObjectId>
 		<Id>177</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОБИРИ</Code>
 		<CodeLat>OBIRI</CodeLat>
 		<Name>ОБИРИ</Name>
@@ -8665,8 +8665,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8677,7 +8677,7 @@
 		<ObjectId>178</ObjectId>
 		<Id>178</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОДИСА</Code>
 		<CodeLat>ODISA</CodeLat>
 		<Name>ОДИСА</Name>
@@ -8714,8 +8714,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8726,7 +8726,7 @@
 		<ObjectId>179</ObjectId>
 		<Id>179</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОГРИК</Code>
 		<CodeLat>OGRIK</CodeLat>
 		<Name>ОГРИК</Name>
@@ -8763,8 +8763,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8775,7 +8775,7 @@
 		<ObjectId>180</ObjectId>
 		<Id>180</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОГУДО</Code>
 		<CodeLat>OGUDO</CodeLat>
 		<Name>ОГУДО</Name>
@@ -8812,8 +8812,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8824,7 +8824,7 @@
 		<ObjectId>181</ObjectId>
 		<Id>181</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОКЛИС</Code>
 		<CodeLat>OKLIS</CodeLat>
 		<Name>ОКЛИС</Name>
@@ -8861,8 +8861,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8873,7 +8873,7 @@
 		<ObjectId>182</ObjectId>
 		<Id>182</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОКЛОН</Code>
 		<CodeLat>OKLON</CodeLat>
 		<Name>ОКЛОН</Name>
@@ -8910,8 +8910,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8922,7 +8922,7 @@
 		<ObjectId>183</ObjectId>
 		<Id>183</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОНКОД</Code>
 		<CodeLat>ONKOD</CodeLat>
 		<Name>ОНКОД</Name>
@@ -8959,8 +8959,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -8971,7 +8971,7 @@
 		<ObjectId>184</ObjectId>
 		<Id>184</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОПАЛЕ</Code>
 		<CodeLat>OPALE</CodeLat>
 		<Name>ОПАЛЕ</Name>
@@ -9008,8 +9008,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9020,7 +9020,7 @@
 		<ObjectId>185</ObjectId>
 		<Id>185</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОПАСТ</Code>
 		<CodeLat>OPAST</CodeLat>
 		<Name>ОПАСТ</Name>
@@ -9057,8 +9057,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9069,7 +9069,7 @@
 		<ObjectId>186</ObjectId>
 		<Id>186</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОРМЕН</Code>
 		<CodeLat>ORMEN</CodeLat>
 		<Name>ОРМЕН</Name>
@@ -9106,8 +9106,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9118,7 +9118,7 @@
 		<ObjectId>187</ObjectId>
 		<Id>187</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОРМИН</Code>
 		<CodeLat>ORMIN</CodeLat>
 		<Name>ОРМИН</Name>
@@ -9155,8 +9155,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9167,7 +9167,7 @@
 		<ObjectId>188</ObjectId>
 		<Id>188</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОРТИР</Code>
 		<CodeLat>ORTIR</CodeLat>
 		<Name>ОРТИР</Name>
@@ -9204,8 +9204,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9216,7 +9216,7 @@
 		<ObjectId>189</ObjectId>
 		<Id>189</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОСНОД</Code>
 		<CodeLat>OSNOD</CodeLat>
 		<Name>ОСНОД</Name>
@@ -9253,8 +9253,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9265,7 +9265,7 @@
 		<ObjectId>190</ObjectId>
 		<Id>190</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОСРИР</Code>
 		<CodeLat>OSRIR</CodeLat>
 		<Name>ОСРИР</Name>
@@ -9302,8 +9302,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9314,7 +9314,7 @@
 		<ObjectId>191</ObjectId>
 		<Id>191</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОСТЕМ</Code>
 		<CodeLat>OSTEM</CodeLat>
 		<Name>ОСТЕМ</Name>
@@ -9351,8 +9351,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9363,7 +9363,7 @@
 		<ObjectId>192</ObjectId>
 		<Id>192</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОЗЕРН</Code>
 		<CodeLat>OZERN</CodeLat>
 		<Name>ОЗЕРН</Name>
@@ -9400,8 +9400,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9412,7 +9412,7 @@
 		<ObjectId>193</ObjectId>
 		<Id>193</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПАНКА</Code>
 		<CodeLat>PANKA</CodeLat>
 		<Name>ПАНКА</Name>
@@ -9449,8 +9449,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9461,7 +9461,7 @@
 		<ObjectId>194</ObjectId>
 		<Id>194</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПАПАА</Code>
 		<CodeLat>PAPAA</CodeLat>
 		<Name>ПАПАА</Name>
@@ -9498,8 +9498,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9510,7 +9510,7 @@
 		<ObjectId>195</ObjectId>
 		<Id>195</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПЕЛЕБ</Code>
 		<CodeLat>PELEB</CodeLat>
 		<Name>ПЕЛЕБ</Name>
@@ -9547,8 +9547,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9559,7 +9559,7 @@
 		<ObjectId>196</ObjectId>
 		<Id>196</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПЕМИГ</Code>
 		<CodeLat>PEMIG</CodeLat>
 		<Name>ПЕМИГ</Name>
@@ -9596,8 +9596,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9608,7 +9608,7 @@
 		<ObjectId>197</ObjectId>
 		<Id>197</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПЕПАН</Code>
 		<CodeLat>PEPAN</CodeLat>
 		<Name>ПЕПАН</Name>
@@ -9645,8 +9645,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9657,7 +9657,7 @@
 		<ObjectId>198</ObjectId>
 		<Id>198</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПЕРНУ</Code>
 		<CodeLat>PERNU</CodeLat>
 		<Name>ПЕРНУ</Name>
@@ -9694,8 +9694,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9706,7 +9706,7 @@
 		<ObjectId>199</ObjectId>
 		<Id>199</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПЕСУМ</Code>
 		<CodeLat>PESUM</CodeLat>
 		<Name>ПЕСУМ</Name>
@@ -9743,8 +9743,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9755,7 +9755,7 @@
 		<ObjectId>200</ObjectId>
 		<Id>200</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПЕТИН</Code>
 		<CodeLat>PETIN</CodeLat>
 		<Name>ПЕТИН</Name>
@@ -9792,8 +9792,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9804,7 +9804,7 @@
 		<ObjectId>201</ObjectId>
 		<Id>201</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПИРКО</Code>
 		<CodeLat>PIRKO</CodeLat>
 		<Name>ПИРКО</Name>
@@ -9841,8 +9841,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9853,7 +9853,7 @@
 		<ObjectId>202</ObjectId>
 		<Id>202</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПИРНУ</Code>
 		<CodeLat>PIRNU</CodeLat>
 		<Name>ПИРНУ</Name>
@@ -9890,8 +9890,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9902,7 +9902,7 @@
 		<ObjectId>203</ObjectId>
 		<Id>203</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПОКРО</Code>
 		<CodeLat>POKRO</CodeLat>
 		<Name>ПОКРО</Name>
@@ -9939,8 +9939,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -9951,7 +9951,7 @@
 		<ObjectId>204</ObjectId>
 		<Id>204</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПОНОТ</Code>
 		<CodeLat>PONOT</CodeLat>
 		<Name>ПОНОТ</Name>
@@ -9988,8 +9988,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10000,7 +10000,7 @@
 		<ObjectId>205</ObjectId>
 		<Id>205</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПОНРО</Code>
 		<CodeLat>PONRO</CodeLat>
 		<Name>ПОНРО</Name>
@@ -10037,8 +10037,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10049,7 +10049,7 @@
 		<ObjectId>206</ObjectId>
 		<Id>206</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПОСЕН</Code>
 		<CodeLat>POSEN</CodeLat>
 		<Name>ПОСЕН</Name>
@@ -10086,8 +10086,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10098,7 +10098,7 @@
 		<ObjectId>207</ObjectId>
 		<Id>207</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РАДОЛ</Code>
 		<CodeLat>RADOL</CodeLat>
 		<Name>РАДОЛ</Name>
@@ -10135,8 +10135,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10147,7 +10147,7 @@
 		<ObjectId>208</ObjectId>
 		<Id>208</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РАНГА</Code>
 		<CodeLat>RANGA</CodeLat>
 		<Name>РАНГА</Name>
@@ -10184,8 +10184,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10196,7 +10196,7 @@
 		<ObjectId>209</ObjectId>
 		<Id>209</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РАПОН</Code>
 		<CodeLat>RAPON</CodeLat>
 		<Name>РАПОН</Name>
@@ -10233,8 +10233,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10245,7 +10245,7 @@
 		<ObjectId>210</ObjectId>
 		<Id>210</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РАПСЕ</Code>
 		<CodeLat>RAPSE</CodeLat>
 		<Name>РАПСЕ</Name>
@@ -10282,8 +10282,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10294,7 +10294,7 @@
 		<ObjectId>211</ObjectId>
 		<Id>211</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РЕНКА</Code>
 		<CodeLat>RENKA</CodeLat>
 		<Name>РЕНКА</Name>
@@ -10331,8 +10331,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10343,7 +10343,7 @@
 		<ObjectId>212</ObjectId>
 		<Id>212</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РИНОТ</Code>
 		<CodeLat>RINOT</CodeLat>
 		<Name>РИНОТ</Name>
@@ -10380,8 +10380,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10392,7 +10392,7 @@
 		<ObjectId>213</ObjectId>
 		<Id>213</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РИТНИ</Code>
 		<CodeLat>RITNI</CodeLat>
 		<Name>РИТНИ</Name>
@@ -10429,8 +10429,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10441,7 +10441,7 @@
 		<ObjectId>214</ObjectId>
 		<Id>214</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РОГИТ</Code>
 		<CodeLat>ROGIT</CodeLat>
 		<Name>РОГИТ</Name>
@@ -10478,8 +10478,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10490,7 +10490,7 @@
 		<ObjectId>215</ObjectId>
 		<Id>215</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РОГУМ</Code>
 		<CodeLat>ROGUM</CodeLat>
 		<Name>РОГУМ</Name>
@@ -10527,8 +10527,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10539,7 +10539,7 @@
 		<ObjectId>216</ObjectId>
 		<Id>216</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РОПЕД</Code>
 		<CodeLat>ROPED</CodeLat>
 		<Name>РОПЕД</Name>
@@ -10576,8 +10576,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10588,7 +10588,7 @@
 		<ObjectId>217</ObjectId>
 		<Id>217</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РОСУГ</Code>
 		<CodeLat>ROSUG</CodeLat>
 		<Name>РОСУГ</Name>
@@ -10625,8 +10625,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10637,7 +10637,7 @@
 		<ObjectId>218</ObjectId>
 		<Id>218</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РУКИР</Code>
 		<CodeLat>RUKIR</CodeLat>
 		<Name>РУКИР</Name>
@@ -10674,8 +10674,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10686,7 +10686,7 @@
 		<ObjectId>219</ObjectId>
 		<Id>219</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>РУРКИ</Code>
 		<CodeLat>RURKI</CodeLat>
 		<Name>РУРКИ</Name>
@@ -10723,8 +10723,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10735,7 +10735,7 @@
 		<ObjectId>220</ObjectId>
 		<Id>220</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>САДАГ</Code>
 		<CodeLat>SADAG</CodeLat>
 		<Name>САДАГ</Name>
@@ -10772,8 +10772,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10784,7 +10784,7 @@
 		<ObjectId>221</ObjectId>
 		<Id>221</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>САДУК</Code>
 		<CodeLat>SADUK</CodeLat>
 		<Name>САДУК</Name>
@@ -10821,8 +10821,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10833,7 +10833,7 @@
 		<ObjectId>222</ObjectId>
 		<Id>222</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>САИЛА</Code>
 		<CodeLat>SAILA</CodeLat>
 		<Name>САИЛА</Name>
@@ -10870,8 +10870,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10882,7 +10882,7 @@
 		<ObjectId>223</ObjectId>
 		<Id>223</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>САЛОР</Code>
 		<CodeLat>SALOR</CodeLat>
 		<Name>САЛОР</Name>
@@ -10919,8 +10919,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10931,7 +10931,7 @@
 		<ObjectId>224</ObjectId>
 		<Id>224</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>САЛУК</Code>
 		<CodeLat>SALUK</CodeLat>
 		<Name>САЛУК</Name>
@@ -10968,8 +10968,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -10980,7 +10980,7 @@
 		<ObjectId>225</ObjectId>
 		<Id>225</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>САРКО</Code>
 		<CodeLat>SARKO</CodeLat>
 		<Name>САРКО</Name>
@@ -11017,8 +11017,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11029,7 +11029,7 @@
 		<ObjectId>226</ObjectId>
 		<Id>226</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>САСИР</Code>
 		<CodeLat>SASIR</CodeLat>
 		<Name>САСИР</Name>
@@ -11066,8 +11066,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11078,7 +11078,7 @@
 		<ObjectId>227</ObjectId>
 		<Id>227</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>САТИМ</Code>
 		<CodeLat>SATIM</CodeLat>
 		<Name>САТИМ</Name>
@@ -11115,8 +11115,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11127,7 +11127,7 @@
 		<ObjectId>228</ObjectId>
 		<Id>228</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>САТУК</Code>
 		<CodeLat>SATUK</CodeLat>
 		<Name>САТУК</Name>
@@ -11164,8 +11164,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11176,7 +11176,7 @@
 		<ObjectId>229</ObjectId>
 		<Id>229</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>САУНА</Code>
 		<CodeLat>SAUNA</CodeLat>
 		<Name>САУНА</Name>
@@ -11213,8 +11213,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11225,7 +11225,7 @@
 		<ObjectId>230</ObjectId>
 		<Id>230</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СЕКЛИ</Code>
 		<CodeLat>SEKLI</CodeLat>
 		<Name>СЕКЛИ</Name>
@@ -11262,8 +11262,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11274,7 +11274,7 @@
 		<ObjectId>231</ObjectId>
 		<Id>231</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СЕКУР</Code>
 		<CodeLat>SEKUR</CodeLat>
 		<Name>СЕКУР</Name>
@@ -11311,8 +11311,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11323,7 +11323,7 @@
 		<ObjectId>232</ObjectId>
 		<Id>232</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СЕНКУ</Code>
 		<CodeLat>SENKU</CodeLat>
 		<Name>СЕНКУ</Name>
@@ -11360,8 +11360,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11372,7 +11372,7 @@
 		<ObjectId>233</ObjectId>
 		<Id>233</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СЕРАН</Code>
 		<CodeLat>SERAN</CodeLat>
 		<Name>СЕРАН</Name>
@@ -11409,8 +11409,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11421,7 +11421,7 @@
 		<ObjectId>234</ObjectId>
 		<Id>234</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СЕТУР</Code>
 		<CodeLat>SETUR</CodeLat>
 		<Name>СЕТУР</Name>
@@ -11458,8 +11458,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11470,7 +11470,7 @@
 		<ObjectId>235</ObjectId>
 		<Id>235</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СИБУН</Code>
 		<CodeLat>SIBUN</CodeLat>
 		<Name>СИБУН</Name>
@@ -11507,8 +11507,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11519,7 +11519,7 @@
 		<ObjectId>236</ObjectId>
 		<Id>236</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СИПВА</Code>
 		<CodeLat>SIPVA</CodeLat>
 		<Name>СИПВА</Name>
@@ -11556,8 +11556,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11568,7 +11568,7 @@
 		<ObjectId>237</ObjectId>
 		<Id>237</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СИТМИ</Code>
 		<CodeLat>SITMI</CodeLat>
 		<Name>СИТМИ</Name>
@@ -11605,8 +11605,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11617,7 +11617,7 @@
 		<ObjectId>238</ObjectId>
 		<Id>238</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СОБВО</Code>
 		<CodeLat>SOBVO</CodeLat>
 		<Name>СОБВО</Name>
@@ -11654,8 +11654,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11666,7 +11666,7 @@
 		<ObjectId>239</ObjectId>
 		<Id>239</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СОПДИ</Code>
 		<CodeLat>SOPDI</CodeLat>
 		<Name>СОПДИ</Name>
@@ -11703,8 +11703,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11715,7 +11715,7 @@
 		<ObjectId>240</ObjectId>
 		<Id>240</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СОПНУ</Code>
 		<CodeLat>SOPNU</CodeLat>
 		<Name>СОПНУ</Name>
@@ -11752,8 +11752,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11764,7 +11764,7 @@
 		<ObjectId>241</ObjectId>
 		<Id>241</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СОУРИ</Code>
 		<CodeLat>SOURI</CodeLat>
 		<Name>СОУРИ</Name>
@@ -11801,8 +11801,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11813,7 +11813,7 @@
 		<ObjectId>242</ObjectId>
 		<Id>242</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СРОМА</Code>
 		<CodeLat>SROMA</CodeLat>
 		<Name>СРОМА</Name>
@@ -11850,8 +11850,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11862,7 +11862,7 @@
 		<ObjectId>243</ObjectId>
 		<Id>243</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СТОБУ</Code>
 		<CodeLat>STOBU</CodeLat>
 		<Name>СТОБУ</Name>
@@ -11899,8 +11899,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11911,7 +11911,7 @@
 		<ObjectId>244</ObjectId>
 		<Id>244</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СТОРЕ</Code>
 		<CodeLat>STORE</CodeLat>
 		<Name>СТОРЕ</Name>
@@ -11948,8 +11948,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -11960,7 +11960,7 @@
 		<ObjectId>245</ObjectId>
 		<Id>245</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СУЕРО</Code>
 		<CodeLat>SUERO</CodeLat>
 		<Name>СУЕРО</Name>
@@ -11997,8 +11997,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12009,7 +12009,7 @@
 		<ObjectId>246</ObjectId>
 		<Id>246</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СУМАЛ</Code>
 		<CodeLat>SUMAL</CodeLat>
 		<Name>СУМАЛ</Name>
@@ -12046,8 +12046,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12058,7 +12058,7 @@
 		<ObjectId>247</ObjectId>
 		<Id>247</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СУМАН</Code>
 		<CodeLat>SUMAN</CodeLat>
 		<Name>СУМАН</Name>
@@ -12095,8 +12095,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12107,7 +12107,7 @@
 		<ObjectId>248</ObjectId>
 		<Id>248</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СУМКО</Code>
 		<CodeLat>SUMKO</CodeLat>
 		<Name>СУМКО</Name>
@@ -12144,8 +12144,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12156,7 +12156,7 @@
 		<ObjectId>249</ObjectId>
 		<Id>249</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СУПНО</Code>
 		<CodeLat>SUPNO</CodeLat>
 		<Name>СУПНО</Name>
@@ -12193,8 +12193,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12205,7 +12205,7 @@
 		<ObjectId>250</ObjectId>
 		<Id>250</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>СУПОГ</Code>
 		<CodeLat>SUPOG</CodeLat>
 		<Name>СУПОГ</Name>
@@ -12242,8 +12242,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12254,7 +12254,7 @@
 		<ObjectId>251</ObjectId>
 		<Id>251</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТАДАП</Code>
 		<CodeLat>TADAP</CodeLat>
 		<Name>ТАДАП</Name>
@@ -12291,8 +12291,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12303,7 +12303,7 @@
 		<ObjectId>252</ObjectId>
 		<Id>252</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТАГДА</Code>
 		<CodeLat>TAGDA</CodeLat>
 		<Name>ТАГДА</Name>
@@ -12340,8 +12340,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12352,7 +12352,7 @@
 		<ObjectId>253</ObjectId>
 		<Id>253</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТАЛПУ</Code>
 		<CodeLat>TALPU</CodeLat>
 		<Name>ТАЛПУ</Name>
@@ -12389,8 +12389,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12401,7 +12401,7 @@
 		<ObjectId>254</ObjectId>
 		<Id>254</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТАСКО</Code>
 		<CodeLat>TASKO</CodeLat>
 		<Name>ТАСКО</Name>
@@ -12438,8 +12438,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12450,7 +12450,7 @@
 		<ObjectId>255</ObjectId>
 		<Id>255</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТЕБМИ</Code>
 		<CodeLat>TEBMI</CodeLat>
 		<Name>ТЕБМИ</Name>
@@ -12487,8 +12487,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12499,7 +12499,7 @@
 		<ObjectId>256</ObjectId>
 		<Id>256</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТЕКРУ</Code>
 		<CodeLat>TEKRU</CodeLat>
 		<Name>ТЕКРУ</Name>
@@ -12536,8 +12536,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12548,7 +12548,7 @@
 		<ObjectId>257</ObjectId>
 		<Id>257</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТЕРУТ</Code>
 		<CodeLat>TERUT</CodeLat>
 		<Name>ТЕРУТ</Name>
@@ -12585,8 +12585,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12597,7 +12597,7 @@
 		<ObjectId>258</ObjectId>
 		<Id>258</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТИГБИ</Code>
 		<CodeLat>TIGBI</CodeLat>
 		<Name>ТИГБИ</Name>
@@ -12634,8 +12634,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12646,7 +12646,7 @@
 		<ObjectId>259</ObjectId>
 		<Id>259</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТИКОЛ</Code>
 		<CodeLat>TIKOL</CodeLat>
 		<Name>ТИКОЛ</Name>
@@ -12683,8 +12683,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12695,7 +12695,7 @@
 		<ObjectId>260</ObjectId>
 		<Id>260</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТИЛАМ</Code>
 		<CodeLat>TILAM</CodeLat>
 		<Name>ТИЛАМ</Name>
@@ -12732,8 +12732,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12744,7 +12744,7 @@
 		<ObjectId>261</ObjectId>
 		<Id>261</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТИРГО</Code>
 		<CodeLat>TIRGO</CodeLat>
 		<Name>ТИРГО</Name>
@@ -12781,8 +12781,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12793,7 +12793,7 @@
 		<ObjectId>262</ObjectId>
 		<Id>262</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТИРОН</Code>
 		<CodeLat>TIRON</CodeLat>
 		<Name>ТИРОН</Name>
@@ -12830,8 +12830,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12842,7 +12842,7 @@
 		<ObjectId>263</ObjectId>
 		<Id>263</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТОБАР</Code>
 		<CodeLat>TOBAR</CodeLat>
 		<Name>ТОБАР</Name>
@@ -12879,8 +12879,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12891,7 +12891,7 @@
 		<ObjectId>264</ObjectId>
 		<Id>264</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТОКОР</Code>
 		<CodeLat>TOKOR</CodeLat>
 		<Name>ТОКОР</Name>
@@ -12928,8 +12928,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12940,7 +12940,7 @@
 		<ObjectId>265</ObjectId>
 		<Id>265</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТОММО</Code>
 		<CodeLat>TOMMO</CodeLat>
 		<Name>ТОММО</Name>
@@ -12977,8 +12977,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -12989,7 +12989,7 @@
 		<ObjectId>266</ObjectId>
 		<Id>266</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТОМСО</Code>
 		<CodeLat>TOMSO</CodeLat>
 		<Name>ТОМСО</Name>
@@ -13026,8 +13026,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13038,7 +13038,7 @@
 		<ObjectId>267</ObjectId>
 		<Id>267</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТОРАР</Code>
 		<CodeLat>TORAR</CodeLat>
 		<Name>ТОРАР</Name>
@@ -13075,8 +13075,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13087,7 +13087,7 @@
 		<ObjectId>268</ObjectId>
 		<Id>268</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТУБЕЛ</Code>
 		<CodeLat>TUBEL</CodeLat>
 		<Name>ТУБЕЛ</Name>
@@ -13124,8 +13124,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13136,7 +13136,7 @@
 		<ObjectId>269</ObjectId>
 		<Id>269</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТУПЛА</Code>
 		<CodeLat>TUPLA</CodeLat>
 		<Name>ТУПЛА</Name>
@@ -13173,8 +13173,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13185,7 +13185,7 @@
 		<ObjectId>270</ObjectId>
 		<Id>270</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТУПОН</Code>
 		<CodeLat>TUPON</CodeLat>
 		<Name>ТУПОН</Name>
@@ -13222,8 +13222,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13234,7 +13234,7 @@
 		<ObjectId>271</ObjectId>
 		<Id>271</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УБАНУ</Code>
 		<CodeLat>UBANU</CodeLat>
 		<Name>УБАНУ</Name>
@@ -13271,8 +13271,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13283,7 +13283,7 @@
 		<ObjectId>272</ObjectId>
 		<Id>272</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УГАКА</Code>
 		<CodeLat>UGAKA</CodeLat>
 		<Name>УГАКА</Name>
@@ -13320,8 +13320,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13332,7 +13332,7 @@
 		<ObjectId>273</ObjectId>
 		<Id>273</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УГЕНА</Code>
 		<CodeLat>UGENA</CodeLat>
 		<Name>УГЕНА</Name>
@@ -13369,8 +13369,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13381,7 +13381,7 @@
 		<ObjectId>274</ObjectId>
 		<Id>274</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УМЛАД</Code>
 		<CodeLat>UMLAD</CodeLat>
 		<Name>УМЛАД</Name>
@@ -13418,8 +13418,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13430,7 +13430,7 @@
 		<ObjectId>275</ObjectId>
 		<Id>275</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УМПОЛ</Code>
 		<CodeLat>UMPOL</CodeLat>
 		<Name>УМПОЛ</Name>
@@ -13467,8 +13467,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13479,7 +13479,7 @@
 		<ObjectId>276</ObjectId>
 		<Id>276</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УНЕРА</Code>
 		<CodeLat>UNERA</CodeLat>
 		<Name>УНЕРА</Name>
@@ -13516,8 +13516,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13528,7 +13528,7 @@
 		<ObjectId>277</ObjectId>
 		<Id>277</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УПУМА</Code>
 		<CodeLat>UPUMA</CodeLat>
 		<Name>УПУМА</Name>
@@ -13565,8 +13565,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13577,7 +13577,7 @@
 		<ObjectId>278</ObjectId>
 		<Id>278</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УСМИЛ</Code>
 		<CodeLat>USMIL</CodeLat>
 		<Name>УСМИЛ</Name>
@@ -13614,8 +13614,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13626,7 +13626,7 @@
 		<ObjectId>279</ObjectId>
 		<Id>279</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УСТКА</Code>
 		<CodeLat>USTKA</CodeLat>
 		<Name>УСТКА</Name>
@@ -13663,8 +13663,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13675,7 +13675,7 @@
 		<ObjectId>280</ObjectId>
 		<Id>280</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УТАУД</Code>
 		<CodeLat>UTAUD</CodeLat>
 		<Name>УТАУД</Name>
@@ -13712,8 +13712,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13724,7 +13724,7 @@
 		<ObjectId>281</ObjectId>
 		<Id>281</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УТИИЛ</Code>
 		<CodeLat>UTIIL</CodeLat>
 		<Name>УТИИЛ</Name>
@@ -13761,8 +13761,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13773,7 +13773,7 @@
 		<ObjectId>282</ObjectId>
 		<Id>282</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УТЛОК</Code>
 		<CodeLat>UTLOK</CodeLat>
 		<Name>УТЛОК</Name>
@@ -13810,8 +13810,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13822,7 +13822,7 @@
 		<ObjectId>283</ObjectId>
 		<Id>283</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АБМКТ</Code>
 		<CodeLat>ABMKT</CodeLat>
 		<Name>АБМКТ</Name>
@@ -13859,8 +13859,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13871,7 +13871,7 @@
 		<ObjectId>284</ObjectId>
 		<Id>284</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АЛГАЗ</Code>
 		<CodeLat>ALGAZ</CodeLat>
 		<Name>АЛГАЗ</Name>
@@ -13908,8 +13908,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13920,7 +13920,7 @@
 		<ObjectId>285</ObjectId>
 		<Id>285</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АБМНК</Code>
 		<CodeLat>ABMNK</CodeLat>
 		<Name>АБМНК</Name>
@@ -13957,8 +13957,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -13969,7 +13969,7 @@
 		<ObjectId>286</ObjectId>
 		<Id>286</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АЛДОГ</Code>
 		<CodeLat>ALDOG</CodeLat>
 		<Name>АЛДОГ</Name>
@@ -14006,8 +14006,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14018,7 +14018,7 @@
 		<ObjectId>287</ObjectId>
 		<Id>287</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АЛДОМ</Code>
 		<CodeLat>ALDOM</CodeLat>
 		<Name>АЛДОМ</Name>
@@ -14055,8 +14055,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14067,7 +14067,7 @@
 		<ObjectId>288</ObjectId>
 		<Id>288</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АЛДОР</Code>
 		<CodeLat>ALDOR</CodeLat>
 		<Name>АЛДОР</Name>
@@ -14104,8 +14104,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14116,7 +14116,7 @@
 		<ObjectId>289</ObjectId>
 		<Id>289</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>МАЛМИ</Code>
 		<CodeLat>MALMI</CodeLat>
 		<Name>МАЛМИ</Name>
@@ -14153,8 +14153,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14165,7 +14165,7 @@
 		<ObjectId>290</ObjectId>
 		<Id>290</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ТАГУБ</Code>
 		<CodeLat>TAGUB</CodeLat>
 		<Name>ТАГУБ</Name>
@@ -14202,8 +14202,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14214,7 +14214,7 @@
 		<ObjectId>291</ObjectId>
 		<Id>291</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АБМWД</Code>
 		<CodeLat>ABMWD</CodeLat>
 		<Name>АБМWД</Name>
@@ -14251,8 +14251,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14263,7 +14263,7 @@
 		<ObjectId>292</ObjectId>
 		<Id>292</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АБМФЙ</Code>
 		<CodeLat>ABMFJ</CodeLat>
 		<Name>АБМФЙ</Name>
@@ -14300,8 +14300,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14312,7 +14312,7 @@
 		<ObjectId>293</ObjectId>
 		<Id>293</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АСАПУ</Code>
 		<CodeLat>ASAPU</CodeLat>
 		<Name>АСАПУ</Name>
@@ -14349,8 +14349,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14361,7 +14361,7 @@
 		<ObjectId>294</ObjectId>
 		<Id>294</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ЕМОСО</Code>
 		<CodeLat>EMOSO</CodeLat>
 		<Name>ЕМОСО</Name>
@@ -14398,8 +14398,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14410,7 +14410,7 @@
 		<ObjectId>295</ObjectId>
 		<Id>295</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АБМУГ</Code>
 		<CodeLat>ABMUG</CodeLat>
 		<Name>АБМУГ</Name>
@@ -14447,8 +14447,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14459,7 +14459,7 @@
 		<ObjectId>296</ObjectId>
 		<Id>296</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АБМУК</Code>
 		<CodeLat>ABMUK</CodeLat>
 		<Name>АБМУК</Name>
@@ -14496,8 +14496,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14508,7 +14508,7 @@
 		<ObjectId>297</ObjectId>
 		<Id>297</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ПИТИБ</Code>
 		<CodeLat>PITIB</CodeLat>
 		<Name>ПИТИБ</Name>
@@ -14545,8 +14545,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14557,7 +14557,7 @@
 		<ObjectId>298</ObjectId>
 		<Id>298</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АБМОГ</Code>
 		<CodeLat>ABMOG</CodeLat>
 		<Name>АБМОГ</Name>
@@ -14594,8 +14594,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14606,7 +14606,7 @@
 		<ObjectId>299</ObjectId>
 		<Id>299</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АБМТФ</Code>
 		<CodeLat>ABMTF</CodeLat>
 		<Name>АБМТФ</Name>
@@ -14643,8 +14643,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14655,7 +14655,7 @@
 		<ObjectId>300</ObjectId>
 		<Id>300</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОЗЕНИ</Code>
 		<CodeLat>OZENI</CodeLat>
 		<Name>ОЗЕНИ</Name>
@@ -14692,8 +14692,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14704,7 +14704,7 @@
 		<ObjectId>301</ObjectId>
 		<Id>301</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>УНЕМА</Code>
 		<CodeLat>UNEMA</CodeLat>
 		<Name>УНЕМА</Name>
@@ -14741,8 +14741,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14753,7 +14753,7 @@
 		<ObjectId>302</ObjectId>
 		<Id>302</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АБМРД</Code>
 		<CodeLat>ABMRD</CodeLat>
 		<Name>АБМРД</Name>
@@ -14790,8 +14790,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14802,7 +14802,7 @@
 		<ObjectId>303</ObjectId>
 		<Id>303</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>АБМБФ</Code>
 		<CodeLat>ABMBF</CodeLat>
 		<Name>АБМБФ</Name>
@@ -14839,8 +14839,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14851,7 +14851,7 @@
 		<ObjectId>304</ObjectId>
 		<Id>304</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ГРАПО</Code>
 		<CodeLat>GRAPO</CodeLat>
 		<Name>ГРАПО</Name>
@@ -14888,8 +14888,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
@@ -14900,7 +14900,7 @@
 		<ObjectId>305</ObjectId>
 		<Id>305</Id>
 		<LocalChange>false</LocalChange>
-		<LastUpdate>2021-08-30T13:40:52Z</LastUpdate>
+		<LastUpdate>2021-08-30T16:51:00Z</LastUpdate>
 		<Code>ОПРСГ</Code>
 		<CodeLat>OPRSG</CodeLat>
 		<Name>ОПРСГ</Name>
@@ -14937,8 +14937,8 @@
 			<IntervalOfClosing>false</IntervalOfClosing>
 			<Reserv>false</Reserv>
 			<Kind>Always</Kind>
-			<Begin>2021-08-30T13:40:52Z</Begin>
-			<End>2021-08-30T13:40:52Z</End>
+			<Begin>2021-08-30T16:51:00Z</Begin>
+			<End>2021-08-30T16:51:00Z</End>
 			<TimeSpanRanges />
 			<Comment />
 			<Sources />
