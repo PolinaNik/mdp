@@ -1,13 +1,13 @@
 '<?xml version="1.0" encoding="utf-16"?>
-<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2" IsDeleted="false">
+<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0" IsDeleted="false">
 	<ObjectId>5888</ObjectId>
 	<Id>83725</Id>
-	<LocalChange>true</LocalChange>
-	<LastUpdate>2019-08-19T18:43:28</LastUpdate>
+	<LocalChange>false</LocalChange>
+	<LastUpdate>2021-08-26T11:20:19Z</LastUpdate>
 	<Code>РИСУР</Code>
 	<CodeLat>RISUR</CodeLat>
 	<Name>Новоуссури тр.</Name>
-	<NameLat />
+	<NameLat>RISUR</NameLat>
 	<Names />
 	<NamesXml />
 	<Comment />
@@ -25,7 +25,7 @@
 	<IsInOut>false</IsInOut>
 	<IsInOutCIS>false</IsInOutCIS>
 	<IsGateWay>false</IsGateWay>
-	<IsTransferPoint>false</IsTransferPoint>
+	<IsTransferPoint>true</IsTransferPoint>
 	<IsTransferPoint_ACP>false</IsTransferPoint_ACP>
 	<IsInARZ>false</IsInARZ>
 	<IsOutARZ>false</IsOutARZ>
@@ -40,7 +40,7 @@
 	<AirportOwnerType>NotDefined</AirportOwnerType>
 	<Class>Unknown</Class>
 	<AftnAddr />
-	<CallLetter />
+	<CallLetter >/
 	<WorkingTimeRange IsCancelled="false" minlevel="M/M=0/FL=0/FWD" maxlevel="M/M=16100/FL=528/FWD">
 		<ObjectId>0</ObjectId>
 		<Id>0</Id>
