@@ -1,23 +1,23 @@
 '<?xml version="1.0" encoding="utf-16"?>
-<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="0" IsDeleted="false">
-	<ObjectId>5888</ObjectId>
-	<Id>83725</Id>
-	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-26T11:20:19Z</LastUpdate>
-	<Code>РИСУР</Code>
-	<CodeLat>RISUR</CodeLat>
-	<Name>Новоуссури тр.</Name>
-	<NameLat>RISUR</NameLat>
+<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="22" IsDeleted="false">
+	<ObjectId>6022</ObjectId>
+	<Id>81993</Id>
+	<LocalChange>true</LocalChange>
+	<LastUpdate>2019-06-30T21:10:34</LastUpdate>
+	<Code>СЛОМА</Code>
+	<CodeLat>SLOMA</CodeLat>
+	<Name>Уст.р.Масловка</Name>
+	<NameLat />
 	<Names />
 	<NamesXml />
 	<Comment />
 	<BeginDate>0001-01-01T00:00:00</BeginDate>
 	<EndDate>0001-01-01T00:00:00</EndDate>
 	<ShowOnChart>true</ShowOnChart>
-	<Latitude>49.276944444444446</Latitude>
-	<Longitude>136.06944444444443</Longitude>
+	<Latitude>53.095277777777781</Latitude>
+	<Longitude>140.19138888888889</Longitude>
 	<Elevation>0</Elevation>
-	<MagneticDeclination>12</MagneticDeclination>
+	<MagneticDeclination>-13</MagneticDeclination>
 	<Frequencies />
 	<Type>POD</Type>
 	<SignalCode />
@@ -25,7 +25,7 @@
 	<IsInOut>false</IsInOut>
 	<IsInOutCIS>false</IsInOutCIS>
 	<IsGateWay>false</IsGateWay>
-	<IsTransferPoint>true</IsTransferPoint>
+	<IsTransferPoint>false</IsTransferPoint>
 	<IsTransferPoint_ACP>false</IsTransferPoint_ACP>
 	<IsInARZ>false</IsInARZ>
 	<IsOutARZ>false</IsOutARZ>
@@ -40,7 +40,7 @@
 	<AirportOwnerType>NotDefined</AirportOwnerType>
 	<Class>Unknown</Class>
 	<AftnAddr />
-	<CallLetter >/
+	<CallLetter />
 	<WorkingTimeRange IsCancelled="false" minlevel="M/M=0/FL=0/FWD" maxlevel="M/M=16100/FL=528/FWD">
 		<ObjectId>0</ObjectId>
 		<Id>0</Id>
