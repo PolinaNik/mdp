@@ -168,7 +168,7 @@ class FillXML:
         self.name = name
         self.lat = lat
         self.lon = lon
-        self.data1 = '\t<MapPoint Version="3" IsDeleted="false">\n'
+        self.data1 = '\t<MapPoint Version="1" IsDeleted="false">\n'
         self.data2 = '\t\t<ObjectId>%s</ObjectId>\n' % self.object_id
         self.data3 = '\t\t<Id>%s</Id>\n' % self.id
         self.data4 = '\t\t<LocalChange>false</LocalChange>\n'
@@ -230,16 +230,14 @@ class FillXML:
         return self.data_list
 
 
-# lst = [version, code, code_lat, name, nameLat, magnetic, type_, lat, lon, airport_type, AirportUsageType,
-#            AirportOwnerType, class_, CallLetter, Id, ObjectId, IsACP, IsInOut,
-#            IsInOutCIS, IsGateWay, IsTransferPoint, IsTransferPoint_ACP, IsInAirway, IsMvl]
 
 
 class FamiliarNames:
 
     def __init__(self, lst, num):
         self.lst = lst
-        version = lst[0]
+        version = lst[0] if lst[0] is not None else '0'
+        version = str(int(version)+1)
         code = lst[1]
         code_lat = transliterate.translit(lst[1], 'ru', reversed=True)
         name = lst[1] if lst[3] is None else lst[3]
@@ -323,8 +321,8 @@ class FamiliarNames:
     def change_ID(self):
         self.id = self.lst[14]
         self.ObjectId = self.lst[15] if self.lst[15] != '0' else ""
-        self.data3 = f'\t<ObjectId>{ObjectId}</ObjectId>\n'
-        self.data4 = f'\t<Id>{Id}</Id>\n'
+        self.data3 = f'\t<ObjectId>{self.ObjectId}</ObjectId>\n'
+        self.data4 = f'\t<Id>{self.id}</Id>\n'
         self.data_list = [self.data0, self.data2, self.data3, self.data4, self.data5, self.data6,
                           self.data7, self.data8, self.data9, self.data10, self.data11, self.data12,
                           self.data13,self.data14, self.data15, self.data16, self.data17, self.data18,
@@ -361,16 +359,16 @@ result_old = {}
 count = length
 for num, item in enumerate(final_old):
     real_num = num + length
-    if item[14] is not None:
+    if item[14] and item[15] is not None:
         point = FamiliarNames(item, real_num)
         point_xml = point.change_ID()
         new_value = {point.id: [point_xml, 1 if item[0] is None else int(item[0]) + 1]}
         result_old.update(new_value)
-    else:
-        point = FamiliarNames(item, real_num)
-        point_xml = point.simple_list()
-        new_value = {real_num: [point_xml, 1 if item[0] is None else int(item[0]) + 1]}
-        result_old.update(new_value)
+    # else:
+    #     point = FamiliarNames(item, real_num)
+    #     point_xml = point.simple_list()
+    #     new_value = {real_num: [point_xml, 1 if item[0] is None else int(item[0]) + 1]}
+    #     result_old.update(new_value)
 
 result = result_new
 
