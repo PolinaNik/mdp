@@ -1,10 +1,7 @@
 import xml.etree.ElementTree as ET
-from itertools import groupby
-from itertools import chain
 import transliterate
 import datetime
 import modules
-import xlwt
 import re
 
 
@@ -42,18 +39,25 @@ for x in MapPoint_list:
     if s1 or s2:
         POD_PDZ.append(x)
 
-pat_name = re.compile(r'(?<=\<Code>).{5}(?=\<)')
-names_five = []
-for x in POD_PDZ:
-    s = pat_name.search(x)
-    if s:
-        names_five.append(x)
 
-delete_id = []
 pat_id = re.compile(r'\d+')
-for x in names_five:
-    s = pat_id.findall(x)
-    delete_id.append(s[0])
+
+pat_name4 = re.compile(r'(?<=\<Code>).{4}(?=\<)')
+names_four = []
+for x in POD_PDZ:
+    s = pat_name4.search(x)
+    if s:
+        names_four.append(x)
+
+
+airdrom_list = []
+pat_xml = re.compile(r'(?<=\<).+(?=>)')
+for x in names_four:
+    value = f'<{pat_xml.search(x).group()}>'
+    id = pat_id.findall(x)[0]
+    version = pat_id.findall(x)[-1]
+    result = f"({id}, 'MapPoint', '0', 'admin', '{value}', '0', '{version}', 'second')"
+    airdrom_list.append(result)
 
 
 
@@ -109,10 +113,12 @@ for mappoint in root.findall('MapPoint'):
     IsInAirway = try_false(mappoint, 'IsInAirway')
     IsMvl = try_false(mappoint, 'IsMvl')
     LocalChange = try_false(mappoint, 'LocalChange')
+    ShowOnChart = try_except(mappoint, 'ShowOnChart')
+    Frequencies = try_except(mappoint, 'Frequencies')
     if lat and lon != None:
         lst = [version, code, code_lat, name, nameLat, magnetic, type_, lat, lon, airport_type, AirportUsageType,
-           AirportOwnerType, class_, CallLetter, Id, ObjectId, IsACP, IsInOut,
-           IsInOutCIS, IsGateWay, IsTransferPoint, IsTransferPoint_ACP, IsInAirway, IsMvl, LocalChange]
+            AirportOwnerType, class_, CallLetter, Id, ObjectId, IsACP, IsInOut, IsInOutCIS, IsGateWay, IsTransferPoint,
+            IsTransferPoint_ACP, IsInAirway, IsMvl, LocalChange, ShowOnChart, Frequencies]
         names.append(lst)
 
 # Opening ARINC file
@@ -127,30 +133,9 @@ points = list(modules.unique(points))
 # getting points only inside polygon
 inside_points = list(modules.inside(points))
 
-# # finding all routes
-# routes = list(modules.get_routes(text))
-# mvl = list(modules.get_route_info(routes))
-# filtred_routes = list(modules.select_routes(mvl, inside_points))
-# filtred_routes = list(modules.unique(filtred_routes))
-# filtred_routes = sorted(filtred_routes, key=lambda x: x[0])
-# filtred_routes = [list(g) for k, g in groupby(filtred_routes, lambda s: s[0])]
-#
-# # selecting routes with more than 2 points on them
-# more2 = list(modules.count_list(filtred_routes))
-# more2 = list(chain.from_iterable(more2))
-# more2 = list(modules.counter_of_points(more2))
-# only_in_trass_points = modules.only_in_trass(more2)
-# only_in_trass_points = list(modules.unique(only_in_trass_points))
-# names_trass_points = list(modules.names(only_in_trass_points))
-#
-# # getting points in filtered routes
-# filtred_inside_points = [item for item in inside_points if item[0] in names_trass_points]
-
 # transform coordinates from gradus to radians
 rad_points = list(modules.radians(inside_points))
 
-# transform coordinates for xls file
-# xls_point = list(modules.gradus(filtred_inside_points))
 
 # getting names of mdp_points from XML file
 mdp_points = [item[1] for item in names]
@@ -180,12 +165,6 @@ common_points_params_sorted = sorted(common_points_params, key=lambda x: transli
 new_arinc_points = [item for item in rad_points if
                     transliterate.translit(item[0], 'ru') not in common_points and len(item[0]) == 5]
 
-# New points from arinc for XLS file
-# xls_new_arinc_points = [item for item in xls_point if
-#                    transliterate.translit(item[0], 'ru') not in common_points and len(item[0]) == 5]
-
-# xls_arinc_transformed = [modules.insert_arinc(item) for item in xls_new_arinc_points]
-
 # Airdromes, GeoPoints, Landing and other types we should save
 other_points = [item for item in names if item[1] not in common_points and item[6] != "POD"
                 and item[6] != "PDZ"]
@@ -195,21 +174,6 @@ first = [('Type', 'Code', 'CodeLat', 'Name', 'NameLat', 'Coord', 'MagDecl'
 
 final_old = common_points_params + other_points
 
-
-# xls_old_transformed = [modules.insert_old(item) for item in final_old]
-#
-# xls_all = first+ xls_arinc_transformed + xls_old_transformed
-
-# filling excel table
-#
-# filename = xlwt.Workbook()
-# sheet = filename.add_sheet('New_points')
-#
-# for i, l in enumerate(xls_all):
-#     for j, col in enumerate(l):
-#         sheet.write(i, j, col)
-#
-# filename.save('new_points.xls')
 
 class FillXML:
 
@@ -317,6 +281,8 @@ class FamiliarNames:
         IsInAirway = lst[22]
         IsMvl = lst[23]
         LocalChange = lst[24]
+        ShowOnChart = lst[25] if lst[25] is not None else 'true'
+        Frequencies = lst[26] if lst[26] is not None else ""
         self.data0 = '<?xml version="1.0" encoding="utf-16"?>\n'
         self.data2 = f"""<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="{version}" IsDeleted="false">\n"""
         self.data3 = f'\t<ObjectId>{num}</ObjectId>\n'
@@ -324,7 +290,7 @@ class FamiliarNames:
         self.data5 = f'\t<LocalChange>{LocalChange}</LocalChange>\n'
         self.data6 = f'\t<LastUpdate>{datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")}</LastUpdate>\n'
         self.data7 = f'\t<Code>{code}</Code>\n'
-        self.data8 = f'\t<CodeLat>{code_lat}</CodeLat>\n' if code_lat != "" else '\t\t<CodeLat> />\n'
+        self.data8 = f'\t<CodeLat>{code_lat}</CodeLat>\n' if code_lat != "" else '\t\t<CodeLat />\n'
         self.data9 = f'\t<Name>{name}</Name>\n'
         self.data10 = f'\t<NameLat>{name_lat}</NameLat>\n' if name_lat != "" else '\t\t<NameLat />\n'
         self.data11 = '\t<Names />\n'
@@ -332,12 +298,12 @@ class FamiliarNames:
         self.data13 = '\t<Comment />\n'
         self.data14 = '\t<BeginDate>0001-01-01T00:00:00</BeginDate>\n'
         self.data15 = '\t<EndDate>0001-01-01T00:00:00</EndDate>\n'
-        self.data16 = '\t<ShowOnChart>true</ShowOnChart>\n'
+        self.data16 = f'\t<ShowOnChart>{ShowOnChart}</ShowOnChart>\n'
         self.data17 = f'\t<Latitude>{lat}</Latitude>\n'
         self.data18 = f'\t<Longitude>{lon}</Longitude>\n'
         self.data19 = '\t<Elevation>0</Elevation>\n'
         self.data20 = f'\t<MagneticDeclination>{magnetic}</MagneticDeclination>\n'
-        self.data21 = '\t<Frequencies />\n'
+        self.data21 = f'\t<Frequencies>{Frequencies}</Frequencies>\n'
         self.data22 = f'\t<Type>{type_}</Type>\n'
         self.data24 = f'\t<IsACP>{IsACP}</IsACP>\n'
         self.data25 = f'\t<IsInOut>{IsInOut}</IsInOut>\n'
@@ -409,16 +375,11 @@ result_old = {}
 count = length
 for num, item in enumerate(final_old):
     real_num = num + length
-    if item[14] in delete_id:
+    if item[14] and item[15] is not None:
         point = FamiliarNames(item, real_num)
         point_xml = point.change_ID()
         new_value = {point.id: [point_xml, 1 if item[0] is None else int(item[0]) + 1]}
         result_old.update(new_value)
-    # else:
-    #     point = FamiliarNames(item, real_num)
-    #     point_xml = point.simple_list()
-    #     new_value = {real_num: [point_xml, 1 if item[0] is None else int(item[0]) + 1]}
-    #     result_old.update(new_value)
 
 result = result_new
 
@@ -444,14 +405,10 @@ for key, value in result_old.items():
         new_value = """(%s, 'MapPoint', '0', 'admin', '%s', '0', '%s', 'second') """ % (key, xml, result_old[key][1])
         lst_values.append(new_value)
 
+lst_values += airdrom_list
+
 body_query = ',\n'.join(lst_values)
 full_query = begin_query + body_query + ';'
 
 with open('query_old.sql', 'w', encoding='cp1251') as sql:
     sql.write(full_query)
-
-
-res = ',\n'.join(delete_id)
-del_query = f"DELETE FROM tbl_guides WHERE guides_id IN ({res});"
-with open('delete_query.sql', 'w', encoding='cp1251') as sql:
-    sql.write(del_query)
