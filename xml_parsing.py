@@ -2,66 +2,7 @@ import xml.etree.ElementTree as ET
 import transliterate
 import datetime
 import modules
-import re
 
-
-with open('guides.sql', 'r', encoding='utf-8') as file:
-    sql = file.readlines()
-
-insert_list = []
-
-pat = re.compile(r'(INSERT).+')
-for x in sql:
-    s = pat.search(x)
-    if s:
-        insert_list.append(s.group())
-
-values_list = []
-pat2 = re.compile(r'(?<=\().*?(?=\))')
-for x in insert_list:
-    res = pat2.findall(x)
-    values_list += res
-
-MapPoint_list = []
-pat3 = re.compile(r"\d+,'MapPoint'")
-for x in values_list:
-    s = pat3.search(x)
-    if s:
-        MapPoint_list.append(x)
-
-pat_pod = re.compile(r'<Type>POD')
-pat_pdz = re.compile(r'<Type>PDZ')
-
-POD_PDZ = []
-for x in MapPoint_list:
-    s1 = pat_pod.search(x)
-    s2 = pat_pdz.search(x)
-    if s1 or s2:
-        POD_PDZ.append(x)
-
-
-pat_id = re.compile(r'\d+')
-
-pat_name4 = re.compile(r'(?<=\<Code>).{4}(?=\<)')
-names_four = []
-for x in POD_PDZ:
-    s = pat_name4.search(x)
-    if s:
-        names_four.append(x)
-
-
-airdrom_list = []
-pat_xml = re.compile(r'(?<=\<).+(?=>)')
-for x in names_four:
-    value = f'<{pat_xml.search(x).group()}>'
-    id = pat_id.findall(x)[0]
-    version = pat_id.findall(x)[-1]
-    result = f"({id}, 'MapPoint', '0', 'admin', '{value}', '0', '{version}', 'second')"
-    airdrom_list.append(result)
-
-
-
-# Opening existing XML file with points
 with open('Points.xml', 'r', encoding='utf-8') as file:
     data = file.read()
 
@@ -71,6 +12,7 @@ root = ET.fromstring(data)
 # Key values in XML file: version, code, codelat, name , namelat, lon, lat, magnetic declination, type
 names = []
 
+
 def try_except(xml, word):
     try:
         parameter = xml.find(word).text
@@ -78,13 +20,13 @@ def try_except(xml, word):
         parameter = None
     return parameter
 
+
 def try_false(xml, word):
     try:
         parameter = xml.find(word).text
     except:
         parameter = "false"
     return parameter
-
 
 
 for mappoint in root.findall('MapPoint'):
@@ -117,13 +59,19 @@ for mappoint in root.findall('MapPoint'):
     Frequencies = try_except(mappoint, 'Frequencies')
     if lat and lon != None:
         lst = [version, code, code_lat, name, nameLat, magnetic, type_, lat, lon, airport_type, AirportUsageType,
-            AirportOwnerType, class_, CallLetter, Id, ObjectId, IsACP, IsInOut, IsInOutCIS, IsGateWay, IsTransferPoint,
-            IsTransferPoint_ACP, IsInAirway, IsMvl, LocalChange, ShowOnChart, Frequencies]
+               AirportOwnerType, class_, CallLetter, Id, ObjectId, IsACP, IsInOut, IsInOutCIS, IsGateWay,
+               IsTransferPoint,
+               IsTransferPoint_ACP, IsInAirway, IsMvl, LocalChange, ShowOnChart, Frequencies]
         names.append(lst)
 
 # Opening ARINC file
 text = open('GKOVD_DV2108Bv15.txt', 'r',
             encoding='utf-8').readlines()
+POD_PDZ = []
+for x in names:
+    if x[6] == "POD" or x[6] == "PDZ":
+        if len(x[1]) == 4:
+            POD_PDZ.append(x)
 
 # finding all points
 all_points = list(modules.get_points(text))
@@ -135,7 +83,6 @@ inside_points = list(modules.inside(points))
 
 # transform coordinates from gradus to radians
 rad_points = list(modules.radians(inside_points))
-
 
 # getting names of mdp_points from XML file
 mdp_points = [item[1] for item in names]
@@ -172,7 +119,7 @@ other_points = [item for item in names if item[1] not in common_points and item[
 first = [('Type', 'Code', 'CodeLat', 'Name', 'NameLat', 'Coord', 'MagDecl'
           , 'Elevation', 'H', 'Habs', 'Comment')]
 
-final_old = common_points_params + other_points
+final_old = common_points_params + other_points + POD_PDZ
 
 
 class FillXML:
@@ -243,8 +190,6 @@ class FillXML:
                           self.data43, self.data44, self.data45, self.data46, self.data47,
                           self.data48, self.data49]
         return self.data_list
-
-
 
 
 class FamiliarNames:
@@ -341,7 +286,7 @@ class FamiliarNames:
         self.data4 = f'\t<Id>{self.id}</Id>\n'
         self.data_list = [self.data0, self.data2, self.data3, self.data4, self.data5, self.data6,
                           self.data7, self.data8, self.data9, self.data10, self.data11, self.data12,
-                          self.data13,self.data14, self.data15, self.data16, self.data17, self.data18,
+                          self.data13, self.data14, self.data15, self.data16, self.data17, self.data18,
                           self.data19, self.data20, self.data21, self.data22, self.data24, self.data25,
                           self.data26, self.data27, self.data28, self.data29, self.data33, self.data34,
                           self.data38, self.data39, self.data40, self.data41, self.data42, self.data43,
@@ -404,8 +349,6 @@ for key, value in result_old.items():
         xml = draft_read.read()
         new_value = """(%s, 'MapPoint', '0', 'admin', '%s', '0', '%s', 'second') """ % (key, xml, result_old[key][1])
         lst_values.append(new_value)
-
-lst_values += airdrom_list
 
 body_query = ',\n'.join(lst_values)
 full_query = begin_query + body_query + ';'

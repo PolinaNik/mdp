@@ -3,7 +3,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6022</ObjectId>
 	<Id>81993</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЛОМА</Code>
 	<CodeLat>SLOMA</CodeLat>
 	<Name>Уст.р.Масловка</Name>
@@ -53,7 +53,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>23055456</ObjectId>
 	<Id>81999</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КРОМУ</Code>
 	<CodeLat>KROMU</CodeLat>
 	<Name>КРОМУ</Name>
@@ -103,7 +103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>23055415</ObjectId>
 	<Id>82001</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАНОМ</Code>
 	<CodeLat>NANOM</CodeLat>
 	<Name>НАНОМ</Name>
@@ -153,7 +153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>23055410</ObjectId>
 	<Id>82003</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СПИЛУ</Code>
 	<CodeLat>SPILU</CodeLat>
 	<Name>СПИЛУ</Name>
@@ -203,7 +203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>23046860</ObjectId>
 	<Id>82005</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РУБИН</Code>
 	<CodeLat>RUBIN</CodeLat>
 	<Name>РУБИН</Name>
@@ -253,7 +253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>23046859</ObjectId>
 	<Id>82007</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОКЛАД</Code>
 	<CodeLat>OKLAD</CodeLat>
 	<Name>ОКЛАД</Name>
@@ -303,7 +303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>23046856</ObjectId>
 	<Id>82009</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТРИТА</Code>
 	<CodeLat>TRITA</CodeLat>
 	<Name>ТРИТА</Name>
@@ -353,7 +353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>22945365</ObjectId>
 	<Id>82013</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НЕЛАС</Code>
 	<CodeLat>NELAS</CodeLat>
 	<Name>Невельск</Name>
@@ -403,7 +403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>22929290</ObjectId>
 	<Id>82015</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПОДАР</Code>
 	<CodeLat>PODAR</CodeLat>
 	<Name>ПОДАР</Name>
@@ -453,7 +453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>22929289</ObjectId>
 	<Id>82017</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БРИГА</Code>
 	<CodeLat>BRIGA</CodeLat>
 	<Name>БРИГА</Name>
@@ -503,7 +503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>22912411</ObjectId>
 	<Id>82019</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БУНГЕ</Code>
 	<CodeLat>BUNGE</CodeLat>
 	<Name>БУНГЕ</Name>
@@ -553,7 +553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>22912410</ObjectId>
 	<Id>82021</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МИАТА</Code>
 	<CodeLat>MIATA</CodeLat>
 	<Name>МИАТА</Name>
@@ -603,7 +603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>22912392</ObjectId>
 	<Id>82023</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОКТАБ</Code>
 	<CodeLat>OKTAB</CodeLat>
 	<Name>Октябрьское</Name>
@@ -653,7 +653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20735855</ObjectId>
 	<Id>82117</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТУПЕК</Code>
 	<CodeLat>TUPEK</CodeLat>
 	<Name>Тупек</Name>
@@ -703,7 +703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20719635</ObjectId>
 	<Id>82125</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КИРПА</Code>
 	<CodeLat>KIRPA</CodeLat>
 	<Name>Кирпичный</Name>
@@ -753,7 +753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20719634</ObjectId>
 	<Id>82127</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УСЛИМ</Code>
 	<CodeLat>USLIM</CodeLat>
 	<Name>УСЛИМ</Name>
@@ -803,7 +803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20711696</ObjectId>
 	<Id>82129</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КН</Code>
 	<CodeLat>KN</CodeLat>
 	<Name>КН</Name>
@@ -853,7 +853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20126880</ObjectId>
 	<Id>82175</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СТРИН</Code>
 	<CodeLat>STRIN</CodeLat>
 	<Name>СТРИН</Name>
@@ -903,7 +903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20126870</ObjectId>
 	<Id>82177</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БРОДИ</Code>
 	<CodeLat>BRODI</CodeLat>
 	<Name>БРОДИ</Name>
@@ -953,7 +953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20111740</ObjectId>
 	<Id>82179</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МРИЕН</Code>
 	<CodeLat>MRIEN</CodeLat>
 	<Name>МРИЕН</Name>
@@ -1003,7 +1003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20096616</ObjectId>
 	<Id>82181</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТУБРЕ</Code>
 	<CodeLat>TUBRE</CodeLat>
 	<Name>ТУБРЕ</Name>
@@ -1053,7 +1053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>19980923</ObjectId>
 	<Id>82191</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УГ</Code>
 	<CodeLat>UG</CodeLat>
 	<Name>Urgalan NDB</Name>
@@ -1103,7 +1103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>19980899</ObjectId>
 	<Id>82199</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РП</Code>
 	<CodeLat>RP</CodeLat>
 	<Name>Херпучи ОПРС</Name>
@@ -1153,7 +1153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>19980830</ObjectId>
 	<Id>82203</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КЕЛУЛ</Code>
 	<CodeLat>KELUL</CodeLat>
 	<Name>КЕЛУЛ</Name>
@@ -1203,7 +1203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6490</ObjectId>
 	<Id>82205</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЛ</Code>
 	<CodeLat>BL</CodeLat>
 	<Name>Чернышевка ОПРС</Name>
@@ -1253,7 +1253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5158757</ObjectId>
 	<Id>82313</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТД</Code>
 	<CodeLat>TD</CodeLat>
 	<Name>Богуславец</Name>
@@ -1303,7 +1303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5110938</ObjectId>
 	<Id>82321</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТУНЕТ</Code>
 	<CodeLat>TUNET</CodeLat>
 	<Name>Тунет</Name>
@@ -1353,7 +1353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5079541</ObjectId>
 	<Id>82333</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДАБУР</Code>
 	<CodeLat>DABUR</CodeLat>
 	<Name>Дабур</Name>
@@ -1403,7 +1403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5047844</ObjectId>
 	<Id>82357</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОДЕПИ</Code>
 	<CodeLat>ODEPI</CodeLat>
 	<Name>Одепи</Name>
@@ -1453,7 +1453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4997290</ObjectId>
 	<Id>82379</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МЕРМА</Code>
 	<CodeLat>MERMA</CodeLat>
 	<Name>ЦИММЕРМАНОВКА</Name>
@@ -1503,7 +1503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>3516945</ObjectId>
 	<Id>82389</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АРБИТ</Code>
 	<CodeLat>ARBIT</CodeLat>
 	<Name>Арбит</Name>
@@ -1553,7 +1553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1461950</ObjectId>
 	<Id>82529</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УРЕСА</Code>
 	<CodeLat>URESA</CodeLat>
 	<Name>УРЕСА</Name>
@@ -1603,7 +1603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5206</ObjectId>
 	<Id>82533</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАСТА</Code>
 	<CodeLat>LASTA</CodeLat>
 	<Name>Л а с т а</Name>
@@ -1653,7 +1653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>575008</ObjectId>
 	<Id>82535</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АКРИС</Code>
 	<CodeLat>AKRIS</CodeLat>
 	<Name>АКРИС</Name>
@@ -1703,7 +1703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>575056</ObjectId>
 	<Id>82537</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕРЕЛ</Code>
 	<CodeLat>BEREL</CodeLat>
 	<Name>БЕРЕЛ</Name>
@@ -1753,7 +1753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>575298</ObjectId>
 	<Id>82539</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПАНУР</Code>
 	<CodeLat>PANUR</CodeLat>
 	<Name>ПАНУР</Name>
@@ -1803,7 +1803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>575416</ObjectId>
 	<Id>82541</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УСАДИ</Code>
 	<CodeLat>USADI</CodeLat>
 	<Name>УСАДИ</Name>
@@ -1853,7 +1853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>402944</ObjectId>
 	<Id>82551</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АДАРА</Code>
 	<CodeLat>ADARA</CodeLat>
 	<Name>АДАРА</Name>
@@ -1903,7 +1903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>362575</ObjectId>
 	<Id>82553</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АКИНД</Code>
 	<CodeLat>AKIND</CodeLat>
 	<Name>АКИНД</Name>
@@ -1953,7 +1953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400572</ObjectId>
 	<Id>82557</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕНАР</Code>
 	<CodeLat>BENAR</CodeLat>
 	<Name>БЕНАР</Name>
@@ -2003,7 +2003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400438</ObjectId>
 	<Id>82559</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БИКАЛ</Code>
 	<CodeLat>BIKAL</CodeLat>
 	<Name>Маячный мыс</Name>
@@ -2053,7 +2053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400153</ObjectId>
 	<Id>82563</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БОНЕН</Code>
 	<CodeLat>BONEN</CodeLat>
 	<Name>Береговой</Name>
@@ -2103,7 +2103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>404192</ObjectId>
 	<Id>82565</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БОТОК</Code>
 	<CodeLat>BOTOK</CodeLat>
 	<Name>мет.ст.Токо</Name>
@@ -2153,7 +2153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>401039</ObjectId>
 	<Id>82569</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГАБЛА</Code>
 	<CodeLat>GABLA</CodeLat>
 	<Name>ГАБЛА</Name>
@@ -2203,7 +2203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400393</ObjectId>
 	<Id>82571</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГИЛАС</Code>
 	<CodeLat>GILAS</CodeLat>
 	<Name>уст.р.Гилюй</Name>
@@ -2253,7 +2253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400016</ObjectId>
 	<Id>82579</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДИТЛУ</Code>
 	<CodeLat>DITLU</CodeLat>
 	<Name>ДИТЛУ</Name>
@@ -2303,7 +2303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>374969</ObjectId>
 	<Id>82581</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДОТНИ</Code>
 	<CodeLat>DOTNI</CodeLat>
 	<Name>ДОТНИ</Name>
@@ -2353,7 +2353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400710</ObjectId>
 	<Id>82583</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЕЛООН</Code>
 	<CodeLat>ELOON</CodeLat>
 	<Name>оз.Эвай</Name>
@@ -2403,7 +2403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>401772</ObjectId>
 	<Id>82585</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИМИСИ</Code>
 	<CodeLat>IMISI</CodeLat>
 	<Name>ИМИСИ</Name>
@@ -2453,7 +2453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400108</ObjectId>
 	<Id>82587</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИНДОР</Code>
 	<CodeLat>INDOR</CodeLat>
 	<Name>ИНДОР</Name>
@@ -2503,7 +2503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400978</ObjectId>
 	<Id>82589</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИРБИЛ</Code>
 	<CodeLat>IRBIL</CodeLat>
 	<Name>ИРБИЛ</Name>
@@ -2553,7 +2553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>387515</ObjectId>
 	<Id>82593</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КИБЛА</Code>
 	<CodeLat>KIBLA</CodeLat>
 	<Name>КИБЛА</Name>
@@ -2603,7 +2603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>403631</ObjectId>
 	<Id>82597</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КУНАР</Code>
 	<CodeLat>KUNAR</CodeLat>
 	<Name>КУНАР</Name>
@@ -2653,7 +2653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>329208</ObjectId>
 	<Id>82605</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НЕГДА</Code>
 	<CodeLat>NEGDA</CodeLat>
 	<Name>Тахтамыгда</Name>
@@ -2703,7 +2703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>329207</ObjectId>
 	<Id>82607</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕБОН</Code>
 	<CodeLat>BEBON</CodeLat>
 	<Name>БЕБОН</Name>
@@ -2753,7 +2753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>329206</ObjectId>
 	<Id>82609</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЕГРИП</Code>
 	<CodeLat>EGRIP</CodeLat>
 	<Name>Ерофей Павлович</Name>
@@ -2803,7 +2803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4284</ObjectId>
 	<Id>82615</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АБМАР</Code>
 	<CodeLat>ABMAR</CodeLat>
 	<Name>АБМАР</Name>
@@ -2853,7 +2853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4288</ObjectId>
 	<Id>82619</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АБРАМ</Code>
 	<CodeLat>ABRAM</CodeLat>
 	<Name>Абрамовка</Name>
@@ -2903,7 +2903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4312</ObjectId>
 	<Id>82629</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АДИГИ</Code>
 	<CodeLat>ADIGI</CodeLat>
 	<Name>Тр.Джаоре</Name>
@@ -2953,7 +2953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4326</ObjectId>
 	<Id>82635</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АКОЛА</Code>
 	<CodeLat>AKOLA</CodeLat>
 	<Name>А к о л а</Name>
@@ -3003,7 +3003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4328</ObjectId>
 	<Id>82637</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АКРЕН</Code>
 	<CodeLat>AKREN</CodeLat>
 	<Name>АКРЕН</Name>
@@ -3053,7 +3053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4330</ObjectId>
 	<Id>82639</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АЛЕКС</Code>
 	<CodeLat>ALEKS</CodeLat>
 	<Name>Алексеевка</Name>
@@ -3103,7 +3103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4338</ObjectId>
 	<Id>82643</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АЛКУН</Code>
 	<CodeLat>ALKUN</CodeLat>
 	<Name>Алчан</Name>
@@ -3153,7 +3153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4344</ObjectId>
 	<Id>82645</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АЛРОГ</Code>
 	<CodeLat>ALROG</CodeLat>
 	<Name>Алрог</Name>
@@ -3203,7 +3203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4350</ObjectId>
 	<Id>82649</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АМБОТ</Code>
 	<CodeLat>AMBOT</CodeLat>
 	<Name>Тамбовка</Name>
@@ -3253,7 +3253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4358</ObjectId>
 	<Id>82651</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АМЕРА</Code>
 	<CodeLat>AMERA</CodeLat>
 	<Name>А м е р а</Name>
@@ -3303,7 +3303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4378</ObjectId>
 	<Id>82653</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АНАБА</Code>
 	<CodeLat>ANABA</CodeLat>
 	<Name>АНАБА</Name>
@@ -3353,7 +3353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4386</ObjectId>
 	<Id>82657</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СОРОД</Code>
 	<CodeLat>SOROD</CodeLat>
 	<Name>SOROD</Name>
@@ -3403,7 +3403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4390</ObjectId>
 	<Id>82659</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАПГИ</Code>
 	<CodeLat>LAPGI</CodeLat>
 	<Name>Анива</Name>
@@ -3453,7 +3453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4396</ObjectId>
 	<Id>82663</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АРГОВ</Code>
 	<CodeLat>ARGOV</CodeLat>
 	<Name>А р г о в</Name>
@@ -3503,7 +3503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4398</ObjectId>
 	<Id>82665</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АРГУК</Code>
 	<CodeLat>ARGUK</CodeLat>
 	<Name>А р г у к</Name>
@@ -3553,7 +3553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4404</ObjectId>
 	<Id>82667</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АРДЕЛ</Code>
 	<CodeLat>ARDEL</CodeLat>
 	<Name>А р д е л</Name>
@@ -3603,7 +3603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4406</ObjectId>
 	<Id>82669</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АРИГД</Code>
 	<CodeLat>ARIGD</CodeLat>
 	<Name>АРИГД</Name>
@@ -3653,7 +3653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4408</ObjectId>
 	<Id>82671</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АРЛАС</Code>
 	<CodeLat>ARLAS</CodeLat>
 	<Name>А р л а с</Name>
@@ -3703,7 +3703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4416</ObjectId>
 	<Id>82675</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АСАБА</Code>
 	<CodeLat>ASABA</CodeLat>
 	<Name>Ясное</Name>
@@ -3753,7 +3753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4422</ObjectId>
 	<Id>82677</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АСАРИ</Code>
 	<CodeLat>ASARI</CodeLat>
 	<Name>АСАРИ</Name>
@@ -3803,7 +3803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4424</ObjectId>
 	<Id>82679</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АСКИБ</Code>
 	<CodeLat>ASKIB</CodeLat>
 	<Name>А с к и б</Name>
@@ -3853,7 +3853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4442</ObjectId>
 	<Id>82689</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БАБСА</Code>
 	<CodeLat>BABSA</CodeLat>
 	<Name>БАБСА</Name>
@@ -3903,7 +3903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4454</ObjectId>
 	<Id>82699</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БАДАГ</Code>
 	<CodeLat>BADAG</CodeLat>
 	<Name>Б а д а г</Name>
@@ -3953,7 +3953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4456</ObjectId>
 	<Id>82701</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АУЛКИ</Code>
 	<CodeLat>AULKI</CodeLat>
 	<Name>Волково</Name>
@@ -4003,7 +4003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4462</ObjectId>
 	<Id>82703</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БАКУМ</Code>
 	<CodeLat>BAKUM</CodeLat>
 	<Name>Б а к у м</Name>
@@ -4053,7 +4053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4466</ObjectId>
 	<Id>82705</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БАЛЕТ</Code>
 	<CodeLat>BALET</CodeLat>
 	<Name>Б а л е т</Name>
@@ -4103,7 +4103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4468</ObjectId>
 	<Id>82707</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БАЛОН</Code>
 	<CodeLat>BALON</CodeLat>
 	<Name>Верхний Вал</Name>
@@ -4153,7 +4153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4482</ObjectId>
 	<Id>82721</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БАТАМ</Code>
 	<CodeLat>BATAM</CodeLat>
 	<Name>Батамга</Name>
@@ -4203,7 +4203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4488</ObjectId>
 	<Id>82725</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕКЕР</Code>
 	<CodeLat>BEKER</CodeLat>
 	<Name>БЕКЕР</Name>
@@ -4253,7 +4253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4490</ObjectId>
 	<Id>82727</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕКСА</Code>
 	<CodeLat>BEKSA</CodeLat>
 	<Name>Б е к с а</Name>
@@ -4303,7 +4303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4492</ObjectId>
 	<Id>82729</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕЛАТ</Code>
 	<CodeLat>BELAT</CodeLat>
 	<Name>Верхний Перевал</Name>
@@ -4353,7 +4353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4494</ObjectId>
 	<Id>82731</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕЛДА</Code>
 	<CodeLat>BELDA</CodeLat>
 	<Name>Валентин</Name>
@@ -4403,7 +4403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4500</ObjectId>
 	<Id>82735</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕМОР</Code>
 	<CodeLat>BEMOR</CodeLat>
 	<Name>Б е м о р</Name>
@@ -4453,7 +4453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4518</ObjectId>
 	<Id>82743</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕСТР</Code>
 	<CodeLat>BESTR</CodeLat>
 	<Name>Высокогорск</Name>
@@ -4503,7 +4503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4520</ObjectId>
 	<Id>82745</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БИАТУ</Code>
 	<CodeLat>BIATU</CodeLat>
 	<Name>Виахту</Name>
@@ -4553,7 +4553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4524</ObjectId>
 	<Id>82749</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БИГТА</Code>
 	<CodeLat>BIGTA</CodeLat>
 	<Name>Б и г т а</Name>
@@ -4603,7 +4603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4526</ObjectId>
 	<Id>82751</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БИДАС</Code>
 	<CodeLat>BIDAS</CodeLat>
 	<Name>Власьево</Name>
@@ -4653,7 +4653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4530</ObjectId>
 	<Id>82755</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БИКИР</Code>
 	<CodeLat>BIKIR</CodeLat>
 	<Name>Бикин(ПОД)</Name>
@@ -4703,7 +4703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4542</ObjectId>
 	<Id>82763</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БИНЕР</Code>
 	<CodeLat>BINER</CodeLat>
 	<Name>Бичевая(ПОД)</Name>
@@ -4753,7 +4753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4544</ObjectId>
 	<Id>82765</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БИНЕС</Code>
 	<CodeLat>BINES</CodeLat>
 	<Name>БИНЕС</Name>
@@ -4803,7 +4803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4552</ObjectId>
 	<Id>82767</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БИРАС</Code>
 	<CodeLat>BIRAS</CodeLat>
 	<Name>Бира</Name>
@@ -4853,7 +4853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4562</ObjectId>
 	<Id>82771</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БИСГА</Code>
 	<CodeLat>BISGA</CodeLat>
 	<Name>Березовый</Name>
@@ -4903,7 +4903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4578</ObjectId>
 	<Id>82779</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЛГ</Code>
 	<CodeLat>BLG</CodeLat>
 	<Name>Благовещенск ВОР/ДМЕ</Name>
@@ -4953,7 +4953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4580</ObjectId>
 	<Id>82781</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЛИНА</Code>
 	<CodeLat>BLINA</CodeLat>
 	<Name>Виданово</Name>
@@ -5003,7 +5003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4588</ObjectId>
 	<Id>82787</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БОЛИН</Code>
 	<CodeLat>BOLIN</CodeLat>
 	<Name>Мылки ЖДст</Name>
@@ -5053,7 +5053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4590</ObjectId>
 	<Id>82789</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БОЛКО</Code>
 	<CodeLat>BOLKO</CodeLat>
 	<Name>Коболдо</Name>
@@ -5103,7 +5103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4596</ObjectId>
 	<Id>82791</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БОНКИ</Code>
 	<CodeLat>BONKI</CodeLat>
 	<Name>Бошняково</Name>
@@ -5153,7 +5153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4598</ObjectId>
 	<Id>82793</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БОТАС</Code>
 	<CodeLat>BOTAS</CodeLat>
 	<Name>БОТАС</Name>
@@ -5203,7 +5203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4608</ObjectId>
 	<Id>82803</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БУНДИ</Code>
 	<CodeLat>BUNDI</CodeLat>
 	<Name>БУНДИ</Name>
@@ -5253,7 +5253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4628</ObjectId>
 	<Id>82821</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ВАТИС</Code>
 	<CodeLat>VATIS</CodeLat>
 	<Name>В а т и с</Name>
@@ -5303,7 +5303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>7746</ObjectId>
 	<Id>82833</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ВИБИР</Code>
 	<CodeLat>VIBIR</CodeLat>
 	<Name>Взморье</Name>
@@ -5353,7 +5353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4670</ObjectId>
 	<Id>82843</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГАБИН</Code>
 	<CodeLat>GABIN</CodeLat>
 	<Name>ГАБИН</Name>
@@ -5403,7 +5403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4682</ObjectId>
 	<Id>82847</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГАЛМА</Code>
 	<CodeLat>GALMA</CodeLat>
 	<Name>Малмыж</Name>
@@ -5453,7 +5453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4712</ObjectId>
 	<Id>82871</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГЛУБИ</Code>
 	<CodeLat>GLUBI</CodeLat>
 	<Name>Глубинное</Name>
@@ -5503,7 +5503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4714</ObjectId>
 	<Id>82873</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГОБИЛ</Code>
 	<CodeLat>GOBIL</CodeLat>
 	<Name>Уст.р.Гобели</Name>
@@ -5553,7 +5553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4716</ObjectId>
 	<Id>82875</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГОДРО</Code>
 	<CodeLat>GODRO</CodeLat>
 	<Name>ур.Огоджа</Name>
@@ -5603,7 +5603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4718</ObjectId>
 	<Id>82877</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГОЛАР</Code>
 	<CodeLat>GOLAR</CodeLat>
 	<Name>Ольга</Name>
@@ -5653,7 +5653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4726</ObjectId>
 	<Id>82881</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГОМРО</Code>
 	<CodeLat>GOMRO</CodeLat>
 	<Name>Громовская</Name>
@@ -5703,7 +5703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4730</ObjectId>
 	<Id>82883</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГОНУЛ</Code>
 	<CodeLat>GONUL</CodeLat>
 	<Name>ГОНУЛ</Name>
@@ -5753,7 +5753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4742</ObjectId>
 	<Id>82889</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АНИКУ</Code>
 	<CodeLat>ANIKU</CodeLat>
 	<Name>АНИКУ</Name>
@@ -5803,7 +5803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4760</ObjectId>
 	<Id>82895</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГУДЛИ</Code>
 	<CodeLat>GUDLI</CodeLat>
 	<Name>Г у д л и</Name>
@@ -5853,7 +5853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4762</ObjectId>
 	<Id>82897</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГУРДА</Code>
 	<CodeLat>GURDA</CodeLat>
 	<Name>ГУРДА</Name>
@@ -5903,7 +5903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4768</ObjectId>
 	<Id>82899</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДАБНА</Code>
 	<CodeLat>DABNA</CodeLat>
 	<Name>Дабанда</Name>
@@ -5953,7 +5953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4770</ObjectId>
 	<Id>82901</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДАГЕС</Code>
 	<CodeLat>DAGES</CodeLat>
 	<Name>Д а г е с</Name>
@@ -6003,7 +6003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4772</ObjectId>
 	<Id>82903</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДАНИЛ</Code>
 	<CodeLat>DANIL</CodeLat>
 	<Name>Даниловка</Name>
@@ -6053,7 +6053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4774</ObjectId>
 	<Id>82905</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДАЛНО</Code>
 	<CodeLat>DALNO</CodeLat>
 	<Name>Дальнегорск</Name>
@@ -6103,7 +6103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4782</ObjectId>
 	<Id>82907</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДАРСА</Code>
 	<CodeLat>DARSA</CodeLat>
 	<Name>ДАРСА</Name>
@@ -6153,7 +6153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4784</ObjectId>
 	<Id>82909</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДАСКО</Code>
 	<CodeLat>DASKO</CodeLat>
 	<Name>Д а с к о</Name>
@@ -6203,7 +6203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4786</ObjectId>
 	<Id>82911</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДАТОК</Code>
 	<CodeLat>DATOK</CodeLat>
 	<Name>19-й блок пост</Name>
@@ -6253,7 +6253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4816</ObjectId>
 	<Id>82925</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДИДЕК</Code>
 	<CodeLat>DIDEK</CodeLat>
 	<Name>Д и д е к</Name>
@@ -6303,7 +6303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4824</ObjectId>
 	<Id>82931</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДИМЕД</Code>
 	<CodeLat>DIMED</CodeLat>
 	<Name>Д и м е д</Name>
@@ -6353,7 +6353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4834</ObjectId>
 	<Id>82935</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДИТОР</Code>
 	<CodeLat>DITOR</CodeLat>
 	<Name>Д и т о р</Name>
@@ -6403,7 +6403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4840</ObjectId>
 	<Id>82937</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДМАРО</Code>
 	<CodeLat>DMARO</CodeLat>
 	<Name>Джармен</Name>
@@ -6453,7 +6453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4844</ObjectId>
 	<Id>82939</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДОГОП</Code>
 	<CodeLat>DOGOP</CodeLat>
 	<Name>Альба</Name>
@@ -6503,7 +6503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4846</ObjectId>
 	<Id>82941</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДОЛМА</Code>
 	<CodeLat>DOLMA</CodeLat>
 	<Name>Д о л м а</Name>
@@ -6553,7 +6553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4854</ObjectId>
 	<Id>82945</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДОНКО</Code>
 	<CodeLat>DONKO</CodeLat>
 	<Name>Кондер</Name>
@@ -6603,7 +6603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4868</ObjectId>
 	<Id>82955</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДУДИК</Code>
 	<CodeLat>DUDIK</CodeLat>
 	<Name>Дуди</Name>
@@ -6653,7 +6653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4890</ObjectId>
 	<Id>82971</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЕРГЕР</Code>
 	<CodeLat>ERGER</CodeLat>
 	<Name>Е р г е р</Name>
@@ -6703,7 +6703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4898</ObjectId>
 	<Id>82977</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЕРНУР</Code>
 	<CodeLat>ERNUR</CodeLat>
 	<Name>Уст.р.Эвур</Name>
@@ -6753,7 +6753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4902</ObjectId>
 	<Id>82981</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЕСЕКО</Code>
 	<CodeLat>ESEKO</CodeLat>
 	<Name>Сергеевка</Name>
@@ -6803,7 +6803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4932</ObjectId>
 	<Id>82995</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИВАДА</Code>
 	<CodeLat>IVADA</CodeLat>
 	<Name>И в а д а</Name>
@@ -6853,7 +6853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4948</ObjectId>
 	<Id>83005</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИЛИАС</Code>
 	<CodeLat>ILIAS</CodeLat>
 	<Name>Ильинский</Name>
@@ -6903,7 +6903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4952</ObjectId>
 	<Id>83009</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИМКОР</Code>
 	<CodeLat>IMKOR</CodeLat>
 	<Name>Уст.р.Им</Name>
@@ -6953,7 +6953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4978</ObjectId>
 	<Id>83015</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИНОЛА</Code>
 	<CodeLat>INOLA</CodeLat>
 	<Name>Иня</Name>
@@ -7003,7 +7003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4988</ObjectId>
 	<Id>83019</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАДУГ</Code>
 	<CodeLat>KADUG</CodeLat>
 	<Name>Уст.р.Джагдана</Name>
@@ -7053,7 +7053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4992</ObjectId>
 	<Id>83023</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАКЕР</Code>
 	<CodeLat>KAKER</CodeLat>
 	<Name>Киевка</Name>
@@ -7103,7 +7103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5000</ObjectId>
 	<Id>83025</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАМЕР</Code>
 	<CodeLat>KAMER</CodeLat>
 	<Name>Камень - Рыболов</Name>
@@ -7153,7 +7153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5002</ObjectId>
 	<Id>83027</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАНАБ</Code>
 	<CodeLat>KANAB</CodeLat>
 	<Name>р.МЫ</Name>
@@ -7203,7 +7203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5004</ObjectId>
 	<Id>83029</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАНГИ</Code>
 	<CodeLat>KANGI</CodeLat>
 	<Name>Краскино</Name>
@@ -7253,7 +7253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5008</ObjectId>
 	<Id>83033</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАНМА</Code>
 	<CodeLat>KANMA</CodeLat>
 	<Name>Тр.Маймакан</Name>
@@ -7303,7 +7303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5010</ObjectId>
 	<Id>83035</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАНМО</Code>
 	<CodeLat>KANMO</CodeLat>
 	<Name>КАНМО</Name>
@@ -7353,7 +7353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5012</ObjectId>
 	<Id>83037</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАРАС</Code>
 	<CodeLat>KARAS</CodeLat>
 	<Name>Красицкий</Name>
@@ -7403,7 +7403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5018</ObjectId>
 	<Id>83039</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАСТО</Code>
 	<CodeLat>KASTO</CodeLat>
 	<Name>Кухтерин Луг</Name>
@@ -7453,7 +7453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5020</ObjectId>
 	<Id>83041</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАСТР</Code>
 	<CodeLat>KASTR</CodeLat>
 	<Name>Де-Кастри</Name>
@@ -7503,7 +7503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5022</ObjectId>
 	<Id>83043</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАСТУ</Code>
 	<CodeLat>KASTU</CodeLat>
 	<Name>Джелан КПСв.</Name>
@@ -7553,7 +7553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5024</ObjectId>
 	<Id>83045</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАТАН</Code>
 	<CodeLat>KATAN</CodeLat>
 	<Name>Костюковка</Name>
@@ -7603,7 +7603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5026</ObjectId>
 	<Id>83047</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАТНА</Code>
 	<CodeLat>KATNA</CodeLat>
 	<Name>Антыкан мыс</Name>
@@ -7653,7 +7653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5028</ObjectId>
 	<Id>83049</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАТОН</Code>
 	<CodeLat>KATON</CodeLat>
 	<Name>КАТОН</Name>
@@ -7703,7 +7703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5034</ObjectId>
 	<Id>83055</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАНАЛ</Code>
 	<CodeLat>LANAL</CodeLat>
 	<Name>ЛАНАЛ</Name>
@@ -7753,7 +7753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5036</ObjectId>
 	<Id>83057</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КЕМАР</Code>
 	<CodeLat>KEMAR</CodeLat>
 	<Name>КЕМАР</Name>
@@ -7803,7 +7803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5044</ObjectId>
 	<Id>83063</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КЕРАМ</Code>
 	<CodeLat>KERAM</CodeLat>
 	<Name>тр.Черемшаны</Name>
@@ -7853,7 +7853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5048</ObjectId>
 	<Id>83067</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КЕРНУ</Code>
 	<CodeLat>KERNU</CodeLat>
 	<Name>КЕРНУ</Name>
@@ -7903,7 +7903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5052</ObjectId>
 	<Id>83071</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КЕСУЛ</Code>
 	<CodeLat>KESUL</CodeLat>
 	<Name>К е с у л</Name>
@@ -7953,7 +7953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5056</ObjectId>
 	<Id>83073</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КЕТНА</Code>
 	<CodeLat>KETNA</CodeLat>
 	<Name>Кетанда</Name>
@@ -8003,7 +8003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5060</ObjectId>
 	<Id>83077</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КИЛЕК</Code>
 	<CodeLat>KILEK</CodeLat>
 	<Name>Хоэ</Name>
@@ -8053,7 +8053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5062</ObjectId>
 	<Id>83079</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КИЛМИ</Code>
 	<CodeLat>KILMI</CodeLat>
 	<Name>К и л м и</Name>
@@ -8103,7 +8103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5064</ObjectId>
 	<Id>83081</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КИЛОМ</Code>
 	<CodeLat>KILOM</CodeLat>
 	<Name>10-й км</Name>
@@ -8153,7 +8153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5066</ObjectId>
 	<Id>83083</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КИМУН</Code>
 	<CodeLat>KIMUN</CodeLat>
 	<Name>Каменка</Name>
@@ -8203,7 +8203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5070</ObjectId>
 	<Id>83085</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КИНОК</Code>
 	<CodeLat>KINOK</CodeLat>
 	<Name>Кочки</Name>
@@ -8253,7 +8253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5086</ObjectId>
 	<Id>83101</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КОМЕР</Code>
 	<CodeLat>KOMER</CodeLat>
 	<Name>Большое Чоме</Name>
@@ -8303,7 +8303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5092</ObjectId>
 	<Id>83105</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КОНДО</Code>
 	<CodeLat>KONDO</CodeLat>
 	<Name>Кондон</Name>
@@ -8353,7 +8353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5096</ObjectId>
 	<Id>83109</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КОНДР</Code>
 	<CodeLat>KONDR</CodeLat>
 	<Name>Кондратеновка</Name>
@@ -8403,7 +8403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5098</ObjectId>
 	<Id>83111</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КОНКИ</Code>
 	<CodeLat>KONKI</CodeLat>
 	<Name>мыс Жонкиер</Name>
@@ -8453,7 +8453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5114</ObjectId>
 	<Id>83117</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КОРУМ</Code>
 	<CodeLat>KORUM</CodeLat>
 	<Name>К о р у м</Name>
@@ -8503,7 +8503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5122</ObjectId>
 	<Id>83121</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КОССЕ</Code>
 	<CodeLat>KOSSE</CodeLat>
 	<Name>Косва</Name>
@@ -8553,7 +8553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5132</ObjectId>
 	<Id>83129</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КРЕСО</Code>
 	<CodeLat>KRESO</CodeLat>
 	<Name>Воскресенское</Name>
@@ -8603,7 +8603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5136</ObjectId>
 	<Id>83131</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КУДОР</Code>
 	<CodeLat>KUDOR</CodeLat>
 	<Name>тр.Красноярово</Name>
@@ -8653,7 +8653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5142</ObjectId>
 	<Id>83135</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КУКЕЛ</Code>
 	<CodeLat>KUKEL</CodeLat>
 	<Name>Кукан</Name>
@@ -8703,7 +8703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5148</ObjectId>
 	<Id>83137</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КУЛИН</Code>
 	<CodeLat>KULIN</CodeLat>
 	<Name>Калиновка</Name>
@@ -8753,7 +8753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5158</ObjectId>
 	<Id>83145</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КУМУН</Code>
 	<CodeLat>KUMUN</CodeLat>
 	<Name>Каменушка</Name>
@@ -8803,7 +8803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5162</ObjectId>
 	<Id>83149</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КУНГУ</Code>
 	<CodeLat>KUNGU</CodeLat>
 	<Name>КУНГУ</Name>
@@ -8853,7 +8853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5170</ObjectId>
 	<Id>83153</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАДАМ</Code>
 	<CodeLat>LADAM</CodeLat>
 	<Name>ПП Лазарев</Name>
@@ -8903,7 +8903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5174</ObjectId>
 	<Id>83155</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАДНИ</Code>
 	<CodeLat>LADNI</CodeLat>
 	<Name>ЛАДНИ</Name>
@@ -8953,7 +8953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5186</ObjectId>
 	<Id>83167</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАМАН</Code>
 	<CodeLat>LAMAN</CodeLat>
 	<Name>мыс Ламанон</Name>
@@ -9003,7 +9003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5188</ObjectId>
 	<Id>83169</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАМКА</Code>
 	<CodeLat>LAMKA</CodeLat>
 	<Name>Л а м к а</Name>
@@ -9053,7 +9053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5192</ObjectId>
 	<Id>83173</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАНЕС</Code>
 	<CodeLat>LANES</CodeLat>
 	<Name>ЛАХ мыс</Name>
@@ -9103,7 +9103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5194</ObjectId>
 	<Id>83175</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАНКА</Code>
 	<CodeLat>LANKA</CodeLat>
 	<Name>Малмыж ЖДст</Name>
@@ -9153,7 +9153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5198</ObjectId>
 	<Id>83177</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАНРИ</Code>
 	<CodeLat>LANRI</CodeLat>
 	<Name>Л а н р и</Name>
@@ -9203,7 +9203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5202</ObjectId>
 	<Id>83181</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАСИЛ</Code>
 	<CodeLat>LASIL</CodeLat>
 	<Name>Ласточка</Name>
@@ -9253,7 +9253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5212</ObjectId>
 	<Id>83187</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАТЕР</Code>
 	<CodeLat>LATER</CodeLat>
 	<Name>ЛАТЕР</Name>
@@ -9303,7 +9303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5220</ObjectId>
 	<Id>83195</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛЕККИ</Code>
 	<CodeLat>LEKKI</CodeLat>
 	<Name>ЛЕККИ</Name>
@@ -9353,7 +9353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5230</ObjectId>
 	<Id>83201</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛЕРИН</Code>
 	<CodeLat>LERIN</CodeLat>
 	<Name>Ленино</Name>
@@ -9403,7 +9403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5232</ObjectId>
 	<Id>83203</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛЕРМО</Code>
 	<CodeLat>LERMO</CodeLat>
 	<Name>Лермонтовка</Name>
@@ -9453,7 +9453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5240</ObjectId>
 	<Id>83211</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛИКОР</Code>
 	<CodeLat>LIKOR</CodeLat>
 	<Name>оз.Орлик</Name>
@@ -9503,7 +9503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5252</ObjectId>
 	<Id>83219</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛОБОС</Code>
 	<CodeLat>LOBOS</CodeLat>
 	<Name>ЛОБОС</Name>
@@ -9553,7 +9553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5258</ObjectId>
 	<Id>83221</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛОМОС</Code>
 	<CodeLat>LOMOS</CodeLat>
 	<Name>Смольное</Name>
@@ -9603,7 +9603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5260</ObjectId>
 	<Id>83223</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛОНАС</Code>
 	<CodeLat>LONAS</CodeLat>
 	<Name>ЛОНАС</Name>
@@ -9653,7 +9653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5262</ObjectId>
 	<Id>83225</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛОНБА</Code>
 	<CodeLat>LONBA</CodeLat>
 	<Name>ЛОНБА</Name>
@@ -9703,7 +9703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5268</ObjectId>
 	<Id>83229</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛУБОК</Code>
 	<CodeLat>LUBOK</CodeLat>
 	<Name>Л у б о к</Name>
@@ -9753,7 +9753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5272</ObjectId>
 	<Id>83231</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛУДНА</Code>
 	<CodeLat>LUDNA</CodeLat>
 	<Name>о.Джалу</Name>
@@ -9803,7 +9803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5276</ObjectId>
 	<Id>83235</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛУМИН</Code>
 	<CodeLat>LUMIN</CodeLat>
 	<Name>Л у м и н</Name>
@@ -9853,7 +9853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5286</ObjectId>
 	<Id>83245</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАБУТ</Code>
 	<CodeLat>MABUT</CodeLat>
 	<Name>М а б у т</Name>
@@ -9903,7 +9903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5292</ObjectId>
 	<Id>83251</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАГЛО</Code>
 	<CodeLat>MAGLO</CodeLat>
 	<Name>Макаров</Name>
@@ -9953,7 +9953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5302</ObjectId>
 	<Id>83257</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАЛЕМ</Code>
 	<CodeLat>MALEM</CodeLat>
 	<Name>Малая Кема</Name>
@@ -10003,7 +10003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5310</ObjectId>
 	<Id>83265</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАНЛА</Code>
 	<CodeLat>MANLA</CodeLat>
 	<Name>МАНЛА</Name>
@@ -10053,7 +10053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5324</ObjectId>
 	<Id>83275</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАРТО</Code>
 	<CodeLat>MARTO</CodeLat>
 	<Name>Марто</Name>
@@ -10103,7 +10103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5332</ObjectId>
 	<Id>83283</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МЕНОР</Code>
 	<CodeLat>MENOR</CodeLat>
 	<Name>р.Чоме</Name>
@@ -10153,7 +10153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5334</ObjectId>
 	<Id>83285</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МЕРИЛ</Code>
 	<CodeLat>MERIL</CodeLat>
 	<Name>о.Оремиф</Name>
@@ -10203,7 +10203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5336</ObjectId>
 	<Id>83287</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МЕТАК</Code>
 	<CodeLat>METAK</CodeLat>
 	<Name>Медвежка</Name>
@@ -10253,7 +10253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5338</ObjectId>
 	<Id>83289</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МЕТЕР</Code>
 	<CodeLat>METER</CodeLat>
 	<Name>Метеоритный</Name>
@@ -10303,7 +10303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5340</ObjectId>
 	<Id>83291</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МИЛОГ</Code>
 	<CodeLat>MILOG</CodeLat>
 	<Name>Милоградово</Name>
@@ -10353,7 +10353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5352</ObjectId>
 	<Id>83295</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МОГИК</Code>
 	<CodeLat>MOGIK</CodeLat>
 	<Name>Могилевка</Name>
@@ -10403,7 +10403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5362</ObjectId>
 	<Id>83303</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МОМЕС</Code>
 	<CodeLat>MOMES</CodeLat>
 	<Name>М о м е с</Name>
@@ -10453,7 +10453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5366</ObjectId>
 	<Id>83307</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МОНЛО</Code>
 	<CodeLat>MONLO</CodeLat>
 	<Name>МОНЛО</Name>
@@ -10503,7 +10503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5370</ObjectId>
 	<Id>83311</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МУКСИ</Code>
 	<CodeLat>MUKSI</CodeLat>
 	<Name>МУКСИ</Name>
@@ -10553,7 +10553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5372</ObjectId>
 	<Id>83313</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МУНОР</Code>
 	<CodeLat>MUNOR</CodeLat>
 	<Name>Мельничное</Name>
@@ -10603,7 +10603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5374</ObjectId>
 	<Id>83315</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МУПТА</Code>
 	<CodeLat>MUPTA</CodeLat>
 	<Name>Мокрая Падь</Name>
@@ -10653,7 +10653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5376</ObjectId>
 	<Id>83317</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МУРОК</Code>
 	<CodeLat>MUROK</CodeLat>
 	<Name>Муровка</Name>
@@ -10703,7 +10703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5378</ObjectId>
 	<Id>83319</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МУСАТ</Code>
 	<CodeLat>MUSAT</CodeLat>
 	<Name>МУСАТ</Name>
@@ -10753,7 +10753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5388</ObjectId>
 	<Id>83323</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАБУК</Code>
 	<CodeLat>NABUK</CodeLat>
 	<Name>Н а б у к</Name>
@@ -10803,7 +10803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5390</ObjectId>
 	<Id>83325</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАГИК</Code>
 	<CodeLat>NAGIK</CodeLat>
 	<Name>Новогеоргиевка</Name>
@@ -10853,7 +10853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5392</ObjectId>
 	<Id>83327</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАГОР</Code>
 	<CodeLat>NAGOR</CodeLat>
 	<Name>Отметка 221</Name>
@@ -10903,7 +10903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5394</ObjectId>
 	<Id>83329</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАГУС</Code>
 	<CodeLat>NAGUS</CodeLat>
 	<Name>Няча</Name>
@@ -10953,7 +10953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5398</ObjectId>
 	<Id>83331</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАДУК</Code>
 	<CodeLat>NADUK</CodeLat>
 	<Name>НАДУК</Name>
@@ -11003,7 +11003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5404</ObjectId>
 	<Id>83337</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАКАН</Code>
 	<CodeLat>NAKAN</CodeLat>
 	<Name>НАКАН</Name>
@@ -11053,7 +11053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5406</ObjectId>
 	<Id>83339</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАКАР</Code>
 	<CodeLat>NAKAR</CodeLat>
 	<Name>Тр.Ачан</Name>
@@ -11103,7 +11103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5410</ObjectId>
 	<Id>83341</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАЛАМ</Code>
 	<CodeLat>NALAM</CodeLat>
 	<Name>Н а л а м</Name>
@@ -11153,7 +11153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5416</ObjectId>
 	<Id>83345</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАРОГ</Code>
 	<CodeLat>NAROG</CodeLat>
 	<Name>Н а р о г</Name>
@@ -11203,7 +11203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5420</ObjectId>
 	<Id>83349</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАСЕК</Code>
 	<CodeLat>NASEK</CodeLat>
 	<Name>Новошахтинский</Name>
@@ -11253,7 +11253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5422</ObjectId>
 	<Id>83351</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАСКО</Code>
 	<CodeLat>NASKO</CodeLat>
 	<Name>Ныш</Name>
@@ -11303,7 +11303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5430</ObjectId>
 	<Id>83357</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НЕБЕС</Code>
 	<CodeLat>NEBES</CodeLat>
 	<Name>Н е б е с</Name>
@@ -11353,7 +11353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5450</ObjectId>
 	<Id>83369</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НЕМИТ</Code>
 	<CodeLat>NEMIT</CodeLat>
 	<Name>НЕМИТ</Name>
@@ -11403,7 +11403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5452</ObjectId>
 	<Id>83371</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НЕНОЛ</Code>
 	<CodeLat>NENOL</CodeLat>
 	<Name>НПТ Де-Кастри</Name>
@@ -11453,7 +11453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5456</ObjectId>
 	<Id>83375</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НЕРЛИ</Code>
 	<CodeLat>NERLI</CodeLat>
 	<Name>Н е р л и</Name>
@@ -11503,7 +11503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400484</ObjectId>
 	<Id>83377</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НЕРТИ</Code>
 	<CodeLat>NERTI</CodeLat>
 	<Name>Нефтегорск</Name>
@@ -11553,7 +11553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5462</ObjectId>
 	<Id>83381</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИАСА</Code>
 	<CodeLat>NIASA</CodeLat>
 	<Name>Анисимовка</Name>
@@ -11603,7 +11603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5464</ObjectId>
 	<Id>83383</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИДИС</Code>
 	<CodeLat>NIDIS</CodeLat>
 	<Name>Н и д и с</Name>
@@ -11653,7 +11653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>375014</ObjectId>
 	<Id>83385</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИДОТ</Code>
 	<CodeLat>NIDOT</CodeLat>
 	<Name>НИДОТ</Name>
@@ -11703,7 +11703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5466</ObjectId>
 	<Id>83387</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИКДА</Code>
 	<CodeLat>NIKDA</CodeLat>
 	<Name>НИКДА</Name>
@@ -11753,7 +11753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400637</ObjectId>
 	<Id>83399</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИЛУН</Code>
 	<CodeLat>NILUN</CodeLat>
 	<Name>Нижний Вал</Name>
@@ -11803,7 +11803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5484</ObjectId>
 	<Id>83403</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИМОР</Code>
 	<CodeLat>NIMOR</CodeLat>
 	<Name>НИМОР</Name>
@@ -11853,7 +11853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5486</ObjectId>
 	<Id>83405</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИНОН</Code>
 	<CodeLat>NINON</CodeLat>
 	<Name>Н и н о н</Name>
@@ -11903,7 +11903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5488</ObjectId>
 	<Id>83407</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИОРТ</Code>
 	<CodeLat>NIORT</CodeLat>
 	<Name>НИОРТ</Name>
@@ -11953,7 +11953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>399972</ObjectId>
 	<Id>83409</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИРОК</Code>
 	<CodeLat>NIROK</CodeLat>
 	<Name>уст.р.Нинни</Name>
@@ -12003,7 +12003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>7742</ObjectId>
 	<Id>83415</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИТУМ</Code>
 	<CodeLat>NITUM</CodeLat>
 	<Name>Нитуй (мыс)</Name>
@@ -12053,7 +12053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5524</ObjectId>
 	<Id>83429</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НОДРО</Code>
 	<CodeLat>NODRO</CodeLat>
 	<Name>Н о д р о</Name>
@@ -12103,7 +12103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5526</ObjectId>
 	<Id>83431</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НОКИЛ</Code>
 	<CodeLat>NOKIL</CodeLat>
 	<Name>Малиново</Name>
@@ -12153,7 +12153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5528</ObjectId>
 	<Id>83433</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НОКИТ</Code>
 	<CodeLat>NOKIT</CodeLat>
 	<Name>Новопокровка</Name>
@@ -12203,7 +12203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5530</ObjectId>
 	<Id>83435</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НОКМА</Code>
 	<CodeLat>NOKMA</CodeLat>
 	<Name>Маймакан</Name>
@@ -12253,7 +12253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5534</ObjectId>
 	<Id>83437</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НОКУР</Code>
 	<CodeLat>NOKUR</CodeLat>
 	<Name>Протока</Name>
@@ -12303,7 +12303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5538</ObjectId>
 	<Id>83439</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НОЛЕО</Code>
 	<CodeLat>NOLEO</CodeLat>
 	<Name>Леонидово</Name>
@@ -12353,7 +12353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5540</ObjectId>
 	<Id>83441</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НОЛОР</Code>
 	<CodeLat>NOLOR</CodeLat>
 	<Name>Тыр</Name>
@@ -12403,7 +12403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5594</ObjectId>
 	<Id>83493</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОБЕРИ</Code>
 	<CodeLat>OBERI</CodeLat>
 	<Name>О б е р и</Name>
@@ -12453,7 +12453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5596</ObjectId>
 	<Id>83495</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОБЛОН</Code>
 	<CodeLat>OBLON</CodeLat>
 	<Name>мыс Яблоновый</Name>
@@ -12503,7 +12503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5598</ObjectId>
 	<Id>83497</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОБЛУК</Code>
 	<CodeLat>OBLUK</CodeLat>
 	<Name>Облучье</Name>
@@ -12553,7 +12553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5604</ObjectId>
 	<Id>83503</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОБРАН</Code>
 	<CodeLat>OBRAN</CodeLat>
 	<Name>Преображение</Name>
@@ -12603,7 +12603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5612</ObjectId>
 	<Id>83511</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПА</Code>
 	<CodeLat>PA</CodeLat>
 	<Name>Чумикан ОПРС</Name>
@@ -12653,7 +12653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5616</ObjectId>
 	<Id>83513</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОДЕКО</Code>
 	<CodeLat>ODEKO</CodeLat>
 	<Name>О д е к о</Name>
@@ -12703,7 +12703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5626</ObjectId>
 	<Id>83523</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОДОНУ</Code>
 	<CodeLat>ODONU</CodeLat>
 	<Name>Озерное</Name>
@@ -12753,7 +12753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5628</ObjectId>
 	<Id>83525</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОКДАМ</Code>
 	<CodeLat>OKDAM</CodeLat>
 	<Name>Ихдам мыс</Name>
@@ -12803,7 +12803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5630</ObjectId>
 	<Id>83527</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОКЕРС</Code>
 	<CodeLat>OKERS</CodeLat>
 	<Name>ОКЕРС</Name>
@@ -12853,7 +12853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5640</ObjectId>
 	<Id>83531</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИНБОР</Code>
 	<CodeLat>INBOR</CodeLat>
 	<Name>Инбор</Name>
@@ -12903,7 +12903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5652</ObjectId>
 	<Id>83543</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОЛОНИ</Code>
 	<CodeLat>OLONI</CodeLat>
 	<Name>Лазо</Name>
@@ -12953,7 +12953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5668</ObjectId>
 	<Id>83559</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОМОНИ</Code>
 	<CodeLat>OMONI</CodeLat>
 	<Name>О м о н и</Name>
@@ -13003,7 +13003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5672</ObjectId>
 	<Id>83561</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОНЛАД</Code>
 	<CodeLat>ONLAD</CodeLat>
 	<Name>ОНЛАД</Name>
@@ -13053,7 +13053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>7734</ObjectId>
 	<Id>83563</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОНОРА</Code>
 	<CodeLat>ONORA</CodeLat>
 	<Name>Онор</Name>
@@ -13103,7 +13103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5680</ObjectId>
 	<Id>83567</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОРЛИН</Code>
 	<CodeLat>ORLIN</CodeLat>
 	<Name>Орель-Чля</Name>
@@ -13153,7 +13153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5682</ObjectId>
 	<Id>83569</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОРЛОН</Code>
 	<CodeLat>ORLON</CodeLat>
 	<Name>Орлово</Name>
@@ -13203,7 +13203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5684</ObjectId>
 	<Id>83571</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОРМИС</Code>
 	<CodeLat>ORMIS</CodeLat>
 	<Name>мыс Орлова</Name>
@@ -13253,7 +13253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5686</ObjectId>
 	<Id>83573</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АНИУС</Code>
 	<CodeLat>ANIUS</CodeLat>
 	<Name>АНИУС</Name>
@@ -13303,7 +13303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400196</ObjectId>
 	<Id>83585</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОТОКА</Code>
 	<CodeLat>OTOKA</CodeLat>
 	<Name>Отметка 401</Name>
@@ -13353,7 +13353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5704</ObjectId>
 	<Id>83587</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОТРАГ</Code>
 	<CodeLat>OTRAG</CodeLat>
 	<Name>Отрадное</Name>
@@ -13403,7 +13403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5724</ObjectId>
 	<Id>83605</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПАРИС</Code>
 	<CodeLat>PARIS</CodeLat>
 	<Name>П а р и с</Name>
@@ -13453,7 +13453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5766</ObjectId>
 	<Id>83631</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПИМАГ</Code>
 	<CodeLat>PIMAG</CodeLat>
 	<Name>П и м а г</Name>
@@ -13503,7 +13503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5770</ObjectId>
 	<Id>83635</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПИРАК</Code>
 	<CodeLat>PIRAK</CodeLat>
 	<Name>Перевал (Тернейский)</Name>
@@ -13553,7 +13553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5778</ObjectId>
 	<Id>83643</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПЛОСК</Code>
 	<CodeLat>PLOSK</CodeLat>
 	<Name>Плоский (мыс)</Name>
@@ -13603,7 +13603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5786</ObjectId>
 	<Id>83645</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПОГРА</Code>
 	<CodeLat>POGRA</CodeLat>
 	<Name>Поронайск</Name>
@@ -13653,7 +13653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5788</ObjectId>
 	<Id>83647</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПОКУН</Code>
 	<CodeLat>POKUN</CodeLat>
 	<Name>ПОКУН</Name>
@@ -13703,7 +13703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5796</ObjectId>
 	<Id>83649</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПОПСА</Code>
 	<CodeLat>POPSA</CodeLat>
 	<Name>Френцевка</Name>
@@ -13753,7 +13753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5798</ObjectId>
 	<Id>83651</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПОРОН</Code>
 	<CodeLat>PORON</CodeLat>
 	<Name>Поронай (изгиб реки)</Name>
@@ -13803,7 +13803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5810</ObjectId>
 	<Id>83655</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПРИСТ</Code>
 	<CodeLat>PRIST</CodeLat>
 	<Name>Пристань</Name>
@@ -13853,7 +13853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5818</ObjectId>
 	<Id>83659</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПРОНГ</Code>
 	<CodeLat>PRONG</CodeLat>
 	<Name>Нижние Пронге</Name>
@@ -13903,7 +13903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5820</ObjectId>
 	<Id>83661</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПУАКА</Code>
 	<CodeLat>PUAKA</CodeLat>
 	<Name>Мопау</Name>
@@ -13953,7 +13953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5822</ObjectId>
 	<Id>83663</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПУИРА</Code>
 	<CodeLat>PUIRA</CodeLat>
 	<Name>Пуир</Name>
@@ -14003,7 +14003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5824</ObjectId>
 	<Id>83665</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПУЛИБ</Code>
 	<CodeLat>PULIB</CodeLat>
 	<Name>Погиби</Name>
@@ -14053,7 +14053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5826</ObjectId>
 	<Id>83667</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПУНИС</Code>
 	<CodeLat>PUNIS</CodeLat>
 	<Name>ПУНИС</Name>
@@ -14103,7 +14103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>387560</ObjectId>
 	<Id>83669</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПУНЛИ</Code>
 	<CodeLat>PUNLI</CodeLat>
 	<Name>ПУНЛИ</Name>
@@ -14153,7 +14153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400529</ObjectId>
 	<Id>83671</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПУТАК</Code>
 	<CodeLat>PUTAK</CodeLat>
 	<Name>Путаку</Name>
@@ -14203,7 +14203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5828</ObjectId>
 	<Id>83673</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РАБОР</Code>
 	<CodeLat>RABOR</CodeLat>
 	<Name>Ровное</Name>
@@ -14253,7 +14253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5830</ObjectId>
 	<Id>83675</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РАДУГ</Code>
 	<CodeLat>RADUG</CodeLat>
 	<Name>РАДУГ</Name>
@@ -14303,7 +14303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5838</ObjectId>
 	<Id>83677</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РАЛОМ</Code>
 	<CodeLat>RALOM</CodeLat>
 	<Name>Малышевское</Name>
@@ -14353,7 +14353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5844</ObjectId>
 	<Id>83683</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РАНОС</Code>
 	<CodeLat>RANOS</CodeLat>
 	<Name>ур.СЫРАНЬ</Name>
@@ -14403,7 +14403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5846</ObjectId>
 	<Id>83685</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РАСКО</Code>
 	<CodeLat>RASKO</CodeLat>
 	<Name>Красный Яр (Прим.)</Name>
@@ -14453,7 +14453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5848</ObjectId>
 	<Id>83687</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РАСТА</Code>
 	<CodeLat>RASTA</CodeLat>
 	<Name>Раздольное</Name>
@@ -14503,7 +14503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5852</ObjectId>
 	<Id>83689</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РАТАС</Code>
 	<CodeLat>RATAS</CodeLat>
 	<Name>тр.Старт</Name>
@@ -14553,7 +14553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5854</ObjectId>
 	<Id>83691</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РАТКА</Code>
 	<CodeLat>RATKA</CodeLat>
 	<Name>РАТКА</Name>
@@ -14603,7 +14603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5858</ObjectId>
 	<Id>83695</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РЕБЕС</Code>
 	<CodeLat>REBES</CodeLat>
 	<Name>тр.Серебрянка</Name>
@@ -14653,7 +14653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5860</ObjectId>
 	<Id>83697</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РЕБОР</Code>
 	<CodeLat>REBOR</CodeLat>
 	<Name>Жеребцово</Name>
@@ -14703,7 +14703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5866</ObjectId>
 	<Id>83701</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РЕНИБ</Code>
 	<CodeLat>RENIB</CodeLat>
 	<Name>РЕНИБ</Name>
@@ -14753,7 +14753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5874</ObjectId>
 	<Id>83709</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РИБАМ</Code>
 	<CodeLat>RIBAM</CodeLat>
 	<Name>РИБАМ</Name>
@@ -14803,7 +14803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5880</ObjectId>
 	<Id>83715</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РИДАК</Code>
 	<CodeLat>RIDAK</CodeLat>
 	<Name>Рыбновск</Name>
@@ -14853,7 +14853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5882</ObjectId>
 	<Id>83717</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РИДНА</Code>
 	<CodeLat>RIDNA</CodeLat>
 	<Name>РИДНА</Name>
@@ -14903,7 +14903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5888</ObjectId>
 	<Id>83725</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РИСУР</Code>
 	<CodeLat>RISUR</CodeLat>
 	<Name>Новоуссури тр.</Name>
@@ -14953,7 +14953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5892</ObjectId>
 	<Id>83729</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РОКАН</Code>
 	<CodeLat>ROKAN</CodeLat>
 	<Name>Горин</Name>
@@ -15003,7 +15003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5894</ObjectId>
 	<Id>83731</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РОЛОБ</Code>
 	<CodeLat>ROLOB</CodeLat>
 	<Name>Большереченск</Name>
@@ -15053,7 +15053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>399925</ObjectId>
 	<Id>83739</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РОНОГ</Code>
 	<CodeLat>RONOG</CodeLat>
 	<Name>оз.Огорон</Name>
@@ -15103,7 +15103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5902</ObjectId>
 	<Id>83741</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РОПМИ</Code>
 	<CodeLat>ROPMI</CodeLat>
 	<Name>Р о п м и</Name>
@@ -15153,7 +15153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5908</ObjectId>
 	<Id>83745</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РОСЛА</Code>
 	<CodeLat>ROSLA</CodeLat>
 	<Name>Ярославский</Name>
@@ -15203,7 +15203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5914</ObjectId>
 	<Id>83749</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РУКОМ</Code>
 	<CodeLat>RUKOM</CodeLat>
 	<Name>Р у к о м</Name>
@@ -15253,7 +15253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5928</ObjectId>
 	<Id>83761</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РУССО</Code>
 	<CodeLat>RUSSO</CodeLat>
 	<Name>бух.Русская </Name>
@@ -15303,7 +15303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5936</ObjectId>
 	<Id>83769</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>САДНА</Code>
 	<CodeLat>SADNA</CodeLat>
 	<Name>Спасск - Дальний</Name>
@@ -15353,7 +15353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5940</ObjectId>
 	<Id>83771</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>САЛГИ</Code>
 	<CodeLat>SALGI</CodeLat>
 	<Name>Усалгин</Name>
@@ -15403,7 +15403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5942</ObjectId>
 	<Id>83773</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>САМАР</Code>
 	<CodeLat>SAMAR</CodeLat>
 	<Name>р.Малая Иска</Name>
@@ -15453,7 +15453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5946</ObjectId>
 	<Id>83775</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>САМНИ</Code>
 	<CodeLat>SAMNI</CodeLat>
 	<Name>Уст.р.Заами </Name>
@@ -15503,7 +15503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5948</ObjectId>
 	<Id>83777</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>САМОК</Code>
 	<CodeLat>SAMOK</CodeLat>
 	<Name>Марекан мыс</Name>
@@ -15553,7 +15553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5964</ObjectId>
 	<Id>83791</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЕДИН</Code>
 	<CodeLat>SEDIN</CodeLat>
 	<Name>Седанка</Name>
@@ -15603,7 +15603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5968</ObjectId>
 	<Id>83795</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЕЛАД</Code>
 	<CodeLat>SELAD</CodeLat>
 	<Name>Тр.Селемджинск</Name>
@@ -15653,7 +15653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5978</ObjectId>
 	<Id>83805</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЕПОК</Code>
 	<CodeLat>SEPOK</CodeLat>
 	<Name>Чкаловское</Name>
@@ -15703,7 +15703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5982</ObjectId>
 	<Id>83809</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЕРИН</Code>
 	<CodeLat>SERIN</CodeLat>
 	<Name>Ханянгда мыс</Name>
@@ -15753,7 +15753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5984</ObjectId>
 	<Id>83811</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЕРСА</Code>
 	<CodeLat>SERSA</CodeLat>
 	<Name>Застрельщик</Name>
@@ -15803,7 +15803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5988</ObjectId>
 	<Id>83815</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЕСАР</Code>
 	<CodeLat>SESAR</CodeLat>
 	<Name>Серебрянка</Name>
@@ -15853,7 +15853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5992</ObjectId>
 	<Id>83817</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЕТОЛ</Code>
 	<CodeLat>SETOL</CodeLat>
 	<Name>Золотой</Name>
@@ -15903,7 +15903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5998</ObjectId>
 	<Id>83821</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СИКОД</Code>
 	<CodeLat>SIKOD</CodeLat>
 	<Name>Сиваковка</Name>
@@ -15953,7 +15953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6000</ObjectId>
 	<Id>83823</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СИКОН</Code>
 	<CodeLat>SIKON</CodeLat>
 	<Name>Шилкан</Name>
@@ -16003,7 +16003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6002</ObjectId>
 	<Id>83825</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СИМАЛ</Code>
 	<CodeLat>SIMAL</CodeLat>
 	<Name>Селемджинск</Name>
@@ -16053,7 +16053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>7728</ObjectId>
 	<Id>83837</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЛАГА</Code>
 	<CodeLat>SLAGA</CodeLat>
 	<Name>Слава</Name>
@@ -16103,7 +16103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6018</ObjectId>
 	<Id>83839</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЛАНА</Code>
 	<CodeLat>SLANA</CodeLat>
 	<Name>Славянка</Name>
@@ -16153,7 +16153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6020</ObjectId>
 	<Id>83841</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЛЕКО</Code>
 	<CodeLat>SLEKO</CodeLat>
 	<Name>мыс Слепиковского</Name>
@@ -16203,7 +16203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6026</ObjectId>
 	<Id>83845</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СМИРА</Code>
 	<CodeLat>SMIRA</CodeLat>
 	<Name>Смирных</Name>
@@ -16253,7 +16253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400338</ObjectId>
 	<Id>83851</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СНЕГО</Code>
 	<CodeLat>SNEGO</CodeLat>
 	<Name>Снежногорский</Name>
@@ -16303,7 +16303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6032</ObjectId>
 	<Id>83853</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СОБОЛ</Code>
 	<CodeLat>SOBOL</CodeLat>
 	<Name>Соболиный</Name>
@@ -16353,7 +16353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6036</ObjectId>
 	<Id>83855</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СОВИК</Code>
 	<CodeLat>SOVIK</CodeLat>
 	<Name>С о в и к</Name>
@@ -16403,7 +16403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6048</ObjectId>
 	<Id>83867</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СОЛОМ</Code>
 	<CodeLat>SOLOM</CodeLat>
 	<Name>Холмск</Name>
@@ -16453,7 +16453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6050</ObjectId>
 	<Id>83869</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СОМНА</Code>
 	<CodeLat>SOMNA</CodeLat>
 	<Name>Серафимовка</Name>
@@ -16503,7 +16503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400241</ObjectId>
 	<Id>83877</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СОННУ</Code>
 	<CodeLat>SONNU</CodeLat>
 	<Name>Хвойный</Name>
@@ -16553,7 +16553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>7748</ObjectId>
 	<Id>83883</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СОРОП</Code>
 	<CodeLat>SOROP</CodeLat>
 	<Name>Советское</Name>
@@ -16603,7 +16603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6068</ObjectId>
 	<Id>83885</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СОРУС</Code>
 	<CodeLat>SORUS</CodeLat>
 	<Name>С о р у с</Name>
@@ -16653,7 +16653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6082</ObjectId>
 	<Id>83897</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СТОБА</Code>
 	<CodeLat>STOBA</CodeLat>
 	<Name>Стойба</Name>
@@ -16703,7 +16703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6090</ObjectId>
 	<Id>83901</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СТОРТ</Code>
 	<CodeLat>STORT</CodeLat>
 	<Name>Старт</Name>
@@ -16753,7 +16753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6094</ObjectId>
 	<Id>83905</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СУММИ</Code>
 	<CodeLat>SUMMI</CodeLat>
 	<Name>СУММИ</Name>
@@ -16803,7 +16803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6122</ObjectId>
 	<Id>83923</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТАНГО</Code>
 	<CodeLat>TANGO</CodeLat>
 	<Name>Тавричанка</Name>
@@ -16853,7 +16853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6128</ObjectId>
 	<Id>83927</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТАРТА</Code>
 	<CodeLat>TARTA</CodeLat>
 	<Name>Тахта</Name>
@@ -16903,7 +16903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6130</ObjectId>
 	<Id>83929</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТАСИР</Code>
 	<CodeLat>TASIR</CodeLat>
 	<Name>Сита</Name>
@@ -16953,7 +16953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6146</ObjectId>
 	<Id>83941</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТЕРНИ</Code>
 	<CodeLat>TERNI</CodeLat>
 	<Name>Т е р н и</Name>
@@ -17003,7 +17003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6152</ObjectId>
 	<Id>83945</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТИГМА</Code>
 	<CodeLat>TIGMA</CodeLat>
 	<Name>Т и г м а</Name>
@@ -17053,7 +17053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6154</ObjectId>
 	<Id>83947</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТИГОР</Code>
 	<CodeLat>TIGOR</CodeLat>
 	<Name>тр.Воробьевка</Name>
@@ -17103,7 +17103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6156</ObjectId>
 	<Id>83949</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТИМЕН</Code>
 	<CodeLat>TIMEN</CodeLat>
 	<Name>Тихменево</Name>
@@ -17153,7 +17153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6160</ObjectId>
 	<Id>83953</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТИММО</Code>
 	<CodeLat>TIMMO</CodeLat>
 	<Name>Тымовское</Name>
@@ -17203,7 +17203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6170</ObjectId>
 	<Id>83959</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТИСЕГ</Code>
 	<CodeLat>TISEG</CodeLat>
 	<Name>ТИСЕГ</Name>
@@ -17253,7 +17253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6180</ObjectId>
 	<Id>83967</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТОМСУ</Code>
 	<CodeLat>TOMSU</CodeLat>
 	<Name>Т о м с у</Name>
@@ -17303,7 +17303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6182</ObjectId>
 	<Id>83969</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТОНПИ</Code>
 	<CodeLat>TONPI</CodeLat>
 	<Name>Т о н п и</Name>
@@ -17353,7 +17353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6188</ObjectId>
 	<Id>83975</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТОРОМ</Code>
 	<CodeLat>TOROM</CodeLat>
 	<Name>Тором</Name>
@@ -17403,7 +17403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6200</ObjectId>
 	<Id>83981</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТРОИН</Code>
 	<CodeLat>TROIN</CodeLat>
 	<Name>Новотроицкое</Name>
@@ -17453,7 +17453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6208</ObjectId>
 	<Id>83987</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТУЛОТ</Code>
 	<CodeLat>TULOT</CodeLat>
 	<Name>ТУЛОТ</Name>
@@ -17503,7 +17503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6240</ObjectId>
 	<Id>84003</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УГАНО</Code>
 	<CodeLat>UGANO</CodeLat>
 	<Name>Усть-Агнево</Name>
@@ -17553,7 +17553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6246</ObjectId>
 	<Id>84007</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УДИНА</Code>
 	<CodeLat>UDINA</CodeLat>
 	<Name>Удское</Name>
@@ -17603,7 +17603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6252</ObjectId>
 	<Id>84011</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УЕГАН</Code>
 	<CodeLat>UEGAN</CodeLat>
 	<Name>Уега</Name>
@@ -17653,7 +17653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6256</ObjectId>
 	<Id>84015</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УКРОН</Code>
 	<CodeLat>UKRON</CodeLat>
 	<Name>УКОЙ мыс </Name>
@@ -17703,7 +17703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6260</ObjectId>
 	<Id>84021</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УЛТАМ</Code>
 	<CodeLat>ULTAM</CodeLat>
 	<Name>У л т а м</Name>
@@ -17753,7 +17753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6262</ObjectId>
 	<Id>84023</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УЛУКА</Code>
 	<CodeLat>ULUKA</CodeLat>
 	<Name>Улья</Name>
@@ -17803,7 +17803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6276</ObjectId>
 	<Id>84033</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УРАКС</Code>
 	<CodeLat>URAKS</CodeLat>
 	<Name>Урак</Name>
@@ -17853,7 +17853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6290</ObjectId>
 	<Id>84045</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УРКОЛ</Code>
 	<CodeLat>URKOL</CodeLat>
 	<Name>УРКОЛ</Name>
@@ -17903,7 +17903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6292</ObjectId>
 	<Id>84047</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УРМИН</Code>
 	<CodeLat>URMIN</CodeLat>
 	<Name>р.Урми</Name>
@@ -17953,7 +17953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6298</ObjectId>
 	<Id>84053</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АРКАР</Code>
 	<CodeLat>ARKAR</CodeLat>
 	<Name>Архара</Name>
@@ -18003,7 +18003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>7765</ObjectId>
 	<Id>84055</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БАГВЕ</Code>
 	<CodeLat>BAGVE</CodeLat>
 	<Name>БАГВЕ</Name>
@@ -18053,7 +18053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6300</ObjectId>
 	<Id>84057</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИДЕЛИ</Code>
 	<CodeLat>IDELI</CodeLat>
 	<Name>ТЫНДА</Name>
@@ -18103,7 +18103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6304</ObjectId>
 	<Id>84059</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГУ</Code>
 	<CodeLat>GU</CodeLat>
 	<Name>Магдагачи ОПРС</Name>
@@ -18153,7 +18153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6310</ObjectId>
 	<Id>84065</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КУЛАЛ</Code>
 	<CodeLat>KULAL</CodeLat>
 	<Name>Новокиевский Увал</Name>
@@ -18203,7 +18203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6312</ObjectId>
 	<Id>84067</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОКТЕБ</Code>
 	<CodeLat>OKTEB</CodeLat>
 	<Name>Октябрьский (Амурск.)</Name>
@@ -18253,7 +18253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6314</ObjectId>
 	<Id>84069</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЕКИМН</Code>
 	<CodeLat>EKIMN</CodeLat>
 	<Name>Экимчан</Name>
@@ -18303,7 +18303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6316</ObjectId>
 	<Id>84071</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РАИНС</Code>
 	<CodeLat>RAINS</CodeLat>
 	<Name>Райчихинск</Name>
@@ -18353,7 +18353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6318</ObjectId>
 	<Id>84073</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАГОР</Code>
 	<CodeLat>MAGOR</CodeLat>
 	<Name>Свободный</Name>
@@ -18403,7 +18403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6322</ObjectId>
 	<Id>84075</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НЕБИМ</Code>
 	<CodeLat>NEBIM</CodeLat>
 	<Name>Февральск</Name>
@@ -18453,7 +18453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6324</ObjectId>
 	<Id>84077</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АРСЕН</Code>
 	<CodeLat>ARSEN</CodeLat>
 	<Name>АРСЕНЬЕВ</Name>
@@ -18503,7 +18503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6326</ObjectId>
 	<Id>84079</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КНЕВИ</Code>
 	<CodeLat>KNEVI</CodeLat>
 	<Name>ВЛАДИВОСТОК (Кневичи)</Name>
@@ -18553,7 +18553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6332</ObjectId>
 	<Id>84085</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОРКЛУ</Code>
 	<CodeLat>ORKLU</CodeLat>
 	<Name>Владивосток (Озерные Ключи)</Name>
@@ -18603,7 +18603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6336</ObjectId>
 	<Id>84089</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РОСИН</Code>
 	<CodeLat>ROSIN</CodeLat>
 	<Name>Рощино</Name>
@@ -18653,7 +18653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6342</ObjectId>
 	<Id>84095</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УСУРБ</Code>
 	<CodeLat>USURB</CodeLat>
 	<Name>Уссурийск (Барановский)</Name>
@@ -18703,7 +18703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6352</ObjectId>
 	<Id>84105</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СОВГА</Code>
 	<CodeLat>SOVGA</CodeLat>
 	<Name>СОВ.ГАВАНЬ(Май-Гатка)</Name>
@@ -18753,7 +18753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6354</ObjectId>
 	<Id>84107</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИТАБ</Code>
 	<CodeLat>NITAB</CodeLat>
 	<Name>НИТАБ</Name>
@@ -18803,7 +18803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6360</ObjectId>
 	<Id>84111</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КИРАН</Code>
 	<CodeLat>KIRAN</CodeLat>
 	<Name>КИРАН КПСв.</Name>
@@ -18853,7 +18853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6364</ObjectId>
 	<Id>84115</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РЕГТА</Code>
 	<CodeLat>REGTA</CodeLat>
 	<Name>Мариинское</Name>
@@ -18903,7 +18903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6372</ObjectId>
 	<Id>84123</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛУРЕП</Code>
 	<CodeLat>LUREP</CodeLat>
 	<Name>ЛУРЕП</Name>
@@ -18953,7 +18953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6376</ObjectId>
 	<Id>84127</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НЕЛАГ</Code>
 	<CodeLat>NELAG</CodeLat>
 	<Name>НЕЛЬКАН</Name>
@@ -19003,7 +19003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6378</ObjectId>
 	<Id>84129</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АРККА</Code>
 	<CodeLat>ARKKA</CodeLat>
 	<Name>Арка</Name>
@@ -19053,7 +19053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6388</ObjectId>
 	<Id>84139</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>САНДР</Code>
 	<CodeLat>SANDR</CodeLat>
 	<Name>Александровск-Сахалинский</Name>
@@ -19103,7 +19103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6414</ObjectId>
 	<Id>84163</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАУХЕ</Code>
 	<CodeLat>LAUHE</CodeLat>
 	<Name>Лаухе</Name>
@@ -19153,7 +19153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6420</ObjectId>
 	<Id>84169</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПОГРО</Code>
 	<CodeLat>POGRO</CodeLat>
 	<Name>Пограничный отряд</Name>
@@ -19203,7 +19203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6428</ObjectId>
 	<Id>84177</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СОСПА</Code>
 	<CodeLat>SOSPA</CodeLat>
 	<Name>Сосновая Падь</Name>
@@ -19253,7 +19253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6432</ObjectId>
 	<Id>84181</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИАДДО</Code>
 	<CodeLat>IADDO</CodeLat>
 	<Name>Ада</Name>
@@ -19303,7 +19303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6438</ObjectId>
 	<Id>84185</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БОНАК</Code>
 	<CodeLat>BONAK</CodeLat>
 	<Name>Бомнак</Name>
@@ -19353,7 +19353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6440</ObjectId>
 	<Id>84187</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДНЕРК</Code>
 	<CodeLat>DNERK</CodeLat>
 	<Name>ДАЛЬНЕРЕЧЕНСК</Name>
@@ -19403,7 +19403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6444</ObjectId>
 	<Id>84191</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПАБЕД</Code>
 	<CodeLat>PABED</CodeLat>
 	<Name>ПП Победа УХХЙ(UHHJ)</Name>
@@ -19453,7 +19453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6446</ObjectId>
 	<Id>84193</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОЛОНН</Code>
 	<CodeLat>OLONN</CodeLat>
 	<Name>Олон</Name>
@@ -19503,7 +19503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6448</ObjectId>
 	<Id>84195</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГДОМЕ</Code>
 	<CodeLat>GDOME</CodeLat>
 	<Name>ПП Чегдомын</Name>
@@ -19553,7 +19553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6450</ObjectId>
 	<Id>84197</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НВОКУ</Code>
 	<CodeLat>NVOKU</CodeLat>
 	<Name>ПП Новокуровка УХХН</Name>
@@ -19603,7 +19603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6452</ObjectId>
 	<Id>84199</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТРОИК</Code>
 	<CodeLat>TROIK</CodeLat>
 	<Name>Троицкое</Name>
@@ -19653,7 +19653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6454</ObjectId>
 	<Id>84201</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТУСИП</Code>
 	<CodeLat>TUSIP</CodeLat>
 	<Name>им.П.Осипенко</Name>
@@ -19703,7 +19703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6460</ObjectId>
 	<Id>84207</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОГУМИ</Code>
 	<CodeLat>OGUMI</CodeLat>
 	<Name>ЧУМИКАН</Name>
@@ -19753,7 +19753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6462</ObjectId>
 	<Id>84209</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОХОТН</Code>
 	<CodeLat>OHOTN</CodeLat>
 	<Name>Охотничий</Name>
@@ -19803,7 +19803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6474</ObjectId>
 	<Id>84215</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ХАБ</Code>
 	<CodeLat>HAB</CodeLat>
 	<Name>Хабаровск ВОР/ДМЕ</Name>
@@ -19853,7 +19853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6486</ObjectId>
 	<Id>84223</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БГ</Code>
 	<CodeLat>BG</CodeLat>
 	<Name>Муравейка ОПРС</Name>
@@ -19903,7 +19903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6502</ObjectId>
 	<Id>84235</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛН</Code>
 	<CodeLat>LN</CodeLat>
 	<Name>Владивосток(Кневичи) ОПРМ</Name>
@@ -19953,7 +19953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6504</ObjectId>
 	<Id>84237</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛС</Code>
 	<CodeLat>LS</CodeLat>
 	<Name>Владивосток(Кневичи) ДПРМ</Name>
@@ -20003,7 +20003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6506</ObjectId>
 	<Id>84239</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МР</Code>
 	<CodeLat>MR</CodeLat>
 	<Name>Волочаевка ОПРС</Name>
@@ -20053,7 +20053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6510</ObjectId>
 	<Id>84243</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НЕ</Code>
 	<CodeLat>NE</CodeLat>
 	<Name>Нелькан ОПРС</Name>
@@ -20103,7 +20103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6518</ObjectId>
 	<Id>84249</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПИ</Code>
 	<CodeLat>PI</CodeLat>
 	<Name>Южно-Сахалинск (Хомутово) ДПРМ</Name>
@@ -20153,7 +20153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6526</ObjectId>
 	<Id>84257</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЛ</Code>
 	<CodeLat>SL</CodeLat>
 	<Name>Южно-Сахалинск (Хомутово) ДПРМ</Name>
@@ -20203,7 +20203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6534</ObjectId>
 	<Id>84259</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УФ</Code>
 	<CodeLat>UF</CodeLat>
 	<Name>Хабаровск(Новый) ДПРМ</Name>
@@ -20253,7 +20253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6536</ObjectId>
 	<Id>84261</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ФА</Code>
 	<CodeLat>FA</CodeLat>
 	<Name>Экимчан ОПРС</Name>
@@ -20303,7 +20303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6540</ObjectId>
 	<Id>84265</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ФИ</Code>
 	<CodeLat>FI</CodeLat>
 	<Name>Троицкое ОПРС</Name>
@@ -20353,7 +20353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6542</ObjectId>
 	<Id>84267</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ФЙ</Code>
 	<CodeLat>FJ</CodeLat>
 	<Name>Киран ОПРС</Name>
@@ -20403,7 +20403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6546</ObjectId>
 	<Id>84271</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ХИ</Code>
 	<CodeLat>HI</CodeLat>
 	<Name>Хабаровск(Новый) ДПРМ</Name>
@@ -20453,7 +20453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6602</ObjectId>
 	<Id>84329</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАСУП</Code>
 	<CodeLat>LASUP</CodeLat>
 	<Name>СОКОЛОВКА</Name>
@@ -20503,7 +20503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6604</ObjectId>
 	<Id>84331</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УГЛОВ</Code>
 	<CodeLat>UGLOV</CodeLat>
 	<Name>Ц. УГЛОВАЯ</Name>
@@ -20553,7 +20553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>97585037</ObjectId>
 	<Id>84385</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БАУЛИ</Code>
 	<CodeLat>BAULI</CodeLat>
 	<Name>БАУЛИ</Name>
@@ -20603,7 +20603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>97598259</ObjectId>
 	<Id>84387</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КОЛОК</Code>
 	<CodeLat>KOLOK</CodeLat>
 	<Name>КОЛОК</Name>
@@ -20653,7 +20653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>97598370</ObjectId>
 	<Id>84389</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПАСЛА</Code>
 	<CodeLat>PASLA</CodeLat>
 	<Name>ПАСЛА</Name>
@@ -20703,7 +20703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>97610606</ObjectId>
 	<Id>84391</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КЕКИР</Code>
 	<CodeLat>KEKIR</CodeLat>
 	<Name>Хехцир</Name>
@@ -20753,7 +20753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>208772356</ObjectId>
 	<Id>84421</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АРКИК</Code>
 	<CodeLat>ARKIK</CodeLat>
 	<Name>АРКИК</Name>
@@ -20803,7 +20803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291069</ObjectId>
 	<Id>84459</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АЛГАУ</Code>
 	<CodeLat>ALGAU</CodeLat>
 	<Name>АЛГАУ</Name>
@@ -20853,7 +20853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291167</ObjectId>
 	<Id>84495</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕЛИМ</Code>
 	<CodeLat>BELIM</CodeLat>
 	<Name>БЕЛИМ</Name>
@@ -20903,7 +20903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291175</ObjectId>
 	<Id>84497</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕРДИ</Code>
 	<CodeLat>BERDI</CodeLat>
 	<Name>БЕРДИ</Name>
@@ -20953,7 +20953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291178</ObjectId>
 	<Id>84501</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕРЕР</Code>
 	<CodeLat>BERER</CodeLat>
 	<Name>БЕРЕР</Name>
@@ -21003,7 +21003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291182</ObjectId>
 	<Id>84503</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕТЕН</Code>
 	<CodeLat>BETEN</CodeLat>
 	<Name>БЕТЕН</Name>
@@ -21053,7 +21053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291475</ObjectId>
 	<Id>84615</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДИНДА</Code>
 	<CodeLat>DINDA</CodeLat>
 	<Name>ДИНДА</Name>
@@ -21103,7 +21103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291674</ObjectId>
 	<Id>84701</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАГАМ</Code>
 	<CodeLat>LAGAM</CodeLat>
 	<Name>ЛАГАМ</Name>
@@ -21153,7 +21153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291736</ObjectId>
 	<Id>84717</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛУКУТ</Code>
 	<CodeLat>LUKUT</CodeLat>
 	<Name>ЛУКУТ</Name>
@@ -21203,7 +21203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291767</ObjectId>
 	<Id>84725</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАНТО</Code>
 	<CodeLat>MANTO</CodeLat>
 	<Name>Манома</Name>
@@ -21253,7 +21253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291774</ObjectId>
 	<Id>84729</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МЕГЕП</Code>
 	<CodeLat>MEGEP</CodeLat>
 	<Name>МЕГЕП</Name>
@@ -21303,7 +21303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291858</ObjectId>
 	<Id>84751</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИБРИ</Code>
 	<CodeLat>NIBRI</CodeLat>
 	<Name>НИБРИ</Name>
@@ -21353,7 +21353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291980</ObjectId>
 	<Id>84795</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОЛГЕН</Code>
 	<CodeLat>OLGEN</CodeLat>
 	<Name>ОЛГЕН</Name>
@@ -21403,7 +21403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292049</ObjectId>
 	<Id>84829</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПЕМУК</Code>
 	<CodeLat>PEMUK</CodeLat>
 	<Name>ПЕМУК</Name>
@@ -21453,7 +21453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292157</ObjectId>
 	<Id>84879</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РИЛТА</Code>
 	<CodeLat>RILTA</CodeLat>
 	<Name>РИЛТА</Name>
@@ -21503,7 +21503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292369</ObjectId>
 	<Id>84973</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТУККИ</Code>
 	<CodeLat>TUKKI</CodeLat>
 	<Name>Тукчи</Name>
@@ -21553,7 +21553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292372</ObjectId>
 	<Id>84977</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТУЛОТ</Code>
 	<CodeLat>TULOT</CodeLat>
 	<Name>ТУЛОТ</Name>
@@ -21603,7 +21603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292408</ObjectId>
 	<Id>84995</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УМГЕР</Code>
 	<CodeLat>UMGER</CodeLat>
 	<Name>УМГЕР</Name>
@@ -21653,7 +21653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292425</ObjectId>
 	<Id>84997</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УРМИН</Code>
 	<CodeLat>URMIN</CodeLat>
 	<Name>Урми (река)</Name>
@@ -21703,7 +21703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269304518</ObjectId>
 	<Id>85109</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УТС</Code>
 	<CodeLat>UTS</CodeLat>
 	<Name>Якутск ВОР/ДМЕ</Name>
@@ -21753,7 +21753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269304521</ObjectId>
 	<Id>85111</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГОМУН</Code>
 	<CodeLat>GOMUN</CodeLat>
 	<Name>ГОМУН</Name>
@@ -21803,7 +21803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269304953</ObjectId>
 	<Id>85125</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИНРИЛ</Code>
 	<CodeLat>INRIL</CodeLat>
 	<Name>ИНРИЛ</Name>
@@ -21853,7 +21853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269304963</ObjectId>
 	<Id>85129</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АБНАК</Code>
 	<CodeLat>ABNAK</CodeLat>
 	<Name>АБНАК</Name>
@@ -21903,7 +21903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269304983</ObjectId>
 	<Id>85131</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИДИГА</Code>
 	<CodeLat>IDIGA</CodeLat>
 	<Name>ИДИГА</Name>
@@ -21953,7 +21953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305118</ObjectId>
 	<Id>85153</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛУПАС</Code>
 	<CodeLat>LUPAS</CodeLat>
 	<Name>ЛУПАС</Name>
@@ -22003,7 +22003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305419</ObjectId>
 	<Id>85161</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УРЕБИ</Code>
 	<CodeLat>UREBI</CodeLat>
 	<Name>УРЕБИ</Name>
@@ -22053,7 +22053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305463</ObjectId>
 	<Id>85169</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛАВНИ</Code>
 	<CodeLat>LAVNI</CodeLat>
 	<Name>ЛАВНИ</Name>
@@ -22103,7 +22103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305466</ObjectId>
 	<Id>85171</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИБОН</Code>
 	<CodeLat>NIBON</CodeLat>
 	<Name>НИБОН</Name>
@@ -22153,7 +22153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305550</ObjectId>
 	<Id>85183</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПЕСЕБ</Code>
 	<CodeLat>PESEB</CodeLat>
 	<Name>ПЕСЕБ</Name>
@@ -22203,7 +22203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305589</ObjectId>
 	<Id>85185</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АРДИБ</Code>
 	<CodeLat>ARDIB</CodeLat>
 	<Name>АРДИБ</Name>
@@ -22253,7 +22253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305601</ObjectId>
 	<Id>85191</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НРГ</Code>
 	<CodeLat>NRG</CodeLat>
 	<Name>Нерюнгри (Чульман) ДВОР/ДМЕ</Name>
@@ -22303,7 +22303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305661</ObjectId>
 	<Id>85195</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БУМАД</Code>
 	<CodeLat>BUMAD</CodeLat>
 	<Name>БУМАД</Name>
@@ -22353,7 +22353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305754</ObjectId>
 	<Id>85209</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АПТИЛ</Code>
 	<CodeLat>APTIL</CodeLat>
 	<Name>АПТИЛ</Name>
@@ -22403,7 +22403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305778</ObjectId>
 	<Id>85215</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОКСОД</Code>
 	<CodeLat>OKSOD</CodeLat>
 	<Name>ОКСОД</Name>
@@ -22453,7 +22453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305784</ObjectId>
 	<Id>85217</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОЛЕПУ</Code>
 	<CodeLat>OLEPU</CodeLat>
 	<Name>ОЛЕПУ</Name>
@@ -22503,7 +22503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305787</ObjectId>
 	<Id>85219</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СМ</Code>
 	<CodeLat>SM</CodeLat>
 	<Name>Тукчи ОПРС</Name>
@@ -22553,7 +22553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305844</ObjectId>
 	<Id>85223</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БИРЛУ</Code>
 	<CodeLat>BIRLU</CodeLat>
 	<Name>БИРЛУ</Name>
@@ -22603,7 +22603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305850</ObjectId>
 	<Id>85225</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НИБУЛ</Code>
 	<CodeLat>NIBUL</CodeLat>
 	<Name>НИБУЛ</Name>
@@ -22653,7 +22653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305856</ObjectId>
 	<Id>85227</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛЕКПА</Code>
 	<CodeLat>LEKPA</CodeLat>
 	<Name>ЛЕКПА</Name>
@@ -22703,7 +22703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269306205</ObjectId>
 	<Id>85239</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕБЛИ</Code>
 	<CodeLat>BEBLI</CodeLat>
 	<Name>БЕБЛИ</Name>
@@ -22753,7 +22753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269306208</ObjectId>
 	<Id>85241</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АНГАР</Code>
 	<CodeLat>ANGAR</CodeLat>
 	<Name>АНГАР</Name>
@@ -22803,7 +22803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269306211</ObjectId>
 	<Id>85243</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОТЛИК</Code>
 	<CodeLat>OTLIK</CodeLat>
 	<Name>ОТЛИК</Name>
@@ -22853,7 +22853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269306214</ObjectId>
 	<Id>85245</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КЕСИК</Code>
 	<CodeLat>KESIK</CodeLat>
 	<Name>КЕСИК</Name>
@@ -22903,7 +22903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269306291</ObjectId>
 	<Id>85249</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДЕЛОК</Code>
 	<CodeLat>DELOK</CodeLat>
 	<Name>ДЕЛОК</Name>
@@ -22953,7 +22953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269306301</ObjectId>
 	<Id>85251</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АРАПЕ</Code>
 	<CodeLat>ARAPE</CodeLat>
 	<Name>АРАПЕ</Name>
@@ -23003,7 +23003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269306425</ObjectId>
 	<Id>85255</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АДЛЕП</Code>
 	<CodeLat>ADLEP</CodeLat>
 	<Name>АДЛЕП</Name>
@@ -23053,7 +23053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269307045</ObjectId>
 	<Id>85291</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛУМАГ</Code>
 	<CodeLat>LUMAG</CodeLat>
 	<Name>ЛУМАГ</Name>
@@ -23103,7 +23103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269307244</ObjectId>
 	<Id>85303</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РИТЕК</Code>
 	<CodeLat>RITEK</CodeLat>
 	<Name>РИТЕК</Name>
@@ -23153,7 +23153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269307341</ObjectId>
 	<Id>85305</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАСЕТ</Code>
 	<CodeLat>MASET</CodeLat>
 	<Name>МАСЕТ</Name>
@@ -23203,7 +23203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269308356</ObjectId>
 	<Id>85325</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИДРУТ</Code>
 	<CodeLat>IDRUT</CodeLat>
 	<Name>ИДРУТ</Name>
@@ -23253,7 +23253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269303970</ObjectId>
 	<Id>85341</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАЛЕБ</Code>
 	<CodeLat>NALEB</CodeLat>
 	<Name>НАЛЕБ</Name>
@@ -23303,7 +23303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271096095</ObjectId>
 	<Id>85343</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТУГУР</Code>
 	<CodeLat>TUGUR</CodeLat>
 	<Name>Тугур</Name>
@@ -23353,7 +23353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271123280</ObjectId>
 	<Id>85345</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МИМНА</Code>
 	<CodeLat>MIMNA</CodeLat>
 	<Name>Ю.САХАЛИНСК</Name>
@@ -23403,7 +23403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271185552</ObjectId>
 	<Id>85347</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АНМИН</Code>
 	<CodeLat>ANMIN</CodeLat>
 	<Name>АНМИН</Name>
@@ -23453,7 +23453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271315893</ObjectId>
 	<Id>85359</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НЕРГИ</Code>
 	<CodeLat>NERGI</CodeLat>
 	<Name>Нерюнгри</Name>
@@ -23503,7 +23503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271323749</ObjectId>
 	<Id>85361</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДЕКЕС</Code>
 	<CodeLat>DEKES</CodeLat>
 	<Name>ДЕКЕС</Name>
@@ -23553,7 +23553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271323840</ObjectId>
 	<Id>85363</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАМУР</Code>
 	<CodeLat>NAMUR</CodeLat>
 	<Name>НАМУР</Name>
@@ -23603,7 +23603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271323910</ObjectId>
 	<Id>85365</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГОНАЛ</Code>
 	<CodeLat>GONAL</CodeLat>
 	<Name>ГОНАЛ</Name>
@@ -23653,7 +23653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271323978</ObjectId>
 	<Id>85367</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УМЕЛЕ</Code>
 	<CodeLat>UMELE</CodeLat>
 	<Name>УМЕЛЕ</Name>
@@ -23703,7 +23703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271366628</ObjectId>
 	<Id>85371</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АГССУ</Code>
 	<CodeLat>AGSSU</CodeLat>
 	<Name>Агзу</Name>
@@ -23753,7 +23753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271366761</ObjectId>
 	<Id>85373</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УНТИК</Code>
 	<CodeLat>UNTIK</CodeLat>
 	<Name>Унты</Name>
@@ -23803,7 +23803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271366954</ObjectId>
 	<Id>85375</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>САРГА</Code>
 	<CodeLat>SARGA</CodeLat>
 	<Name>Самарга</Name>
@@ -23853,7 +23853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271367111</ObjectId>
 	<Id>85377</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЕДИНК</Code>
 	<CodeLat>EDINK</CodeLat>
 	<Name>Единка</Name>
@@ -23903,7 +23903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271367196</ObjectId>
 	<Id>85379</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СВЕТЛ</Code>
 	<CodeLat>SVETL</CodeLat>
 	<Name>Светлая</Name>
@@ -23953,7 +23953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271367270</ObjectId>
 	<Id>85381</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УСОБЛ</Code>
 	<CodeLat>USOBL</CodeLat>
 	<Name>Усть-соболевка</Name>
@@ -24003,7 +24003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271375588</ObjectId>
 	<Id>85383</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАВКА</Code>
 	<CodeLat>MAVKA</CodeLat>
 	<Name>Максимовка</Name>
@@ -24053,7 +24053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271375674</ObjectId>
 	<Id>85385</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АММГУ</Code>
 	<CodeLat>AMMGU</CodeLat>
 	<Name>Амгу</Name>
@@ -24103,7 +24103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271375765</ObjectId>
 	<Id>85387</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТРЕНУ</Code>
 	<CodeLat>TRENU</CodeLat>
 	<Name>Терней</Name>
@@ -24153,7 +24153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271391267</ObjectId>
 	<Id>85389</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПРИМР</Code>
 	<CodeLat>PRIMR</CodeLat>
 	<Name>E271291268</Name>
@@ -24203,7 +24203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272329941</ObjectId>
 	<Id>85421</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПТР</Code>
 	<CodeLat>PTR</CodeLat>
 	<Name>ИТУРУП</Name>
@@ -24253,7 +24253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272330010</ObjectId>
 	<Id>85423</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РОТНИ</Code>
 	<CodeLat>ROTNI</CodeLat>
 	<Name>РОТНИ</Name>
@@ -24303,7 +24303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272330179</ObjectId>
 	<Id>85425</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АЛОДИ</Code>
 	<CodeLat>ALODI</CodeLat>
 	<Name>АЛОДИ</Name>
@@ -24353,7 +24353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272424329</ObjectId>
 	<Id>85439</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОМИГУ</Code>
 	<CodeLat>OMIGU</CodeLat>
 	<Name>ОМИГУ</Name>
@@ -24403,7 +24403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269304259</ObjectId>
 	<Id>85539</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГУ</Code>
 	<CodeLat>GU</CodeLat>
 	<Name>Магдагачи ОПРС</Name>
@@ -24453,7 +24453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269306314</ObjectId>
 	<Id>85541</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГОРАР</Code>
 	<CodeLat>GORAR</CodeLat>
 	<Name>ГОРАР</Name>
@@ -24503,7 +24503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>281784726</ObjectId>
 	<Id>85553</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТРОУС</Code>
 	<CodeLat>TROUS</CodeLat>
 	<Name>ТРОУС</Name>
@@ -24553,7 +24553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>281791193</ObjectId>
 	<Id>85555</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДАТУС</Code>
 	<CodeLat>DATUS</CodeLat>
 	<Name>ДАТУС</Name>
@@ -24603,7 +24603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>281791248</ObjectId>
 	<Id>85557</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СЕГИО</Code>
 	<CodeLat>SEGIO</CodeLat>
 	<Name>СЕГИО</Name>
@@ -24653,7 +24653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>301533314</ObjectId>
 	<Id>85563</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ВД</Code>
 	<CodeLat>VD</CodeLat>
 	<Name>Богородское ОПРС</Name>
@@ -24703,7 +24703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>301533416</ObjectId>
 	<Id>85565</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ВИТИМ</Code>
 	<CodeLat>VITIM</CodeLat>
 	<Name>ВИТИМ</Name>
@@ -24753,7 +24753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>301545548</ObjectId>
 	<Id>85569</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЙД</Code>
 	<CodeLat>JD</CodeLat>
 	<Name>Ноглики ОПРС</Name>
@@ -24803,7 +24803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>301788996</ObjectId>
 	<Id>85591</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГИГОР</Code>
 	<CodeLat>GIGOR</CodeLat>
 	<Name>ГИГОР</Name>
@@ -24853,7 +24853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>301827515</ObjectId>
 	<Id>85599</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТОДТЕ</Code>
 	<CodeLat>TODTE</CodeLat>
 	<Name>ТОДТЕ</Name>
@@ -24903,7 +24903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>301919309</ObjectId>
 	<Id>85609</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КИПИН</Code>
 	<CodeLat>KIPIN</CodeLat>
 	<Name>КИПИН</Name>
@@ -24953,7 +24953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>301931268</ObjectId>
 	<Id>85611</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АБСЕД</Code>
 	<CodeLat>ABSED</CodeLat>
 	<Name>АБСЕД</Name>
@@ -25003,7 +25003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>334999510</ObjectId>
 	<Id>109103</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НА</Code>
 	<CodeLat>NA</CodeLat>
 	<Name>Николаевск-на-Амуре</Name>
@@ -25053,7 +25053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382067245</ObjectId>
 	<Id>113719</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КУ</Code>
 	<CodeLat>KU</CodeLat>
 	<Name>Могоча ОПРС</Name>
@@ -25103,7 +25103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382068707</ObjectId>
 	<Id>113729</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГАПЛО</Code>
 	<CodeLat>GAPLO</CodeLat>
 	<Name>ГАПЛО</Name>
@@ -25153,7 +25153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382068734</ObjectId>
 	<Id>113731</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СКОБА</Code>
 	<CodeLat>SKOBA</CodeLat>
 	<Name>СКОБА</Name>
@@ -25203,7 +25203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382068854</ObjectId>
 	<Id>113733</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДРАГИ</Code>
 	<CodeLat>DRAGI</CodeLat>
 	<Name>ДРАГИ</Name>
@@ -25253,7 +25253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382068887</ObjectId>
 	<Id>113735</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДРОБИ</Code>
 	<CodeLat>DROBI</CodeLat>
 	<Name>ДРОБИ</Name>
@@ -25303,7 +25303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382068896</ObjectId>
 	<Id>113737</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АУРСИ</Code>
 	<CodeLat>AURSI</CodeLat>
 	<Name>АУРСИ</Name>
@@ -25353,7 +25353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382068941</ObjectId>
 	<Id>113739</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ИГОРН</Code>
 	<CodeLat>IGORN</CodeLat>
 	<Name>ИГОРН</Name>
@@ -25403,7 +25403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382068962</ObjectId>
 	<Id>113741</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УНАИР</Code>
 	<CodeLat>UNAIR</CodeLat>
 	<Name>УНАИР</Name>
@@ -25453,7 +25453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382068986</ObjectId>
 	<Id>113743</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СМАГА</Code>
 	<CodeLat>SMAGA</CodeLat>
 	<Name>СМАГА</Name>
@@ -25503,7 +25503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382068992</ObjectId>
 	<Id>113745</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГНОМИ</Code>
 	<CodeLat>GNOMI</CodeLat>
 	<Name>ГНОМИ</Name>
@@ -25553,7 +25553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069430</ObjectId>
 	<Id>113747</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЕКДУР</Code>
 	<CodeLat>EKDUR</CodeLat>
 	<Name>ЕКДУР</Name>
@@ -25603,7 +25603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069436</ObjectId>
 	<Id>113749</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОГСИМ</Code>
 	<CodeLat>OGSIM</CodeLat>
 	<Name>ОГСИМ</Name>
@@ -25653,7 +25653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069445</ObjectId>
 	<Id>113751</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АКЕПУ</Code>
 	<CodeLat>AKEPU</CodeLat>
 	<Name>АКЕПУ</Name>
@@ -25703,7 +25703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069448</ObjectId>
 	<Id>113753</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОСПУД</Code>
 	<CodeLat>OSPUD</CodeLat>
 	<Name>ОСПУД</Name>
@@ -25753,7 +25753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069451</ObjectId>
 	<Id>113755</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УЛРАД</Code>
 	<CodeLat>ULRAD</CodeLat>
 	<Name>УЛРАД</Name>
@@ -25803,7 +25803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069460</ObjectId>
 	<Id>113757</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЕТТАН</Code>
 	<CodeLat>ETTAN</CodeLat>
 	<Name>ЕТТАН</Name>
@@ -25853,7 +25853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069493</ObjectId>
 	<Id>113759</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УКЛАУ</Code>
 	<CodeLat>UKLAU</CodeLat>
 	<Name>УКЛАУ</Name>
@@ -25903,7 +25903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069595</ObjectId>
 	<Id>113761</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТРОДИ</Code>
 	<CodeLat>TRODI</CodeLat>
 	<Name>ТРОДИ</Name>
@@ -25953,7 +25953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069622</ObjectId>
 	<Id>113763</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БРАУС</Code>
 	<CodeLat>BRAUS</CodeLat>
 	<Name>БРАУС</Name>
@@ -26003,7 +26003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069628</ObjectId>
 	<Id>113765</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГРУДУ</Code>
 	<CodeLat>GRUDU</CodeLat>
 	<Name>ГРУДУ</Name>
@@ -26053,7 +26053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069637</ObjectId>
 	<Id>113767</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СТАРА</Code>
 	<CodeLat>STARA</CodeLat>
 	<Name>СТАРА</Name>
@@ -26103,7 +26103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069745</ObjectId>
 	<Id>113769</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТРИКО</Code>
 	<CodeLat>TRIKO</CodeLat>
 	<Name>ТРИКО</Name>
@@ -26153,7 +26153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382069853</ObjectId>
 	<Id>113771</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СТИМИ</Code>
 	<CodeLat>STIMI</CodeLat>
 	<Name>СТИМИ</Name>
@@ -26203,7 +26203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382070499</ObjectId>
 	<Id>113779</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАРАН</Code>
 	<CodeLat>MARAN</CodeLat>
 	<Name>МАРАН</Name>
@@ -26253,7 +26253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382070538</ObjectId>
 	<Id>113781</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ГЕОИД</Code>
 	<CodeLat>GEOID</CodeLat>
 	<Name>ГЕОИД</Name>
@@ -26303,7 +26303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382070577</ObjectId>
 	<Id>113783</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАЕРК</Code>
 	<CodeLat>MAERK</CodeLat>
 	<Name>МАЕРК</Name>
@@ -26353,7 +26353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382070946</ObjectId>
 	<Id>113785</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АМУРС</Code>
 	<CodeLat>AMURS</CodeLat>
 	<Name>АМУРС</Name>
@@ -26403,7 +26403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382070949</ObjectId>
 	<Id>113787</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПРОТО</Code>
 	<CodeLat>PROTO</CodeLat>
 	<Name>ПРОТО</Name>
@@ -26453,7 +26453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>382070952</ObjectId>
 	<Id>113789</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОМИЛА</Code>
 	<CodeLat>OMILA</CodeLat>
 	<Name>ОМИЛА</Name>
@@ -26503,7 +26503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>52971970</ObjectId>
 	<Id>81995</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХЗ</Code>
 	<CodeLat>UHHZ</CodeLat>
 	<Name>АО 12АРЗ</Name>
@@ -26553,7 +26553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>22839951</ObjectId>
 	<Id>82025</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>оз.Утинное</Code>
 	<CodeLat>oz.Utinnoe</CodeLat>
 	<Name>оз.Утинное</Name>
@@ -26603,7 +26603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>22779147</ObjectId>
 	<Id>82027</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Новопокровка</Code>
 	<CodeLat>Novopokrovka</CodeLat>
 	<Name>Новопокровка</Name>
@@ -26653,7 +26653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>22754202</ObjectId>
 	<Id>82029</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Вишнеский</Code>
 	<CodeLat>Vishneskij</CodeLat>
 	<Name>Вишнеский</Name>
@@ -26703,7 +26703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>22255177</ObjectId>
 	<Id>82031</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>М.Аскольд</Code>
 		<CodeLat />
 	<Name>М.Аскольд</Name>
@@ -26753,7 +26753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960503</ObjectId>
 	<Id>82047</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС СОД ПРИ ПСП</Code>
 	<CodeLat>BS SOD PRI PSP</CodeLat>
 	<Name>БС СОД ПРИ ПСП</Name>
@@ -26803,7 +26803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960502</ObjectId>
 	<Id>82049</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 282,18</Code>
 	<CodeLat>BS KM 282,18</CodeLat>
 	<Name>БС КМ 282,18</Name>
@@ -26853,7 +26853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960501</ObjectId>
 	<Id>82051</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 263,5</Code>
 	<CodeLat>BS KM 263,5</CodeLat>
 	<Name>БС КМ 263,5</Name>
@@ -26903,7 +26903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960500</ObjectId>
 	<Id>82053</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 246,45</Code>
 	<CodeLat>BS KM 246,45</CodeLat>
 	<Name>БС КМ 246,45</Name>
@@ -26953,7 +26953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960499</ObjectId>
 	<Id>82055</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 238,95</Code>
 	<CodeLat>BS KM 238,95</CodeLat>
 	<Name>БС КМ 238,95</Name>
@@ -27003,7 +27003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960498</ObjectId>
 	<Id>82057</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 226</Code>
 	<CodeLat>BS KM 226</CodeLat>
 	<Name>БС КМ 226</Name>
@@ -27053,7 +27053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960497</ObjectId>
 	<Id>82059</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 216,24</Code>
 	<CodeLat>BS KM 216,24</CodeLat>
 	<Name>БС КМ 216,24</Name>
@@ -27103,7 +27103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960496</ObjectId>
 	<Id>82061</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 204,4</Code>
 	<CodeLat>BS KM 204,4</CodeLat>
 	<Name>БС КМ 204,4</Name>
@@ -27153,7 +27153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960495</ObjectId>
 	<Id>82063</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 191,03</Code>
 	<CodeLat>BS KM 191,03</CodeLat>
 	<Name>БС КМ 191,03</Name>
@@ -27203,7 +27203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960494</ObjectId>
 	<Id>82065</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС НПС-3 КМ 185,5</Code>
 	<CodeLat>BS NPS-3 KM 185,5</CodeLat>
 	<Name>НПС-3</Name>
@@ -27253,7 +27253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960493</ObjectId>
 	<Id>82067</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 176,33</Code>
 	<CodeLat>BS KM 176,33</CodeLat>
 	<Name>БС КМ 176,33</Name>
@@ -27303,7 +27303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960492</ObjectId>
 	<Id>82069</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 161,26</Code>
 	<CodeLat>BS KM 161,26</CodeLat>
 	<Name>БС КМ 161,26</Name>
@@ -27353,7 +27353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960484</ObjectId>
 	<Id>82071</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 148,15</Code>
 	<CodeLat>BS KM 148,15</CodeLat>
 	<Name>БС КМ 148,15</Name>
@@ -27403,7 +27403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960483</ObjectId>
 	<Id>82073</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.ДАРСА (наЧумикан)</Code>
 	<CodeLat>tr.DARSA (naChumikan)</CodeLat>
 	<Name>534159с1353251в</Name>
@@ -27453,7 +27453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960482</ObjectId>
 	<Id>82075</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 136,2</Code>
 	<CodeLat>BS KM 136,2</CodeLat>
 	<Name>БС КМ 136,2</Name>
@@ -27503,7 +27503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960481</ObjectId>
 	<Id>82077</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 120,1</Code>
 	<CodeLat>BS KM 120,1</CodeLat>
 	<Name>БС КМ 120,1</Name>
@@ -27553,7 +27553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960480</ObjectId>
 	<Id>82079</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 99,95</Code>
 	<CodeLat>BS KM 99,95</CodeLat>
 	<Name>БС КМ 99,95</Name>
@@ -27603,7 +27603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960479</ObjectId>
 	<Id>82081</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 85,8</Code>
 	<CodeLat>BS KM 85,8</CodeLat>
 	<Name>БС КМ 85,8</Name>
@@ -27653,7 +27653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960478</ObjectId>
 	<Id>82083</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС НПС-2 КМ 76,1</Code>
 	<CodeLat>BS NPS-2 KM 76,1</CodeLat>
 	<Name>НПС-2</Name>
@@ -27703,7 +27703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960477</ObjectId>
 	<Id>82085</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 54,2</Code>
 	<CodeLat>BS KM 54,2</CodeLat>
 	<Name>БС КМ 54,2</Name>
@@ -27753,7 +27753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960476</ObjectId>
 	<Id>82087</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 45,43</Code>
 	<CodeLat>BS KM 45,43</CodeLat>
 	<Name>БС КМ 45,43</Name>
@@ -27803,7 +27803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960475</ObjectId>
 	<Id>82089</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 35,18</Code>
 	<CodeLat>BS KM 35,18</CodeLat>
 	<Name>БС КМ 35,18</Name>
@@ -27853,7 +27853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960474</ObjectId>
 	<Id>82091</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 30,2</Code>
 	<CodeLat>BS KM 30,2</CodeLat>
 	<Name>БС КМ 30,2</Name>
@@ -27903,7 +27903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960473</ObjectId>
 	<Id>82093</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 24,6</Code>
 	<CodeLat>BS KM 24,6</CodeLat>
 	<Name>БС КМ 24,6</Name>
@@ -27953,7 +27953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20960472</ObjectId>
 	<Id>82095</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС ГНПС-1КМ</Code>
 	<CodeLat>BS GNPS-1KM</CodeLat>
 	<Name>НПС-1</Name>
@@ -28003,7 +28003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1912803</ObjectId>
 	<Id>82131</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ус</Code>
 	<CodeLat>Us</CodeLat>
 	<Name>Ус</Name>
@@ -28053,7 +28053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>20096152</ObjectId>
 	<Id>82183</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТЬ</Code>
 	<CodeLat>UHTX</CodeLat>
 	<Name>Сосновая Падь</Name>
@@ -28103,7 +28103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6492</ObjectId>
 	<Id>82207</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ВЗТ</Code>
 	<CodeLat>VZT</CodeLat>
 	<Name>Среднебелое ОПРС</Name>
@@ -28153,7 +28153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5498766</ObjectId>
 	<Id>82209</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХБЫ</Code>
 	<CodeLat>XHBY</CodeLat>
 	<Name>ТАМБОВКА(БЛГ)</Name>
@@ -28203,7 +28203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5442711</ObjectId>
 	<Id>82211</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БикинВД</Code>
 	<CodeLat>BikinVD</CodeLat>
 	<Name>БикинЖД</Name>
@@ -28253,7 +28253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4168</ObjectId>
 	<Id>82213</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>2739км</Code>
 	<CodeLat>2739km</CodeLat>
 	<Name>тр.Талдана</Name>
@@ -28303,7 +28303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4174</ObjectId>
 	<Id>82215</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>2919км</Code>
 	<CodeLat>2919km</CodeLat>
 	<Name>тр.Ушумун</Name>
@@ -28353,7 +28353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4176</ObjectId>
 	<Id>82217</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>2943км</Code>
 	<CodeLat>2943km</CodeLat>
 	<Name>тр.Сиваки</Name>
@@ -28403,7 +28403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4178</ObjectId>
 	<Id>82219</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3021км</Code>
 	<CodeLat>3021km</CodeLat>
 	<Name>тр.Берея</Name>
@@ -28453,7 +28453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4182</ObjectId>
 	<Id>82221</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3047км.</Code>
 	<CodeLat>3047km.</CodeLat>
 	<Name>тр.Шимановск</Name>
@@ -28503,7 +28503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4184</ObjectId>
 	<Id>82223</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3067км</Code>
 	<CodeLat>3067km</CodeLat>
 	<Name>тр.Селеткана</Name>
@@ -28553,7 +28553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4186</ObjectId>
 	<Id>82225</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3135км</Code>
 	<CodeLat>3135km</CodeLat>
 	<Name>Р.Зея</Name>
@@ -28603,7 +28603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4188</ObjectId>
 	<Id>82227</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3145км</Code>
 	<CodeLat>3145km</CodeLat>
 	<Name>тр.Молчанова</Name>
@@ -28653,7 +28653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4190</ObjectId>
 	<Id>82229</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3159км</Code>
 	<CodeLat>3159km</CodeLat>
 	<Name>тр.Озерное</Name>
@@ -28703,7 +28703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4192</ObjectId>
 	<Id>82231</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3214км</Code>
 	<CodeLat>3214km</CodeLat>
 	<Name>тр.Новосергеевка</Name>
@@ -28753,7 +28753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4194</ObjectId>
 	<Id>82233</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3219км</Code>
 	<CodeLat>3219km</CodeLat>
 	<Name>тр.Павловка</Name>
@@ -28803,7 +28803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4196</ObjectId>
 	<Id>82235</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3339км</Code>
 	<CodeLat>3339km</CodeLat>
 	<Name>тр. Завитинска</Name>
@@ -28853,7 +28853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4198</ObjectId>
 	<Id>82237</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3497км</Code>
 	<CodeLat>3497km</CodeLat>
 	<Name>тр.Кундура</Name>
@@ -28903,7 +28903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5291531</ObjectId>
 	<Id>82239</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КМ-3591</Code>
 	<CodeLat>KM-3591</CodeLat>
 	<Name>3591км</Name>
@@ -28953,7 +28953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>3958</ObjectId>
 	<Id>82241</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3804км</Code>
 	<CodeLat>3804km</CodeLat>
 	<Name>УЗА-69</Name>
@@ -29003,7 +29003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4214</ObjectId>
 	<Id>82243</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3893км</Code>
 	<CodeLat>3893km</CodeLat>
 	<Name>3893км</Name>
@@ -29053,7 +29053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4216</ObjectId>
 	<Id>82245</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3945км</Code>
 	<CodeLat>3945km</CodeLat>
 	<Name>тр.Галкино</Name>
@@ -29103,7 +29103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4218</ObjectId>
 	<Id>82247</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3967км</Code>
 	<CodeLat>3967km</CodeLat>
 	<Name>тр.Благодатного</Name>
@@ -29153,7 +29153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4234</ObjectId>
 	<Id>82249</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4191км</Code>
 	<CodeLat>4191km</CodeLat>
 	<Name>Тр.Кедровки</Name>
@@ -29203,7 +29203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4236</ObjectId>
 	<Id>82251</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4227км</Code>
 	<CodeLat>4227km</CodeLat>
 	<Name>Тр.Нижнемихайловки</Name>
@@ -29253,7 +29253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4238</ObjectId>
 	<Id>82253</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4237км</Code>
 	<CodeLat>4237km</CodeLat>
 	<Name>тр.Емельяновки</Name>
@@ -29303,7 +29303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4240</ObjectId>
 	<Id>82255</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4258км</Code>
 	<CodeLat>4258km</CodeLat>
 	<Name>тр.Губерово</Name>
@@ -29353,7 +29353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4242</ObjectId>
 	<Id>82257</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4280км</Code>
 	<CodeLat>4280km</CodeLat>
 	<Name>тр.Сухановки</Name>
@@ -29403,7 +29403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4244</ObjectId>
 	<Id>82259</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4349км</Code>
 	<CodeLat>4349km</CodeLat>
 	<Name>тр.Ружино</Name>
@@ -29453,7 +29453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4246</ObjectId>
 	<Id>82261</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4381км</Code>
 	<CodeLat>4381km</CodeLat>
 	<Name>тр.Иннокентьевки</Name>
@@ -29503,7 +29503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4248</ObjectId>
 	<Id>82263</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4410км</Code>
 	<CodeLat>4410km</CodeLat>
 	<Name>тр.Преображенки</Name>
@@ -29553,7 +29553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4250</ObjectId>
 	<Id>82265</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4504км</Code>
 	<CodeLat>4504km</CodeLat>
 	<Name>тр.Калиновки</Name>
@@ -29603,7 +29603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4252</ObjectId>
 	<Id>82267</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Дарса(на Кутын)</Code>
 	<CodeLat>tr.Darsa(na Kutyn)</CodeLat>
 	<Name>тр.Дарса</Name>
@@ -29653,7 +29653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4254</ObjectId>
 	<Id>82269</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4537км</Code>
 	<CodeLat>4537km</CodeLat>
 	<Name>тр.Черниговки</Name>
@@ -29703,7 +29703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4256</ObjectId>
 	<Id>82271</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4553км</Code>
 	<CodeLat>4553km</CodeLat>
 	<Name>тр.Сибирцево</Name>
@@ -29753,7 +29753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4258</ObjectId>
 	<Id>82273</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4560км</Code>
 	<CodeLat>4560km</CodeLat>
 	<Name>тр.Снегуровки</Name>
@@ -29803,7 +29803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4260</ObjectId>
 	<Id>82275</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4597км</Code>
 	<CodeLat>4597km</CodeLat>
 	<Name>тр.Староварваровки</Name>
@@ -29853,7 +29853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4262</ObjectId>
 	<Id>82277</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4631км</Code>
 	<CodeLat>4631km</CodeLat>
 	<Name>тр.Скворцово</Name>
@@ -29903,7 +29903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4264</ObjectId>
 	<Id>82279</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4663км</Code>
 	<CodeLat>4663km</CodeLat>
 	<Name>тр.Новой Москвы</Name>
@@ -29953,7 +29953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4266</ObjectId>
 	<Id>82281</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4686км</Code>
 	<CodeLat>4686km</CodeLat>
 	<Name>тр.Бровничей</Name>
@@ -30003,7 +30003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4268</ObjectId>
 	<Id>82283</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4701км</Code>
 	<CodeLat>4701km</CodeLat>
 	<Name>тр.Тигровой</Name>
@@ -30053,7 +30053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4270</ObjectId>
 	<Id>82285</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4728км</Code>
 	<CodeLat>4728km</CodeLat>
 	<Name>Михайловка</Name>
@@ -30103,7 +30103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4272</ObjectId>
 	<Id>82287</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4733км</Code>
 	<CodeLat>4733km</CodeLat>
 	<Name>тр.Новолитовска</Name>
@@ -30153,7 +30153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5291373</ObjectId>
 	<Id>82289</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ВП Переход через Амур</Code>
 	<CodeLat>VP Perehod cherez Amur</CodeLat>
 	<Name>ВП Переход через Амур</Name>
@@ -30203,7 +30203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5176282</ObjectId>
 	<Id>82291</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>вр.Моховая</Code>
 	<CodeLat>vr.Mohovaja</CodeLat>
 	<Name>вр.Моховая</Name>
@@ -30253,7 +30253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5176281</ObjectId>
 	<Id>82293</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.синдинское</Code>
 	<CodeLat>tr.sindinskoe</CodeLat>
 	<Name>тр.синдинское</Name>
@@ -30303,7 +30303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5176280</ObjectId>
 	<Id>82295</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Периясловки</Code>
 	<CodeLat>tr.Perijaslovki</CodeLat>
 	<Name>ппм м3 Калинки вх в МВЛ</Name>
@@ -30353,7 +30353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5176279</ObjectId>
 	<Id>82297</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Периясловка</Code>
 	<CodeLat>Perijaslovka</CodeLat>
 	<Name>ппм м3 Калинки</Name>
@@ -30403,7 +30403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5176278</ObjectId>
 	<Id>82299</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЕЛЬКА</Code>
 		<CodeLat />
 	<Name>рубеж р.Елька</Name>
@@ -30453,7 +30453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5110308</ObjectId>
 	<Id>82327</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тр.Кочки</Code>
 	<CodeLat>Tr.Kochki</CodeLat>
 	<Name>Тр.Кочки</Name>
@@ -30503,7 +30503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4402693</ObjectId>
 	<Id>82381</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Петровичи</Code>
 	<CodeLat>Petrovichi</CodeLat>
 	<Name>Петровичи</Name>
@@ -30553,7 +30553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>3540688</ObjectId>
 	<Id>82387</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Н.Халбы</Code>
 	<CodeLat>N.Halby</CodeLat>
 	<Name>Н.Халбы</Name>
@@ -30603,7 +30603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>3432345</ObjectId>
 	<Id>82391</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСЬ</Code>
 	<CodeLat>UHSX</CodeLat>
 	<Name>ПП ЧАЙВО БКП-2</Name>
@@ -30653,7 +30653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>3432344</ObjectId>
 	<Id>82393</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСЕ</Code>
 	<CodeLat>UHSE</CodeLat>
 	<Name>ПП БЕРКУТ</Name>
@@ -30703,7 +30703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>3432343</ObjectId>
 	<Id>82395</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСЫ</Code>
 	<CodeLat>UHSY</CodeLat>
 	<Name>ПП ЧАЙВО-БУРОВАЯ</Name>
@@ -30753,7 +30753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>3432342</ObjectId>
 	<Id>82397</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСУ</Code>
 	<CodeLat>UHSU</CodeLat>
 	<Name>ПП ОДОПТУ</Name>
@@ -30803,7 +30803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>3432341</ObjectId>
 	<Id>82399</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХНФ</Code>
 	<CodeLat>UHNF</CodeLat>
 	<Name>НПТ ДЕ-КАСТРИ</Name>
@@ -30853,7 +30853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>2082602</ObjectId>
 	<Id>82401</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Князе-Волконское</Code>
 	<CodeLat>Knjaze-Volkonskoe</CodeLat>
 	<Name>Князе-Волконское</Name>
@@ -30903,7 +30903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1989994</ObjectId>
 	<Id>82403</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тр.Куруна</Code>
 	<CodeLat>Tr.Kuruna</CodeLat>
 	<Name>Тр.Куруна</Name>
@@ -30953,7 +30953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1987495</ObjectId>
 	<Id>82405</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>г.Халхадьян</Code>
 		<CodeLat />
 	<Name>г.Халхадьян</Name>
@@ -31003,7 +31003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1980370</ObjectId>
 	<Id>82407</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Иннокентьевка</Code>
 		<CodeLat />
 	<Name>Иннокентьевка</Name>
@@ -31053,7 +31053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1950561</ObjectId>
 	<Id>82409</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АП.Литовко</Code>
 	<CodeLat>AP.Litovko</CodeLat>
 	<Name>АП.Литовко</Name>
@@ -31103,7 +31103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1946496</ObjectId>
 	<Id>82411</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.КрасныйЯр</Code>
 	<CodeLat>Ust.r.KrasnyjJar</CodeLat>
 	<Name>Уст.р.КрасныйЯр</Name>
@@ -31153,7 +31153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1911673</ObjectId>
 	<Id>82413</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>г.ВуалляКемани</Code>
 	<CodeLat>g.VualljaKemani</CodeLat>
 	<Name>г.ВуалляКемани</Name>
@@ -31203,7 +31203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1909880</ObjectId>
 	<Id>82415</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.НижнийЕльник</Code>
 		<CodeLat />
 	<Name>Уст.р.НижнийЕльник</Name>
@@ -31253,7 +31253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1908463</ObjectId>
 	<Id>82417</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Яа</Code>
 	<CodeLat>Ust.r.Jaa</CodeLat>
 	<Name>Уст.р.Яа</Name>
@@ -31303,7 +31303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1907958</ObjectId>
 	<Id>82419</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СУКПАЙ</Code>
 	<CodeLat>SUKPAJ</CodeLat>
 	<Name>СУКПАЙ</Name>
@@ -31353,7 +31353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1906331</ObjectId>
 	<Id>82421</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КраснаРечка</Code>
 	<CodeLat>KrasnaRechka</CodeLat>
 	<Name>КраснаРечка</Name>
@@ -31403,7 +31403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1884883</ObjectId>
 	<Id>82423</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Солонцовый</Code>
 	<CodeLat>Solontsovyj</CodeLat>
 	<Name>Солонцовый</Name>
@@ -31453,7 +31453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1865318</ObjectId>
 	<Id>82425</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Верх.р.АНЮЙ</Code>
 	<CodeLat>Verh.r.ANJuJ</CodeLat>
 	<Name>Верх.р.АНЮЙ</Name>
@@ -31503,7 +31503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1863936</ObjectId>
 	<Id>82427</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>г.Тордоки-ЯНИ</Code>
 	<CodeLat>g.Tordoki-JaNI</CodeLat>
 	<Name>г.Тордоки-ЯНИ</Name>
@@ -31553,7 +31553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1863800</ObjectId>
 	<Id>82429</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.УДЖАКИ</Code>
 	<CodeLat>Ust.r.UDZhAKI</CodeLat>
 	<Name>Уст.р.УДЖАКИ</Name>
@@ -31603,7 +31603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1834870</ObjectId>
 	<Id>82431</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АП.СВЯТОГОРЬЕ</Code>
 		<CodeLat />
 	<Name>АП.СВЯТОГОРЬЕ</Name>
@@ -31653,7 +31653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1833512</ObjectId>
 	<Id>82433</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Соколовка</Code>
 	<CodeLat>Sokolovka</CodeLat>
 	<Name>Соколовка</Name>
@@ -31703,7 +31703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1832979</ObjectId>
 	<Id>82435</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Каменец-Подольский</Code>
 		<CodeLat />
 	<Name>Каменец-Подольский</Name>
@@ -31753,7 +31753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1831980</ObjectId>
 	<Id>82437</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Новокаменка</Code>
 	<CodeLat>Novokamenka</CodeLat>
 	<Name>Новокаменка</Name>
@@ -31803,7 +31803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1831623</ObjectId>
 	<Id>82439</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Петропавловка</Code>
 	<CodeLat>Petropavlovka</CodeLat>
 	<Name>Петропавловка</Name>
@@ -31853,7 +31853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1814095</ObjectId>
 	<Id>82441</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Марковка</Code>
 	<CodeLat>Markovka</CodeLat>
 	<Name>Марковка</Name>
@@ -31903,7 +31903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1810916</ObjectId>
 	<Id>82443</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПП.БЛАГОДАТНОЕ</Code>
 	<CodeLat>PP.BLAGODATNOE</CodeLat>
 	<Name>ПП.БЛАГОДАТНОЕ</Name>
@@ -31953,7 +31953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1810860</ObjectId>
 	<Id>82445</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Лесное</Code>
 	<CodeLat>Lesnoe</CodeLat>
 	<Name>Лесное</Name>
@@ -32003,7 +32003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1684017</ObjectId>
 	<Id>82447</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ВП Литовко</Code>
 	<CodeLat>VP Litovko</CodeLat>
 	<Name>ВП Литовко</Name>
@@ -32053,7 +32053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670799</ObjectId>
 	<Id>82449</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Грязное</Code>
 	<CodeLat>Grjaznoe</CodeLat>
 	<Name>Грязное</Name>
@@ -32103,7 +32103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670795</ObjectId>
 	<Id>82451</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>р.Кутын</Code>
 	<CodeLat>r.Kutyn</CodeLat>
 	<Name>р.Кутын</Name>
@@ -32153,7 +32153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670794</ObjectId>
 	<Id>82453</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Гили</Code>
 	<CodeLat>Ust.r.Gili</CodeLat>
 	<Name>Уст.р.Гили</Name>
@@ -32203,7 +32203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670793</ObjectId>
 	<Id>82455</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>г.Высокая</Code>
 	<CodeLat>g.Vysokaja</CodeLat>
 	<Name>г.Высокая</Name>
@@ -32253,7 +32253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670792</ObjectId>
 	<Id>82457</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>г.Матай</Code>
 	<CodeLat>g.Mataj</CodeLat>
 	<Name>г.Матай</Name>
@@ -32303,7 +32303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670791</ObjectId>
 	<Id>82459</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Ниран</Code>
 	<CodeLat>Ust.r.Niran</CodeLat>
 	<Name>Уст.р.Ниран</Name>
@@ -32353,7 +32353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670790</ObjectId>
 	<Id>82461</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Бедовый</Code>
 	<CodeLat>Bedovyj</CodeLat>
 	<Name>Бедовый</Name>
@@ -32403,7 +32403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670789</ObjectId>
 	<Id>82463</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Тагэму</Code>
 	<CodeLat>Ust.r.Tagemu</CodeLat>
 	<Name>Уст.р.Тагэму</Name>
@@ -32453,7 +32453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670788</ObjectId>
 	<Id>82465</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Пунчи</Code>
 	<CodeLat>Ust.r.Punchi</CodeLat>
 	<Name>Уст.р.Пунчи</Name>
@@ -32503,7 +32503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670787</ObjectId>
 	<Id>82467</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Гульмансе</Code>
 		<CodeLat />
 	<Name>Уст.р.Гульмансе</Name>
@@ -32553,7 +32553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670786</ObjectId>
 	<Id>82469</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сред.теч.р.Акур</Code>
 	<CodeLat>Sred.tech.r.Akur</CodeLat>
 	<Name>Сред.теч.р.Акур</Name>
@@ -32603,7 +32603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670785</ObjectId>
 	<Id>82471</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Чичимар</Code>
 	<CodeLat>Ust.r.Chichimar</CodeLat>
 	<Name>Уст.р.Чичимар</Name>
@@ -32653,7 +32653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670784</ObjectId>
 	<Id>82473</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Орочи</Code>
 	<CodeLat>Ust.r.Orochi</CodeLat>
 	<Name>Уст.р.Орочи</Name>
@@ -32703,7 +32703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670780</ObjectId>
 	<Id>82475</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Утанак</Code>
 	<CodeLat>Ust.r.Utanak</CodeLat>
 	<Name>Уст.р.Утанак</Name>
@@ -32753,7 +32753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670779</ObjectId>
 	<Id>82477</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Санарбакит</Code>
 	<CodeLat>Sanarbakit</CodeLat>
 	<Name>Санарбакит</Name>
@@ -32803,7 +32803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670778</ObjectId>
 	<Id>82479</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Шелехово</Code>
 	<CodeLat>Shelehovo</CodeLat>
 	<Name>Шелехово</Name>
@@ -32853,7 +32853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670775</ObjectId>
 	<Id>82481</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Сивак</Code>
 	<CodeLat>Ust.r.Sivak</CodeLat>
 	<Name>Уст.р.Сивак</Name>
@@ -32903,7 +32903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670774</ObjectId>
 	<Id>82483</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Дуки-Макит</Code>
 	<CodeLat>Ust.r.Duki-Makit</CodeLat>
 	<Name>Уст.р.Дуки-Макит</Name>
@@ -32953,7 +32953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670773</ObjectId>
 	<Id>82485</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Нилан</Code>
 	<CodeLat>Ust.r.Nilan</CodeLat>
 	<Name>Уст.р.Нилан</Name>
@@ -33003,7 +33003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670772</ObjectId>
 	<Id>82487</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Джиакунь</Code>
 		<CodeLat />
 	<Name>Уст.р.Джиакунь</Name>
@@ -33053,7 +33053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670771</ObjectId>
 	<Id>82489</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Хубикта</Code>
 	<CodeLat>Ust.r.Hubikta</CodeLat>
 	<Name>Уст.р.Хубикта</Name>
@@ -33103,7 +33103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670770</ObjectId>
 	<Id>82491</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.ГУТА</Code>
 	<CodeLat>Ust.r.GUTA</CodeLat>
 	<Name>Уст.р.ГУТА</Name>
@@ -33153,7 +33153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670769</ObjectId>
 	<Id>82493</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Верх.р.Сынчуга</Code>
 	<CodeLat>Verh.r.Synchuga</CodeLat>
 	<Name>Верх.р.Сынчуга</Name>
@@ -33203,7 +33203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670768</ObjectId>
 	<Id>82495</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Толуян</Code>
 	<CodeLat>Ust.r.Tolujan</CodeLat>
 	<Name>Уст.р.Толуян</Name>
@@ -33253,7 +33253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1670767</ObjectId>
 	<Id>82497</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Сюигачан</Code>
 	<CodeLat>Ust.r.Sjuigachan</CodeLat>
 	<Name>Уст.р.Сюигачан</Name>
@@ -33303,7 +33303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1657626</ObjectId>
 	<Id>82499</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Верх.т.р.Дубликан</Code>
 	<CodeLat>Verh.t.r.Dublikan</CodeLat>
 	<Name>Верх.т.р.Дубликан</Name>
@@ -33353,7 +33353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1657625</ObjectId>
 	<Id>82501</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Суларин</Code>
 	<CodeLat>Ust.r.Sularin</CodeLat>
 	<Name>Уст.р.Суларин</Name>
@@ -33403,7 +33403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1657624</ObjectId>
 	<Id>82503</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Алагир</Code>
 	<CodeLat>Ust.r.Alagir</CodeLat>
 	<Name>Уст.р.Алагир</Name>
@@ -33453,7 +33453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1657623</ObjectId>
 	<Id>82505</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Аимка</Code>
 	<CodeLat>Ust.r.Aimka</CodeLat>
 	<Name>Уст.р.Аимка</Name>
@@ -33503,7 +33503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1657622</ObjectId>
 	<Id>82507</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Верх.р.Биранджа</Code>
 	<CodeLat>Verh.r.Birandzha</CodeLat>
 	<Name>Верх.р.Биранджа</Name>
@@ -33553,7 +33553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1657621</ObjectId>
 	<Id>82509</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Талиджак</Code>
 	<CodeLat>Ust.r.Talidzhak</CodeLat>
 	<Name>Уст.р.Талиджак</Name>
@@ -33603,7 +33603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1657620</ObjectId>
 	<Id>82511</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Верх.т.р.Тырма</Code>
 	<CodeLat>Verh.t.r.Tyrma</CodeLat>
 	<Name>Верх.т.р.Тырма</Name>
@@ -33653,7 +33653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1657619</ObjectId>
 	<Id>82513</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Такса</Code>
 	<CodeLat>Ust.r.Taksa</CodeLat>
 	<Name>Уст.р.Такса</Name>
@@ -33703,7 +33703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1657618</ObjectId>
 	<Id>82515</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Садылга</Code>
 	<CodeLat>Ust.r.Sadylga</CodeLat>
 	<Name>Уст.р.Садылга</Name>
@@ -33753,7 +33753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1657617</ObjectId>
 	<Id>82517</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Свечино</Code>
 	<CodeLat>tr.Svechino</CodeLat>
 	<Name>тр.Свечино</Name>
@@ -33803,7 +33803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1657616</ObjectId>
 	<Id>82519</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Птичник</Code>
 	<CodeLat>Ptichnik</CodeLat>
 	<Name>Птичник</Name>
@@ -33853,7 +33853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1657613</ObjectId>
 	<Id>82521</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УЗА-49</Code>
 	<CodeLat>UZA-49</CodeLat>
 	<Name>УЗА-49</Name>
@@ -33903,7 +33903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1613824</ObjectId>
 	<Id>82523</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Князе-Волконское</Code>
 	<CodeLat>tr.Knjaze-Volkonskoe</CodeLat>
 	<Name>тр.Князе-Волконское</Name>
@@ -33953,7 +33953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1600730</ObjectId>
 	<Id>82525</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>г.Каменушка</Code>
 	<CodeLat>g.Kamenushka</CodeLat>
 	<Name>г.Каменушка</Name>
@@ -34003,7 +34003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>1600729</ObjectId>
 	<Id>82527</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>пл.Бичевая</Code>
 	<CodeLat>pl.Bichevaja</CodeLat>
 	<Name>пл.Бичевая</Name>
@@ -34053,7 +34053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>829737</ObjectId>
 	<Id>82531</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХКН</Code>
 	<CodeLat>UHKN</CodeLat>
 	<Name>Нижнетамбовское</Name>
@@ -34103,7 +34103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618894</ObjectId>
 	<Id>82543</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХВХ</Code>
 	<CodeLat>UHVH</CodeLat>
 	<Name>о.Русский (Аякс)</Name>
@@ -34153,7 +34153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618831</ObjectId>
 	<Id>82545</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСБ</Code>
 	<CodeLat>UHSB</CodeLat>
 	<Name>Буревестник</Name>
@@ -34203,7 +34203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618833</ObjectId>
 	<Id>82547</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСМ</Code>
 	<CodeLat>UHSM</CodeLat>
 	<Name>Южно-Курильск(Менделеево)</Name>
@@ -34253,7 +34253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618829</ObjectId>
 	<Id>82549</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХС</Code>
 	<CodeLat>UHHS</CodeLat>
 	<Name>Калинка</Name>
@@ -34303,7 +34303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>403809</ObjectId>
 	<Id>82567</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Барапус</Code>
 	<CodeLat>Barapus</CodeLat>
 	<Name>Барапус</Name>
@@ -34353,7 +34353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>403750</ObjectId>
 	<Id>82577</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Дипкун</Code>
 	<CodeLat>Dipkun</CodeLat>
 	<Name>Дипкун</Name>
@@ -34403,7 +34403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>346846</ObjectId>
 	<Id>82591</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Челпачи</Code>
 	<CodeLat>Ust.r.Chelpachi</CodeLat>
 	<Name>503400с1312900в</Name>
@@ -34453,7 +34453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>402822</ObjectId>
 	<Id>82599</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЛУНБА</Code>
 	<CodeLat>LUNBA</CodeLat>
 	<Name>Лун - А (МНДП)</Name>
@@ -34503,7 +34503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>401335</ObjectId>
 	<Id>82601</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МОПЛИ</Code>
 	<CodeLat>MOPLI</CodeLat>
 	<Name>Моликпак (МНДП)</Name>
@@ -34553,7 +34553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>403483</ObjectId>
 	<Id>82603</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НАЛРО</Code>
 	<CodeLat>NALRO</CodeLat>
 	<Name>Новые Лангры</Name>
@@ -34603,7 +34603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>329182</ObjectId>
 	<Id>82611</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БЕГОС</Code>
 	<CodeLat>BEGOS</CodeLat>
 	<Name>Белогорск</Name>
@@ -34653,7 +34653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4294</ObjectId>
 	<Id>82623</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Автономовка</Code>
 	<CodeLat>Avtonomovka</CodeLat>
 	<Name>Автономовка</Name>
@@ -34703,7 +34703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4320</ObjectId>
 	<Id>82633</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>АИМОР</Code>
 	<CodeLat>AIMOR</CodeLat>
 	<Name>Аим</Name>
@@ -34753,7 +34753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4332</ObjectId>
 	<Id>82641</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Александровка</Code>
 	<CodeLat>Aleksandrovka</CodeLat>
 	<Name>Александровка</Name>
@@ -34803,7 +34803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4348</ObjectId>
 	<Id>82647</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Амаранка</Code>
 	<CodeLat>Amaranka</CodeLat>
 	<Name>Амаранка</Name>
@@ -34853,7 +34853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4382</ObjectId>
 	<Id>82655</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Анастасьевка</Code>
 		<CodeLat />
 	<Name>Анастасьевка</Name>
@@ -34903,7 +34903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4392</ObjectId>
 	<Id>82661</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Арга</Code>
 	<CodeLat>Arga</CodeLat>
 	<Name>Арга</Name>
@@ -34953,7 +34953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4410</ObjectId>
 	<Id>82673</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Архангеловка</Code>
 	<CodeLat>Arhangelovka</CodeLat>
 	<Name>Архангеловка</Name>
@@ -35003,7 +35003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4430</ObjectId>
 	<Id>82685</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Асташиха</Code>
 	<CodeLat>Astashiha</CodeLat>
 	<Name>Асташиха</Name>
@@ -35053,7 +35053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4440</ObjectId>
 	<Id>82687</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Аур</Code>
 	<CodeLat>Aur</CodeLat>
 	<Name>Аур</Name>
@@ -35103,7 +35103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4444</ObjectId>
 	<Id>82691</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Бирофельд</Code>
 		<CodeLat />
 	<Name>Бирофельд</Name>
@@ -35153,7 +35153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4498</ObjectId>
 	<Id>82733</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Белогорье</Code>
 		<CodeLat />
 	<Name>Белогорье</Name>
@@ -35203,7 +35203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4522</ObjectId>
 	<Id>82747</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Бибиково</Code>
 	<CodeLat>Bibikovo</CodeLat>
 	<Name>Бибиково</Name>
@@ -35253,7 +35253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4528</ObjectId>
 	<Id>82753</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Биджан</Code>
 	<CodeLat>Bidzhan</CodeLat>
 	<Name>Биджан</Name>
@@ -35303,7 +35303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4570</ObjectId>
 	<Id>82775</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХНМ</Code>
 	<CodeLat>UHNM</CodeLat>
 	<Name>Мариинское</Name>
@@ -35353,7 +35353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4576</ObjectId>
 	<Id>82777</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Благодатное</Code>
 	<CodeLat>Blagodatnoe</CodeLat>
 	<Name>Благодатное</Name>
@@ -35403,7 +35403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4582</ObjectId>
 	<Id>82783</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Богучан</Code>
 	<CodeLat>Boguchan</CodeLat>
 	<Name>Богучан</Name>
@@ -35453,7 +35453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4584</ObjectId>
 	<Id>82785</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Бол.Картель</Code>
 		<CodeLat />
 	<Name>Бол.Картель</Name>
@@ -35503,7 +35503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4600</ObjectId>
 	<Id>82795</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БРЕУР</Code>
 	<CodeLat>BREUR</CodeLat>
 	<Name>Бурея</Name>
@@ -35553,7 +35553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4610</ObjectId>
 	<Id>82805</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Бурея</Code>
 	<CodeLat>Bureja</CodeLat>
 	<Name>Бурея</Name>
@@ -35603,7 +35603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4614</ObjectId>
 	<Id>82809</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Буссе</Code>
 	<CodeLat>Busse</CodeLat>
 	<Name>Буссе</Name>
@@ -35653,7 +35653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4618</ObjectId>
 	<Id>82813</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Валдгейм</Code>
 	<CodeLat>Valdgejm</CodeLat>
 	<Name>Валдгейм</Name>
@@ -35703,7 +35703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4620</ObjectId>
 	<Id>82815</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ванино</Code>
 	<CodeLat>Vanino</CodeLat>
 	<Name>Ванино</Name>
@@ -35753,7 +35753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4630</ObjectId>
 	<Id>82823</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Великокнязевка</Code>
 	<CodeLat>Velikoknjazevka</CodeLat>
 	<Name>Великокнязевка</Name>
@@ -35803,7 +35803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4638</ObjectId>
 	<Id>82827</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Верх.Манома</Code>
 	<CodeLat>Verh.Manoma</CodeLat>
 	<Name>Верх.Манома</Name>
@@ -35853,7 +35853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4640</ObjectId>
 	<Id>82829</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Верх.р.Урми</Code>
 	<CodeLat>Verh.r.Urmi</CodeLat>
 	<Name>Верх.р.Урми</Name>
@@ -35903,7 +35903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4642</ObjectId>
 	<Id>82831</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ВЗ</Code>
 	<CodeLat>VZ</CodeLat>
 	<Name>Среднебелое (ОПРС)</Name>
@@ -35953,7 +35953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4648</ObjectId>
 	<Id>82835</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Виноградовка</Code>
 	<CodeLat>Vinogradovka</CodeLat>
 	<Name>Виноградовка</Name>
@@ -36003,7 +36003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4650</ObjectId>
 	<Id>82837</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Возжаевка</Code>
 	<CodeLat>Vozzhaevka</CodeLat>
 	<Name>Возжаевка</Name>
@@ -36053,7 +36053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4652</ObjectId>
 	<Id>82839</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Волково</Code>
 	<CodeLat>Volkovo</CodeLat>
 	<Name>Волково</Name>
@@ -36103,7 +36103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4668</ObjectId>
 	<Id>82841</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Вятское</Code>
 	<CodeLat>Vjatskoe</CodeLat>
 	<Name>Вятское</Name>
@@ -36153,7 +36153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4676</ObjectId>
 	<Id>82845</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Гайтер</Code>
 	<CodeLat>Gajter</CodeLat>
 	<Name>Гайтер</Name>
@@ -36203,7 +36203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4688</ObjectId>
 	<Id>82851</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Гасси</Code>
 	<CodeLat>Gassi</CodeLat>
 	<Name>Гасси</Name>
@@ -36253,7 +36253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4694</ObjectId>
 	<Id>82855</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Георгиевка</Code>
 	<CodeLat>Georgievka</CodeLat>
 	<Name>Георгиевка</Name>
@@ -36303,7 +36303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4696</ObjectId>
 	<Id>82857</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Герби</Code>
 	<CodeLat>Gerbi</CodeLat>
 	<Name>Герби</Name>
@@ -36353,7 +36353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4698</ObjectId>
 	<Id>82859</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Гильчин</Code>
 		<CodeLat />
 	<Name>Гильчин</Name>
@@ -36403,7 +36403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4710</ObjectId>
 	<Id>82869</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Глебово</Code>
 	<CodeLat>Glebovo</CodeLat>
 	<Name>Глебово</Name>
@@ -36453,7 +36453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4724</ObjectId>
 	<Id>82879</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Голубичное</Code>
 	<CodeLat>Golubichnoe</CodeLat>
 	<Name>Голубичное</Name>
@@ -36503,7 +36503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4732</ObjectId>
 	<Id>82885</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Горин</Code>
 	<CodeLat>Gorin</CodeLat>
 	<Name>Горин</Name>
@@ -36553,7 +36553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4792</ObjectId>
 	<Id>82913</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Де-Кастри</Code>
 	<CodeLat>De-Kastri</CodeLat>
 	<Name>Де-Кастри</Name>
@@ -36603,7 +36603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4804</ObjectId>
 	<Id>82921</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Джелюмкен</Code>
 	<CodeLat>Dzheljumken</CodeLat>
 	<Name>Джелюмкен</Name>
@@ -36653,7 +36653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4822</ObjectId>
 	<Id>82929</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Дим</Code>
 	<CodeLat>Dim</CodeLat>
 	<Name>Дим</Name>
@@ -36703,7 +36703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4858</ObjectId>
 	<Id>82947</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Дормидонтовка</Code>
 	<CodeLat>Dormidontovka</CodeLat>
 	<Name>Дормидонтовка</Name>
@@ -36753,7 +36753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4860</ObjectId>
 	<Id>82949</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Дружба</Code>
 	<CodeLat>Druzhba</CodeLat>
 	<Name>482300с1351900в</Name>
@@ -36803,7 +36803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4864</ObjectId>
 	<Id>82951</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Дубовый мыс</Code>
 	<CodeLat>Dubovyj mys</CodeLat>
 	<Name>Дубовый мыс</Name>
@@ -36853,7 +36853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4866</ObjectId>
 	<Id>82953</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Дугда</Code>
 	<CodeLat>Dugda</CodeLat>
 	<Name>Дугда</Name>
@@ -36903,7 +36903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4870</ObjectId>
 	<Id>82957</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДУКАС</Code>
 	<CodeLat>DUKAS</CodeLat>
 	<Name>Дюсмакит</Name>
@@ -36953,7 +36953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4872</ObjectId>
 	<Id>82959</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Дурмин</Code>
 	<CodeLat>Durmin</CodeLat>
 	<Name>Дурмин</Name>
@@ -37003,7 +37003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4874</ObjectId>
 	<Id>82961</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Дуссе-Алинь</Code>
 		<CodeLat />
 	<Name>Дуссе-Алинь</Name>
@@ -37053,7 +37053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4878</ObjectId>
 	<Id>82963</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Екатеринославка</Code>
 	<CodeLat>Ekaterinoslavka</CodeLat>
 	<Name>Екатеринославка</Name>
@@ -37103,7 +37103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4880</ObjectId>
 	<Id>82965</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Елабуга</Code>
 	<CodeLat>Elabuga</CodeLat>
 	<Name>Елабуга</Name>
@@ -37153,7 +37153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4892</ObjectId>
 	<Id>82973</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ерковцы</Code>
 	<CodeLat>Erkovtsy</CodeLat>
 	<Name>Ерковцы</Name>
@@ -37203,7 +37203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4896</ObjectId>
 	<Id>82975</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ермаково</Code>
 	<CodeLat>Ermakovo</CodeLat>
 	<Name>Ермаково</Name>
@@ -37253,7 +37253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4906</ObjectId>
 	<Id>82983</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Жариково</Code>
 	<CodeLat>Zharikovo</CodeLat>
 	<Name>Жариково</Name>
@@ -37303,7 +37303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4912</ObjectId>
 	<Id>82985</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Журавлевка</Code>
 	<CodeLat>Zhuravlevka</CodeLat>
 	<Name>Журавлевка</Name>
@@ -37353,7 +37353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4920</ObjectId>
 	<Id>82987</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Завитинск</Code>
 	<CodeLat>Zavitinsk</CodeLat>
 	<Name>Завитинск</Name>
@@ -37403,7 +37403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4924</ObjectId>
 	<Id>82989</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Златоустовск</Code>
 	<CodeLat>Zlatoustovsk</CodeLat>
 	<Name>Златоустовск</Name>
@@ -37453,7 +37453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4928</ObjectId>
 	<Id>82991</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Золотой</Code>
 	<CodeLat>Zolotoj</CodeLat>
 	<Name>Золотой</Name>
@@ -37503,7 +37503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4934</ObjectId>
 	<Id>82997</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ивановка</Code>
 	<CodeLat>Ivanovka</CodeLat>
 	<Name>Ивановка</Name>
@@ -37553,7 +37553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4940</ObjectId>
 	<Id>83001</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Изыскательский</Code>
 		<CodeLat />
 	<Name>Изыскательский</Name>
@@ -37603,7 +37603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4950</ObjectId>
 	<Id>83007</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Им.Тельмана</Code>
 		<CodeLat />
 	<Name>Им.Тельмана</Name>
@@ -37653,7 +37653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>4990</ObjectId>
 	<Id>83021</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Казанка</Code>
 	<CodeLat>Kazanka</CodeLat>
 	<Name>Казанка</Name>
@@ -37703,7 +37703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5006</ObjectId>
 	<Id>83031</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КАНИГ</Code>
 	<CodeLat>KANIG</CodeLat>
 	<Name>Курунг</Name>
@@ -37753,7 +37753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5030</ObjectId>
 	<Id>83051</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ДИНАМО/ДОСААФ/</Code>
 	<CodeLat>DINAMO/DOSAAF/</CodeLat>
 	<Name>Динамо</Name>
@@ -37803,7 +37803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5032</ObjectId>
 	<Id>83053</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КЕДАР</Code>
 	<CodeLat>KEDAR</CodeLat>
 	<Name>Крестях</Name>
@@ -37853,7 +37853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5058</ObjectId>
 	<Id>83075</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кивдинский</Code>
 	<CodeLat>Kivdinskij</CodeLat>
 	<Name>Кивдинский</Name>
@@ -37903,7 +37903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5072</ObjectId>
 	<Id>83087</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кипящий-2(Ижак)</Code>
 	<CodeLat>Kipjaschij-2(Izhak)</CodeLat>
 	<Name>Кипящий-2(Ижак)</Name>
@@ -37953,7 +37953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5078</ObjectId>
 	<Id>83093</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Козьмино</Code>
 		<CodeLat />
 	<Name>Козьмино</Name>
@@ -38003,7 +38003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5080</ObjectId>
 	<Id>83095</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Козьмодемьяновка</Code>
 		<CodeLat />
 	<Name>Козьмодемьяновка</Name>
@@ -38053,7 +38053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5082</ObjectId>
 	<Id>83097</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кольцово</Code>
 		<CodeLat />
 	<Name>Кольцово</Name>
@@ -38103,7 +38103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5090</ObjectId>
 	<Id>83103</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Эльбан</Code>
 		<CodeLat />
 	<Name>тр.Эльбан</Name>
@@ -38153,7 +38153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5094</ObjectId>
 	<Id>83107</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кондон</Code>
 	<CodeLat>Kondon</CodeLat>
 	<Name>Кондон</Name>
@@ -38203,7 +38203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5104</ObjectId>
 	<Id>83113</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Константиноградовка</Code>
 	<CodeLat>Konstantinogradovka</CodeLat>
 	<Name>Константиноградовка</Name>
@@ -38253,7 +38253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5120</ObjectId>
 	<Id>83119</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Корфовский</Code>
 	<CodeLat>Korfovskij</CodeLat>
 	<Name>Корфовский</Name>
@@ -38303,7 +38303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5124</ObjectId>
 	<Id>83123</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Костюковка</Code>
 	<CodeLat>Kostjukovka</CodeLat>
 	<Name>Костюковка</Name>
@@ -38353,7 +38353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5126</ObjectId>
 	<Id>83125</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Красное</Code>
 	<CodeLat>Krasnoe</CodeLat>
 	<Name>Красное</Name>
@@ -38403,7 +38403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5138</ObjectId>
 	<Id>83133</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кузнецово</Code>
 	<CodeLat>Kuznetsovo</CodeLat>
 	<Name>Кузнецово</Name>
@@ -38453,7 +38453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5150</ObjectId>
 	<Id>83139</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кульдур</Code>
 		<CodeLat />
 	<Name>Кульдур</Name>
@@ -38503,7 +38503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5154</ObjectId>
 	<Id>83143</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кумара</Code>
 	<CodeLat>Kumara</CodeLat>
 	<Name>Кумара</Name>
@@ -38553,7 +38553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5176</ObjectId>
 	<Id>83157</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Лазарев</Code>
 	<CodeLat>Lazarev</CodeLat>
 	<Name>Лазарев</Name>
@@ -38603,7 +38603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5178</ObjectId>
 	<Id>83159</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Лазарево</Code>
 	<CodeLat>Lazarevo</CodeLat>
 	<Name>Лазарево</Name>
@@ -38653,7 +38653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5234</ObjectId>
 	<Id>83205</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Корсаково-2</Code>
 	<CodeLat>Korsakovo-2</CodeLat>
 	<Name>Корсаково-2</Name>
@@ -38703,7 +38703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5236</ObjectId>
 	<Id>83207</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Лидога</Code>
 	<CodeLat>Lidoga</CodeLat>
 	<Name>Лидога</Name>
@@ -38753,7 +38753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5250</ObjectId>
 	<Id>83217</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>р.Уда</Code>
 	<CodeLat>r.Uda</CodeLat>
 	<Name>р.Уда</Name>
@@ -38803,7 +38803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5264</ObjectId>
 	<Id>83227</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Лондоко</Code>
 	<CodeLat>Londoko</CodeLat>
 	<Name>Лондоко</Name>
@@ -38853,7 +38853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5290</ObjectId>
 	<Id>83249</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Магдагачи</Code>
 	<CodeLat>Magdagachi</CodeLat>
 	<Name>Магдагачи</Name>
@@ -38903,7 +38903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5300</ObjectId>
 	<Id>83255</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МалаяСидима</Code>
 	<CodeLat>MalajaSidima</CodeLat>
 	<Name>МалаяСидима</Name>
@@ -38953,7 +38953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5304</ObjectId>
 	<Id>83259</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Малмыж</Code>
 	<CodeLat>Malmyzh</CodeLat>
 	<Name>Малмыж</Name>
@@ -39003,7 +39003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5306</ObjectId>
 	<Id>83261</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Малышево</Code>
 	<CodeLat>Malyshevo</CodeLat>
 	<Name>Малышево</Name>
@@ -39053,7 +39053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5314</ObjectId>
 	<Id>83267</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАНТИ</Code>
 	<CodeLat>MANTI</CodeLat>
 	<Name>Многовершинный</Name>
@@ -39103,7 +39103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5322</ObjectId>
 	<Id>83273</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Марково</Code>
 	<CodeLat>Markovo</CodeLat>
 	<Name>Марково</Name>
@@ -39153,7 +39153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5326</ObjectId>
 	<Id>83277</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Медвежий</Code>
 	<CodeLat>Medvezhij</CodeLat>
 	<Name>Медвежий</Name>
@@ -39203,7 +39203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5328</ObjectId>
 	<Id>83279</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Мелун</Code>
 	<CodeLat>Melun</CodeLat>
 	<Name>Мелун</Name>
@@ -39253,7 +39253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5330</ObjectId>
 	<Id>83281</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Менгон</Code>
 	<CodeLat>Mengon</CodeLat>
 	<Name>Менгон</Name>
@@ -39303,7 +39303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5364</ObjectId>
 	<Id>83305</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Монгохто</Code>
 	<CodeLat>Mongohto</CodeLat>
 	<Name>Монгохто</Name>
@@ -39353,7 +39353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5380</ObjectId>
 	<Id>83321</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Мухен</Code>
 	<CodeLat>Muhen</CodeLat>
 	<Name>Мухен</Name>
@@ -39403,7 +39403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5400</ObjectId>
 	<Id>83333</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Найфельд</Code>
 		<CodeLat />
 	<Name>Найфельд</Name>
@@ -39453,7 +39453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5402</ObjectId>
 	<Id>83335</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Найхин</Code>
 	<CodeLat>Najhin</CodeLat>
 	<Name>Найхин</Name>
@@ -39503,7 +39503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5440</ObjectId>
 	<Id>83365</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Некрасовка</Code>
 	<CodeLat>Nekrasovka</CodeLat>
 	<Name>Некрасовка</Name>
@@ -39553,7 +39553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5494</ObjectId>
 	<Id>83417</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Новоалександровка</Code>
 	<CodeLat>Novoaleksandrovka</CodeLat>
 	<Name>Новоалександровка</Name>
@@ -39603,7 +39603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5500</ObjectId>
 	<Id>83419</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Нововоскресеновка</Code>
 	<CodeLat>Novovoskresenovka</CodeLat>
 	<Name>Нововоскресеновка</Name>
@@ -39653,7 +39653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5504</ObjectId>
 	<Id>83421</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Новоинокентьевка</Code>
 		<CodeLat />
 	<Name>Новоинокентьевка</Name>
@@ -39703,7 +39703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5510</ObjectId>
 	<Id>83423</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Новокуровка</Code>
 	<CodeLat>Novokurovka</CodeLat>
 	<Name>Новокуровка</Name>
@@ -39753,7 +39753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5518</ObjectId>
 	<Id>83425</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Новорайчихинск</Code>
 	<CodeLat>Novorajchihinsk</CodeLat>
 	<Name>Новорайчихинск</Name>
@@ -39803,7 +39803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5520</ObjectId>
 	<Id>83427</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Новороссийка</Code>
 	<CodeLat>Novorossijka</CodeLat>
 	<Name>Новороссийка</Name>
@@ -39853,7 +39853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5542</ObjectId>
 	<Id>83443</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Нора</Code>
 	<CodeLat>Nora</CodeLat>
 	<Name>Нора</Name>
@@ -39903,7 +39903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5544</ObjectId>
 	<Id>83445</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Норск</Code>
 	<CodeLat>Norsk</CodeLat>
 	<Name>Норск</Name>
@@ -39953,7 +39953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5548</ObjectId>
 	<Id>83447</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-32</Code>
 	<CodeLat>NPS-32</CodeLat>
 	<Name>НПС-32</Name>
@@ -40003,7 +40003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5550</ObjectId>
 	<Id>83449</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-33</Code>
 	<CodeLat>NPS-33</CodeLat>
 	<Name>НПС-33</Name>
@@ -40053,7 +40053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5552</ObjectId>
 	<Id>83451</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС 21</Code>
 	<CodeLat>NPS 21</CodeLat>
 	<Name>НПС 21</Name>
@@ -40103,7 +40103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5554</ObjectId>
 	<Id>83453</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-22</Code>
 	<CodeLat>NPS-22</CodeLat>
 	<Name>НПС-22</Name>
@@ -40153,7 +40153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5556</ObjectId>
 	<Id>83455</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-23</Code>
 	<CodeLat>NPS-23</CodeLat>
 	<Name>НПС-23</Name>
@@ -40203,7 +40203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5558</ObjectId>
 	<Id>83457</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-24</Code>
 	<CodeLat>NPS-24</CodeLat>
 	<Name>НПС-24</Name>
@@ -40253,7 +40253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5560</ObjectId>
 	<Id>83459</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-25</Code>
 	<CodeLat>NPS-25</CodeLat>
 	<Name>НПС-25</Name>
@@ -40303,7 +40303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5562</ObjectId>
 	<Id>83461</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-26</Code>
 	<CodeLat>NPS-26</CodeLat>
 	<Name>НПС-26</Name>
@@ -40353,7 +40353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5564</ObjectId>
 	<Id>83463</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС–27</Code>
 	<CodeLat>NPS–27</CodeLat>
 	<Name>НПС–27</Name>
@@ -40403,7 +40403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5566</ObjectId>
 	<Id>83465</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС–28</Code>
 	<CodeLat>NPS–28</CodeLat>
 	<Name>Бурея</Name>
@@ -40453,7 +40453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5568</ObjectId>
 	<Id>83467</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-29</Code>
 	<CodeLat>NPS-29</CodeLat>
 	<Name>НПС-29</Name>
@@ -40503,7 +40503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5570</ObjectId>
 	<Id>83469</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-30</Code>
 	<CodeLat>NPS-30</CodeLat>
 	<Name>НПС-30</Name>
@@ -40553,7 +40553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5572</ObjectId>
 	<Id>83471</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-31</Code>
 	<CodeLat>NPS-31</CodeLat>
 	<Name>НПС-31</Name>
@@ -40603,7 +40603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5574</ObjectId>
 	<Id>83473</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-34</Code>
 	<CodeLat>NPS-34</CodeLat>
 	<Name>НПС-34</Name>
@@ -40653,7 +40653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5576</ObjectId>
 	<Id>83475</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-35</Code>
 	<CodeLat>NPS-35</CodeLat>
 	<Name>НПС-35</Name>
@@ -40703,7 +40703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5578</ObjectId>
 	<Id>83477</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-36</Code>
 	<CodeLat>NPS-36</CodeLat>
 	<Name>НПС-36</Name>
@@ -40753,7 +40753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5580</ObjectId>
 	<Id>83479</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-37</Code>
 	<CodeLat>NPS-37</CodeLat>
 	<Name>НПС-37</Name>
@@ -40803,7 +40803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5582</ObjectId>
 	<Id>83481</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-38</Code>
 	<CodeLat>NPS-38</CodeLat>
 	<Name>НПС-38</Name>
@@ -40853,7 +40853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5584</ObjectId>
 	<Id>83483</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-39</Code>
 	<CodeLat>NPS-39</CodeLat>
 	<Name>НПС-39</Name>
@@ -40903,7 +40903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5586</ObjectId>
 	<Id>83485</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-40</Code>
 	<CodeLat>NPS-40</CodeLat>
 	<Name>НПС-40</Name>
@@ -40953,7 +40953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5588</ObjectId>
 	<Id>83487</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-41</Code>
 	<CodeLat>NPS-41</CodeLat>
 	<Name>НПС-41</Name>
@@ -41003,7 +41003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5590</ObjectId>
 	<Id>83489</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-42</Code>
 	<CodeLat>NPS-42</CodeLat>
 	<Name>НПС-42</Name>
@@ -41053,7 +41053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5600</ObjectId>
 	<Id>83499</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Облучье</Code>
 		<CodeLat />
 	<Name>Облучье</Name>
@@ -41103,7 +41103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5602</ObjectId>
 	<Id>83501</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Обор</Code>
 	<CodeLat>Obor</CodeLat>
 	<Name>Обор</Name>
@@ -41153,7 +41153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5606</ObjectId>
 	<Id>83505</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Огоджа</Code>
 	<CodeLat>Ogodzha</CodeLat>
 	<Name>Огоджа</Name>
@@ -41203,7 +41203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5608</ObjectId>
 	<Id>83507</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>нп.Огорон</Code>
 	<CodeLat>np.Ogoron</CodeLat>
 	<Name>нп.Огорон</Name>
@@ -41253,7 +41253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5650</ObjectId>
 	<Id>83541</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УЗА-69</Code>
 	<CodeLat>UZA-69</CodeLat>
 	<Name>УЗА-69</Name>
@@ -41303,7 +41303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5656</ObjectId>
 	<Id>83547</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Оль</Code>
 		<CodeLat />
 	<Name>Оль</Name>
@@ -41353,7 +41353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5658</ObjectId>
 	<Id>83549</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ольгинск</Code>
 		<CodeLat />
 	<Name>Ольгинск</Name>
@@ -41403,7 +41403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5660</ObjectId>
 	<Id>83551</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ольгохто</Code>
 		<CodeLat />
 	<Name>Ольгохто</Name>
@@ -41453,7 +41453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5664</ObjectId>
 	<Id>83555</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТП</Code>
 	<CodeLat>UHTP</CodeLat>
 	<Name>Пограничный отряд</Name>
@@ -41503,7 +41503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>403181</ObjectId>
 	<Id>83565</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>1</Code>
 	<CodeLat>1</CodeLat>
 	<Name>1</Name>
@@ -41553,7 +41553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>401260</ObjectId>
 	<Id>83591</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПАБОД</Code>
 	<CodeLat>PABOD</CodeLat>
 	<Name>Па - Б (МНДП)</Name>
@@ -41603,7 +41603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5710</ObjectId>
 	<Id>83595</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Падали</Code>
 	<CodeLat>Padali</CodeLat>
 	<Name>Падали</Name>
@@ -41653,7 +41653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5720</ObjectId>
 	<Id>83601</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПАНДА</Code>
 	<CodeLat>PANDA</CodeLat>
 	<Name>Ципанда</Name>
@@ -41703,7 +41703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5722</ObjectId>
 	<Id>83603</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Пантелеймоновка</Code>
 	<CodeLat>Pantelejmonovka</CodeLat>
 	<Name>Пантелеймоновка</Name>
@@ -41753,7 +41753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5740</ObjectId>
 	<Id>83615</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Переяславка</Code>
 	<CodeLat>Perejaslavka</CodeLat>
 	<Name>Переяславка</Name>
@@ -41803,7 +41803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5750</ObjectId>
 	<Id>83623</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Волочаевка-2</Code>
 	<CodeLat>Volochaevka-2</CodeLat>
 	<Name>Волочаевка-2</Name>
@@ -41853,7 +41853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5752</ObjectId>
 	<Id>83625</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Песчаный</Code>
 	<CodeLat>Peschanyj</CodeLat>
 	<Name>ВП Песчаный</Name>
@@ -41903,7 +41903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5762</ObjectId>
 	<Id>83627</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Пивань</Code>
 		<CodeLat />
 	<Name>Пивань</Name>
@@ -41953,7 +41953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>441503</ObjectId>
 	<Id>83641</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПЛ.МАТВЕЕВКА</Code>
 	<CodeLat>PL.MATVEEVKA</CodeLat>
 	<Name>ПЛ.МАТВЕЕВКА</Name>
@@ -42003,7 +42003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5806</ObjectId>
 	<Id>83653</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Преображеновка</Code>
 	<CodeLat>Preobrazhenovka</CodeLat>
 	<Name>Преображеновка</Name>
@@ -42053,7 +42053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5814</ObjectId>
 	<Id>83657</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Прогресс</Code>
 	<CodeLat>Progress</CodeLat>
 	<Name>Прогресс</Name>
@@ -42103,7 +42103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>400060</ObjectId>
 	<Id>83721</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Рычово</Code>
 	<CodeLat>Rychovo</CodeLat>
 	<Name>Рычово</Name>
@@ -42153,7 +42153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5896</ObjectId>
 	<Id>83733</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ромны</Code>
 	<CodeLat>Romny</CodeLat>
 	<Name>Ромны</Name>
@@ -42203,7 +42203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5916</ObjectId>
 	<Id>83751</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РУКОТ</Code>
 	<CodeLat>RUKOT</CodeLat>
 	<Name>Бокур</Name>
@@ -42253,7 +42253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5932</ObjectId>
 	<Id>83765</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сагды-Бира</Code>
 	<CodeLat>Sagdy-Bira</CodeLat>
 	<Name>Сагды-Бира</Name>
@@ -42303,7 +42303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5952</ObjectId>
 	<Id>83781</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сарапульское</Code>
 		<CodeLat />
 	<Name>Сарапульское</Name>
@@ -42353,7 +42353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5954</ObjectId>
 	<Id>83783</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Свечино</Code>
 	<CodeLat>Svechino</CodeLat>
 	<Name>Свечино</Name>
@@ -42403,7 +42403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5956</ObjectId>
 	<Id>83785</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Свободный</Code>
 	<CodeLat>Svobodnyj</CodeLat>
 	<Name>Свободный</Name>
@@ -42453,7 +42453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5966</ObjectId>
 	<Id>83793</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сектагли</Code>
 	<CodeLat>Sektagli</CodeLat>
 	<Name>Сектагли</Name>
@@ -42503,7 +42503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5972</ObjectId>
 	<Id>83799</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Селемджинск</Code>
 	<CodeLat>Selemdzhinsk</CodeLat>
 	<Name>Селемджинск</Name>
@@ -42553,7 +42553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5974</ObjectId>
 	<Id>83801</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Селихино</Code>
 	<CodeLat>Selihino</CodeLat>
 	<Name>Селихино</Name>
@@ -42603,7 +42603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5976</ObjectId>
 	<Id>83803</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сельгон</Code>
 		<CodeLat />
 	<Name>Сельгон</Name>
@@ -42653,7 +42653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5980</ObjectId>
 	<Id>83807</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сергеевка</Code>
 	<CodeLat>Sergeevka</CodeLat>
 	<Name>Сергеевка</Name>
@@ -42703,7 +42703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>5986</ObjectId>
 	<Id>83813</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>нп.Серышево</Code>
 	<CodeLat>np.Seryshevo</CodeLat>
 	<Name>нп.Серышево</Name>
@@ -42753,7 +42753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6010</ObjectId>
 	<Id>83829</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Синда</Code>
 	<CodeLat>Sinda</CodeLat>
 	<Name>Синда</Name>
@@ -42803,7 +42803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6014</ObjectId>
 	<Id>83835</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сита</Code>
 	<CodeLat>Sita</CodeLat>
 	<Name>Сита</Name>
@@ -42853,7 +42853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6024</ObjectId>
 	<Id>83843</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Смидовичи</Code>
 	<CodeLat>Smidovichi</CodeLat>
 	<Name>483559с1334855в</Name>
@@ -42903,7 +42903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6028</ObjectId>
 	<Id>83847</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Смирновка</Code>
 	<CodeLat>Smirnovka</CodeLat>
 	<Name>Смирновка</Name>
@@ -42953,7 +42953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6030</ObjectId>
 	<Id>83849</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>СНАРТ</Code>
 	<CodeLat>SNART</CodeLat>
 	<Name>Сафрон</Name>
@@ -43003,7 +43003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6040</ObjectId>
 	<Id>83859</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Согда</Code>
 	<CodeLat>Sogda</CodeLat>
 	<Name>Согда</Name>
@@ -43053,7 +43053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6044</ObjectId>
 	<Id>83863</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Солнечный</Code>
 	<CodeLat>Solnechnyj</CodeLat>
 	<Name>Солнечный</Name>
@@ -43103,7 +43103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6072</ObjectId>
 	<Id>83889</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБФ</Code>
 	<CodeLat>UHBF</CodeLat>
 	<Name>ПП Февральск</Name>
@@ -43153,7 +43153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6076</ObjectId>
 	<Id>83891</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Среднебелая</Code>
 	<CodeLat>Srednebelaja</CodeLat>
 	<Name>Среднебелая</Name>
@@ -43203,7 +43203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6078</ObjectId>
 	<Id>83893</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Среднехорский</Code>
 	<CodeLat>Srednehorskij</CodeLat>
 	<Name>Среднехорский</Name>
@@ -43253,7 +43253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6080</ObjectId>
 	<Id>83895</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>о.Геудельген</Code>
 		<CodeLat />
 	<Name>о.Геудельген</Name>
@@ -43303,7 +43303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6088</ObjectId>
 	<Id>83899</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Столбовое</Code>
 	<CodeLat>Stolbovoe</CodeLat>
 	<Name>Столбовое</Name>
@@ -43353,7 +43353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6092</ObjectId>
 	<Id>83903</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сулук</Code>
 	<CodeLat>Suluk</CodeLat>
 	<Name>Сулук</Name>
@@ -43403,7 +43403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6100</ObjectId>
 	<Id>83909</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сюркум</Code>
 	<CodeLat>Sjurkum</CodeLat>
 	<Name>Сюркум</Name>
@@ -43453,7 +43453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6108</ObjectId>
 	<Id>83917</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТАКИН</Code>
 	<CodeLat>TAKIN</CodeLat>
 	<Name>Талакан</Name>
@@ -43503,7 +43503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6114</ObjectId>
 	<Id>83919</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Таланджа</Code>
 	<CodeLat>Talandzha</CodeLat>
 	<Name>Таланджа</Name>
@@ -43553,7 +43553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6118</ObjectId>
 	<Id>83921</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тамбовка</Code>
 	<CodeLat>Tambovka</CodeLat>
 	<Name>Тамбовка</Name>
@@ -43603,7 +43603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6124</ObjectId>
 	<Id>83925</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТАНДА</Code>
 	<CodeLat>TANDA</CodeLat>
 	<Name>Этанджа</Name>
@@ -43653,7 +43653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6132</ObjectId>
 	<Id>83931</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Таскино</Code>
 	<CodeLat>Taskino</CodeLat>
 	<Name>Таскино</Name>
@@ -43703,7 +43703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6142</ObjectId>
 	<Id>83937</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Теплоозерск</Code>
 	<CodeLat>Teploozersk</CodeLat>
 	<Name>Теплоозерск</Name>
@@ -43753,7 +43753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6176</ObjectId>
 	<Id>83963</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Токур</Code>
 	<CodeLat>Tokur</CodeLat>
 	<Name>Токур</Name>
@@ -43803,7 +43803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6178</ObjectId>
 	<Id>83965</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Толстовка</Code>
 	<CodeLat>Tolstovka</CodeLat>
 	<Name>Толстовка</Name>
@@ -43853,7 +43853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6184</ObjectId>
 	<Id>83971</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Новобурейский</Code>
 	<CodeLat>Novoburejskij</CodeLat>
 	<Name>Новобурейский</Name>
@@ -43903,7 +43903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6196</ObjectId>
 	<Id>83977</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тр.Домикана</Code>
 	<CodeLat>Tr.Domikana</CodeLat>
 	<Name>Тр.Домикана</Name>
@@ -43953,7 +43953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6198</ObjectId>
 	<Id>83979</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тр.н.п.Врангель</Code>
 		<CodeLat />
 	<Name>Тр.н.п.Врангель</Name>
@@ -44003,7 +44003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6202</ObjectId>
 	<Id>83983</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Троицкое</Code>
 	<CodeLat>Troitskoe</CodeLat>
 	<Name>Троицкое</Name>
@@ -44053,7 +44053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6254</ObjectId>
 	<Id>84013</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УЕЕЬ</Code>
 	<CodeLat>UEEX</CodeLat>
 	<Name>Белькачи (Левые)</Name>
@@ -44103,7 +44103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6258</ObjectId>
 	<Id>84017</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УЛАЛИ</Code>
 	<CodeLat>ULALI</CodeLat>
 	<Name>Улахан</Name>
@@ -44153,7 +44153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>3964</ObjectId>
 	<Id>84019</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Улика Национальная</Code>
 		<CodeLat />
 	<Name>Улика Национальная</Name>
@@ -44203,7 +44203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6278</ObjectId>
 	<Id>84035</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ураловка</Code>
 	<CodeLat>Uralovka</CodeLat>
 	<Name>Ураловка</Name>
@@ -44253,7 +44253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6280</ObjectId>
 	<Id>84037</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ургал</Code>
 	<CodeLat>Urgal</CodeLat>
 	<Name>Ургал</Name>
@@ -44303,7 +44303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6294</ObjectId>
 	<Id>84049</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уссурийский</Code>
 	<CodeLat>Ussurijskij</CodeLat>
 	<Name>Уссурийский</Name>
@@ -44353,7 +44353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6306</ObjectId>
 	<Id>84061</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБЙ</Code>
 	<CodeLat>UHBJ</CodeLat>
 	<Name>ВП Софийск</Name>
@@ -44403,7 +44403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>7767</ObjectId>
 	<Id>84063</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБМ</Code>
 	<CodeLat>UHBM</CodeLat>
 	<Name>Майский</Name>
@@ -44453,7 +44453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6328</ObjectId>
 	<Id>84081</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХВЕ</Code>
 	<CodeLat>UHVE</CodeLat>
 	<Name>Единка</Name>
@@ -44503,7 +44503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6330</ObjectId>
 	<Id>84083</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХВК</Code>
 	<CodeLat>UHVK</CodeLat>
 	<Name>КАВАЛЕРОВО</Name>
@@ -44553,7 +44553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6334</ObjectId>
 	<Id>84087</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХВП</Code>
 	<CodeLat>UHVP</CodeLat>
 	<Name>ПЛАСТУН</Name>
@@ -44603,7 +44603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6338</ObjectId>
 	<Id>84091</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХВС</Code>
 	<CodeLat>UHVS</CodeLat>
 	<Name>Сергеевка</Name>
@@ -44653,7 +44653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6340</ObjectId>
 	<Id>84093</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХВТ</Code>
 	<CodeLat>UHVT</CodeLat>
 	<Name>Терней</Name>
@@ -44703,7 +44703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6344</ObjectId>
 	<Id>84097</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХВЬ</Code>
 	<CodeLat>UHVX</CodeLat>
 	<Name>Авиалифт (Владивосток)</Name>
@@ -44753,7 +44753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6358</ObjectId>
 	<Id>84109</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХНБ</Code>
 	<CodeLat>UHNB</CodeLat>
 	<Name>БОГОРОДСКОЕ</Name>
@@ -44803,7 +44803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6362</ObjectId>
 	<Id>84113</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МАРКУ</Code>
 	<CodeLat>MARKU</CodeLat>
 	<Name>Мар-Кюэль</Name>
@@ -44853,7 +44853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6366</ObjectId>
 	<Id>84117</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХНН</Code>
 	<CodeLat>UHNN</CodeLat>
 	<Name>НИКОЛАЕВСК-на-АМУРЕ</Name>
@@ -44903,7 +44903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6368</ObjectId>
 	<Id>84119</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХНО</Code>
 	<CodeLat>UHNO</CodeLat>
 	<Name>Циммермановка</Name>
@@ -44953,7 +44953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6370</ObjectId>
 	<Id>84121</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХНТ</Code>
 	<CodeLat>UHNT</CodeLat>
 	<Name>Тугур</Name>
@@ -45003,7 +45003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6374</ObjectId>
 	<Id>84125</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХНЦ</Code>
 	<CodeLat>UHNTs</CodeLat>
 	<Name>Белькачи (Правые)</Name>
@@ -45053,7 +45053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6380</ObjectId>
 	<Id>84131</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХОИ</Code>
 	<CodeLat>UHOI</CodeLat>
 	<Name>ТУКЧИ</Name>
@@ -45103,7 +45103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6382</ObjectId>
 	<Id>84133</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХОО</Code>
 	<CodeLat>UHOO</CodeLat>
 	<Name>ОХОТСК</Name>
@@ -45153,7 +45153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6384</ObjectId>
 	<Id>84135</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХОТ</Code>
 	<CodeLat>UHOT</CodeLat>
 	<Name>Тас-Юрях</Name>
@@ -45203,7 +45203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6386</ObjectId>
 	<Id>84137</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХОЯ</Code>
 	<CodeLat>UHOJa</CodeLat>
 	<Name>Иня</Name>
@@ -45253,7 +45253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6390</ObjectId>
 	<Id>84141</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСК</Code>
 	<CodeLat>UHSK</CodeLat>
 	<Name>ШАХТЕРСК</Name>
@@ -45303,7 +45303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6392</ObjectId>
 	<Id>84143</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСН</Code>
 	<CodeLat>UHSN</CodeLat>
 	<Name>НОГЛИКИ</Name>
@@ -45353,7 +45353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6396</ObjectId>
 	<Id>84145</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСП</Code>
 	<CodeLat>UHSP</CodeLat>
 	<Name>Поронайск</Name>
@@ -45403,7 +45403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6398</ObjectId>
 	<Id>84147</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСС</Code>
 	<CodeLat>UHSS</CodeLat>
 	<Name>ЮЖНО-САХАЛИНСК (Хомутово)</Name>
@@ -45453,7 +45453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6400</ObjectId>
 	<Id>84149</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСХ</Code>
 	<CodeLat>UHSH</CodeLat>
 	<Name>ОХА (Новостройка)</Name>
@@ -45503,7 +45503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6402</ObjectId>
 	<Id>84151</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТБ</Code>
 	<CodeLat>UHTB</CodeLat>
 	<Name>Бухта Новицкого</Name>
@@ -45553,7 +45553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6404</ObjectId>
 	<Id>84153</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТВ</Code>
 	<CodeLat>UHTV</CodeLat>
 	<Name>Восток-2</Name>
@@ -45603,7 +45603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6406</ObjectId>
 	<Id>84155</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТГ</Code>
 	<CodeLat>UHTG</CodeLat>
 	<Name>Амгу</Name>
@@ -45653,7 +45653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6408</ObjectId>
 	<Id>84157</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТЕ</Code>
 	<CodeLat>UHTE</CodeLat>
 	<Name>Многоудобное</Name>
@@ -45703,7 +45703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6410</ObjectId>
 	<Id>84159</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТЗ</Code>
 	<CodeLat>UHTZ</CodeLat>
 	<Name>Агзу</Name>
@@ -45753,7 +45753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6412</ObjectId>
 	<Id>84161</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТК</Code>
 	<CodeLat>UHTK</CodeLat>
 	<Name>Восточный порт</Name>
@@ -45803,7 +45803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6416</ObjectId>
 	<Id>84165</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТМ</Code>
 	<CodeLat>UHTM</CodeLat>
 	<Name>Максимовка</Name>
@@ -45853,7 +45853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6418</ObjectId>
 	<Id>84167</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТН</Code>
 	<CodeLat>UHTN</CodeLat>
 	<Name>Находка</Name>
@@ -45903,7 +45903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6422</ObjectId>
 	<Id>84171</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТС</Code>
 	<CodeLat>UHTS</CodeLat>
 	<Name>Самарга </Name>
@@ -45953,7 +45953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6424</ObjectId>
 	<Id>84173</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТУ</Code>
 	<CodeLat>UHTU</CodeLat>
 	<Name>Усть - Соболевка</Name>
@@ -46003,7 +46003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6426</ObjectId>
 	<Id>84175</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТЫ</Code>
 	<CodeLat>UHTY</CodeLat>
 	<Name>Унты</Name>
@@ -46053,7 +46053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6430</ObjectId>
 	<Id>84179</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТЯ</Code>
 	<CodeLat>UHTJa</CodeLat>
 	<Name>Светлая</Name>
@@ -46103,7 +46103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6434</ObjectId>
 	<Id>84183</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХБ</Code>
 	<CodeLat>UHHB</CodeLat>
 	<Name>ВП Желтый Яр</Name>
@@ -46153,7 +46153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6442</ObjectId>
 	<Id>84189</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХЕ</Code>
 	<CodeLat>UHHE</CodeLat>
 	<Name>Бриакан ВП</Name>
@@ -46203,7 +46203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6456</ObjectId>
 	<Id>84203</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХТ</Code>
 	<CodeLat>UHHT</CodeLat>
 	<Name>ХАБАРОВСК (МВЛ)</Name>
@@ -46253,7 +46253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6458</ObjectId>
 	<Id>84205</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХХ</Code>
 	<CodeLat>UHHH</CodeLat>
 	<Name>Хабаровск (Новый)</Name>
@@ -46303,7 +46303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6464</ObjectId>
 	<Id>84211</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ушаково</Code>
 	<CodeLat>Ushakovo</CodeLat>
 	<Name>Ушаково</Name>
@@ -46353,7 +46353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6472</ObjectId>
 	<Id>84213</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Форель</Code>
 		<CodeLat />
 	<Name>Форель</Name>
@@ -46403,7 +46403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6476</ObjectId>
 	<Id>84217</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХМ</Code>
 	<CodeLat>UHHM</CodeLat>
 	<Name>УХХМ</Name>
@@ -46453,7 +46453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6480</ObjectId>
 	<Id>84219</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Хабаровск</Code>
 	<CodeLat>Habarovsk</CodeLat>
 	<Name>МВЛ</Name>
@@ -46503,7 +46503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6482</ObjectId>
 	<Id>84221</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Хальгасо</Code>
 		<CodeLat />
 	<Name>Хальгасо</Name>
@@ -46553,7 +46553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6488</ObjectId>
 	<Id>84225</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БК</Code>
 	<CodeLat>BK</CodeLat>
 	<Name>Варфоломеевка ДПРМ</Name>
@@ -46603,7 +46603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6494</ObjectId>
 	<Id>84227</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЕВ</Code>
 	<CodeLat>EV</CodeLat>
 	<Name>Экимчан ОПРС</Name>
@@ -46653,7 +46653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6496</ObjectId>
 	<Id>84229</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЗЕ</Code>
 	<CodeLat>ZE</CodeLat>
 	<Name>Возжаевка ДПРМ</Name>
@@ -46703,7 +46703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6498</ObjectId>
 	<Id>84231</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Хинганск</Code>
 	<CodeLat>Hingansk</CodeLat>
 	<Name>Хинганск</Name>
@@ -46753,7 +46753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6500</ObjectId>
 	<Id>84233</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КВ</Code>
 	<CodeLat>KV</CodeLat>
 	<Name>Владивосток(Кневичи) ДПРМ</Name>
@@ -46803,7 +46803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6508</ObjectId>
 	<Id>84241</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Хмыловка</Code>
 	<CodeLat>Hmylovka</CodeLat>
 	<Name>Хмыловка</Name>
@@ -46853,7 +46853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6512</ObjectId>
 	<Id>84245</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ходы</Code>
 	<CodeLat>Hody</CodeLat>
 	<Name>Ходы</Name>
@@ -46903,7 +46903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6514</ObjectId>
 	<Id>84247</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>нп.Хор</Code>
 	<CodeLat>np.Hor</CodeLat>
 	<Name>Хор</Name>
@@ -46953,7 +46953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6520</ObjectId>
 	<Id>84251</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПЛ</Code>
 	<CodeLat>PL</CodeLat>
 	<Name>Пластун ДПРМ</Name>
@@ -47003,7 +47003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6522</ObjectId>
 	<Id>84253</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПС</Code>
 	<CodeLat>PS</CodeLat>
 	<Name>Красицкий ОПРС</Name>
@@ -47053,7 +47053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6524</ObjectId>
 	<Id>84255</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>РО</Code>
 	<CodeLat>RO</CodeLat>
 	<Name>Кавалерово ДПРМ</Name>
@@ -47103,7 +47103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6538</ObjectId>
 	<Id>84263</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ФД</Code>
 	<CodeLat>FD</CodeLat>
 	<Name>Владивосток(Кневичи) ДПРМ</Name>
@@ -47153,7 +47153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6544</ObjectId>
 	<Id>84269</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ХД</Code>
 	<CodeLat>HD</CodeLat>
 	<Name>Комсомольск-на-Амуре(Хурба) БПРМ</Name>
@@ -47203,7 +47203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6548</ObjectId>
 	<Id>84273</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ХС</Code>
 	<CodeLat>HS</CodeLat>
 	<Name>Южно-Сахалинск (Хомутово) БПРМ</Name>
@@ -47253,7 +47253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6550</ObjectId>
 	<Id>84275</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Чагоян</Code>
 	<CodeLat>Chagojan</CodeLat>
 	<Name>Чагоян</Name>
@@ -47303,7 +47303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6556</ObjectId>
 	<Id>84277</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Чекунда</Code>
 	<CodeLat>Chekunda</CodeLat>
 	<Name>Чекунда</Name>
@@ -47353,7 +47353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6566</ObjectId>
 	<Id>84279</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Широкий</Code>
 	<CodeLat>Shirokij</CodeLat>
 	<Name>Широкий</Name>
@@ -47403,7 +47403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6568</ObjectId>
 	<Id>84281</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХБВ</Code>
 	<CodeLat>XHBV</CodeLat>
 	<Name>Возжаевка</Name>
@@ -47453,7 +47453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618920</ObjectId>
 	<Id>84283</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБИ</Code>
 	<CodeLat>UHBI</CodeLat>
 	<Name>Магдагачи</Name>
@@ -47503,7 +47503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618921</ObjectId>
 	<Id>84285</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХБК</Code>
 	<CodeLat>XHBK</CodeLat>
 	<Name>Шимановск</Name>
@@ -47553,7 +47553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6570</ObjectId>
 	<Id>84287</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХБР</Code>
 	<CodeLat>XHBR</CodeLat>
 	<Name>Белогорск</Name>
@@ -47603,7 +47603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6572</ObjectId>
 	<Id>84289</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХБУ</Code>
 	<CodeLat>XHBU</CodeLat>
 	<Name>Украинка</Name>
@@ -47653,7 +47653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>3970</ObjectId>
 	<Id>84291</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХБХ</Code>
 	<CodeLat>XHBH</CodeLat>
 	<Name>Каховка</Name>
@@ -47703,7 +47703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6574</ObjectId>
 	<Id>84293</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХБЦ</Code>
 	<CodeLat>XHBTs</CodeLat>
 	<Name>Завитинск</Name>
@@ -47753,7 +47753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618869</ObjectId>
 	<Id>84295</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХВА</Code>
 	<CodeLat>XHVA</CodeLat>
 	<Name>Арсеньев</Name>
@@ -47803,7 +47803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618870</ObjectId>
 	<Id>84297</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХВВ</Code>
 	<CodeLat>XHVV</CodeLat>
 	<Name>Владивосток(Кневичи)</Name>
@@ -47853,7 +47853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6576</ObjectId>
 	<Id>84299</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХВД</Code>
 	<CodeLat>XHVD</CodeLat>
 	<Name>Спасск-Дальний</Name>
@@ -47903,7 +47903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6578</ObjectId>
 	<Id>84301</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХВЕ</Code>
 	<CodeLat>XHVE</CodeLat>
 	<Name>НИКОЛАЕВКА (Приморск.)</Name>
@@ -47953,7 +47953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6580</ObjectId>
 	<Id>84303</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХВЖ</Code>
 	<CodeLat>XHVZh</CodeLat>
 	<Name>Воздвиженка</Name>
@@ -48003,7 +48003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6582</ObjectId>
 	<Id>84305</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХВК</Code>
 	<CodeLat>XHVK</CodeLat>
 	<Name>Новоникольск</Name>
@@ -48053,7 +48053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6584</ObjectId>
 	<Id>84307</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХВН</Code>
 	<CodeLat>XHVN</CodeLat>
 	<Name>Новонежино</Name>
@@ -48103,7 +48103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618872</ObjectId>
 	<Id>84309</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХВС</Code>
 	<CodeLat>XHVS</CodeLat>
 	<Name>Сергеевка</Name>
@@ -48153,7 +48153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618873</ObjectId>
 	<Id>84311</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХВУ</Code>
 	<CodeLat>XHVU</CodeLat>
 	<Name>Уссурийск (Барановский)</Name>
@@ -48203,7 +48203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6586</ObjectId>
 	<Id>84313</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХВХ</Code>
 	<CodeLat>XHVH</CodeLat>
 	<Name>Новороссия</Name>
@@ -48253,7 +48253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6588</ObjectId>
 	<Id>84315</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХИВ</Code>
 	<CodeLat>XHIV</CodeLat>
 	<Name>Воскресенка</Name>
@@ -48303,7 +48303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6590</ObjectId>
 	<Id>84317</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХИД</Code>
 	<CodeLat>XHID</CodeLat>
 	<Name>Дальнереченск (Голубовка)</Name>
@@ -48353,7 +48353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6592</ObjectId>
 	<Id>84319</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХИИ</Code>
 	<CodeLat>XHII</CodeLat>
 	<Name>Черниговка</Name>
@@ -48403,7 +48403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6594</ObjectId>
 	<Id>84321</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХИК</Code>
 	<CodeLat>XHIK</CodeLat>
 	<Name>Кокшаровка</Name>
@@ -48453,7 +48453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6596</ObjectId>
 	<Id>84323</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХИЛ</Code>
 	<CodeLat>XHIL</CodeLat>
 	<Name>Хороль</Name>
@@ -48503,7 +48503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6598</ObjectId>
 	<Id>84325</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХИН</Code>
 	<CodeLat>XHIN</CodeLat>
 	<Name>Вознесенка</Name>
@@ -48553,7 +48553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6600</ObjectId>
 	<Id>84327</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХИР</Code>
 	<CodeLat>XHIR</CodeLat>
 	<Name>Камень-Рыболов</Name>
@@ -48603,7 +48603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6606</ObjectId>
 	<Id>84333</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХИФ</Code>
 	<CodeLat>XHIF</CodeLat>
 	<Name>Варфоломеевка</Name>
@@ -48653,7 +48653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6608</ObjectId>
 	<Id>84335</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХИХ</Code>
 	<CodeLat>XHIH</CodeLat>
 	<Name>Хвалынка</Name>
@@ -48703,7 +48703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618822</ObjectId>
 	<Id>84337</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ВерхняяЭконь</Code>
 		<CodeLat />
 	<Name>ВерхняяЭконь</Name>
@@ -48753,7 +48753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6610</ObjectId>
 	<Id>84339</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХКП</Code>
 	<CodeLat>XHKP</CodeLat>
 	<Name>Советская Гавань(Постовая)</Name>
@@ -48803,7 +48803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6612</ObjectId>
 	<Id>84341</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХСА</Code>
 	<CodeLat>XHSA</CodeLat>
 	<Name>Южно-Сахалинск (Новоалександровск)</Name>
@@ -48853,7 +48853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618839</ObjectId>
 	<Id>84343</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХСБ</Code>
 	<CodeLat>XHSB</CodeLat>
 	<Name>Буревестник</Name>
@@ -48903,7 +48903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6614</ObjectId>
 	<Id>84345</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХСК</Code>
 	<CodeLat>XHSK</CodeLat>
 	<Name>Корсаков</Name>
@@ -48953,7 +48953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6616</ObjectId>
 	<Id>84347</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХСЛ</Code>
 	<CodeLat>XHSL</CodeLat>
 	<Name>Леонидово</Name>
@@ -49003,7 +49003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618840</ObjectId>
 	<Id>84349</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХСМ</Code>
 	<CodeLat>XHSM</CodeLat>
 	<Name>Южно-Курильск(Менделеево)</Name>
@@ -49053,7 +49053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6618</ObjectId>
 	<Id>84351</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХСО</Code>
 	<CodeLat>XHSO</CodeLat>
 	<Name>Сокол</Name>
@@ -49103,7 +49103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6620</ObjectId>
 	<Id>84353</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХСР</Code>
 	<CodeLat>XHSR</CodeLat>
 	<Name>Старорусское</Name>
@@ -49153,7 +49153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618841</ObjectId>
 	<Id>84355</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХСС</Code>
 	<CodeLat>XHSS</CodeLat>
 	<Name>Южно-Сахалинск (Хомутово)</Name>
@@ -49203,7 +49203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6622</ObjectId>
 	<Id>84357</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХСТ</Code>
 	<CodeLat>XHST</CodeLat>
 	<Name>Матросово</Name>
@@ -49253,7 +49253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6624</ObjectId>
 	<Id>84359</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХСХ</Code>
 	<CodeLat>XHSH</CodeLat>
 	<Name>Смирных</Name>
@@ -49303,7 +49303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6626</ObjectId>
 	<Id>84361</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХХА</Code>
 	<CodeLat>XHHA</CodeLat>
 	<Name>Хабаровск (Центральный)</Name>
@@ -49353,7 +49353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6628</ObjectId>
 	<Id>84363</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХХГ</Code>
 	<CodeLat>XHHG</CodeLat>
 	<Name>Гаровка-2</Name>
@@ -49403,7 +49403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6630</ObjectId>
 	<Id>84365</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХХД</Code>
 	<CodeLat>XHHD</CodeLat>
 	<Name>Динамо</Name>
@@ -49453,7 +49453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6632</ObjectId>
 	<Id>84367</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХХО</Code>
 	<CodeLat>XHHO</CodeLat>
 	<Name>ВП Обор</Name>
@@ -49503,7 +49503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6634</ObjectId>
 	<Id>84369</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХХС</Code>
 	<CodeLat>XHHS</CodeLat>
 	<Name>Десятый участок</Name>
@@ -49553,7 +49553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>618824</ObjectId>
 	<Id>84371</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХХХ</Code>
 	<CodeLat>XHHH</CodeLat>
 	<Name>Хабаровск(Новый)</Name>
@@ -49603,7 +49603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6636</ObjectId>
 	<Id>84373</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>нп.Эворон</Code>
 	<CodeLat>np.Evoron</CodeLat>
 	<Name>нп.Эворон</Name>
@@ -49653,7 +49653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6638</ObjectId>
 	<Id>84375</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБП</Code>
 	<CodeLat>UHBP</CodeLat>
 	<Name>ЭКИМЧАН</Name>
@@ -49703,7 +49703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6640</ObjectId>
 	<Id>84377</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Эльбан</Code>
 		<CodeLat />
 	<Name>Эльбан</Name>
@@ -49753,7 +49753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6642</ObjectId>
 	<Id>84379</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Эльга</Code>
 		<CodeLat />
 	<Name>Эльга</Name>
@@ -49803,7 +49803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6644</ObjectId>
 	<Id>84381</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ягдынья</Code>
 		<CodeLat />
 	<Name>Ягдынья</Name>
@@ -49853,7 +49853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>6646</ObjectId>
 	<Id>84383</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ясный</Code>
 	<CodeLat>Jasnyj</CodeLat>
 	<Name>Ясный</Name>
@@ -49903,7 +49903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>120256014</ObjectId>
 	<Id>84393</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УЗА-80</Code>
 	<CodeLat>UZA-80</CodeLat>
 	<Name>УЗА-80</Name>
@@ -49953,7 +49953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>153312427</ObjectId>
 	<Id>84395</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХП</Code>
 	<CodeLat>UHHP</CodeLat>
 	<Name>им.П.Осипенко</Name>
@@ -50003,7 +50003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>153404845</ObjectId>
 	<Id>84397</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХО</Code>
 	<CodeLat>UHHO</CodeLat>
 	<Name>ПП Троицкое</Name>
@@ -50053,7 +50053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>153851314</ObjectId>
 	<Id>84399</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХКК</Code>
 	<CodeLat>UHKK</CodeLat>
 	<Name>КОМСОМОЛЬСК-на-АМУРЕ(Хурба)</Name>
@@ -50103,7 +50103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>154608179</ObjectId>
 	<Id>84401</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХКМ</Code>
 	<CodeLat>UHKM</CodeLat>
 	<Name>Май-Гатка (СоветскаяГавань)</Name>
@@ -50153,7 +50153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>154644958</ObjectId>
 	<Id>84403</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХВ</Code>
 	<CodeLat>UHHV</CodeLat>
 	<Name>ПП Кукан</Name>
@@ -50203,7 +50203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>155901069</ObjectId>
 	<Id>84405</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБА</Code>
 	<CodeLat>UHBA</CodeLat>
 	<Name>ПП Архара</Name>
@@ -50253,7 +50253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>155903496</ObjectId>
 	<Id>84407</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХЫ</Code>
 	<CodeLat>UHHY</CodeLat>
 	<Name>ЧУМИКАН</Name>
@@ -50303,7 +50303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>155905598</ObjectId>
 	<Id>84409</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХНХ</Code>
 	<CodeLat>UHNH</CodeLat>
 	<Name>Херпучи</Name>
@@ -50353,7 +50353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>163251268</ObjectId>
 	<Id>84411</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБР</Code>
 	<CodeLat>UHBR</CodeLat>
 	<Name>ПП Райчихинск</Name>
@@ -50403,7 +50403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>163251369</ObjectId>
 	<Id>84413</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Выход с АП Святогорья</Code>
 		<CodeLat />
 	<Name>Выход с АП Святогорья</Name>
@@ -50453,7 +50453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>165412158</ObjectId>
 	<Id>84415</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Мет.ст.Солекуль</Code>
 		<CodeLat />
 	<Name>Мет.ст.Солекуль</Name>
@@ -50503,7 +50503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>202092648</ObjectId>
 	<Id>84417</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХББ</Code>
 	<CodeLat>UHBB</CodeLat>
 	<Name>БЛАГОВЕЩЕНСК(ИГНАТЬЕВО)</Name>
@@ -50553,7 +50553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>0</ObjectId>
 	<Id>84419</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>гт.Хехцир</Code>
 	<CodeLat>gt.Hehtsir</CodeLat>
 	<Name>гт.Хехцир</Name>
@@ -50603,7 +50603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>214438907</ObjectId>
 	<Id>84423</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХКД</Code>
 	<CodeLat>UHKD</CodeLat>
 	<Name>Дземги</Name>
@@ -50653,7 +50653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>214567233</ObjectId>
 	<Id>84425</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХКН</Code>
 	<CodeLat>UHKN</CodeLat>
 	<Name>Нижнетамбовское</Name>
@@ -50703,7 +50703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>230598933</ObjectId>
 	<Id>84427</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОЛОН</Code>
 	<CodeLat>OLON</CodeLat>
 	<Name>ОЛОН ПП</Name>
@@ -50753,7 +50753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>230601129</ObjectId>
 	<Id>84429</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХТЛ</Code>
 	<CodeLat>UHTL</CodeLat>
 	<Name>ЛАУХА ПП</Name>
@@ -50803,7 +50803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>234967479</ObjectId>
 	<Id>84431</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБС</Code>
 	<CodeLat>UHBS</CodeLat>
 	<Name>Свободный</Name>
@@ -50853,7 +50853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>235013439</ObjectId>
 	<Id>84433</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБН</Code>
 	<CodeLat>UHBN</CodeLat>
 	<Name>Новокиевский Увал</Name>
@@ -50903,7 +50903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>235099483</ObjectId>
 	<Id>84435</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Гутра</Code>
 	<CodeLat>Gutra</CodeLat>
 	<Name>Гутра</Name>
@@ -50953,7 +50953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>243728566</ObjectId>
 	<Id>84437</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>мыс Успения</Code>
 	<CodeLat>mys Uspenija</CodeLat>
 	<Name>мыс Успения</Name>
@@ -51003,7 +51003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269290985</ObjectId>
 	<Id>84439</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3525км</Code>
 	<CodeLat>3525km</CodeLat>
 	<Name>тр.Облучья</Name>
@@ -51053,7 +51053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269290987</ObjectId>
 	<Id>84441</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3590км</Code>
 	<CodeLat>3590km</CodeLat>
 	<Name>тр.Теплоозерск</Name>
@@ -51103,7 +51103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269290990</ObjectId>
 	<Id>84443</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>3708км</Code>
 	<CodeLat>3708km</CodeLat>
 	<Name>тр.Биробиджан</Name>
@@ -51153,7 +51153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291012</ObjectId>
 	<Id>84445</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4525км</Code>
 	<CodeLat>4525km</CodeLat>
 	<Name>4525км</Name>
@@ -51203,7 +51203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291024</ObjectId>
 	<Id>84447</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>4743км</Code>
 	<CodeLat>4743km</CodeLat>
 	<Name>Голубовка</Name>
@@ -51253,7 +51253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291032</ObjectId>
 	<Id>84449</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>55 ПОГО</Code>
 	<CodeLat>55 POGO</CodeLat>
 	<Name>55 ПОГО</Name>
@@ -51303,7 +51303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291072</ObjectId>
 	<Id>84461</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Алексеевка</Code>
 	<CodeLat>Alekseevka</CodeLat>
 	<Name>Алексеевка</Name>
@@ -51353,7 +51353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291075</ObjectId>
 	<Id>84463</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Алонка</Code>
 	<CodeLat>Alonka</CodeLat>
 	<Name>Алонка</Name>
@@ -51403,7 +51403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291078</ObjectId>
 	<Id>84465</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Амазар</Code>
 	<CodeLat>Amazar</CodeLat>
 	<Name>Амазар</Name>
@@ -51453,7 +51453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291087</ObjectId>
 	<Id>84469</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Амурзет</Code>
 	<CodeLat>Amurzet</CodeLat>
 	<Name>Амурзет</Name>
@@ -51503,7 +51503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291088</ObjectId>
 	<Id>84471</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Амурск</Code>
 	<CodeLat>Amursk</CodeLat>
 	<Name>Амурск</Name>
@@ -51553,7 +51553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291089</ObjectId>
 	<Id>84473</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Амурская</Code>
 	<CodeLat>Amurskaja</CodeLat>
 	<Name>Амурская</Name>
@@ -51603,7 +51603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291095</ObjectId>
 	<Id>84475</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Аносово</Code>
 	<CodeLat>Anosovo</CodeLat>
 	<Name>Аносово</Name>
@@ -51653,7 +51653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291105</ObjectId>
 	<Id>84477</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Аргунское</Code>
 	<CodeLat>Argunskoe</CodeLat>
 	<Name>Аргунское455730с1343550в</Name>
@@ -51703,7 +51703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291124</ObjectId>
 	<Id>84481</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Аэропарк</Code>
 	<CodeLat>Aeropark</CodeLat>
 	<Name>Аэропарк483253с1344956в</Name>
@@ -51753,7 +51753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291127</ObjectId>
 	<Id>84485</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Бабстово</Code>
 	<CodeLat>Babstovo</CodeLat>
 	<Name>Бабстово</Name>
@@ -51803,7 +51803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291163</ObjectId>
 	<Id>84493</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Бекетово</Code>
 	<CodeLat>Beketovo</CodeLat>
 	<Name>Бекетово</Name>
@@ -51853,7 +51853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291176</ObjectId>
 	<Id>84499</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Березовка</Code>
 	<CodeLat>Berezovka</CodeLat>
 	<Name>Березовка</Name>
@@ -51903,7 +51903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291201</ObjectId>
 	<Id>84505</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Биробиджан</Code>
 	<CodeLat>Birobidzhan</CodeLat>
 	<Name>Биробиджан</Name>
@@ -51953,7 +51953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291206</ObjectId>
 	<Id>84507</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Бичевая</Code>
 	<CodeLat>Bichevaja</CodeLat>
 	<Name>Бичевая</Name>
@@ -52003,7 +52003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291207</ObjectId>
 	<Id>84509</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Бичи</Code>
 	<CodeLat>Bichi</CodeLat>
 	<Name>Бичи</Name>
@@ -52053,7 +52053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291212</ObjectId>
 	<Id>84511</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Благославенное</Code>
 	<CodeLat>Blagoslavennoe</CodeLat>
 	<Name>Благославенное</Name>
@@ -52103,7 +52103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291230</ObjectId>
 	<Id>84513</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС ГНПС-1КМ</Code>
 	<CodeLat>BS GNPS-1KM</CodeLat>
 	<Name>БС ГНПС-1КМ</Name>
@@ -52153,7 +52153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291231</ObjectId>
 	<Id>84515</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 120,1</Code>
 	<CodeLat>BS KM 120,1</CodeLat>
 	<Name>БС КМ 120,1</Name>
@@ -52203,7 +52203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291232</ObjectId>
 	<Id>84517</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 136,2</Code>
 	<CodeLat>BS KM 136,2</CodeLat>
 	<Name>БС КМ 136,2</Name>
@@ -52253,7 +52253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291233</ObjectId>
 	<Id>84519</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 148,15</Code>
 	<CodeLat>BS KM 148,15</CodeLat>
 	<Name>БС КМ 148,15</Name>
@@ -52303,7 +52303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291234</ObjectId>
 	<Id>84521</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 161,26</Code>
 	<CodeLat>BS KM 161,26</CodeLat>
 	<Name>БС КМ 161,26</Name>
@@ -52353,7 +52353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291235</ObjectId>
 	<Id>84523</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 176,33</Code>
 	<CodeLat>BS KM 176,33</CodeLat>
 	<Name>БС КМ 176,33</Name>
@@ -52403,7 +52403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291236</ObjectId>
 	<Id>84525</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 191,03</Code>
 	<CodeLat>BS KM 191,03</CodeLat>
 	<Name>БС КМ 191,03</Name>
@@ -52453,7 +52453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291237</ObjectId>
 	<Id>84527</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 204,4</Code>
 	<CodeLat>BS KM 204,4</CodeLat>
 	<Name>БС КМ 204,4</Name>
@@ -52503,7 +52503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291238</ObjectId>
 	<Id>84529</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 216,24</Code>
 	<CodeLat>BS KM 216,24</CodeLat>
 	<Name>БС КМ 216,24</Name>
@@ -52553,7 +52553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291239</ObjectId>
 	<Id>84531</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 226</Code>
 	<CodeLat>BS KM 226</CodeLat>
 	<Name>БС КМ 226</Name>
@@ -52603,7 +52603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291240</ObjectId>
 	<Id>84533</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 238,95</Code>
 	<CodeLat>BS KM 238,95</CodeLat>
 	<Name>БС КМ 238,95</Name>
@@ -52653,7 +52653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291241</ObjectId>
 	<Id>84535</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 24,6</Code>
 	<CodeLat>BS KM 24,6</CodeLat>
 	<Name>БС КМ 24,6</Name>
@@ -52703,7 +52703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291242</ObjectId>
 	<Id>84537</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 246,45</Code>
 	<CodeLat>BS KM 246,45</CodeLat>
 	<Name>БС КМ 246,45</Name>
@@ -52753,7 +52753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291243</ObjectId>
 	<Id>84539</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 263,5</Code>
 	<CodeLat>BS KM 263,5</CodeLat>
 	<Name>БС КМ 263,5</Name>
@@ -52803,7 +52803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291244</ObjectId>
 	<Id>84541</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 282,18</Code>
 	<CodeLat>BS KM 282,18</CodeLat>
 	<Name>БС КМ 282,18</Name>
@@ -52853,7 +52853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291245</ObjectId>
 	<Id>84543</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 30,2</Code>
 	<CodeLat>BS KM 30,2</CodeLat>
 	<Name>БС КМ 30,2</Name>
@@ -52903,7 +52903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291246</ObjectId>
 	<Id>84545</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 35,18</Code>
 	<CodeLat>BS KM 35,18</CodeLat>
 	<Name>БС КМ 35,18</Name>
@@ -52953,7 +52953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291247</ObjectId>
 	<Id>84547</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 45,43</Code>
 	<CodeLat>BS KM 45,43</CodeLat>
 	<Name>БС КМ 45,43</Name>
@@ -53003,7 +53003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291248</ObjectId>
 	<Id>84549</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 54,2</Code>
 	<CodeLat>BS KM 54,2</CodeLat>
 	<Name>БС КМ 54,2</Name>
@@ -53053,7 +53053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291249</ObjectId>
 	<Id>84551</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 85,8</Code>
 	<CodeLat>BS KM 85,8</CodeLat>
 	<Name>БС КМ 85,8</Name>
@@ -53103,7 +53103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291250</ObjectId>
 	<Id>84553</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ 99,95</Code>
 	<CodeLat>BS KM 99,95</CodeLat>
 	<Name>БС КМ 99,95</Name>
@@ -53153,7 +53153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291251</ObjectId>
 	<Id>84555</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС КМ142,93</Code>
 	<CodeLat>BS KM142,93</CodeLat>
 	<Name>БС КМ142,93</Name>
@@ -53203,7 +53203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291252</ObjectId>
 	<Id>84557</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС НПС-2 КМ 76,1</Code>
 	<CodeLat>BS NPS-2 KM 76,1</CodeLat>
 	<Name>БС НПС-2 КМ 76,1</Name>
@@ -53253,7 +53253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291253</ObjectId>
 	<Id>84559</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС НПС-3 КМ 185,5</Code>
 	<CodeLat>BS NPS-3 KM 185,5</CodeLat>
 	<Name>БС НПС-3 КМ 185,5</Name>
@@ -53303,7 +53303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291254</ObjectId>
 	<Id>84561</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>БС СОД ПРИ ПСП</Code>
 	<CodeLat>BS SOD PRI PSP</CodeLat>
 	<Name>БС СОД ПРИ ПСП</Name>
@@ -53353,7 +53353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291270</ObjectId>
 	<Id>84563</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Васильевка</Code>
 		<CodeLat />
 	<Name>Васильевка465050с1340840в</Name>
@@ -53403,7 +53403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291275</ObjectId>
 	<Id>84565</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Венцелево</Code>
 	<CodeLat>Ventselevo</CodeLat>
 	<Name>Венцелево</Name>
@@ -53453,7 +53453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291276</ObjectId>
 	<Id>84567</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Венюково</Code>
 	<CodeLat>Venjukovo</CodeLat>
 	<Name>Венюково472850с1343655в</Name>
@@ -53503,7 +53503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291281</ObjectId>
 	<Id>84569</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Верх.р.УДЖАКИ</Code>
 	<CodeLat>Verh.r.UDZhAKI</CodeLat>
 	<Name>Верх.р.УДЖАКИ</Name>
@@ -53553,7 +53553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291285</ObjectId>
 	<Id>84571</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Верхнеспасское</Code>
 	<CodeLat>Verhnespasskoe</CodeLat>
 	<Name>Верхнеспасское482430с1342410в</Name>
@@ -53603,7 +53603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291287</ObjectId>
 	<Id>84573</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Верховье Урми</Code>
 		<CodeLat />
 	<Name>Верховье Урми</Name>
@@ -53653,7 +53653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291291</ObjectId>
 	<Id>84575</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Видное</Code>
 	<CodeLat>Vidnoe</CodeLat>
 	<Name>Видное471445С1341100В</Name>
@@ -53703,7 +53703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291297</ObjectId>
 	<Id>84577</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Воспорухан</Code>
 	<CodeLat>Vosporuhan</CodeLat>
 	<Name>Воспорухан</Name>
@@ -53753,7 +53753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291298</ObjectId>
 	<Id>84579</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Восток-2й</Code>
 	<CodeLat>Vostok-2j</CodeLat>
 	<Name>Восток-2й</Name>
@@ -53803,7 +53803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291299</ObjectId>
 	<Id>84581</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Восточная Нива</Code>
 	<CodeLat>Vostochnaja Niva</CodeLat>
 	<Name>Восточная Нива</Name>
@@ -53853,7 +53853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291373</ObjectId>
 	<Id>84583</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ВР Заветы Ильича</Code>
 		<CodeLat />
 	<Name>ВР Заветы Ильича</Name>
@@ -53903,7 +53903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291375</ObjectId>
 	<Id>84585</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Высокогорный</Code>
 	<CodeLat>Vysokogornyj</CodeLat>
 	<Name>Высокогорный</Name>
@@ -53953,7 +53953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291380</ObjectId>
 	<Id>84587</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Г.Ко</Code>
 	<CodeLat>G.Ko</CodeLat>
 	<Name>Г.Ко</Name>
@@ -54003,7 +54003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291398</ObjectId>
 	<Id>84589</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>гидро.а/дРаздольное</Code>
 		<CodeLat />
 	<Name>гидро.а/дРаздольное</Name>
@@ -54053,7 +54053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291420</ObjectId>
 	<Id>84595</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Головино</Code>
 	<CodeLat>Golovino</CodeLat>
 	<Name>Головино</Name>
@@ -54103,7 +54103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291429</ObjectId>
 	<Id>84599</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Гродеково</Code>
 	<CodeLat>Grodekovo</CodeLat>
 	<Name>Гродеково</Name>
@@ -54153,7 +54153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291436</ObjectId>
 	<Id>84601</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Гуга</Code>
 	<CodeLat>Guga</CodeLat>
 	<Name>Гуга</Name>
@@ -54203,7 +54203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291440</ObjectId>
 	<Id>84603</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Гуран</Code>
 	<CodeLat>Guran</CodeLat>
 	<Name>Гуран</Name>
@@ -54253,7 +54253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291444</ObjectId>
 	<Id>84605</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Дабанда оз.</Code>
 	<CodeLat>Dabanda oz.</CodeLat>
 	<Name>Дабанда оз.</Name>
@@ -54303,7 +54303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291451</ObjectId>
 	<Id>84607</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Даппы</Code>
 	<CodeLat>Dappy</CodeLat>
 	<Name>Даппы</Name>
@@ -54353,7 +54353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291456</ObjectId>
 	<Id>84609</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Дежнево</Code>
 	<CodeLat>Dezhnevo</CodeLat>
 	<Name>Дежнево</Name>
@@ -54403,7 +54403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291463</ObjectId>
 	<Id>84611</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Детская краевая больница</Code>
 		<CodeLat />
 	<Name>Детская краевая больница</Name>
@@ -54453,7 +54453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291465</ObjectId>
 	<Id>84613</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Джомку</Code>
 	<CodeLat>Dzhomku</CodeLat>
 	<Name>Джомку</Name>
@@ -54503,7 +54503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291483</ObjectId>
 	<Id>84619</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Дичун</Code>
 	<CodeLat>Dichun</CodeLat>
 	<Name>Дичун</Name>
@@ -54553,7 +54553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291485</ObjectId>
 	<Id>84621</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Доброе</Code>
 	<CodeLat>Dobroe</CodeLat>
 	<Name>Доброе</Name>
@@ -54603,7 +54603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291504</ObjectId>
 	<Id>84625</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Екатерино-Никольское</Code>
 		<CodeLat />
 	<Name>Екатерино-Никольское</Name>
@@ -54653,7 +54653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291520</ObjectId>
 	<Id>84627</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Забеловская</Code>
 	<CodeLat>Zabelovskaja</CodeLat>
 	<Name>Забеловская482315с1341115в</Name>
@@ -54703,7 +54703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291521</ObjectId>
 	<Id>84629</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Заветы Ильича</Code>
 		<CodeLat />
 	<Name>Заветы Ильича</Name>
@@ -54753,7 +54753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291525</ObjectId>
 	<Id>84631</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Зейский ЛПК</Code>
 	<CodeLat>Zejskij LPK</CodeLat>
 	<Name>Зейский ЛПК</Name>
@@ -54803,7 +54803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291527</ObjectId>
 	<Id>84633</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Знаменка</Code>
 	<CodeLat>Znamenka</CodeLat>
 	<Name>Знаменка</Name>
@@ -54853,7 +54853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291528</ObjectId>
 	<Id>84635</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Золотинка</Code>
 	<CodeLat>Zolotinka</CodeLat>
 	<Name>Золотинка</Name>
@@ -54903,7 +54903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291535</ObjectId>
 	<Id>84637</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Игнашино</Code>
 	<CodeLat>Ignashino</CodeLat>
 	<Name>Игнашино</Name>
@@ -54953,7 +54953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291539</ObjectId>
 	<Id>84639</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Известковый</Code>
 	<CodeLat>Izvestkovyj</CodeLat>
 	<Name>Известковый</Name>
@@ -55003,7 +55003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291552</ObjectId>
 	<Id>84641</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Инокентьевка</Code>
 		<CodeLat />
 	<Name>Инокентьевка</Name>
@@ -55053,7 +55053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291553</ObjectId>
 	<Id>84643</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Инокентьевский</Code>
 		<CodeLat />
 	<Name>Инокентьевский</Name>
@@ -55103,7 +55103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291563</ObjectId>
 	<Id>84647</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Казакевичево</Code>
 	<CodeLat>Kazakevichevo</CodeLat>
 	<Name>Казакевичево481550с1344430в</Name>
@@ -55153,7 +55153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291567</ObjectId>
 	<Id>84649</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Калинино</Code>
 	<CodeLat>Kalinino</CodeLat>
 	<Name>Калинино</Name>
@@ -55203,7 +55203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291573</ObjectId>
 	<Id>84651</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кани-курган</Code>
 	<CodeLat>Kani-kurgan</CodeLat>
 	<Name>Кани-курган</Name>
@@ -55253,7 +55253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291577</ObjectId>
 	<Id>84653</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Карьер Албазино</Code>
 		<CodeLat />
 	<Name>Карьер Албазино</Name>
@@ -55303,7 +55303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291578</ObjectId>
 	<Id>84655</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Касаткино</Code>
 	<CodeLat>Kasatkino</CodeLat>
 	<Name>Касаткино</Name>
@@ -55353,7 +55353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291583</ObjectId>
 	<Id>84657</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Катар Оз.</Code>
 	<CodeLat>Katar Oz.</CodeLat>
 	<Name>Катар Оз.</Name>
@@ -55403,7 +55403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291587</ObjectId>
 	<Id>84659</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Катэн</Code>
 	<CodeLat>Katen</CodeLat>
 	<Name>Катэн</Name>
@@ -55453,7 +55453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291591</ObjectId>
 	<Id>84661</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кедрово</Code>
 	<CodeLat>Kedrovo</CodeLat>
 	<Name>Кедрово</Name>
@@ -55503,7 +55503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291595</ObjectId>
 	<Id>84663</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кенада</Code>
 	<CodeLat>Kenada</CodeLat>
 	<Name>Кенада</Name>
@@ -55553,7 +55553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291609</ObjectId>
 	<Id>84665</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кимкан</Code>
 	<CodeLat>Kimkan</CodeLat>
 	<Name>Кимкан</Name>
@@ -55603,7 +55603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291617</ObjectId>
 	<Id>84667</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>КМ3906</Code>
 	<CodeLat>KM3906</CodeLat>
 	<Name>ДЕРЕВНЯ2</Name>
@@ -55653,7 +55653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291618</ObjectId>
 	<Id>84669</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>кмС-3591</Code>
 	<CodeLat>kmS-3591</CodeLat>
 	<Name>КМ-3591</Name>
@@ -55703,7 +55703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291621</ObjectId>
 	<Id>84671</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Коболдо</Code>
 	<CodeLat>Koboldo</CodeLat>
 	<Name>Коболдо</Name>
@@ -55753,7 +55753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291622</ObjectId>
 	<Id>84673</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Коврижка</Code>
 	<CodeLat>Kovrizhka</CodeLat>
 	<Name>Коврижка</Name>
@@ -55803,7 +55803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291623</ObjectId>
 	<Id>84675</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Козловка</Code>
 	<CodeLat>Kozlovka</CodeLat>
 	<Name>Козловка465950с1340610в</Name>
@@ -55853,7 +55853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291630</ObjectId>
 	<Id>84677</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Комсомольск-на Амуре</Code>
 		<CodeLat />
 	<Name>Комсомольск-на Амуре</Name>
@@ -55903,7 +55903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291636</ObjectId>
 	<Id>84679</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Константиновка</Code>
 	<CodeLat>Konstantinovka</CodeLat>
 	<Name>Константиновка</Name>
@@ -55953,7 +55953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291638</ObjectId>
 	<Id>84681</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Коппи (зимний)</Code>
 	<CodeLat>Koppi (zimnij)</CodeLat>
 	<Name>Коппи (зимний)</Name>
@@ -56003,7 +56003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291639</ObjectId>
 	<Id>84683</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кордон(р.Анюй)</Code>
 	<CodeLat>Kordon(r.Anjuj)</CodeLat>
 	<Name>Кордон(р.Анюй)</Name>
@@ -56053,7 +56053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291641</ObjectId>
 	<Id>84685</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Корсаково</Code>
 	<CodeLat>Korsakovo</CodeLat>
 	<Name>Корсаково482038с1350051в</Name>
@@ -56103,7 +56103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291644</ObjectId>
 	<Id>84687</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Корфово</Code>
 	<CodeLat>Korfovo</CodeLat>
 	<Name>Корфово</Name>
@@ -56153,7 +56153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291646</ObjectId>
 	<Id>84689</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Космодром Восточный</Code>
 	<CodeLat>Kosmodrom Vostochnyj</CodeLat>
 	<Name>Космодром Восточный</Name>
@@ -56203,7 +56203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291651</ObjectId>
 	<Id>84691</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Красное</Code>
 	<CodeLat>Krasnoe</CodeLat>
 	<Name>Красное</Name>
@@ -56253,7 +56253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291652</ObjectId>
 	<Id>84693</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Красный Луч</Code>
 	<CodeLat>Krasnyj Luch</CodeLat>
 	<Name>Красный Луч</Name>
@@ -56303,7 +56303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291659</ObjectId>
 	<Id>84695</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кукелево</Code>
 	<CodeLat>Kukelevo</CodeLat>
 	<Name>Кукелево</Name>
@@ -56353,7 +56353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291670</ObjectId>
 	<Id>84697</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Куприяново</Code>
 	<CodeLat>Kuprijanovo</CodeLat>
 	<Name>Куприяново</Name>
@@ -56403,7 +56403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291706</ObjectId>
 	<Id>84707</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ленинское</Code>
 	<CodeLat>Leninskoe</CodeLat>
 	<Name>Ленинское</Name>
@@ -56453,7 +56453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291710</ObjectId>
 	<Id>84709</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Лермонтовка</Code>
 	<CodeLat>Lermontovka</CodeLat>
 	<Name>Лермонтовка</Name>
@@ -56503,7 +56503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291729</ObjectId>
 	<Id>84711</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Лончаково</Code>
 	<CodeLat>Lonchakovo</CodeLat>
 	<Name>Лончаково470500С 1341300В</Name>
@@ -56553,7 +56553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291733</ObjectId>
 	<Id>84715</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Луговая</Code>
 	<CodeLat>Lugovaja</CodeLat>
 	<Name>Луговая481915с1335840в</Name>
@@ -56603,7 +56603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291760</ObjectId>
 	<Id>84723</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Маломыр</Code>
 	<CodeLat>Malomyr</CodeLat>
 	<Name>Маломыр</Name>
@@ -56653,7 +56653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291773</ObjectId>
 	<Id>84727</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Маяк Песчаный</Code>
 	<CodeLat>Majak Peschanyj</CodeLat>
 	<Name>ВП Песчаный-2</Name>
@@ -56703,7 +56703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291781</ObjectId>
 	<Id>84731</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>мет.ст.Большой Шантар</Code>
 		<CodeLat />
 	<Name>мет.ст.Большой Шантар</Name>
@@ -56753,7 +56753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291786</ObjectId>
 	<Id>84733</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Михайловка</Code>
 	<CodeLat>Mihajlovka</CodeLat>
 	<Name>Михайловка</Name>
@@ -56803,7 +56803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291796</ObjectId>
 	<Id>84735</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>МОПАУ Мет.ст.</Code>
 	<CodeLat>MOPAU Met.st.</CodeLat>
 	<Name>МОПАУ Мет.ст.</Name>
@@ -56853,7 +56853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291799</ObjectId>
 	<Id>84737</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Мориловец</Code>
 	<CodeLat>Morilovets</CodeLat>
 	<Name>Мориловец</Name>
@@ -56903,7 +56903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291807</ObjectId>
 	<Id>84739</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Муравьевка</Code>
 		<CodeLat />
 	<Name>Муравьевка</Name>
@@ -56953,7 +56953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291811</ObjectId>
 	<Id>84741</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Мыс Маяк</Code>
 	<CodeLat>Mys Majak</CodeLat>
 	<Name>Мыс Маяк</Name>
@@ -57003,7 +57003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291818</ObjectId>
 	<Id>84743</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Надеждинское</Code>
 	<CodeLat>Nadezhdinskoe</CodeLat>
 	<Name>Надеждинское</Name>
@@ -57053,7 +57053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291841</ObjectId>
 	<Id>84745</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Невельское</Code>
 		<CodeLat />
 	<Name>Невельское480610с1344045в</Name>
@@ -57103,7 +57103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291887</ObjectId>
 	<Id>84757</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Новопетровка</Code>
 	<CodeLat>Novopetrovka</CodeLat>
 	<Name>Новопетровка</Name>
@@ -57153,7 +57153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291889</ObjectId>
 	<Id>84759</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Новопокровка</Code>
 	<CodeLat>Novopokrovka</CodeLat>
 	<Name>Новопокровка</Name>
@@ -57203,7 +57203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291892</ObjectId>
 	<Id>84761</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Новосоветское</Code>
 	<CodeLat>Novosovetskoe</CodeLat>
 	<Name>Новосоветское475335с1344000в</Name>
@@ -57253,7 +57253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291903</ObjectId>
 	<Id>84763</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>нп.Гурское</Code>
 	<CodeLat>np.Gurskoe</CodeLat>
 	<Name>нп.Гурское</Name>
@@ -57303,7 +57303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291904</ObjectId>
 	<Id>84765</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>нп.Зазаево</Code>
 	<CodeLat>np.Zazaevo</CodeLat>
 	<Name>нп.Зазаево</Name>
@@ -57353,7 +57353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291905</ObjectId>
 	<Id>84767</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>нп.Новогеорьгиевка</Code>
 		<CodeLat />
 	<Name>нп.Новогеорьгиевка</Name>
@@ -57403,7 +57403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291911</ObjectId>
 	<Id>84769</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС 19 ВСТО</Code>
 	<CodeLat>NPS 19 VSTO</CodeLat>
 	<Name>НПС 19 ВСТО</Name>
@@ -57453,7 +57453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291912</ObjectId>
 	<Id>84771</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС 20 ВСТО</Code>
 	<CodeLat>NPS 20 VSTO</CodeLat>
 	<Name>НПС 20 ВСТО</Name>
@@ -57503,7 +57503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291913</ObjectId>
 	<Id>84773</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НПС-21</Code>
 	<CodeLat>NPS-21</CodeLat>
 	<Name>НПС-21</Name>
@@ -57553,7 +57553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291953</ObjectId>
 	<Id>84785</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Огорон</Code>
 	<CodeLat>Ogoron</CodeLat>
 	<Name>Огорон</Name>
@@ -57603,7 +57603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291967</ObjectId>
 	<Id>84789</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Оз.Дабанда</Code>
 	<CodeLat>Oz.Dabanda</CodeLat>
 	<Name>Оз.Дабанда</Name>
@@ -57653,7 +57653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269291968</ObjectId>
 	<Id>84791</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Оз.Катар</Code>
 	<CodeLat>Oz.Katar</CodeLat>
 	<Name>Оз.Катар</Name>
@@ -57703,7 +57703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292005</ObjectId>
 	<Id>84803</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ОРЛАН</Code>
 	<CodeLat>ORLAN</CodeLat>
 	<Name>Орлан (МНДП)</Name>
@@ -57753,7 +57753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292007</ObjectId>
 	<Id>84805</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Орловка</Code>
 	<CodeLat>Orlovka</CodeLat>
 	<Name>Орловка</Name>
@@ -57803,7 +57803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292008</ObjectId>
 	<Id>84807</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Орловка</Code>
 	<CodeLat>Orlovka</CodeLat>
 	<Name>Орловка</Name>
@@ -57853,7 +57853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292017</ObjectId>
 	<Id>84811</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Осежино</Code>
 	<CodeLat>Osezhino</CodeLat>
 	<Name>Осежино</Name>
@@ -57903,7 +57903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292019</ObjectId>
 	<Id>84813</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Островная</Code>
 	<CodeLat>Ostrovnaja</CodeLat>
 	<Name>Островная</Name>
@@ -57953,7 +57953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292020</ObjectId>
 	<Id>84815</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>отм.167</Code>
 	<CodeLat>otm.167</CodeLat>
 	<Name>отм.167.482124С 1352346В</Name>
@@ -58003,7 +58003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292021</ObjectId>
 	<Id>84817</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Отм.218</Code>
 	<CodeLat>Otm.218</CodeLat>
 	<Name>Отм.218</Name>
@@ -58053,7 +58053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292022</ObjectId>
 	<Id>84819</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Отм.548</Code>
 	<CodeLat>Otm.548</CodeLat>
 	<Name>Отм.548</Name>
@@ -58103,7 +58103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292024</ObjectId>
 	<Id>84821</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Отм.855</Code>
 	<CodeLat>Otm.855</CodeLat>
 	<Name>Отм.855</Name>
@@ -58153,7 +58153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292025</ObjectId>
 	<Id>84823</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>отм711</Code>
 	<CodeLat>otm711</CodeLat>
 	<Name>отм711</Name>
@@ -58203,7 +58203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292037</ObjectId>
 	<Id>84825</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Падь Глубокая</Code>
 		<CodeLat />
 	<Name>Падь Глубокая</Name>
@@ -58253,7 +58253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292045</ObjectId>
 	<Id>84827</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Пашково</Code>
 	<CodeLat>Pashkovo</CodeLat>
 	<Name>Пашково</Name>
@@ -58303,7 +58303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292052</ObjectId>
 	<Id>84831</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Перемыкино</Code>
 	<CodeLat>Peremykino</CodeLat>
 	<Name>Перемыкино</Name>
@@ -58353,7 +58353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292059</ObjectId>
 	<Id>84833</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Песчаное</Code>
 	<CodeLat>Peschanoe</CodeLat>
 	<Name>Песчаное</Name>
@@ -58403,7 +58403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292062</ObjectId>
 	<Id>84835</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Петровская</Code>
 	<CodeLat>Petrovskaja</CodeLat>
 	<Name>Петровская</Name>
@@ -58453,7 +58453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292075</ObjectId>
 	<Id>84839</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Виноградовка</Code>
 	<CodeLat>Vinogradovka</CodeLat>
 	<Name>Виноградовка</Name>
@@ -58503,7 +58503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292078</ObjectId>
 	<Id>84841</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПНН Сковородино ВСТО</Code>
 	<CodeLat>PNN Skovorodino VSTO</CodeLat>
 	<Name>ПНН Сковородино ВСТО</Name>
@@ -58553,7 +58553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292079</ObjectId>
 	<Id>84843</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Победа КМС</Code>
 	<CodeLat>Pobeda KMS</CodeLat>
 	<Name>Победа КМС</Name>
@@ -58603,7 +58603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292082</ObjectId>
 	<Id>84845</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Покровка</Code>
 	<CodeLat>Pokrovka</CodeLat>
 	<Name>Покровка 464335с1340250в</Name>
@@ -58653,7 +58653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292084</ObjectId>
 	<Id>84847</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Помпеевка</Code>
 	<CodeLat>Pompeevka</CodeLat>
 	<Name>Помпеевка</Name>
@@ -58703,7 +58703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292087</ObjectId>
 	<Id>84849</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Постовая</Code>
 	<CodeLat>Postovaja</CodeLat>
 	<Name>Постовая</Name>
@@ -58753,7 +58753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292088</ObjectId>
 	<Id>84851</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Поярково</Code>
 	<CodeLat>Pojarkovo</CodeLat>
 	<Name>Поярково</Name>
@@ -58803,7 +58803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292089</ObjectId>
 	<Id>84853</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПП Албын</Code>
 	<CodeLat>PP Albyn</CodeLat>
 	<Name>ПП Албын</Name>
@@ -58853,7 +58853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292090</ObjectId>
 	<Id>84855</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПП Амур</Code>
 	<CodeLat>PP Amur</CodeLat>
 	<Name>ПП Амур</Name>
@@ -58903,7 +58903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292091</ObjectId>
 	<Id>84857</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПП Бурейка</Code>
 	<CodeLat>PP Burejka</CodeLat>
 	<Name>ПП Бурейка</Name>
@@ -58953,7 +58953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292093</ObjectId>
 	<Id>84859</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПП Корсаково</Code>
 	<CodeLat>PP Korsakovo</CodeLat>
 	<Name>Корсаково</Name>
@@ -59003,7 +59003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292094</ObjectId>
 	<Id>84861</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПП Край.больница</Code>
 		<CodeLat />
 	<Name>ПП Край.больница</Name>
@@ -59053,7 +59053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292097</ObjectId>
 	<Id>84863</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПП Токи</Code>
 	<CodeLat>PP Toki</CodeLat>
 	<Name>ПП Токи</Name>
@@ -59103,7 +59103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292108</ObjectId>
 	<Id>84865</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Приамурская</Code>
 	<CodeLat>Priamurskaja</CodeLat>
 	<Name>Приамурская</Name>
@@ -59153,7 +59153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292113</ObjectId>
 	<Id>84867</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ПСП Джалинда ВСТО</Code>
 	<CodeLat>PSP Dzhalinda VSTO</CodeLat>
 	<Name>ПСП Джалинда ВСТО</Name>
@@ -59203,7 +59203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292116</ObjectId>
 	<Id>84869</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Пузино</Code>
 	<CodeLat>Puzino</CodeLat>
 	<Name>Пузино</Name>
@@ -59253,7 +59253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292122</ObjectId>
 	<Id>84871</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>р.Анюй</Code>
 	<CodeLat>r.Anjuj</CodeLat>
 	<Name>491400с1365100в</Name>
@@ -59303,7 +59303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292123</ObjectId>
 	<Id>84873</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>р.Буколь</Code>
 		<CodeLat />
 	<Name>р.Буколь</Name>
@@ -59353,7 +59353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292125</ObjectId>
 	<Id>84875</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>р.Муникан</Code>
 	<CodeLat>r.Munikan</CodeLat>
 	<Name>р.Муникан</Name>
@@ -59403,7 +59403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292126</ObjectId>
 	<Id>84877</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Р.Тормасу</Code>
 	<CodeLat>R.Tormasu</CodeLat>
 	<Name>Р.Тормасу</Name>
@@ -59453,7 +59453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292188</ObjectId>
 	<Id>84885</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сагибово</Code>
 	<CodeLat>Sagibovo</CodeLat>
 	<Name>Сагибово</Name>
@@ -59503,7 +59503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292200</ObjectId>
 	<Id>84887</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сгибнева</Code>
 	<CodeLat>Sgibneva</CodeLat>
 	<Name>Сгибнева</Name>
@@ -59553,7 +59553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292201</ObjectId>
 	<Id>84889</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Северная</Code>
 	<CodeLat>Severnaja</CodeLat>
 	<Name>Северная483306с1350103в</Name>
@@ -59603,7 +59603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292202</ObjectId>
 	<Id>84891</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Северный городок</Code>
 	<CodeLat>Severnyj gorodok</CodeLat>
 	<Name>Северный городок</Name>
@@ -59653,7 +59653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292215</ObjectId>
 	<Id>84893</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Серко/Черемхово</Code>
 	<CodeLat>Serko/Cheremhovo</CodeLat>
 	<Name>Серко/Черемхово</Name>
@@ -59703,7 +59703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292217</ObjectId>
 	<Id>84895</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Серышево</Code>
 	<CodeLat>Seryshevo</CodeLat>
 	<Name>Серышево</Name>
@@ -59753,7 +59753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292221</ObjectId>
 	<Id>84897</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сиваки</Code>
 	<CodeLat>Sivaki</CodeLat>
 	<Name>Сиваки</Name>
@@ -59803,7 +59803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292226</ObjectId>
 	<Id>84899</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Симоновы Лужки</Code>
 	<CodeLat>Simonovy Luzhki</CodeLat>
 	<Name>Симоновы Лужки</Name>
@@ -59853,7 +59853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292231</ObjectId>
 	<Id>84901</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сковородино</Code>
 	<CodeLat>Skovorodino</CodeLat>
 	<Name>Сковородино</Name>
@@ -59903,7 +59903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292244</ObjectId>
 	<Id>84903</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Советская Гавань</Code>
 		<CodeLat />
 	<Name>Советская Гавань</Name>
@@ -59953,7 +59953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292245</ObjectId>
 	<Id>84905</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Советский</Code>
 	<CodeLat>Sovetskij</CodeLat>
 	<Name>Советский</Name>
@@ -60003,7 +60003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292269</ObjectId>
 	<Id>84911</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Софийск</Code>
 	<CodeLat>Sofijsk</CodeLat>
 	<Name>Софийск</Name>
@@ -60053,7 +60053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292270</ObjectId>
 	<Id>84913</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Союзное</Code>
 	<CodeLat>Sojuznoe</CodeLat>
 	<Name>Союзное</Name>
@@ -60103,7 +60103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292271</ObjectId>
 	<Id>84915</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Союзный</Code>
 	<CodeLat>Sojuznyj</CodeLat>
 	<Name>Союзный</Name>
@@ -60153,7 +60153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292272</ObjectId>
 	<Id>84917</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Спасская</Code>
 	<CodeLat>Spasskaja</CodeLat>
 	<Name>Спасская</Name>
@@ -60203,7 +60203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292277</ObjectId>
 	<Id>84919</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Старт</Code>
 	<CodeLat>Start</CodeLat>
 	<Name>Старт</Name>
@@ -60253,7 +60253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292289</ObjectId>
 	<Id>84923</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Сутара</Code>
 	<CodeLat>Sutara</CodeLat>
 	<Name>Сутара</Name>
@@ -60303,7 +60303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292306</ObjectId>
 	<Id>84927</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тельмана</Code>
 		<CodeLat />
 	<Name>Тельмана</Name>
@@ -60353,7 +60353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292323</ObjectId>
 	<Id>84929</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Токи</Code>
 	<CodeLat>Toki</CodeLat>
 	<Name>Токи</Name>
@@ -60403,7 +60403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292325</ObjectId>
 	<Id>84931</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Толбузино</Code>
 	<CodeLat>Tolbuzino</CodeLat>
 	<Name>Толбузино</Name>
@@ -60453,7 +60453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292333</ObjectId>
 	<Id>84933</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тр. Архара</Code>
 	<CodeLat>Tr. Arhara</CodeLat>
 	<Name>Тр. Архара</Name>
@@ -60503,7 +60503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292334</ObjectId>
 	<Id>84935</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Бикина</Code>
 	<CodeLat>tr.Bikina</CodeLat>
 	<Name>4178км</Name>
@@ -60553,7 +60553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292335</ObjectId>
 	<Id>84937</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Бира</Code>
 	<CodeLat>tr.Bira</CodeLat>
 	<Name>3646км</Name>
@@ -60603,7 +60603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292336</ObjectId>
 	<Id>84939</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тр.Биробиджан</Code>
 	<CodeLat>Tr.Birobidzhan</CodeLat>
 	<Name>Тр.Биробиджан</Name>
@@ -60653,7 +60653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292337</ObjectId>
 	<Id>84941</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Владимировки</Code>
 	<CodeLat>tr.Vladimirovki</CodeLat>
 	<Name>4003км</Name>
@@ -60703,7 +60703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292338</ObjectId>
 	<Id>84943</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Вяземского</Code>
 	<CodeLat>tr.Vjazemskogo</CodeLat>
 	<Name>4080км</Name>
@@ -60753,7 +60753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292339</ObjectId>
 	<Id>84945</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Гудачи</Code>
 	<CodeLat>tr.Gudachi</CodeLat>
 	<Name>2774км</Name>
@@ -60803,7 +60803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292340</ObjectId>
 	<Id>84947</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Джелюмкен</Code>
 	<CodeLat>tr.Dzheljumken</CodeLat>
 	<Name>3874км</Name>
@@ -60853,7 +60853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292342</ObjectId>
 	<Id>84949</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТР.Известковый</Code>
 	<CodeLat>TR.Izvestkovyj</CodeLat>
 	<Name>3566км</Name>
@@ -60903,7 +60903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292343</ObjectId>
 	<Id>84951</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Капитоновки</Code>
 	<CodeLat>tr.Kapitonovki</CodeLat>
 	<Name>4058км</Name>
@@ -60953,7 +60953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292345</ObjectId>
 	<Id>84953</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Корфовского</Code>
 	<CodeLat>tr.Korfovskogo</CodeLat>
 	<Name>3987км</Name>
@@ -61003,7 +61003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292348</ObjectId>
 	<Id>84955</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Лермонтовки</Code>
 	<CodeLat>tr.Lermontovki</CodeLat>
 	<Name>4137км</Name>
@@ -61053,7 +61053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292349</ObjectId>
 	<Id>84957</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тр.Лесное</Code>
 	<CodeLat>Tr.Lesnoe</CodeLat>
 	<Name>Тр.Лесное</Name>
@@ -61103,7 +61103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292350</ObjectId>
 	<Id>84959</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Магдагачи</Code>
 	<CodeLat>tr.Magdagachi</CodeLat>
 	<Name>2825км</Name>
@@ -61153,7 +61153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292352</ObjectId>
 	<Id>84961</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тр.Облучья</Code>
 		<CodeLat />
 	<Name>3525км</Name>
@@ -61203,7 +61203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292353</ObjectId>
 	<Id>84963</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Ореховая</Code>
 	<CodeLat>tr.Orehovaja</CodeLat>
 	<Name>тр.Ореховая</Name>
@@ -61253,7 +61253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292354</ObjectId>
 	<Id>84965</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Переяславки</Code>
 	<CodeLat>tr.Perejaslavki</CodeLat>
 	<Name>4018км</Name>
@@ -61303,7 +61303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292357</ObjectId>
 	<Id>84967</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>тр.Ульручьи</Code>
 		<CodeLat />
 	<Name>2701км</Name>
@@ -61353,7 +61353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292360</ObjectId>
 	<Id>84969</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТР1.Теплоозерск</Code>
 	<CodeLat>TR1.Teploozersk</CodeLat>
 	<Name>3602км</Name>
@@ -61403,7 +61403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292362</ObjectId>
 	<Id>84971</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТР2 Теплоозерск</Code>
 	<CodeLat>TR2 Teploozersk</CodeLat>
 	<Name>3590км</Name>
@@ -61453,7 +61453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292370</ObjectId>
 	<Id>84975</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Туловская</Code>
 	<CodeLat>Tulovskaja</CodeLat>
 	<Name>Туловская</Name>
@@ -61503,7 +61503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292373</ObjectId>
 	<Id>84979</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тумнин</Code>
 	<CodeLat>Tumnin</CodeLat>
 	<Name>Тумнин</Name>
@@ -61553,7 +61553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292374</ObjectId>
 	<Id>84981</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ТУНГАЛА</Code>
 	<CodeLat>TUNGALA</CodeLat>
 	<Name>ТУНГАЛА</Name>
@@ -61603,7 +61603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292383</ObjectId>
 	<Id>84983</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тырма</Code>
 	<CodeLat>Tyrma</CodeLat>
 	<Name>Тырма</Name>
@@ -61653,7 +61653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292392</ObjectId>
 	<Id>84987</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Удское</Code>
 	<CodeLat>Udskoe</CodeLat>
 	<Name>Удское</Name>
@@ -61703,7 +61703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292395</ObjectId>
 	<Id>84989</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УЕЛЛ</Code>
 	<CodeLat>UELL</CodeLat>
 	<Name>Нерюнгри/Чульман</Name>
@@ -61753,7 +61753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292407</ObjectId>
 	<Id>84993</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ульма</Code>
 		<CodeLat />
 	<Name>Ульма</Name>
@@ -61803,7 +61803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292436</ObjectId>
 	<Id>85001</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Бюленей</Code>
 	<CodeLat>Ust.r.Bjulenej</CodeLat>
 	<Name>Уст.р.Бюленей</Name>
@@ -61853,7 +61853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292439</ObjectId>
 	<Id>85003</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Голубая</Code>
 	<CodeLat>Ust.r.Golubaja</CodeLat>
 	<Name>Уст.р.Голубая</Name>
@@ -61903,7 +61903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292443</ObjectId>
 	<Id>85005</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Джулиха</Code>
 	<CodeLat>Ust.r.Dzhuliha</CodeLat>
 	<Name>Уст.р.Джулиха</Name>
@@ -61953,7 +61953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292462</ObjectId>
 	<Id>85007</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Федосеиха</Code>
 	<CodeLat>Ust.r.Fedoseiha</CodeLat>
 	<Name>Уст.р.Федосеиха</Name>
@@ -62003,7 +62003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292504</ObjectId>
 	<Id>85011</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХНА</Code>
 	<CodeLat>UHNA</CodeLat>
 	<Name>АЯН</Name>
@@ -62053,7 +62053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292512</ObjectId>
 	<Id>85013</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХНУ</Code>
 	<CodeLat>UHNU</CodeLat>
 	<Name>УРГАЛАН</Name>
@@ -62103,7 +62103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292526</ObjectId>
 	<Id>85015</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСЛ</Code>
 	<CodeLat>UHSL</CodeLat>
 	<Name>ПП ОРЛАН</Name>
@@ -62153,7 +62153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292558</ObjectId>
 	<Id>85017</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХЙ</Code>
 	<CodeLat>UHHJ</CodeLat>
 	<Name>Победа</Name>
@@ -62203,7 +62203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292559</ObjectId>
 	<Id>85019</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХЛ</Code>
 	<CodeLat>UHHL</CodeLat>
 	<Name>Олон</Name>
@@ -62253,7 +62253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292562</ObjectId>
 	<Id>85021</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХН</Code>
 	<CodeLat>UHHN</CodeLat>
 	<Name>Новокуровка</Name>
@@ -62303,7 +62303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292569</ObjectId>
 	<Id>85023</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХХЬ</Code>
 	<CodeLat>UHHX</CodeLat>
 	<Name>Охотничий</Name>
@@ -62353,7 +62353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292573</ObjectId>
 	<Id>85025</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ФЕДОРОВКА</Code>
 	<CodeLat>FEDOROVKA</CodeLat>
 	<Name>Федоровка</Name>
@@ -62403,7 +62403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292574</ObjectId>
 	<Id>85027</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Федькин-ключ</Code>
 		<CodeLat />
 	<Name>Федькин-ключ</Name>
@@ -62453,7 +62453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292578</ObjectId>
 	<Id>85029</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Фрегат</Code>
 	<CodeLat>Fregat</CodeLat>
 	<Name>Фрегат</Name>
@@ -62503,7 +62503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292582</ObjectId>
 	<Id>85031</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Харпичан</Code>
 	<CodeLat>Harpichan</CodeLat>
 	<Name>Харпичан</Name>
@@ -62553,7 +62553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292590</ObjectId>
 	<Id>85033</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Хор</Code>
 	<CodeLat>Hor</CodeLat>
 	<Name>Хор</Name>
@@ -62603,7 +62603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292591</ObjectId>
 	<Id>85035</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Хохлацкая-1</Code>
 	<CodeLat>Hohlatskaja-1</CodeLat>
 	<Name>Хохлацкая-1.483712с1350711в</Name>
@@ -62653,7 +62653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292595</ObjectId>
 	<Id>85037</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Черняево</Code>
 	<CodeLat>Chernjaevo</CodeLat>
 	<Name>Черняево</Name>
@@ -62703,7 +62703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292596</ObjectId>
 	<Id>85039</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Чесноково</Code>
 	<CodeLat>Chesnokovo</CodeLat>
 	<Name>Чесноково</Name>
@@ -62753,7 +62753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292598</ObjectId>
 	<Id>85041</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Чигири</Code>
 	<CodeLat>Chigiri</CodeLat>
 	<Name>Чигири</Name>
@@ -62803,7 +62803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292599</ObjectId>
 	<Id>85043</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Чирки</Code>
 	<CodeLat>Chirki</CodeLat>
 	<Name>Чирки481110с1344150в</Name>
@@ -62853,7 +62853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292601</ObjectId>
 	<Id>85045</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Шереметьево</Code>
 		<CodeLat />
 	<Name>Шереметьево</Name>
@@ -62903,7 +62903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292604</ObjectId>
 	<Id>85047</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХББ</Code>
 	<CodeLat>XHBB</CodeLat>
 	<Name>Благовещенск</Name>
@@ -62953,7 +62953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292606</ObjectId>
 	<Id>85049</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХБИ</Code>
 	<CodeLat>XHBI</CodeLat>
 	<Name>Магдагачи</Name>
@@ -63003,7 +63003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292634</ObjectId>
 	<Id>85051</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХКГ</Code>
 	<CodeLat>XHKG</CodeLat>
 	<Name>Советская Гавань(Каменный Ручей) Монгохто</Name>
@@ -63053,7 +63053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292635</ObjectId>
 	<Id>85053</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХКД</Code>
 	<CodeLat>XHKD</CodeLat>
 	<Name>Комсомольск-на-Амуре(Дземги)</Name>
@@ -63103,7 +63103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292636</ObjectId>
 	<Id>85055</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХКК</Code>
 	<CodeLat>XHKK</CodeLat>
 	<Name>Комсомольск-на-Амуре(Хурба)</Name>
@@ -63153,7 +63153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292654</ObjectId>
 	<Id>85057</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Эворон</Code>
 	<CodeLat>Evoron</CodeLat>
 	<Name>Эворон</Name>
@@ -63203,7 +63203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269292659</ObjectId>
 	<Id>85061</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ясеневый</Code>
 	<CodeLat>Jasenevyj</CodeLat>
 	<Name>Ясеневый</Name>
@@ -63253,7 +63253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269303671</ObjectId>
 	<Id>85063</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХВА</Code>
 	<CodeLat>UHVA</CodeLat>
 	<Name>Арсеньев</Name>
@@ -63303,7 +63303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305915</ObjectId>
 	<Id>85231</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХВР</Code>
 	<CodeLat>UHVR</CodeLat>
 	<Name>Рощино</Name>
@@ -63353,7 +63353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269305943</ObjectId>
 	<Id>85235</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬХИС</Code>
 	<CodeLat>XHIS</CodeLat>
 	<Name>Соколовка</Name>
@@ -63403,7 +63403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269306434</ObjectId>
 	<Id>85257</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХВУ</Code>
 	<CodeLat>UHVU</CodeLat>
 	<Name>Уссурийск (Барановский)</Name>
@@ -63453,7 +63453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>269307018</ObjectId>
 	<Id>85287</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХВВ</Code>
 	<CodeLat>UHVV</CodeLat>
 	<Name>Владивосток (Кневичи)</Name>
@@ -63503,7 +63503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>270818926</ObjectId>
 	<Id>85333</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСА</Code>
 	<CodeLat>UHSA</CodeLat>
 	<Name>Александровск-Сахалинский</Name>
@@ -63553,7 +63553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>270819614</ObjectId>
 	<Id>85335</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХСО</Code>
 	<CodeLat>UHSO</CodeLat>
 	<Name>Зональное</Name>
@@ -63603,7 +63603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>270916284</ObjectId>
 	<Id>85337</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБВ</Code>
 	<CodeLat>UHBV</CodeLat>
 	<Name>Тында</Name>
@@ -63653,7 +63653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>270917370</ObjectId>
 	<Id>85339</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБК</Code>
 	<CodeLat>UHBK</CodeLat>
 	<Name>Шимановск</Name>
@@ -63703,7 +63703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271211962</ObjectId>
 	<Id>85351</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХВЛ</Code>
 	<CodeLat>UHVL</CodeLat>
 	<Name>Озерные Ключи</Name>
@@ -63753,7 +63753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271228991</ObjectId>
 	<Id>85353</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБЬ</Code>
 	<CodeLat>UHBX</CodeLat>
 	<Name>ГОРНЫЙ</Name>
@@ -63803,7 +63803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271229169</ObjectId>
 	<Id>85355</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБЕ</Code>
 	<CodeLat>UHBE</CodeLat>
 	<Name>ЗЕЯ</Name>
@@ -63853,7 +63853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>271229445</ObjectId>
 	<Id>85357</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>УХБО</Code>
 	<CodeLat>UHBO</CodeLat>
 	<Name>E188732221</Name>
@@ -63903,7 +63903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272207967</ObjectId>
 	<Id>85401</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ЬИАЛ</Code>
 	<CodeLat>XIAL</CodeLat>
 	<Name>ЬИАЛ</Name>
@@ -63953,7 +63953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272208070</ObjectId>
 	<Id>85403</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Амазар-2</Code>
 	<CodeLat>Amazar-2</CodeLat>
 	<Name>Амазар-2</Name>
@@ -64003,7 +64003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272208121</ObjectId>
 	<Id>85405</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Усть-стрелка</Code>
 		<CodeLat />
 	<Name>Усть-стрелка</Name>
@@ -64053,7 +64053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272208156</ObjectId>
 	<Id>85407</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тымаген</Code>
 	<CodeLat>Tymagen</CodeLat>
 	<Name>Тымаген</Name>
@@ -64103,7 +64103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272208199</ObjectId>
 	<Id>85409</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Лубия</Code>
 	<CodeLat>Lubija</CodeLat>
 	<Name>Лубия</Name>
@@ -64153,7 +64153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272208240</ObjectId>
 	<Id>85411</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Мучикан</Code>
 	<CodeLat>Muchikan</CodeLat>
 	<Name>Мучикан</Name>
@@ -64203,7 +64203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272208275</ObjectId>
 	<Id>85413</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Урюпино</Code>
 	<CodeLat>Urjupino</CodeLat>
 	<Name>Урюпино</Name>
@@ -64253,7 +64253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272916978</ObjectId>
 	<Id>85443</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Желтый Яр</Code>
 	<CodeLat>Zheltyj Jar</CodeLat>
 	<Name>Желтый Яр</Name>
@@ -64303,7 +64303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272917034</ObjectId>
 	<Id>85445</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Отм.707</Code>
 	<CodeLat>Otm.707</CodeLat>
 	<Name>Отм.707</Name>
@@ -64353,7 +64353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272917084</ObjectId>
 	<Id>85447</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Олоно</Code>
 	<CodeLat>Ust.r.Olono</CodeLat>
 	<Name>Уст.р.Олоно</Name>
@@ -64403,7 +64403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272917187</ObjectId>
 	<Id>85449</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уст.р.Савкина</Code>
 	<CodeLat>Ust.r.Savkina</CodeLat>
 	<Name>Уст.р.Савкина</Name>
@@ -64453,7 +64453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272917228</ObjectId>
 	<Id>85451</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Р.Мориловчиха</Code>
 	<CodeLat>R.Morilovchiha</CodeLat>
 	<Name>Р.Мориловчиха</Name>
@@ -64503,7 +64503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>272934706</ObjectId>
 	<Id>85453</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ивановка</Code>
 	<CodeLat>Ivanovka</CodeLat>
 	<Name>Ивановка</Name>
@@ -64553,7 +64553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273076346</ObjectId>
 	<Id>85465</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>в.р.Бысса</Code>
 	<CodeLat>v.r.Byssa</CodeLat>
 	<Name>в.р.Бысса</Name>
@@ -64603,7 +64603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273076366</ObjectId>
 	<Id>85467</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Загородная Селитьба</Code>
 		<CodeLat />
 	<Name>Загородная Селитьба</Name>
@@ -64653,7 +64653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273076820</ObjectId>
 	<Id>85469</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Саскаль</Code>
 		<CodeLat />
 	<Name>Саскаль</Name>
@@ -64703,7 +64703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273076882</ObjectId>
 	<Id>85471</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Аносово</Code>
 	<CodeLat>Anosovo</CodeLat>
 	<Name>Аносово</Name>
@@ -64753,7 +64753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273078760</ObjectId>
 	<Id>85473</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Переселенец</Code>
 	<CodeLat>Pereselenets</CodeLat>
 	<Name>Переселенец</Name>
@@ -64803,7 +64803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273078862</ObjectId>
 	<Id>85475</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Усть-Тыгда</Code>
 		<CodeLat />
 	<Name>Усть-Тыгда</Name>
@@ -64853,7 +64853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273079194</ObjectId>
 	<Id>85477</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ледяная</Code>
 	<CodeLat>Ledjanaja</CodeLat>
 	<Name>Ледяная</Name>
@@ -64903,7 +64903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273079308</ObjectId>
 	<Id>85479</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>НКУ</Code>
 	<CodeLat>NKU</CodeLat>
 	<Name>НКУ</Name>
@@ -64953,7 +64953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273079601</ObjectId>
 	<Id>85481</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Маргаритовка</Code>
 	<CodeLat>Margaritovka</CodeLat>
 	<Name>Маргаритовка</Name>
@@ -65003,7 +65003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273080015</ObjectId>
 	<Id>85483</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>р.Кера</Code>
 	<CodeLat>r.Kera</CodeLat>
 	<Name>р.Кера</Name>
@@ -65053,7 +65053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273080370</ObjectId>
 	<Id>85485</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Табурачка</Code>
 	<CodeLat>Taburachka</CodeLat>
 	<Name>Табурачка</Name>
@@ -65103,7 +65103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273080583</ObjectId>
 	<Id>85487</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Глубокий</Code>
 	<CodeLat>Glubokij</CodeLat>
 	<Name>Глубокий</Name>
@@ -65153,7 +65153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273080682</ObjectId>
 	<Id>85489</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>в.р.Инкан</Code>
 	<CodeLat>v.r.Inkan</CodeLat>
 	<Name>в.р.Инкан</Name>
@@ -65203,7 +65203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273080777</ObjectId>
 	<Id>85491</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>у.р.М.Бурундушка</Code>
 	<CodeLat>u.r.M.Burundushka</CodeLat>
 	<Name>у.р.М.Бурундушка</Name>
@@ -65253,7 +65253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273080824</ObjectId>
 	<Id>85493</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>у.р.Бурунда</Code>
 	<CodeLat>u.r.Burunda</CodeLat>
 	<Name>у.р.Бурунда</Name>
@@ -65303,7 +65303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273087166</ObjectId>
 	<Id>85495</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ст.Иса</Code>
 	<CodeLat>st.Isa</CodeLat>
 	<Name>ст.Иса</Name>
@@ -65353,7 +65353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273087459</ObjectId>
 	<Id>85497</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>у.р.Топтума</Code>
 	<CodeLat>u.r.Toptuma</CodeLat>
 	<Name>у.р.Топтума</Name>
@@ -65403,7 +65403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273204593</ObjectId>
 	<Id>85499</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Талакан</Code>
 	<CodeLat>Talakan</CodeLat>
 	<Name>Талакан</Name>
@@ -65453,7 +65453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273204663</ObjectId>
 	<Id>85501</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>г.Б.Осинда</Code>
 	<CodeLat>g.B.Osinda</CodeLat>
 	<Name>г.Б.Осинда</Name>
@@ -65503,7 +65503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273204723</ObjectId>
 	<Id>85503</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Кундур</Code>
 	<CodeLat>Kundur</CodeLat>
 	<Name>Кундур</Name>
@@ -65553,7 +65553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273204771</ObjectId>
 	<Id>85505</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Апрельский</Code>
 		<CodeLat />
 	<Name>Апрельский</Name>
@@ -65603,7 +65603,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273204819</ObjectId>
 	<Id>85507</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Дактуй</Code>
 	<CodeLat>Daktuj</CodeLat>
 	<Name>Дактуй</Name>
@@ -65653,7 +65653,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273204863</ObjectId>
 	<Id>85509</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Тыгда</Code>
 	<CodeLat>Tygda</CodeLat>
 	<Name>Тыгда</Name>
@@ -65703,7 +65703,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273204940</ObjectId>
 	<Id>85511</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>у.р.М.Онон</Code>
 	<CodeLat>u.r.M.Onon</CodeLat>
 	<Name>у.р.М.Онон</Name>
@@ -65753,7 +65753,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273206073</ObjectId>
 	<Id>85513</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>у.р.Магдагачи</Code>
 	<CodeLat>u.r.Magdagachi</CodeLat>
 	<Name>у.р.Магдагачи</Name>
@@ -65803,7 +65803,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273206730</ObjectId>
 	<Id>85515</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Толбузино</Code>
 	<CodeLat>Tolbuzino</CodeLat>
 	<Name>Толбузино</Name>
@@ -65853,7 +65853,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273207060</ObjectId>
 	<Id>85517</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Таежный</Code>
 	<CodeLat>Taezhnyj</CodeLat>
 	<Name>Таежный</Name>
@@ -65903,7 +65903,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273207120</ObjectId>
 	<Id>85519</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Игнашино</Code>
 	<CodeLat>Ignashino</CodeLat>
 	<Name>Игнашино</Name>
@@ -65953,7 +65953,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273207167</ObjectId>
 	<Id>85521</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Ерофей Павлович</Code>
 	<CodeLat>Erofej Pavlovich</CodeLat>
 	<Name>Ерофей Павлович</Name>
@@ -66003,7 +66003,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273207566</ObjectId>
 	<Id>85523</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Верх.р.М.Тында</Code>
 	<CodeLat>Verh.r.M.Tynda</CodeLat>
 	<Name>Верх.р.М.Тында</Name>
@@ -66053,7 +66053,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273207634</ObjectId>
 	<Id>85525</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Золотая гора</Code>
 	<CodeLat>Zolotaja gora</CodeLat>
 	<Name>Золотая гора</Name>
@@ -66103,7 +66103,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273208903</ObjectId>
 	<Id>85527</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Деп-Долбырь</Code>
 		<CodeLat />
 	<Name>Деп-Долбырь</Name>
@@ -66153,7 +66153,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273208992</ObjectId>
 	<Id>85529</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Юбилейный</Code>
 	<CodeLat>Jubilejnyj</CodeLat>
 	<Name>Юбилейный</Name>
@@ -66203,7 +66203,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273209061</ObjectId>
 	<Id>85531</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Талдан</Code>
 	<CodeLat>Taldan</CodeLat>
 	<Name>Талдан</Name>
@@ -66253,7 +66253,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273209099</ObjectId>
 	<Id>85533</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Уркан</Code>
 	<CodeLat>Urkan</CodeLat>
 	<Name>Уркан</Name>
@@ -66303,7 +66303,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273209134</ObjectId>
 	<Id>85535</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Р.Гилюй</Code>
 	<CodeLat>R.Giljuj</CodeLat>
 	<Name>Р.Гилюй</Name>
@@ -66353,7 +66353,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>273209167</ObjectId>
 	<Id>85537</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Р.Геткан</Code>
 	<CodeLat>R.Getkan</CodeLat>
 	<Name>Р.Геткан</Name>
@@ -66403,7 +66403,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>335827364</ObjectId>
 	<Id>109121</Id>
 	<LocalChange>true</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>Удинск</Code>
 	<CodeLat>Udinsk</CodeLat>
 	<Name>Удинск</Name>
@@ -66453,7 +66453,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>0</ObjectId>
 	<Id>109125</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ККБ</Code>
 	<CodeLat>KKB</CodeLat>
 	<Name>ККБ</Name>
@@ -66503,7 +66503,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>0</ObjectId>
 	<Id>109127</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ККБ</Code>
 	<CodeLat>KKB</CodeLat>
 	<Name>ККБ</Name>
@@ -66553,7 +66553,7 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	<ObjectId>0</ObjectId>
 	<Id>109129</Id>
 	<LocalChange>false</LocalChange>
-	<LastUpdate>2021-08-31T13:24:46</LastUpdate>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
 	<Code>ККБ</Code>
 	<CodeLat>KKB</CodeLat>
 	<Name>ККБ</Name>
@@ -66598,5 +66598,103 @@ INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`,
 	</WorkingTimeRange>
 	<Runways />
 </MapPoint>', '0', '3', 'second') ,
-(84099, 'MapPoint', '0', 'admin', '<?xml version=\"1.0\" encoding=\"utf-16\"?>\n<MapPoint xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" Version=\"20\" IsDeleted=\"false\">\n	<ObjectId>6346</ObjectId>\n	<Id>84099</Id>\n	<LocalChange>true</LocalChange>\n	<LastUpdate>2020-03-01T21:15:32</LastUpdate>\n	<Code>УХНН</Code>\n	<CodeLat>UHNN</CodeLat>\n	<Name>НИКОЛАЕВСК-на-АМУРЕ</Name>\n	<NameLat />\n	<Names />\n	<NamesXml />\n	<Comment />\n	<BeginDate>0001-01-01T00:00:00</BeginDate>\n	<EndDate>0001-01-01T00:00:00</EndDate>\n	<ShowOnChart>true</ShowOnChart>\n	<Latitude>53.154166666666669</Latitude>\n	<Longitude>140.65111111111111</Longitude>\n	<Elevation>0</Elevation>\n	<MagneticDeclination>12.5</MagneticDeclination>\n	<Frequencies>124,0</Frequencies>\n	<Type>POD</Type>\n	<SignalCode />\n	<IsACP>true</IsACP>\n	<IsInOut>false</IsInOut>\n	<IsInOutCIS>false</IsInOutCIS>\n	<IsGateWay>false</IsGateWay>\n	<IsTransferPoint>false</IsTransferPoint>\n	<IsTransferPoint_ACP>false</IsTransferPoint_ACP>\n	<IsInARZ>false</IsInARZ>\n	<IsOutARZ>false</IsOutARZ>\n	<IsInRA>false</IsInRA>\n	<IsInAirway>false</IsInAirway>\n	<IsMvl>false</IsMvl>\n	<CorridorNumber />\n	<Height>0</Height>\n	<HeightAbs>0</HeightAbs>\n	<AirportType>Aerodrome</AirportType>\n	<AirportUsageType>Inner</AirportUsageType>\n	<AirportOwnerType>Military</AirportOwnerType>\n	<Class>C</Class>\n	<AftnAddr />\n	<CallLetter>Пробирка</CallLetter>\n	<WorkingTimeRange IsCancelled=\"false\" minlevel=\"M/M=0/FL=0/FWD\" maxlevel=\"M/M=16100/FL=528/FWD\">\n		<ObjectId>0</ObjectId>\n		<Id>0</Id>\n		<IntervalOfClosing>false</IntervalOfClosing>\n		<Reserv>false</Reserv>\n		<Kind>Daily</Kind>\n		<Begin>2017-06-01T00:00:00Z</Begin>\n		<End>9999-12-31T23:59:59.9999999</End>\n		<TimeSpanRanges>\n			<TimeSpanRange>\n				<LocalChange>false</LocalChange>\n				<Id>0</Id>\n				<Begin>00:00:00</Begin>\n				<End>00:00:00</End>\n				<Days>WorkDays</Days>\n				<IntervalOfClosing>true</IntervalOfClosing>\n				<Winter>true</Winter>\n				<Summer>true</Summer>\n				<Holidays>true</Holidays>\n				<OnRequest>false</OnRequest>\n				<OnSchedule>true</OnSchedule>\n			</TimeSpanRange>\n			<TimeSpanRange>\n				<LocalChange>false</LocalChange>\n				<Id>0</Id>\n				<Begin>00:00:00</Begin>\n				<End>00:00:00</End>\n				<Days>Saturday Sunday</Days>\n				<IntervalOfClosing>true</IntervalOfClosing>\n				<Winter>true</Winter>\n				<Summer>true</Summer>\n				<Holidays>true</Holidays>\n				<OnRequest>false</OnRequest>\n				<OnSchedule>true</OnSchedule>\n			</TimeSpanRange>\n		</TimeSpanRanges>\n		<Comment />\n		<Sources />\n	</WorkingTimeRange>\n	<Runways>\n		<Runway Version=\"0\" IsDeleted=\"false\">\n			<ObjectId>33</ObjectId>\n			<Id>13043</Id>\n			<LocalChange>false</LocalChange>\n			<LastUpdate>2001-08-10T00:00:00</LastUpdate>\n			<Code>09 </Code>\n			<CodeLat>09 </CodeLat>\n			<Name />\n			<NameLat />\n			<Names />\n			<NamesXml />\n			<Comment />\n			<BeginDate>2001-08-10T00:00:00</BeginDate>\n			<EndDate>2099-12-31T00:00:00</EndDate>\n			<ShowOnChart>true</ShowOnChart>\n			<Latitude>0</Latitude>\n			<Longitude>0</Longitude>\n			<Elevation>1075</Elevation>\n			<MagneticDeclination xsi:nil=\"true\" />\n			<Direction>0</Direction>\n			<Length>11000</Length>\n			<Width>0</Width>\n		</Runway>\n		<Runway Version=\"0\" IsDeleted=\"false\">\n			<ObjectId>35</ObjectId>\n			<Id>13044</Id>\n			<LocalChange>false</LocalChange>\n			<LastUpdate>2001-08-10T00:00:00</LastUpdate>\n			<Code>27 </Code>\n			<CodeLat>27 </CodeLat>\n			<Name />\n			<NameLat />\n			<Names />\n			<NamesXml />\n			<Comment />\n			<BeginDate>2001-08-10T00:00:00</BeginDate>\n			<EndDate>2099-12-31T00:00:00</EndDate>\n			<ShowOnChart>true</ShowOnChart>\n			<Latitude>0</Latitude>\n			<Longitude>0</Longitude>\n			<Elevation>1075</Elevation>\n			<MagneticDeclination xsi:nil=\"true\" />\n			<Direction>0</Direction>\n			<Length>11000</Length>\n			<Width>0</Width>\n		</Runway>\n	</Runways>\n</MapPoint>', '0', '21', 'second'),
-(84101, 'MapPoint', '0', 'admin', '<?xml version=\"1.0\" encoding=\"utf-16\"?>\n<MapPoint xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" Version=\"45\" IsDeleted=\"false\">\n	<ObjectId>6348</ObjectId>\n	<Id>84101</Id>\n	<LocalChange>true</LocalChange>\n	<LastUpdate>2020-03-01T21:15:32</LastUpdate>\n	<Code>УХНН</Code>\n	<CodeLat />\n	<Name>НИКОЛАЕВСК-на-АМУРЕ</Name>\n	<NameLat />\n	<Names />\n	<NamesXml />\n	<Comment />\n	<BeginDate>0001-01-01T00:00:00</BeginDate>\n	<EndDate>0001-01-01T00:00:00</EndDate>\n	<ShowOnChart>false</ShowOnChart>\n	<Latitude>48.31666666666667</Latitude>\n	<Longitude>135.73333333333332</Longitude>\n	<Elevation>0</Elevation>\n	<MagneticDeclination>12</MagneticDeclination>\n	<Frequencies />\n	<Type>POD</Type>\n	<SignalCode />\n	<IsACP>true</IsACP>\n	<IsInOut>false</IsInOut>\n	<IsInOutCIS>false</IsInOutCIS>\n	<IsGateWay>false</IsGateWay>\n	<IsTransferPoint>false</IsTransferPoint>\n	<IsTransferPoint_ACP>false</IsTransferPoint_ACP>\n	<IsInARZ>false</IsInARZ>\n	<IsOutARZ>false</IsOutARZ>\n	<IsInRA>false</IsInRA>\n	<IsInAirway>false</IsInAirway>\n	<IsMvl>true</IsMvl>\n	<CorridorNumber />\n	<Height>0</Height>\n	<HeightAbs>0</HeightAbs>\n	<AirportType>Aerodrome</AirportType>\n	<AirportUsageType>Inner</AirportUsageType>\n	<AirportOwnerType>Military</AirportOwnerType>\n	<Class>C</Class>\n	<AftnAddr />\n	<CallLetter />\n	<WorkingTimeRange IsCancelled=\"false\" minlevel=\"M/M=0/FL=0/FWD\" maxlevel=\"M/M=16100/FL=528/FWD\">\n		<ObjectId>0</ObjectId>\n		<Id>0</Id>\n		<IntervalOfClosing>false</IntervalOfClosing>\n		<Reserv>false</Reserv>\n		<Kind>Always</Kind>\n		<Begin>2020-12-03T00:00:00Z</Begin>\n		<End>2021-01-03T00:00:00Z</End>\n		<TimeSpanRanges />\n		<Comment />\n		<Sources />\n	</WorkingTimeRange>\n	<Runways />\n</MapPoint>', '0', '46', 'second');
+(84099, 'MapPoint', '0', 'admin', '<?xml version="1.0" encoding="utf-16"?>
+<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="20" IsDeleted="false">
+	<ObjectId>6346</ObjectId>
+	<Id>84099</Id>
+	<LocalChange>true</LocalChange>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
+	<Code>УХНН</Code>
+	<CodeLat>UHNN</CodeLat>
+	<Name>НИКОЛАЕВСК-на-АМУРЕ</Name>
+	<NameLat>UHNN</NameLat>
+	<Names />
+	<NamesXml />
+	<Comment />
+	<BeginDate>0001-01-01T00:00:00</BeginDate>
+	<EndDate>0001-01-01T00:00:00</EndDate>
+	<ShowOnChart>true</ShowOnChart>
+	<Latitude>53.154166666666669</Latitude>
+	<Longitude>140.65111111111111</Longitude>
+	<Elevation>0</Elevation>
+	<MagneticDeclination>12.5</MagneticDeclination>
+	<Frequencies>124,0</Frequencies>
+	<Type>POD</Type>
+	<IsACP>true</IsACP>
+	<IsInOut>false</IsInOut>
+	<IsInOutCIS>false</IsInOutCIS>
+	<IsGateWay>false</IsGateWay>
+	<IsTransferPoint>false</IsTransferPoint>
+	<IsTransferPoint_ACP>false</IsTransferPoint_ACP>
+	<IsInAirway>false</IsInAirway>
+	<IsMvl>false</IsMvl>
+	<AirportType>Aerodrome</AirportType>
+	<AirportUsageType>Inner</AirportUsageType>
+	<AirportOwnerType>Military</AirportOwnerType>
+	<Class>C</Class>
+	<AftnAddr />
+	<CallLetter>Пробирка</CallLetter>
+	<WorkingTimeRange IsCancelled="false" minlevel="M/M=0/FL=0/FWD" maxlevel="M/M=16100/FL=528/FWD">
+		<ObjectId>0</ObjectId>
+		<Id>0</Id>
+		<IntervalOfClosing>false</IntervalOfClosing>
+		<Reserv>false</Reserv>
+		<Kind>Always</Kind>
+		<Begin>2020-12-03T00:00:00Z</Begin>
+		<End>2021-01-03T00:00:00Z</End>
+		<TimeSpanRanges />
+		<Comment />
+		<Sources />
+	</WorkingTimeRange>
+	<Runways />
+</MapPoint>', '0', '21', 'second') ,
+(84101, 'MapPoint', '0', 'admin', '<?xml version="1.0" encoding="utf-16"?>
+<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="45" IsDeleted="false">
+	<ObjectId>6348</ObjectId>
+	<Id>84101</Id>
+	<LocalChange>true</LocalChange>
+	<LastUpdate>2021-09-21T14:26:52</LastUpdate>
+	<Code>УХНН</Code>
+	<CodeLat>UHNN</CodeLat>
+	<Name>НИКОЛАЕВСК-на-АМУРЕ</Name>
+	<NameLat>UHNN</NameLat>
+	<Names />
+	<NamesXml />
+	<Comment />
+	<BeginDate>0001-01-01T00:00:00</BeginDate>
+	<EndDate>0001-01-01T00:00:00</EndDate>
+	<ShowOnChart>false</ShowOnChart>
+	<Latitude>48.31666666666667</Latitude>
+	<Longitude>135.73333333333332</Longitude>
+	<Elevation>0</Elevation>
+	<MagneticDeclination>12</MagneticDeclination>
+	<Frequencies></Frequencies>
+	<Type>POD</Type>
+	<IsACP>true</IsACP>
+	<IsInOut>false</IsInOut>
+	<IsInOutCIS>false</IsInOutCIS>
+	<IsGateWay>false</IsGateWay>
+	<IsTransferPoint>false</IsTransferPoint>
+	<IsTransferPoint_ACP>false</IsTransferPoint_ACP>
+	<IsInAirway>false</IsInAirway>
+	<IsMvl>true</IsMvl>
+	<AirportType>Aerodrome</AirportType>
+	<AirportUsageType>Inner</AirportUsageType>
+	<AirportOwnerType>Military</AirportOwnerType>
+	<Class>C</Class>
+	<AftnAddr />
+	<CallLetter />
+	<WorkingTimeRange IsCancelled="false" minlevel="M/M=0/FL=0/FWD" maxlevel="M/M=16100/FL=528/FWD">
+		<ObjectId>0</ObjectId>
+		<Id>0</Id>
+		<IntervalOfClosing>false</IntervalOfClosing>
+		<Reserv>false</Reserv>
+		<Kind>Always</Kind>
+		<Begin>2020-12-03T00:00:00Z</Begin>
+		<End>2021-01-03T00:00:00Z</End>
+		<TimeSpanRanges />
+		<Comment />
+		<Sources />
+	</WorkingTimeRange>
+	<Runways />
+</MapPoint>', '0', '46', 'second') ;
