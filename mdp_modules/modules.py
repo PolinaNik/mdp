@@ -3,9 +3,8 @@ import math
 
 import transliterate
 from shapely.geometry import Point
-from collections import defaultdict
 from itertools import groupby
-import config
+from mdp_modules import poly_settings
 
 
 # Поиск всех точек в файле ARINC
@@ -72,7 +71,7 @@ def data(points):
 
 
 # Полигон для Синтеза
-poly = config.poly_sintez
+poly = poly_settings.poly_sintez
 
 
 # Сравнение точек из файла ARINC с зоной полигона для СИНТЕЗА

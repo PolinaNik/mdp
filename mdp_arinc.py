@@ -1,16 +1,38 @@
+"""Скрипт для внесения новых точек из ARINC в базу данных.
+
+    Перед первым запуском нужно выполнить следующие шаги:
+    1) Перед запуском необходимо сформировать дамп таблицы tbl_guides.
+Дамп базы необходим для поиска всех id, во избежании формирвоания дупликатов при внесении новых точек.
+В справочнике Points.xml находятся только id для точек, в то время как в самой таблице, помимо
+точек, содержатся трассы, ограничения и прочее (и все содержат свои id).
+Команда для формирования дампа таблицы следующая:
+mysqldump -proot -uuser aftn_db tbl_guides > /path/to/save/
+
+    2) Сормировать актуальный справочник Points.xml в отдельную папку, которая не используется программой.
+И удалить Points.xml из рабочей директории _Debug/Data/Khabarovsk/Map/Points.xml
+Для формирования справочника выпольнить следующие шаги:
+    а) запустить программу mdp
+    б) Файл -> Управление данными -> Управление БД -> Сохранить текущие справочники в XML файлы
+    в) выйти из программы
+
+    3) Иметь файл ARINC для МВЛ трасс"""
+
 import xml.etree.ElementTree as ET
 import transliterate
 import datetime
-import modules
+from mdp_modules import modules
 import re
 import sys
 import pymysql.cursors
+import configparser
 
+config = configparser.ConfigParser()  # создаём объекта парсера
+config.read("config.ini")  # читаем конфиг
 
-connection = pymysql.connect(host='localhost',
-                             user='root',
-                             password='user',
-                             database='aftn_db',
+connection = pymysql.connect(host=config['db']['host'],
+                             user=config['db']['user'],
+                             password=config['db']['password'],
+                             database=config['db']['database'],
                              cursorclass=pymysql.cursors.DictCursor)
 
 # Работа с файлами
@@ -22,7 +44,6 @@ except:
     print('Неверно указан путь до ARINC с МВЛ трассами')
     sys.exit()
 
-
 file_points = input('Введите путь до Points.xml: ')
 
 try:
@@ -31,7 +52,6 @@ try:
 except:
     print('Неверно указан путь до Points.xml')
     sys.exit()
-
 
 file_guides = input('Введите путь до дампа таблицы tbl_guides.sql: ')
 
@@ -62,6 +82,7 @@ root = ET.fromstring(data)
 
 # Находим ключевые значения, такие как: version, code, codelat, name , namelat, lon, lat, magnetic declination, type
 names = []
+
 
 def try_except(xml, word):
     try:
@@ -113,7 +134,6 @@ for mappoint in root.findall('MapPoint'):
                IsTransferPoint,
                IsTransferPoint_ACP, IsInAirway, IsMvl, LocalChange, ShowOnChart, Frequencies]
         names.append(lst)
-
 
 POD_PDZ = []
 for x in names:
@@ -375,27 +395,26 @@ for num, item in enumerate(final_old):
         new_value = {point.id: [point_xml, 1 if item[0] is None else int(item[0]) + 1]}
         result_old.update(new_value)
 
-
 begin_query = "INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`, `isdeleted`, `version`, `arm_name`) VALUES "
 lst_values = []
 
 print('Формирование зароса SQL на добавление точек...')
 for key, value in result_old.items():
-    with open('draft.xml', 'w', encoding='utf-8') as draft:
+    with open('tmp_files/draft.xml', 'w', encoding='utf-8') as draft:
         for item in result_old[key][0]:
             for param in item:
                 draft.write(param)
-    with open('draft.xml', 'r', encoding='utf-8') as draft_read:
+    with open('tmp_files/draft.xml', 'r', encoding='utf-8') as draft_read:
         xml = draft_read.read()
         new_value = """(%s, 'MapPoint', '0', 'admin', '%s', '0', '%s', 'second') """ % (key, xml, result_old[key][1])
         lst_values.append(new_value)
 
 for key, value in result_new.items():
-    with open('draft.xml', 'w', encoding='utf-8') as draft:
+    with open('tmp_files/draft.xml', 'w', encoding='utf-8') as draft:
         for item in result_new[key][0]:
             for param in item:
                 draft.write(param)
-    with open('draft.xml', 'r', encoding='utf-8') as draft_read:
+    with open('tmp_files/draft.xml', 'r', encoding='utf-8') as draft_read:
         xml = draft_read.read()
         new_value = """(%s, 'MapPoint', '0', 'admin', '%s', '0', '%s', 'second') """ % (key, xml, result_new[key][1])
         lst_values.append(new_value)
@@ -406,12 +425,16 @@ full_query = begin_query + body_query + ';'
 with open('new_query.sql', 'w', encoding='utf-8') as new_sql:
     new_sql.write(full_query)
 
+print('Запросы в БД new_query.sql сформирован')
+permission = input('Удалить точки из базы и добавить новые? Y/N :')
 
-with connection:
-    with connection.cursor() as cursor:
-        # Create a new record
-        sql = "DELETE FROM tbl_guides WHERE code='MapPoint'"
-        cursor.execute(sql)
-        cursor.execute(full_query)
-
-print('Скрипт завершен. Запрос на добавление точек new_query.sql сформирован.')
+if permission == 'Y':
+    with connection:
+        with connection.cursor() as cursor:
+            # Create a new record
+            sql = "DELETE FROM tbl_guides WHERE code='MapPoint'"
+            cursor.execute(sql)
+            cursor.execute(full_query)
+            print('Скрипт завершен. Запросы выполнились.')
+else:
+    print('Скрипт завершен. Запросы в БД не выполнились.')
