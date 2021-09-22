@@ -1,7 +1,7 @@
 # mdp
 Версия python - 3.8
 
-Необходимые пакеты -> requiremnets.txt
+Необходимые пакеты -> requirements.txt
 
 # Установка
 1) Скачать репозиторий. В репозитории в папке parsing_files содержится версия ARINC на август 2021 года, дамп таблицы tbl_quides.sql и файл Points.xml.
