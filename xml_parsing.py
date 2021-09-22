@@ -2,16 +2,66 @@ import xml.etree.ElementTree as ET
 import transliterate
 import datetime
 import modules
+import re
+import sys
+import pymysql.cursors
 
-with open('Points.xml', 'r', encoding='utf-8') as file:
-    data = file.read()
 
-# Start parsing of XML file
+connection = pymysql.connect(host='localhost',
+                             user='root',
+                             password='user',
+                             database='aftn_db',
+                             cursorclass=pymysql.cursors.DictCursor)
+
+# Работа с файлами
+file_arinc = input('Введите путь до ARINC с МВЛ трассами: ')
+
+try:
+    text = open(file_arinc, 'r', encoding='utf-8').readlines()
+except:
+    print('Неверно указан путь до ARINC с МВЛ трассами')
+    sys.exit()
+
+
+file_points = input('Введите путь до Points.xml: ')
+
+try:
+    with open(file_points, 'r', encoding='utf-8') as file:
+        data = file.read()
+except:
+    print('Неверно указан путь до Points.xml')
+    sys.exit()
+
+
+file_guides = input('Введите путь до дампа таблицы tbl_guides.sql: ')
+
+try:
+    with open(file_guides, 'r', encoding='utf-8') as file:
+        guides = file.read()
+except:
+    print('Неверно указан путь до дампа таблицы tbl_guides.sql')
+    sys.exit()
+
+print('Начало работы скрипта...')
+print('Разбор дампа базы с целью нахождения максимального Id и ObjectId')
+pat_obj_id = re.compile(r'(?<=\<ObjectId>)\d+(?=\<\/ObjectId>)')
+pat_id = re.compile(r'(?<=\<Id>)\d+(?=\<\/Id>)')
+
+all_id = re.findall(pat_id, guides)
+all_obj_id = re.findall(pat_obj_id, guides)
+
+# Максимальные id
+max_id = max([int(item) for item in all_id])
+print(f'Максимальный Id - {max_id}')
+max_obj_id = max([int(item) for item in all_obj_id])
+print(f'Максимальный ObjectId - {max_obj_id}')
+
+# Начинаем парсить XML файл
+print('Разбор XML файла...')
 root = ET.fromstring(data)
 
-# Key values in XML file: version, code, codelat, name , namelat, lon, lat, magnetic declination, type
+# Находим ключевые значения, такие как: version, code, codelat, name , namelat, lon, lat, magnetic declination, type
 names = []
-
 
 def try_except(xml, word):
     try:
@@ -64,9 +114,7 @@ for mappoint in root.findall('MapPoint'):
                IsTransferPoint_ACP, IsInAirway, IsMvl, LocalChange, ShowOnChart, Frequencies]
         names.append(lst)
 
-# Opening ARINC file
-text = open('GKOVD_DV2108Bv15.txt', 'r',
-            encoding='utf-8').readlines()
+
 POD_PDZ = []
 for x in names:
     if x[6] == "POD" or x[6] == "PDZ":
@@ -74,6 +122,7 @@ for x in names:
             POD_PDZ.append(x)
 
 # finding all points
+print('Разбор ARINC...')
 all_points = list(modules.get_points(text))
 points = list(modules.get_data(all_points))
 points = list(modules.unique(points))
@@ -90,12 +139,19 @@ mdp_points = [item[1] for item in names]
 # getting names from arinc file and transliterate them into russian
 arinc_points = [transliterate.translit(item[0], 'ru') for item in rad_points]
 
+print('Нахождение общих точек')
 # finding common points in mdp and arinc
 common_points = [item for item in arinc_points if item in mdp_points]
+
+print('Нахождение точек из Points, которые не совпали c ARINC')
+# finding non common points
+non_common_points = [item for item in names if
+                     item[1] not in arinc_points and len(item[1]) == 5 and (item[6] == 'POD' or item[6] == 'PDZ')]
 
 # Common points with old parameters from XML file
 common_points_params = [item for item in names if item[1] in common_points]
 
+print('Присваивание общим точкам новых координат из ARINC')
 # Common points with old params and new coordinatse from arinc
 common_points_arinc = sorted([item for item in rad_points if transliterate.translit(item[0], 'ru') in common_points])
 
@@ -108,7 +164,7 @@ for x in common_points_arinc:
 
 common_points_params_sorted = sorted(common_points_params, key=lambda x: transliterate.translit(x[1], 'ru'))
 
-# New points from arinc file included in routes
+print('Нахождение новых 5-буквенных точек из ARINC')
 new_arinc_points = [item for item in rad_points if
                     transliterate.translit(item[0], 'ru') not in common_points and len(item[0]) == 5]
 
@@ -119,82 +175,75 @@ other_points = [item for item in names if item[1] not in common_points and item[
 first = [('Type', 'Code', 'CodeLat', 'Name', 'NameLat', 'Coord', 'MagDecl'
           , 'Elevation', 'H', 'Habs', 'Comment')]
 
-final_old = common_points_params + other_points + POD_PDZ
+final_old = common_points_params + other_points + POD_PDZ + non_common_points
 
 
 class FillXML:
 
-    def __init__(self, object_id, id, name, lat, lon):
+    def __init__(self, id, object_id, name, lat, lon):
         self.object_id = object_id
         self.id = id
         self.name = name
         self.lat = lat
         self.lon = lon
-        self.data1 = '\t<MapPoint Version="1" IsDeleted="false">\n'
-        self.data2 = '\t\t<ObjectId>%s</ObjectId>\n' % self.object_id
-        self.data3 = '\t\t<Id>%s</Id>\n' % self.id
-        self.data4 = '\t\t<LocalChange>false</LocalChange>\n'
-        self.data5 = '\t\t<LastUpdate>%s</LastUpdate>\n' % datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
-        self.data6 = '\t\t<Code>%s</Code>\n' % transliterate.translit(self.name, 'ru')
-        self.data7 = '\t\t<CodeLat>%s</CodeLat>\n' % self.name
-        self.data8 = '\t\t<Name>%s</Name>\n' % transliterate.translit(self.name, 'ru')
-        self.data9 = '\t\t<NameLat>%s</NameLat>\n' % self.name
-        self.data10 = '\t\t<Names />\n'
-        self.data11 = '\t\t<NamesXml />\n'
-        self.data12 = '\t\t<Comment />\n'
-        self.data13 = '\t\t<BeginDate>0001-01-01T00:00:00Z</BeginDate>\n'
-        self.data14 = '\t\t<EndDate>0001-01-01T00:00:00Z</EndDate>\n'
-        self.data15 = '\t\t<ShowOnChart>true</ShowOnChart>\n'
-        self.data16 = '\t\t<Latitude>%s</Latitude>\n' % self.lat
-        self.data17 = '\t\t<Longitude>%s</Longitude>\n' % self.lon
-        self.data18 = '\t\t<Elevation>0</Elevation>\n'
-        self.data19 = '\t\t<MagneticDeclination>0</MagneticDeclination>\n'
-        self.data20 = '\t\t<Frequencies />\n'
-        self.data21 = '\t\t<Type>PDZ</Type>\n'
-        self.data22 = '\t\t<IsACP>false</IsACP>\n'
-        self.data23 = '\t\t<IsInOut>false</IsInOut>\n'
-        self.data24 = '\t\t<IsInOutCIS>false</IsInOutCIS>\n'
-        self.data25 = '\t\t<IsGateWay>false</IsGateWay>\n'
-        self.data26 = '\t\t<IsTransferPoint>false</IsTransferPoint>\n'
-        self.data27 = '\t\t<IsTransferPoint_ACP>false</IsTransferPoint_ACP>\n'
-        self.data28 = '\t\t<IsInAirway>false</IsInAirway>\n'
-        self.data29 = '\t\t<IsMvl>true</IsMvl>\n'
-        self.data30 = '\t\t<AirportType>Airport</AirportType>\n'
-        self.data31 = '\t\t<AirportUsageType>NotDefined</AirportUsageType>\n'
-        self.data32 = '\t\t<AirportOwnerType>NotDefined</AirportOwnerType>\n'
-        self.data33 = '\t\t<Class>Unknown</Class>\n'
-        self.data34 = '\t\t<AftnAddr />\n'
-        self.data35 = '\t\t<CallLetter />\n'
-        self.data36 = '\t\t<WorkingTimeRange IsCancelled="false" minlevel="M/M=0/FL=0/FWD" maxlevel="M/M=16100/FL=528/FWD">\n'
-        self.data37 = '\t\t\t<ObjectId>0</ObjectId>\n'
-        self.data38 = '\t\t\t<Id>0</Id>\n'
-        self.data39 = '\t\t\t<IntervalOfClosing>false</IntervalOfClosing>\n'
-        self.data40 = '\t\t\t<Reserv>false</Reserv>\n'
-        self.data41 = '\t\t\t<Kind>Always</Kind>\n'
-        self.data42 = '\t\t\t<Begin>%s</Begin>\n' % datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
-        self.data43 = '\t\t\t<End>%s</End>\n' % datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
-        self.data44 = '\t\t\t<TimeSpanRanges />\n'
-        self.data45 = '\t\t\t<Comment />\n'
-        self.data46 = '\t\t\t<Sources />\n'
-        self.data47 = '\t\t</WorkingTimeRange>\n'
-        self.data48 = '\t\t<Runways />\n'
-        self.data49 = '\t</MapPoint>\n'
+        self.sample = f"""<?xml version="1.0" encoding="utf-16"?>
+<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1" IsDeleted="false">
+    <ObjectId>{self.object_id}</ObjectId>
+    <Id>{self.id}</Id>
+    <LocalChange>true</LocalChange>
+    <LastUpdate>{datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")}</LastUpdate>
+    <Code>{transliterate.translit(self.name, 'ru')}</Code>
+    <CodeLat>{self.name}</CodeLat>
+    <Name>{transliterate.translit(self.name, 'ru')}</Name>
+    <NameLat>{self.name}</NameLat>
+    <Names />
+    <NamesXml />
+    <Comment />
+    <BeginDate>0001-01-01T00:00:00</BeginDate>
+    <EndDate>0001-01-01T00:00:00</EndDate>
+    <ShowOnChart>true</ShowOnChart>
+    <Latitude>{self.lat}</Latitude>
+    <Longitude>{self.lon}</Longitude>
+    <Elevation>0</Elevation>
+    <MagneticDeclination>0</MagneticDeclination>
+    <Frequencies />
+    <Type>PDZ</Type>
+    <IsACP>false</IsACP>
+    <IsInOut>false</IsInOut>
+    <IsInOutCIS>false</IsInOutCIS>
+    <IsGateWay>false</IsGateWay>
+    <IsTransferPoint>false</IsTransferPoint>
+    <IsTransferPoint_ACP>false</IsTransferPoint_ACP>
+    <IsInAirway>false</IsInAirway>
+    <IsMvl>true</IsMvl>
+    <AirportType>Aerodrome</AirportType>
+    <AirportUsageType>NotDefined</AirportUsageType>
+    <AirportOwnerType>NotDefined</AirportOwnerType>
+    <Class>Unknown</Class>
+    <AftnAddr />
+    <CallLetter />
+    <WorkingTimeRange IsCancelled="false" minlevel="M/M=0/FL=0/FWD" maxlevel="M/M=16100/FL=528/FWD">
+        <ObjectId>0</ObjectId>
+        <Id>0</Id>
+        <IntervalOfClosing>false</IntervalOfClosing>
+        <Reserv>false</Reserv>
+        <Kind>Always</Kind>
+        <Begin>2020-12-03T00:00:00Z</Begin>
+        <End>2021-01-03T00:00:00Z</End>
+        <TimeSpanRanges />
+        <Comment />
+        <Sources />
+        </WorkingTimeRange>
+        <Runways />
+        </MapPoint>"""
 
-    def make_list(self):
-        self.data_list = [self.data1, self.data2, self.data3, self.data4, self.data5, self.data6, self.data7,
-                          self.data8, self.data9, self.data10, self.data11, self.data12, self.data13, self.data14,
-                          self.data15, self.data16, self.data17, self.data18, self.data19, self.data20, self.data21,
-                          self.data22, self.data23, self.data24, self.data25, self.data26, self.data27, self.data28,
-                          self.data29, self.data30, self.data31, self.data32, self.data33, self.data34, self.data35,
-                          self.data36, self.data37, self.data38, self.data39, self.data40, self.data41, self.data42,
-                          self.data43, self.data44, self.data45, self.data46, self.data47,
-                          self.data48, self.data49]
-        return self.data_list
+    def new(self):
+        return self.sample
 
 
 class FamiliarNames:
 
-    def __init__(self, lst, num):
+    def __init__(self, lst):
         self.lst = lst
         version = lst[0] if lst[0] is not None else '0'
         code = lst[1]
@@ -230,8 +279,8 @@ class FamiliarNames:
         Frequencies = lst[26] if lst[26] is not None else ""
         self.data0 = '<?xml version="1.0" encoding="utf-16"?>\n'
         self.data2 = f"""<MapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="{version}" IsDeleted="false">\n"""
-        self.data3 = f'\t<ObjectId>{num}</ObjectId>\n'
-        self.data4 = f'\t<Id>{num}</Id>\n'
+        self.data3 = f'\t<ObjectId>{new_obj_id}</ObjectId>\n'
+        self.data4 = f'\t<Id>{new_id}</Id>\n'
         self.data5 = f'\t<LocalChange>{LocalChange}</LocalChange>\n'
         self.data6 = f'\t<LastUpdate>{datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S")}</LastUpdate>\n'
         self.data7 = f'\t<Code>{code}</Code>\n'
@@ -307,39 +356,30 @@ class FamiliarNames:
         return self.data_list
 
 
-result_new = []
+print('Составление списка с новыми точками...')
+result_new = {}
 for num, item in enumerate(new_arinc_points):
-    real_num = num + 1
-    point = FillXML(real_num, real_num, item[0], item[1], item[2])
-    point_xml = point.make_list()
-    result_new.append(point_xml)
+    new_id = num + max_id + 1
+    new_obj_id = num + max_obj_id + 1
+    point = FillXML(new_id, new_obj_id, item[0], item[1], item[2])
+    point_xml = point.new()
+    new_value = {new_id: [point_xml, 1]}
+    result_new.update(new_value)
 
-length = len(result_new)
-
+print('Составление списка со старыми точками...')
 result_old = {}
-count = length
 for num, item in enumerate(final_old):
-    real_num = num + length
     if item[14] and item[15] is not None:
-        point = FamiliarNames(item, real_num)
+        point = FamiliarNames(item)
         point_xml = point.change_ID()
         new_value = {point.id: [point_xml, 1 if item[0] is None else int(item[0]) + 1]}
         result_old.update(new_value)
 
-result = result_new
-
-with open('result.xml', 'w', encoding='utf-8') as output:
-    output.write('\ufeff<?xml version="1.0" encoding="utf-16"?>\n')
-    output.write(
-        '<ArrayOfMapPoint xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">\n')
-    for point in result:
-        for item in point:
-            output.write(item)
-    output.write('</ArrayOfMapPoint>')
 
 begin_query = "INSERT INTO `tbl_guides` (`guides_id`, `code`, `is_backup`, `user`, `xml_value`, `isdeleted`, `version`, `arm_name`) VALUES "
 lst_values = []
 
+print('Формирование зароса SQL на добавление точек...')
 for key, value in result_old.items():
     with open('draft.xml', 'w', encoding='utf-8') as draft:
         for item in result_old[key][0]:
@@ -350,8 +390,28 @@ for key, value in result_old.items():
         new_value = """(%s, 'MapPoint', '0', 'admin', '%s', '0', '%s', 'second') """ % (key, xml, result_old[key][1])
         lst_values.append(new_value)
 
+for key, value in result_new.items():
+    with open('draft.xml', 'w', encoding='utf-8') as draft:
+        for item in result_new[key][0]:
+            for param in item:
+                draft.write(param)
+    with open('draft.xml', 'r', encoding='utf-8') as draft_read:
+        xml = draft_read.read()
+        new_value = """(%s, 'MapPoint', '0', 'admin', '%s', '0', '%s', 'second') """ % (key, xml, result_new[key][1])
+        lst_values.append(new_value)
+
 body_query = ',\n'.join(lst_values)
 full_query = begin_query + body_query + ';'
 
-with open('query_old.sql', 'w', encoding='cp1251') as sql:
-    sql.write(full_query)
+with open('new_query.sql', 'w', encoding='utf-8') as new_sql:
+    new_sql.write(full_query)
+
+
+with connection:
+    with connection.cursor() as cursor:
+        # Create a new record
+        sql = "DELETE FROM tbl_guides WHERE code='MapPoint'"
+        cursor.execute(sql)
+        cursor.execute(full_query)
+
+print('Скрипт завершен. Запрос на добавление точек new_query.sql сформирован.')
