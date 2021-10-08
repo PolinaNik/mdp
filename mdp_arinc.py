@@ -1,5 +1,6 @@
 """Скрипт для внесения новых точек из ARINC в базу данных """
 
+
 import xml.etree.ElementTree as ET
 import transliterate
 import datetime
